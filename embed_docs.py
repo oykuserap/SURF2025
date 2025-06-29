@@ -1,8 +1,11 @@
 from langchain_openai import OpenAIEmbeddings
-from langchain_community.vectorstores import Chroma
+from langchain_chroma import Chroma
 from langchain.schema import Document
 from pathlib import Path
 from settings import settings
+
+import os
+os.environ["CHROMA_TELEMETRY_ENABLED"] = "false"
 
 CHUNKS_PATH = Path("./chunks")
 
