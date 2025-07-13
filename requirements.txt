@@ -6,3 +6,7 @@ pypdf>=4.2.0
 fastapi>=0.111.0
 uvicorn[standard]>=0.29.0
 python-dotenv>=1.0.1
+boxsdk>=3.9.0
+langchain-openai>=0.1.0
+langchain-chroma>=0.1.0
+pydantic-settings>=2.0.0
