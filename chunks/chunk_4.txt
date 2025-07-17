@@ -1,42 +1,13 @@
 # Chunk 4
-# Source: Agendas_COR/Agenda_298.txt
-# Chunk 4 of 111
-# Size: 958 characters
+# Source: Agenda_298.txt
+# Date: None
+# Meeting Type: Landmark Commission Meeting
+# Keywords: 
+# Financial Impact: Not specified
+# Size: 213 characters
 
-https://dallascityhall.webex.com/dallascityhall/j.php?MTID=m65c8f7f637ed3de4aa587bab49ea6e16  
-
-
-
-                Individuals and interested parties wishing to speak must register with the Office of Historic Preservation by emailing  
-
-              Phyllis.hill@dallas.gov one hour prior to the meeting date start time.    
-
-
-
-                                                                          AGENDA  
-
-
-
-              I.       Call to Order                                                                        Evelyn Montgomery, Chair  
-
-
-
-              II.      Public Speakers 
-
-
-
-              III.     Approval of Minutes 
-
-
-
-                        -   August 5, 2024, regular meeting minutes 
-
-
-
-              IV.      Staff Reports/Briefings                                                              Historic Preservation  
-
-
-
-              V.       Briefing Items 
-
-                       -     Update on Designation Committee Activity
+AGENDA ITEM 1
+Meeting Date: None
+Meeting Type: Landmark Commission Meeting
+Item Type: regular
+Title: seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or any matter in

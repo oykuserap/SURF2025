@@ -1,18 +1,35 @@
 # Chunk 2
-# Source: Agendas_COR/Agenda_298.txt
-# Chunk 2 of 111
-# Size: 835 characters
+# Source: Agenda_298.txt
+# Date: None
+# Meeting Type: Landmark Commission Meeting
+# Keywords: transportation, parks, infrastructure, zoning, housing, economic, budget, public_safety
+# Financial Impact: Not specified
+# Size: 987 characters
 
-access to services and resources to ensure an equitable and inclusive meeting. Anyone requiring auxiliary aid, service, and/or  
-
-              translation to fully participate in the meeting should notify the Board Coordinator by calling (214) 670-4206 or TTY (800) 735-2989,  
-
-              at least seventy-two (72) hours (3 days) in advance of the scheduled meeting. A video stream of the meeting will be available two  
-
-              business days after adjournment by visiting https://dallascityhall.com/government/Pages/Live.aspx.  
-
-
-
-              La Ciudad de Dallas llevará a cabo "Adaptaciones Razonables" a los programas y/u otras actividades relacionadas para garantizar  
-
-              que todos y cada uno de los residentes tengan acceso a los servicios y recursos para garantizar una reunión equitativa e inclusiva.
+Keywords: public_safety
+- 1: 702 N GLASGOW DR Request:
+- 2: 710 HUNTLEY ST Request:
+- 3: 4605 SYCAMORE ST Request:
+- 4: 4826 SWISS AVE Request:
+- 5: 2409 PARK ROW AVE Request:
+  Keywords: parks
+- 6: 6033 BRYAN PKWY Request:
+- 7: 209 N CLINTON AVE Request:
+- 8: 209 N CLINTON AVE Request:
+- 9: 106 S WILLOMET AVE Request:
+- 1: 6116 REIGER AVE Request:
+- 1: The Task Force was in favor of the restoration (not
+- 2: The applicant should also be prepared to explain the
+- 2: 2706 HIBERNIA ST Request:
+- 3: 1109 E 11TH ST Request:
+- 1: Building should have four exterior doors for safe egress.
+- 2: Front porch should have four porch columns not three.
+- 3: Replace goose neck exterior lighting with Craftsman
+- 4: Double windows should be paired with a shared
+- 5: Exterior front doors should be Craftsman style.
+- 4: 1510 W JEFFERSON BLVD Request:
+- 1: 704 LOWELL ST Request:
+- 2: 5406 JUNIUS ST Request:
+- 3: 5406 JUNIUS ST Request:
+- 4: 1000 N PEAK ST Request:
+- 5: 1020 E 9TH ST Request:

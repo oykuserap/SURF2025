@@ -62,7 +62,8 @@ class DocumentChatbot:
             
             Use the following pieces of context to answer the question at the end. There is the dates provided in the Agendas so make sure to give answers including the dates as well.
             If you don't know the answer based on the context, just say that you don't know - don't make up an answer.
-            
+            Also, make sure to include the source documents in your answer. Specifically, include the original source file name.
+
             Context:
             {context}
             

@@ -1,26 +1,21 @@
 # Chunk 1
-# Source: Agendas_COR/Agenda_298.txt
-# Chunk 1 of 111
-# Size: 851 characters
+# Source: Agenda_298.txt
+# Date: None
+# Meeting Type: Landmark Commission Meeting
+# Keywords: transportation, parks, infrastructure, zoning, housing, economic, budget, public_safety
+# Financial Impact: Not specified
+# Size: 981 characters
 
-DALLAS,ALLAS,  TX  
-
-DALLAS. TEXAS                    September 3, 2024, Briefing at 9:30 A.M. and the Public Hearing at 1:00 P.M.  
-
-                                        Dallas City Hall, 6ES Council Briefing Room and Videoconference  
-
-
-
-                                            Video Conference: (24810503935@dallascityhall.webex.com)  
-
-
-
-                                              Telephone: (408) 418-9388, Access Code: 248 105 03935  
-
-                                  Password: SeptLMC24 (73785622 when dialing from a phone or video system)  
-
-
-
-              The City of Dallas will make “Reasonable Accommodations” to programs and/or other related activities to ensure all residents have  
-
-              access to services and resources to ensure an equitable and inclusive meeting. Anyone requiring auxiliary aid, service, and/or
+AGENDA ITEMS:
+- 1: seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or any matter in
+- 2: deliberating the purchase, exchange, lease, or value of real property if deliberation in an open meeting would
+- 3: deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in an open meeting
+- 4: deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal of a public
+- 5: deliberating the deployment, or specific occasions for implementation, of security personnel or devices. [Tex.
+  Keywords: public_safety
+- 6: discussing or deliberating commercial or financial information that the city has received from a business prospect
+  Keywords: economic, budget
+- 7: deliberating security assessments or deployments relating to information resources technology, network security
+  Keywords: public_safety
+- 1: 702 N GLASGOW DR Request:
+- 2: 710 HUNTLEY ST Request:

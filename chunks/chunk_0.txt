@@ -1,26 +1,13 @@
 # Chunk 0
-# Source: Agendas_COR/Agenda_298.txt
-# Chunk 0 of 111
-# Size: 916 characters
+# Source: Agenda_298.txt
+# Date: None
+# Meeting Type: Landmark Commission Meeting
+# Keywords: transportation, parks, infrastructure, zoning, housing, economic, budget, public_safety
+# Financial Impact: Not specified
+# Size: 183 characters
 
-﻿----------------------- Page 1-----------------------
-
- RECEIVED                                                                                                             Puf,fic Notice  
-
-
-
-2024         AUG  29  PH 12:04                                                                                              2  4  0  7  9  8 
-
-
-
-                                                                LANDMARK COMMISSION  
-
-              .,                                                   REGULAR MEETING                                                    CITY SECRETARY 
-
-CIT Y  e;:··1  nrT"  RY  
-
-      1  ...,,c.  viC.\   Ar  
-
-                                                                                                                     POSTED  
-
-                                                                                                                                        DALLAS,ALLAS,  TX
+MEETING SUMMARY
+Date: None
+Type: Landmark Commission Meeting
+Total Agenda Items: 40
+Key Topics: transportation, parks, infrastructure, zoning, housing, economic, budget, public_safety

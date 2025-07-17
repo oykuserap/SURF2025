@@ -10,3 +10,4 @@ boxsdk>=3.9.0
 langchain-openai>=0.1.0
 langchain-chroma>=0.1.0
 pydantic-settings>=2.0.0
+streamlit>=1.28.0
