@@ -155,11 +155,16 @@ class AgendaChatbot:
             Based on the provided context from agenda summaries and structured data, provide accurate and helpful responses.
             If the information isn't available in the context, say so clearly.
             
+            RESPONSE STYLE GUIDELINES:
+            - For simple, direct questions (like dates, names, basic facts): Provide concise, focused answers
+            - For complex analysis or multiple topics: Provide detailed explanations
+            - Always be clear and direct - avoid unnecessary elaboration for straightforward queries
+            
             IMPORTANT: When referencing information, always mention the specific agenda number and source file name 
             (e.g., "According to Agenda 10 (Agenda_10.txt)..." or "As shown in Agenda 150 (Agenda_150.txt)...").
             This helps users trace back to the original documents.
             
-            Focus on being helpful, accurate, and citing specific agenda numbers and file names when referencing information."""
+            Focus on being helpful, accurate, and appropriately concise while citing specific agenda numbers and file names when referencing information."""
             
             user_prompt = f"""
 User Question: {query}
@@ -167,7 +172,10 @@ User Question: {query}
 Context from Agenda Database:
 {context}
 
-Please provide a comprehensive answer based on the available information. If you reference specific agendas, mention the agenda numbers.
+Please provide an appropriate response based on the available information. 
+- If this is a simple, factual question, be concise and direct
+- If this requires analysis or covers multiple topics, provide more detail
+- Always mention specific agenda numbers when referencing information
 """
             
             response = self.client.chat.completions.create(
@@ -328,27 +336,72 @@ def main():
     st.markdown("---")
     
     # Example queries
-    with st.expander("💡 Example Questions"):
+    with st.expander("💡 Example Questions by Category"):
+        st.markdown("### 📅 Meeting Logistics - Timing & Scheduling")
         st.markdown("""
         - What meetings were held in March 2025?
+        - Which committees met most frequently this quarter?
+        """)
+        
+        st.markdown("### 📋 Meeting Content Questions - Summarization & Topics")
+        st.markdown("""
+        - What transportation projects were discussed recently?
+        - Summarize the main topics from the last city council meeting
+        """)
+        
+        st.markdown("### 📊 Summarize Themes Across Meetings - Trend Analysis")
+        st.markdown("""
+        - What are the recurring themes in landmark commission meetings?
+        - How have zoning discussions evolved over the past month?
+        """)
+        
+        st.markdown("### 💰 Finances and Budget")
+        st.markdown("""
         - Tell me about TIF district funding decisions
-        - What transportation projects were discussed?
-        - Show me meetings about budget approvals
-        - What are the recent landmark commission activities?
+        - What budget approvals were discussed in recent meetings?
+        """)
+        
+        st.markdown("### 🏙️ City Locations")
+        st.markdown("""
+        - What development projects are planned for downtown Dallas?
+        - Which neighborhoods were mentioned in recent planning meetings?
         """)
     
-    # Chat input
+    # Chat history in main area
+    if 'chat_history' not in st.session_state:
+        st.session_state.chat_history = []
+
+    # Always show the input field
     user_query = st.text_input(
         "Ask a question about Dallas city agendas:",
-        placeholder="e.g., What transportation projects were discussed recently?"
+        placeholder="e.g., What transportation projects were discussed recently?",
+        key="user_input"
     )
-    
+
+    # Add a clear chat button
+    col1, col2 = st.columns([1, 4])
+    with col1:
+        if st.button("🗑️ Clear Chat History"):
+            st.session_state.chat_history = []
+            st.rerun()
+
     if user_query:
         with st.spinner("🔍 Searching agenda database..."):
             result = chatbot.process_query(user_query)
-        
-        # Display timing information
-        timing = result["timing"]
+        # Add to chat history (most recent last)
+        st.session_state.chat_history.append({
+            'query': user_query,
+            'result': result
+        })
+        # Note: Input field will naturally clear after processing
+
+    # Display chat history (all Q&A)
+    for chat in st.session_state.chat_history:
+        st.markdown("---")
+        st.markdown(f"**🧑 You:** {chat['query']}")
+        st.markdown("### 🤖 Response")
+        st.markdown(chat['result']['response'])
+        timing = chat['result']['timing']
         col1, col2, col3, col4 = st.columns(4)
         with col1:
             st.metric("⏱️ Total Time", f"{timing['total_time']}s")
@@ -358,21 +411,14 @@ def main():
             st.metric("📝 Context", f"{timing['context_time']}s")
         with col4:
             st.metric("🤖 Response", f"{timing['response_time']}s")
-        
-        st.caption(f"Query processed at {result['timestamp']}")
-        
-        # Display response
-        st.markdown("### 🤖 Response")
-        st.markdown(result["response"])
-        
+        st.caption(f"Query processed at {chat['result']['timestamp']}")
+
         # Display detailed source information
-        if result["source_files"]:
+        if chat['result']["source_files"]:
             st.markdown("### 📚 Sources & Original Files")
-            
-            for i, source in enumerate(result["source_files"][:5], 1):  # Show top 5 sources
+            for i, source in enumerate(chat['result']["source_files"][:5], 1):
                 with st.expander(f"� **{source['source_file']}** (Agenda {source['agenda_number']})"):
                     col1, col2 = st.columns(2)
-                    
                     with col1:
                         st.markdown("**File Information:**")
                         st.write(f"• **Original File:** `{source['source_file']}`")
@@ -383,7 +429,6 @@ def main():
                             st.write(f"• **Meeting Type:** {source['meeting_type']}")
                         if source.get('organization'):
                             st.write(f"• **Organization:** {source['organization']}")
-                    
                     with col2:
                         st.markdown("**Relevance Scores:**")
                         if source['similarity_summary'] is not None:
@@ -391,26 +436,23 @@ def main():
                         if source['similarity_structured'] is not None:
                             st.write(f"• **Data Match:** {source['similarity_structured']:.3f}")
                         st.write(f"• **Found In:** {', '.join(source['found_in'])}")
-                        
-                        # Add download/view option
                         agenda_path = f"Agendas_COR/{source['source_file']}"
                         if Path(agenda_path).exists():
                             st.markdown(f"📁 [View Original File](#{source['source_file']})")
-        
+
         # Expandable detailed search results
         with st.expander("🔍 Detailed Search Results"):
-            if result["summary_results"]:
+            if chat['result']["summary_results"]:
                 st.markdown("**Summary Search Results:**")
-                for i, res in enumerate(result["summary_results"], 1):
+                for i, res in enumerate(chat['result']["summary_results"], 1):
                     meta = res["metadata"]
                     similarity = round(1 - res['distance'], 3) if res['distance'] is not None else 0.0
                     st.markdown(f"{i}. **{meta.get('source_file')}** (Agenda {meta.get('agenda_number')}) - Similarity: {similarity}")
                     with st.expander(f"Preview of {meta.get('source_file')}"):
                         st.text(res["document"][:500] + "..." if len(res["document"]) > 500 else res["document"])
-            
-            if result["json_results"]:
+            if chat['result']["json_results"]:
                 st.markdown("**Structured Data Results:**")
-                for i, res in enumerate(result["json_results"], 1):
+                for i, res in enumerate(chat['result']["json_results"], 1):
                     meta = res["metadata"]
                     similarity = round(1 - res['distance'], 3) if res['distance'] is not None else 0.0
                     st.markdown(f"{i}. **{meta.get('source_file')}** - {meta.get('meeting_type')} on {meta.get('meeting_date')} - Similarity: {similarity}")
