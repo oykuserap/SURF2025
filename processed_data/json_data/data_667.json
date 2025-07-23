@@ -1,0 +1,34 @@
+{
+  "agenda_number": 667,
+  "source_file": "Agenda_667.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 17, 2023",
+      "time": "10:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City Council",
+      "location": "Council Chambers, 6th Floor, 1500 Marilla Street, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "executive session",
+      "litigation",
+      "real property",
+      "contract",
+      "employment",
+      "security",
+      "financial information",
+      "economic development",
+      "incentives",
+      "technology"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 3416
+}

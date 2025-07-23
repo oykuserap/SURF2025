@@ -1,0 +1,108 @@
+{
+  "agenda_number": 627,
+  "source_file": "Agenda_627.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 14, 2023",
+      "time": "9:00 AM",
+      "type": "Workshop",
+      "organization": "City Plan Commission",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Andrea Gilles, AICP, Director",
+        "Ryan Mulkey, AICP, Planning Manager",
+        "Mohammad H. Bordbar, Subdivision Administrator",
+        "Daniel Moore, Assistant City Attorney",
+        "Baron Eliason, Chief Integrity Officer",
+        "James Armstrong, President and CEO",
+        "Michael V. Pepe, Senior Project Coordinator",
+        "Andreea Udrea, PhD, AICP, Assistant Director",
+        "Jennifer Munoz, Chief Planner"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Welcome",
+        "description": "Introduction by Andrea Gilles, AICP, Director of Planning and Urban Design.",
+        "presenter": "Andrea Gilles, AICP, Director",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "2",
+        "title": "New City Plan Commission Orientation & Refresher",
+        "description": "Orientation session led by Ryan Mulkey, AICP, Planning Manager.",
+        "presenter": "Ryan Mulkey, AICP, Planning Manager",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Subdivision Platting Process and Street Name Change Process/Ceremonial Street Name",
+        "description": "Overview of the subdivision platting process and street name changes.",
+        "presenter": "Mohammad H. Bordbar, Subdivision Administrator",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "4",
+        "title": "Code of Ethics and Rules for City Officials",
+        "description": "Discussion on the code of ethics and rules applicable to city officials.",
+        "presenter": "Daniel Moore, Assistant City Attorney",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "5",
+        "title": "Keynote Speaker",
+        "description": "Presentation by James Armstrong, President and CEO of Builders of Hope.",
+        "presenter": "James Armstrong, President and CEO",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "6",
+        "title": "Mixed Income Housing Development Bonus",
+        "description": "Discussion on the mixed income housing development bonus.",
+        "presenter": "Michael V. Pepe, Senior Project Coordinator",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "7",
+        "title": "City Plan Commission Annual Report FY22-23 Overview",
+        "description": "Overview of the annual report and discussion on the mission statement.",
+        "presenter": "Andreea Udrea, PhD, AICP, Assistant Director",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "8",
+        "title": "Overview of New Process Management System - Accela",
+        "description": "Presentation on the new process management system.",
+        "presenter": "Jennifer Munoz, Chief Planner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "9",
+        "title": "Adjournment",
+        "description": "Closing of the meeting.",
+        "presenter": null,
+        "action_required": "adjourn"
+      }
+    ],
+    "keywords": [
+      "City Plan Commission",
+      "Workshop",
+      "Subdivision Platting",
+      "Street Name Change",
+      "Code of Ethics",
+      "Mixed Income Housing",
+      "Annual Report",
+      "Process Management",
+      "Orientation",
+      "Keynote Speaker"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 19624
+}

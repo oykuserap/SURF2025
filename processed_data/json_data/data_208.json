@@ -1,0 +1,34 @@
+{
+  "agenda_number": 208,
+  "source_file": "Agenda_208.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 7, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Housing and Homelessness Solutions Committee",
+      "location": "Council Chambers, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "Housing",
+      "Homelessness",
+      "Solutions",
+      "Committee",
+      "Dallas",
+      "City Hall",
+      "Meeting",
+      "Cancelled",
+      "Executive Session",
+      "Texas Open Meetings Act"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 5142
+}

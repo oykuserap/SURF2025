@@ -1,0 +1,92 @@
+{
+  "agenda_number": 619,
+  "source_file": "Agenda_619.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 21, 2023",
+      "time": "3:00 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Maple/Mockingbird TIF District Board of Directors",
+      "location": "Dallas City Hall, 6DN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Leslyn Blake, District Manager, Office of Economic Development",
+        "Kristian Teleki, Senior Vice President, Matthews Southwest"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to order",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Public comments pertaining to agenda items 3 through 6",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Review and consideration of the Meeting Record of the September 21, 2023 Maple/Mockingbird TIF District Board Meeting",
+        "description": null,
+        "presenter": "Leslyn Blake, District Manager, Office of Economic Development",
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "4",
+        "title": "Review and consideration of the Maple/Mockingbird TIF District Annual Report for FY 2022-2023",
+        "description": null,
+        "presenter": "Leslyn Blake, District Manager, Office of Economic Development",
+        "action_required": "Approval and forward a recommendation of approval to City Council"
+      },
+      {
+        "item_number": "5",
+        "title": "Review and consideration of a regular meeting schedule for the Maple/Mockingbird TIF District Board of Directors for calendar year 2024",
+        "description": null,
+        "presenter": null,
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "6",
+        "title": "Receive informational update on the Oak Lawn Place Project at 5717-5725 Sadler Circle",
+        "description": null,
+        "presenter": "Kristian Teleki, Senior Vice President, Matthews Southwest",
+        "action_required": "None"
+      },
+      {
+        "item_number": "7",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Maple/Mockingbird TIF District",
+      "Dallas City Hall",
+      "Economic Development",
+      "Annual Report",
+      "Meeting Record",
+      "Regular Meeting Schedule",
+      "Oak Lawn Place Project",
+      "Public Comments",
+      "Approval",
+      "City Council",
+      "Videoconference",
+      "Equity & Inclusion",
+      "Auxiliary Aid",
+      "Executive Session",
+      "Financial Information"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12056
+}

@@ -1,0 +1,137 @@
+{
+  "agenda_number": 588,
+  "source_file": "Agenda_588.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 22, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Housing and Homelessness Solutions Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Moreno",
+      "presenters": [
+        "Thor Erickson",
+        "Dionne Roberts",
+        "Christine Crossley",
+        "Sarah Kahn",
+        "Matt Roberts",
+        "David Kemp",
+        "Troy Broussard",
+        "Darwin Wade",
+        "Albert Gonzalez",
+        "Aaron Eaquinto"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "Approval of December 12, 2023, Housing and Homelessness Solutions Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B",
+        "title": "Approval of December 19, 2023, Special Called Housing and Homelessness Solutions Committee Meeting Minutes",
+        "description": "Approval of the minutes from the special called meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "C",
+        "title": "Dallas Housing Policy 2033 Implementation Update",
+        "description": "Update on the implementation of the Dallas Housing Policy 2033.",
+        "presenter": "Thor Erickson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "R.E.A.L. Time Rehousing: Substantial Amendment No. 1 to the FY 2023-24 Action Plan for HOME Update",
+        "description": "Discussion on the substantial amendment to the action plan.",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "North Texas Behavioral Health Authority and Regional Behavioral Health Hospitals",
+        "description": "Discussion on the North Texas Behavioral Health Authority.",
+        "presenter": "Matt Roberts",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Dallas Housing Authority - January 2024 Report",
+        "description": "Report from the Dallas Housing Authority.",
+        "presenter": "Troy Broussard",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Office of Homeless Solutions - Continuum of Care Shelter Beds Program Update",
+        "description": "Update on the Continuum of Care Shelter Beds Program.",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Office of Homeless Solutions - Continuum of Care Investments Update",
+        "description": "Update on investments related to the Continuum of Care.",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Urban Land Bank Demonstration Program Plan Fiscal Year 2023-2024 60-day comment period",
+        "description": "Discussion on the Urban Land Bank Demonstration Program.",
+        "presenter": "Darwin Wade",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "Development Program Policy Update - Proposed Amendment to the Dallas Housing Resource Catalog Land Transfer Program",
+        "description": "Discussion on proposed amendments to the Land Transfer Program.",
+        "presenter": "Darwin Wade",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Housing",
+      "Homelessness",
+      "Dallas",
+      "Committee",
+      "Meeting Minutes",
+      "Policy Update",
+      "Behavioral Health",
+      "Continuum of Care",
+      "Investments",
+      "Urban Land Bank",
+      "Development Program",
+      "Action Plan",
+      "Outreach Services",
+      "CDBG Funds",
+      "Low Income Housing Tax Credit"
+    ],
+    "financial_items": [
+      {
+        "description": "Contract with Housing Forward for outreach services enhancing the RTR Project",
+        "amount": "$2,354,314.00",
+        "type": "funding"
+      },
+      {
+        "description": "Reprogram unspent FY 2022-23 CDBG funds",
+        "amount": "$4,500,000.00",
+        "type": "budget"
+      },
+      {
+        "description": "Increase in CDBG-DR funds for development loan agreement",
+        "amount": "$3,087,427.00",
+        "type": "funding"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 33661
+}

@@ -1,0 +1,34 @@
+{
+  "agenda_number": 697,
+  "source_file": "Agenda_697.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 2, 2023",
+      "time": "12:00 PM",
+      "type": "Briefing Agenda",
+      "organization": "Dallas Area Partnership to End and Prevent Homelessness",
+      "location": "City Hall, 6ES, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "Dallas",
+      "Homelessness",
+      "Executive Session",
+      "City Council",
+      "Real Property",
+      "Litigation",
+      "Public Officer",
+      "Employment",
+      "Economic Development",
+      "Security"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 4158
+}

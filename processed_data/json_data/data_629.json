@@ -1,0 +1,89 @@
+{
+  "agenda_number": 629,
+  "source_file": "Agenda_629.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 13, 2023",
+      "time": "10:30 A.M. and 1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Board of Adjustment (Panel B)",
+      "location": "Dallas City Hall, 6ES, and Videoconference"
+    },
+    "attendees": {
+      "chair": "Cherri Gambow, Vice-Chair",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Cherri Gambow, Vice-Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Staff Presentation/Briefing",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Public Hearing",
+        "description": "Board of Adjustment",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Public Testimony",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Miscellaneous Items",
+        "description": "Approval of 2022-2023 BOA Annual Report and Approval of Panel B Minutes – November 15th, 2023",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Case Docket",
+        "description": "Uncontested Items, Holdover Items, Individual Items",
+        "presenter": "Board of Adjustment",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Board of Adjustment",
+      "Public Hearing",
+      "Miscellaneous Items",
+      "Annual Report",
+      "Minutes Approval",
+      "Case Docket",
+      "Variance",
+      "Setback Regulations",
+      "Special Exception",
+      "Electrical Meter",
+      "Lot Coverage",
+      "Public Testimony",
+      "Executive Session",
+      "Handgun Prohibition"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 15072
+}

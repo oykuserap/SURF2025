@@ -1,0 +1,67 @@
+{
+  "agenda_number": 428,
+  "source_file": "Agenda_428.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 9, 2024",
+      "time": "3:00 PM",
+      "type": "Ad Hoc Committee Meeting",
+      "organization": "City Council Ad Hoc Committee on Pensions",
+      "location": "City Council Chambers, Floor 6, City Hall, Dallas, Texas; Virtual attendance available"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Atkins",
+        "Mendelsohn"
+      ],
+      "participants": [
+        "Narvaez",
+        "Moreno",
+        "Stewart",
+        "West",
+        "Ridley",
+        "Bazaldua",
+        "Blackmon",
+        "Resendez",
+        "Willis"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the April 11, 2024 Ad Hoc Committee on Pensions Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": "Atkins",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Dallas Police and Fire Pension System: Funding Soundness Restoration Plan Update and Consider Recommendations",
+        "description": "Presentation on the funding soundness restoration plan and recommendations for the Dallas Police and Fire Pension System.",
+        "presenter": "Mendelsohn",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Pensions",
+      "City Council",
+      "Ad Hoc Committee",
+      "Funding",
+      "Police",
+      "Fire",
+      "Restoration Plan",
+      "Minutes",
+      "Recommendations",
+      "Virtual Meeting",
+      "City Hall",
+      "Executive Session",
+      "Public Participation",
+      "Broadcast"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18356
+}

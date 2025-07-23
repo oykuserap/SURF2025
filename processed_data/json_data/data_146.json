@@ -1,0 +1,145 @@
+{
+  "agenda_number": 146,
+  "source_file": "Agenda_146.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 17, 2024",
+      "time": "12:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Dallas Public Facility Corporation",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference, 1500 Marilla Street, Dallas, TX 75201"
+    },
+    "attendees": {
+      "chair": "Keith Pomykal",
+      "presenters": [
+        "Keith Pomykal",
+        "Samuel McDaniel",
+        "Sam McDaniel",
+        "Jake Brown",
+        "Summer Greathouse",
+        "Alan Tallis",
+        "Victor Toledo",
+        "Kevin Winters"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the Board President.",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Roll Call",
+        "description": "Attendance check by the Assistant General Manager.",
+        "presenter": "Samuel McDaniel",
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Public Testimony",
+        "description": "Public comments on agenda items 4-13.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Community Announcements",
+        "description": "Announcements relevant to the community.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "5",
+        "title": "Approval of Minutes",
+        "description": "Discussion and approval of the minutes from previous meetings.",
+        "presenter": "Keith Pomykal",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Ethics Disclosures",
+        "description": "Disclosure of relationships by Board members regarding agenda items.",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      },
+      {
+        "item_number": "7",
+        "title": "Discussion on Security and Fencing",
+        "description": "Discussion regarding security measures for a specific property.",
+        "presenter": "Sam McDaniel; Jake Brown",
+        "action_required": null
+      },
+      {
+        "item_number": "8",
+        "title": "DPFC Board Appointment Procedures",
+        "description": "Briefing on appointment procedures and governance.",
+        "presenter": "Summer Greathouse",
+        "action_required": null
+      },
+      {
+        "item_number": "9",
+        "title": "Property Monitoring Procedures",
+        "description": "Briefing on monitoring procedures for DPFC-owned properties.",
+        "presenter": "Sam McDaniel; Alan Tallis",
+        "action_required": null
+      },
+      {
+        "item_number": "10",
+        "title": "2024 DPFC Annual Report",
+        "description": "Discussion and review of the annual report.",
+        "presenter": "Sam McDaniel; Keith Pomykal",
+        "action_required": null
+      },
+      {
+        "item_number": "11",
+        "title": "DPFC Website Briefing",
+        "description": "Discussion regarding the DPFC website.",
+        "presenter": "Sam McDaniel; Kevin Winters",
+        "action_required": null
+      },
+      {
+        "item_number": "12",
+        "title": "Staff Hiring Committee Report",
+        "description": "Monthly report from the Staff Hiring Committee.",
+        "presenter": "Victor Toledo",
+        "action_required": null
+      },
+      {
+        "item_number": "13",
+        "title": "DPFC Pipeline Report",
+        "description": "Briefing and discussion on the pipeline report.",
+        "presenter": "Sam McDaniel",
+        "action_required": null
+      },
+      {
+        "item_number": "14",
+        "title": "Adjourn",
+        "description": "Closing of the meeting.",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Public Facility Corporation",
+      "Board Meeting",
+      "Public Testimony",
+      "Community Announcements",
+      "Minutes Approval",
+      "Ethics Disclosures",
+      "Security",
+      "Property Monitoring",
+      "Annual Report",
+      "Website Briefing",
+      "Staff Hiring",
+      "Pipeline Report",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9210
+}

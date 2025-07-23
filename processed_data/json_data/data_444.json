@@ -1,0 +1,47 @@
+{
+  "agenda_number": 444,
+  "source_file": "Agenda_444.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 30, 2024",
+      "time": "6:00 PM",
+      "type": "Judicial Nominating Commission Meeting",
+      "organization": "City Council Judicial Nominating Commission",
+      "location": "1500 Marilla Street- 4EN Dallas, Tx 75201, City Hall (videoconference)"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "Interview of candidates for City of Dallas - Full-time Municipal Judges",
+        "description": "Pursuant to Section 551.074 of the Texas Open Meetings Act, Texas Government Code, to deliberate the possible appointment and employment of Municipal Judges.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Judicial Nominating Commission",
+      "Municipal Judges",
+      "Executive Session",
+      "City of Dallas",
+      "videoconference",
+      "appointment",
+      "employment",
+      "Texas Open Meetings Act",
+      "candidates",
+      "City Hall",
+      "deliberation",
+      "legal advice",
+      "real property",
+      "public officer",
+      "security personnel"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 7627
+}

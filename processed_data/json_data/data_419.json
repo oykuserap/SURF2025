@@ -1,0 +1,136 @@
+{
+  "agenda_number": 419,
+  "source_file": "Agenda_419.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 16, 2024",
+      "time": "10:00 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Park and Recreation Board",
+      "location": "Dallas Zoo – The Flamingo Room, 650 S. R.L. Thornton Fwy, Dallas TX 75203; Video Conference: https://bit.ly/4bq0ebS"
+    },
+    "attendees": {
+      "chair": "Arun Agarwal",
+      "presenters": [
+        "Rachael Berry",
+        "M. Renee Johnson",
+        "Christina Turner-Noteware"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Arun Agarwal",
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from May 2, 2024",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.1",
+        "title": "Golf Course Greens Fees",
+        "description": "Authorize an increase to the specified golf course green fees at all 6 City of Dallas golf courses and the creation of a Capital Improvement Fund for golf. Estimated Revenue: $256,700.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.2",
+        "title": "Cypress Waters Trail - Encroachment Agreement",
+        "description": "Authorize a hike and bike trail encroachment agreement with Oncor for use of a portion of the Oncor easement for the construction, operation, and maintenance of the Cypress Waters Trail.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.3",
+        "title": "Cypress Waters Trail - Interlocal Agreement",
+        "description": "Authorize an Interlocal Agreement with Dallas County for designing, constructing, and maintaining a portion of the Cypress Waters Trail.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.4",
+        "title": "Cypress Water Trail - Easement Acquisition",
+        "description": "Authorize acquisition of three easements of approximately 885,529 square feet of land for the Cypress Waters Trail project.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.5",
+        "title": "Rosemeade Park - Funding Application",
+        "description": "Authorize an application for the USFWS Invasive Species Eradication Funding Program in an amount of $250,000 for Rosemeade Park.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI.7",
+        "title": "Dallas Zoo Annual Report",
+        "description": "",
+        "presenter": "Rachael Berry",
+        "action_required": null
+      },
+      {
+        "item_number": "VI.8",
+        "title": "Downtown Parks Collaboration Initiative",
+        "description": "",
+        "presenter": "M. Renee Johnson",
+        "action_required": null
+      },
+      {
+        "item_number": "VII.9",
+        "title": "Budget Update",
+        "description": "",
+        "presenter": "Rachael Berry",
+        "action_required": null
+      },
+      {
+        "item_number": "VIII.10",
+        "title": "2024 Bond Program: Implementation Plan",
+        "description": "",
+        "presenter": "Christina Turner-Noteware",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Park and Recreation Board",
+      "Regular Meeting",
+      "Golf Course Greens Fees",
+      "Cypress Waters Trail",
+      "Rosemeade Park",
+      "Annual Report",
+      "Budget Update",
+      "Bond Program",
+      "Encroachment Agreement",
+      "Interlocal Agreement",
+      "Easement Acquisition",
+      "Funding Application",
+      "Public Speakers",
+      "Approval of Minutes"
+    ],
+    "financial_items": [
+      {
+        "description": "Estimated Revenue from Golf Course Greens Fees",
+        "amount": "$256,700.00",
+        "type": "revenue"
+      },
+      {
+        "description": "Funding Application for Rosemeade Park",
+        "amount": "$250,000.00",
+        "type": "funding"
+      },
+      {
+        "description": "Estimated Revenue from Old City Park fee structure",
+        "amount": "$60,000.00",
+        "type": "revenue"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12032
+}

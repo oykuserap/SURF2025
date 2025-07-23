@@ -1,0 +1,59 @@
+{
+  "agenda_number": 72,
+  "source_file": "Agenda_72.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 13, 2025",
+      "time": "9:00 AM",
+      "type": "Special Called Meeting",
+      "organization": "City Plan Commission",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Tony Shidid",
+      "presenters": [
+        "Michael Wade",
+        "La’Kisha Girder"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Briefing Item",
+        "description": "Public Hearing: Development Code Amendments - Under Advisement.",
+        "presenter": "Michael Wade",
+        "action_required": "Discuss"
+      },
+      {
+        "item_number": "2",
+        "title": "Consideration of amending Chapters 51 and 51A",
+        "description": "Amending Chapters 51 and 51A of the Dallas City Code regarding off-street parking and loading requirements.",
+        "presenter": "Michael Wade",
+        "action_required": "Approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Consideration of amending Chapters 51 and 51A",
+        "description": "Amending Chapters 51 and 51A of the Dallas City Code regarding park land dedication.",
+        "presenter": "La’Kisha Girder",
+        "action_required": "Approve"
+      }
+    ],
+    "keywords": [
+      "City Plan Commission",
+      "Public Hearing",
+      "Development Code Amendments",
+      "Dallas City Code",
+      "Off-street parking",
+      "Loading requirements",
+      "Park land dedication",
+      "Zoning Ordinance",
+      "Committee appointments",
+      "Executive session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 19661
+}

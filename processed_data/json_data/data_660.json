@@ -1,0 +1,97 @@
+{
+  "agenda_number": 660,
+  "source_file": "Agenda_660.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 4, 2023",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Parks, Trails, and the Environment Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX and via video conference"
+    },
+    "attendees": {
+      "chair": "Moreno",
+      "presenters": [
+        "Carlos Evans",
+        "Paul White II",
+        "Rosaerlinda Cisneros",
+        "Ryan O’Conner",
+        "Candace Damon",
+        "Mary Cedillo-Pereira",
+        "Sheila Delgado",
+        "Kathryn Bazan"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "Approval of the November 6, 2023 Parks, Trails, and Environment Committee Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B",
+        "title": "Comprehensive Environment & Climate Action Plan (CECAP) Annual Report",
+        "description": "Presentation of the annual report on the Comprehensive Environment & Climate Action Plan.",
+        "presenter": "Carlos Evans",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Parks Economic Value Update",
+        "description": "Update on the economic value of parks.",
+        "presenter": "Ryan O’Conner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Dallas Environmental Education Initiative (EEI)- Interlocal Agreement",
+        "description": "Discussion on the interlocal agreement for the Dallas Environmental Education Initiative.",
+        "presenter": "Mary Cedillo-Pereira",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Former Blue Star Site Remediation Update",
+        "description": "Update on the remediation efforts at the Former Blue Star Site.",
+        "presenter": "Mary Cedillo-Pereira",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Office of Environmental Quality & Sustainability 2025 State and Federal Legislative Priorities",
+        "description": "Discussion on the legislative priorities for 2025.",
+        "presenter": "Mary Cedillo-Pereira",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Environmental Commission Update",
+        "description": "Update from the Environmental Commission.",
+        "presenter": "Kathryn Bazan",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Parks",
+      "Trails",
+      "Environment",
+      "Climate Action",
+      "Economic Value",
+      "Environmental Education",
+      "Remediation",
+      "Legislative Priorities",
+      "Sustainability",
+      "Dallas City Council",
+      "Committee Meeting",
+      "Public Participation",
+      "Video Conference",
+      "City Hall"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20509
+}

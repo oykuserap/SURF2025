@@ -1,0 +1,116 @@
+{
+  "agenda_number": 84,
+  "source_file": "Agenda_84.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 3, 2025",
+      "time": "9:30 A.M. (Briefing), 1:00 P.M. (Public Hearing)",
+      "type": "Regular Meeting",
+      "organization": "Landmark Commission",
+      "location": "Dallas City Hall, 6ES Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Evelyn Montgomery",
+      "presenters": [
+        "Joanna Hampton",
+        "City Attorney’s Office",
+        "Historic Preservation Staff"
+      ],
+      "participants": [
+        "Christina Paress",
+        "Marcus Watson",
+        "Rhonda Dunn",
+        "Aaron Trecartin",
+        "Davis Cornell",
+        "Jennifer Dent",
+        "Michaela Million",
+        "Jose Lopez",
+        "Christi Rudduck",
+        "Mohammed Khurrum",
+        "Cody Welch",
+        "Katelyn Tobin",
+        "Tyson Guy",
+        "David Ehrlicher",
+        "Michael Flowers"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Evelyn Montgomery",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "January 6, 2025, regular meeting minutes",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Staff Reports/Briefings",
+        "description": "Reports from Historic Preservation Staff",
+        "presenter": "Historic Preservation Staff",
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Briefing Items",
+        "description": "Appeals to the City Plan Commission",
+        "presenter": "Joanna Hampton",
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Training: Texas Open Meetings Act (TOMA)",
+        "description": "",
+        "presenter": "City Attorney’s Office",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Public Hearing",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Landmark Commission",
+      "Historic Preservation",
+      "Certificate of Appropriateness",
+      "Public Hearing",
+      "Texas Open Meetings Act",
+      "City Plan Commission",
+      "Historic District",
+      "Public Speakers",
+      "Minutes Approval",
+      "Staff Reports",
+      "Adjournment",
+      "Accommodations",
+      "Videoconference",
+      "Community Engagement"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 71395
+}

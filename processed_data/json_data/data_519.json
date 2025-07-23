@@ -1,0 +1,107 @@
+{
+  "agenda_number": 519,
+  "source_file": "Agenda_519.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 7, 2024",
+      "time": "9:00 AM",
+      "type": "City Plan Commission Meeting",
+      "organization": "City Plan Commission",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Lawrence Agu, III, AICP, Assoc AIA",
+        "Teaseia Blue",
+        "Rob Baldwin",
+        "Alex Camunez",
+        "Connor Roberts",
+        "Michael Pepe",
+        "Liliana Garza",
+        "Wilson Kerr",
+        "Brad Eubanks",
+        "Andreea Udrea",
+        "Giahanna Bridges",
+        "Suzan Kedron",
+        "Elsie Thurman",
+        "Olga Torres Holyoak"
+      ],
+      "participants": [
+        "Planning and Urban Design Department",
+        "Public Affairs and Outreach"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes of the February 1, 2024 and February 15, 2024 City Plan Commission hearings.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Development Plan Case - Consent",
+        "description": "An application for a development plan on property zoned South Subdistrict within Planned Development District No. 582.",
+        "presenter": "Teaseia Blue",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Development Plan Case - Consent",
+        "description": "An application for a development plan on property zoned Subareas A and B within Planned Development No. 778.",
+        "presenter": "Teaseia Blue",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Minor Amendment Case - Under Advisement",
+        "description": "An application for a minor amendment to an existing development plan on property zoned Planned Development District No. 166.",
+        "presenter": "Teaseia Blue",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Zoning Case - Consent",
+        "description": "An application for an amendment to Specific Use Permit No. 2365 for the sale of alcoholic beverages.",
+        "presenter": "Connor Roberts",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "21",
+        "title": "Authorized Hearing - Zoning Cases",
+        "description": "A City Plan Commission authorized hearing to determine the appropriate zoning for the area.",
+        "presenter": "Olga Torres Holyoak",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "34",
+        "title": "Authorization of a Hearing",
+        "description": "Consideration of authorizing a public hearing to determine the proper zoning on property zoned a CR Community Retail District.",
+        "presenter": null,
+        "action_required": "authorize"
+      }
+    ],
+    "keywords": [
+      "City Plan Commission",
+      "Dallas",
+      "zoning",
+      "development plans",
+      "public hearings",
+      "land use",
+      "community retail",
+      "specific use permit",
+      "minor amendments",
+      "residential replats",
+      "public testimony",
+      "planning",
+      "urban design",
+      "city hall",
+      "videoconference"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 57806
+}

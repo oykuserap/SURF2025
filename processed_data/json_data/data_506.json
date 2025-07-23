@@ -1,0 +1,66 @@
+{
+  "agenda_number": 506,
+  "source_file": "Agenda_506.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 28, 2024",
+      "time": "9:00 AM",
+      "type": "Special Called Meeting",
+      "organization": "City Plan Commission",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Lawrence Agu, III, AICP, Assoc AIA",
+        "Patrick Blaydes"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "24-1130",
+        "title": "Welcome",
+        "description": "Welcome to the meeting.",
+        "presenter": "Lawrence Agu, III, AICP, Assoc AIA",
+        "action_required": null
+      },
+      {
+        "item_number": "24-1134",
+        "title": "Draft Future Placetype Map updates, review, and recommendations",
+        "description": "Review and recommendations on the Draft Future Placetype Map updates.",
+        "presenter": "Lawrence Agu, III, AICP, Assoc AIA, Patrick Blaydes",
+        "action_required": null
+      },
+      {
+        "item_number": "24-1135",
+        "title": "Draft Future Placetype Descriptions review",
+        "description": "Review of the Draft Future Placetype Descriptions.",
+        "presenter": "Lawrence Agu, III, AICP, Assoc AIA, Patrick Blaydes",
+        "action_required": null
+      },
+      {
+        "item_number": "24-1136",
+        "title": "Adjournment",
+        "description": "Closing of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "City of Dallas",
+      "City Plan Commission",
+      "Special Called Meeting",
+      "Future Placetype Map",
+      "Future Placetype Descriptions",
+      "Planning and Urban Design",
+      "Lawrence Agu",
+      "Patrick Blaydes",
+      "Agenda",
+      "Dallas City Council"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18545
+}

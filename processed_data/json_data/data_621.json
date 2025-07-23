@@ -1,0 +1,47 @@
+{
+  "agenda_number": 621,
+  "source_file": "Agenda_621.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 19, 2023",
+      "time": "9:00 AM",
+      "type": "Special Called Meeting",
+      "organization": "Housing and Homelessness Solutions Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Moreno",
+      "presenters": [
+        "Andrea Gilles, AICP, Director",
+        "Andreea Udrea, PhD, AICP, Assistant Director Planning & Urban Design"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "Discussion of Expanding Housing Development Options with Potential Regulations for Two-Four-Unit Housing and Minimum Residential Lot Size",
+        "description": "Discussion regarding the expansion of housing development options and potential regulations concerning two to four-unit housing and minimum residential lot size.",
+        "presenter": "Andrea Gilles, AICP, Director; Andreea Udrea, PhD, AICP, Assistant Director Planning & Urban Design",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Housing",
+      "Homelessness",
+      "Development",
+      "Regulations",
+      "Residential",
+      "Lot Size",
+      "Committee",
+      "Dallas",
+      "City Council",
+      "Special Meeting",
+      "Video Conference",
+      "Public Participation"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18363
+}

@@ -1,0 +1,76 @@
+{
+  "agenda_number": 130,
+  "source_file": "Agenda_130.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 9, 2025",
+      "time": "9:00 AM",
+      "type": "Ad Hoc Committee Meeting",
+      "organization": "City Council Ad Hoc Committee on Administrative Affairs",
+      "location": "Dallas City Hall, Council Chambers and via video conference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Baker Tilly"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes of the December 12, 2024, December 16, 2024, and December 23, 2024 meeting of the Ad Hoc Committee on Administrative Affairs.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Performance Review Process",
+        "description": "City council appointed positions performance review process for City Manager, City Secretary, City Attorney, and Inspector General by Baker Tilly.",
+        "presenter": "Baker Tilly",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Recruiting Firms Presentations",
+        "description": "Presentations of recruiting firms regarding the search for Inspector General.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Recommendation for Recruiting Firm",
+        "description": "Consider recommending a recruiting firm for search for Inspector General to city council.",
+        "presenter": null,
+        "action_required": "recommend"
+      },
+      {
+        "item_number": "D",
+        "title": "Discussion of Goals and Metrics",
+        "description": "Discussion of goals and performance review metrics, timeline, and schedule for annual evaluations for city council appointed positions - City Manager, City Secretary, City Attorney, and Inspector General.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Ad Hoc Committee",
+      "Administrative Affairs",
+      "City Manager",
+      "City Secretary",
+      "City Attorney",
+      "Inspector General",
+      "performance review",
+      "recruiting firms",
+      "recommendation",
+      "goals",
+      "metrics",
+      "evaluation",
+      "video conference",
+      "Dallas City Hall"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 5807
+}

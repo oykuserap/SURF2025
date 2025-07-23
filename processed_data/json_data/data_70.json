@@ -1,0 +1,58 @@
+{
+  "agenda_number": 70,
+  "source_file": "Agenda_70.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 13, 2025",
+      "time": "5:30 PM",
+      "type": "Regular Meeting",
+      "organization": "Judicial Nominating Commission",
+      "location": "6ES Council Briefing Room, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Matthew L. McDougal",
+      "presenters": [
+        "Jarred Davis"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the October 30, 2024 Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Administrative Law Judge Recruitment Process",
+        "description": "Discussion on the recruitment process for Administrative Law Judges.",
+        "presenter": "Jarred Davis",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Consideration of appointments of the Administrative Law Judges (ALJ)",
+        "description": "Discussion regarding the appointments of Administrative Law Judges.",
+        "presenter": "Matthew L. McDougal",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Judicial Nominating Commission",
+      "Administrative Law Judge",
+      "Recruitment Process",
+      "Appointments",
+      "Minutes Approval",
+      "City Council",
+      "Dallas",
+      "Video Conference",
+      "Executive Session",
+      "Public Meeting"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 7908
+}

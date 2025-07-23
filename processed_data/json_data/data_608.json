@@ -1,0 +1,168 @@
+{
+  "agenda_number": 608,
+  "source_file": "Agenda_608.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 10, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "City Attorney's Office",
+        "Department of Aviation",
+        "Department of Public Works",
+        "Department of Transportation",
+        "Fire-Rescue Department",
+        "Office of Economic Development",
+        "Office of Emergency Management",
+        "Office of Procurement Services",
+        "Office of Risk Management",
+        "Park & Recreation Department",
+        "Water Utilities Department"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the December 13, 2023 City Council Meeting",
+        "description": "",
+        "presenter": "City Attorney's Office",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Authorize partial settlement of the lawsuit styled Chanda Runnels, Individually and as Next Friend of D .D., a Minor, and Roy Heidelberg",
+        "description": "Total not to exceed $140,000.00 ($65,000.00 for the settlement of the claims of Chanda Runnels and $75,000.00 for the settlement of the claims of Roy Heidelberg)",
+        "presenter": "City Attorney's Office",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Authorize a Second Amendment to the concession contract with Air Star-Bush-LTS Marquis DAL, LLC",
+        "description": "for food and beverage concession services at Dallas Love Field Airport, to extend the term of the contract by an additional seven years and increase pricing.",
+        "presenter": "Department of Aviation",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Authorize a Third Amendment to the concession contract with Host International, Inc.",
+        "description": "for food and beverage concession services at Dallas Love Field Airport, to extend the term of the contract by an additional seven years and increase pricing.",
+        "presenter": "Department of Aviation",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Authorize a Fourth Amendment to the concession contract with Air Star Concessions, Ltd.",
+        "description": "for food and beverage concessions services at Dallas Love Field Airport, to extend the term of the contract by an additional seven years and increase pricing.",
+        "presenter": "Department of Aviation",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Authorize a Fourth Amendment to the concession contract with Air Star-LTS/Marquis DAL, LLC",
+        "description": "for food and beverage concessions services at Dallas Love Field Airport, to extend the term of the contract by an additional seven years and increase pricing.",
+        "presenter": "Department of Aviation",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Authorize amendments to four concession contracts with Hudson Dallas Love Field Concessionaires, LLC",
+        "description": "to mitigate the increased costs of providing products and services to the traveling public and airport employees.",
+        "presenter": "Department of Aviation",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Authorize a five-year service price agreement for transportation for hire services",
+        "description": "for passenger drop-off and pick-up at Dallas Love Field Airport.",
+        "presenter": "Department of Aviation",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "An ordinance abandoning a detention area easement to Vivante Turtle Creek, LLC",
+        "description": "containing approximately 2,019 square feet of land.",
+        "presenter": "Department of Public Works",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "An ordinance abandoning a portion of an alley to McDonald's Real Estate Company",
+        "description": "containing approximately 2,520 square feet of land.",
+        "presenter": "Department of Public Works",
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "City Council",
+      "Dallas",
+      "meeting",
+      "agenda",
+      "concession contracts",
+      "settlement",
+      "lawsuit",
+      "food and beverage",
+      "transportation services",
+      "abandonment",
+      "easement",
+      "public works",
+      "aviation",
+      "budget",
+      "funding"
+    ],
+    "financial_items": [
+      {
+        "description": "Partial settlement of the lawsuit styled Chanda Runnels, Individually and as Next Friend of D .D., a Minor, and Roy Heidelberg",
+        "amount": "$140,000.00",
+        "type": "settlement"
+      },
+      {
+        "description": "Estimated Revenue from concession contracts at Dallas Love Field Airport",
+        "amount": "$488,815.00",
+        "type": "revenue"
+      },
+      {
+        "description": "Estimated Revenue from concession contracts at Dallas Love Field Airport",
+        "amount": "$4,617,845.00",
+        "type": "revenue"
+      },
+      {
+        "description": "Estimated Revenue from concession contracts at Dallas Love Field Airport",
+        "amount": "$3,668,268.00",
+        "type": "revenue"
+      },
+      {
+        "description": "Estimated Revenue from concession contracts at Dallas Love Field Airport",
+        "amount": "$801,968.00",
+        "type": "revenue"
+      },
+      {
+        "description": "Estimated Revenue from concession contracts at Dallas Love Field Airport",
+        "amount": "$9,117,042.00",
+        "type": "revenue"
+      },
+      {
+        "description": "Not to exceed amount for transportation for hire services",
+        "amount": "$287,852.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Revenue from abandoning a detention area easement",
+        "amount": "$7,800.00",
+        "type": "revenue"
+      },
+      {
+        "description": "Revenue from abandoning a portion of an alley",
+        "amount": "$20,000.00",
+        "type": "revenue"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 69281
+}

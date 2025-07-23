@@ -1,0 +1,93 @@
+{
+  "agenda_number": 297,
+  "source_file": "Agenda_297.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 3, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Parks, Trails, and the Environment Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX and via video conference"
+    },
+    "attendees": {
+      "chair": "Moreno",
+      "presenters": [
+        "Carlos Evans",
+        "Oppong Hemeng",
+        "Maritza Figy",
+        "Janette Monear",
+        "Elissa Izmailyan",
+        "Sarah Standifer",
+        "Eduardo Valerio",
+        "M. Renee Johnson",
+        "Tina Richardson",
+        "M. Elizabeth Cedillo Pereira",
+        "Kathryn Bazan"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the August 5, 2024 Parks, Trails and Environment Committee Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Urban Heat Island Study Results: August 2023 & August 2024",
+        "description": "Presentation of the results from the Urban Heat Island Study conducted in August 2023 and August 2024.",
+        "presenter": "Carlos Evans",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Texas Trees Foundation: Urban Heat, Tree Equity, and Program Overview",
+        "description": "Overview of the Texas Trees Foundation's initiatives regarding urban heat and tree equity.",
+        "presenter": "Janette Monear",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Biannual Urban Forest Master Plan Update",
+        "description": "Update on the Urban Forest Master Plan.",
+        "presenter": "Sarah Standifer",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Landscape Equipment Transition Plan Update: Answers to Questions from PTE Committee",
+        "description": "Update on the Landscape Equipment Transition Plan.",
+        "presenter": "M. Elizabeth Cedillo Pereira",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Environmental Commission Update",
+        "description": "Update from the Environmental Commission.",
+        "presenter": "Kathryn Bazan",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Parks",
+      "Trails",
+      "Environment",
+      "Urban Heat Island",
+      "Texas Trees Foundation",
+      "Tree Equity",
+      "Urban Forest",
+      "Landscape Equipment",
+      "Environmental Commission",
+      "City Council",
+      "Dallas",
+      "Sustainability",
+      "Public Works",
+      "Quality of Life"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20809
+}

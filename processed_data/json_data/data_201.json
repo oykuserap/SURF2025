@@ -1,0 +1,115 @@
+{
+  "agenda_number": 201,
+  "source_file": "Agenda_201.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 12, 2024",
+      "time": "12:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Dallas Housing Finance Corporation",
+      "location": "Dallas City Hall, L1FN Auditorium and Videoconference"
+    },
+    "attendees": {
+      "chair": "Marcy Helfand",
+      "presenters": [
+        "Aaron Eaquinto",
+        "George Rodriguez",
+        "Ryan Bowen",
+        "Tim Nelson",
+        "Jaclyn Schroeder"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of the minutes for the October 8, 2024 City of Dallas Housing Finance Corporation Meeting",
+        "description": "",
+        "presenter": "Marcy Helfand",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Action Item: Resolution for 2929 Wycliff",
+        "description": "Consider and adopt partnership resolutions approving the form and substance of and authorizing the execution and delivery of documents and instruments necessary to carry out the financing and operation of 2929 Wycliff.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Action Item: Resolution for Waterford at Goldmark",
+        "description": "Consider and adopt a financing resolution authorizing the issuance, sale and delivery of the City of Dallas Housing Finance Corporation Multifamily Housing Revenue Notes (Waterford at Goldmark) Series 2024.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VII",
+        "title": "Action Item: Resolution for The Hartford Living",
+        "description": "Consider and adopt a resolution approving a Memorandum of Understanding with Blue Lofts, Inc. for the acquisition, financing, development and operation of The Hartford Living.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Action Item: Resolution for The Ridge at Loop 12",
+        "description": "Consider and adopt a resolution approving a Memorandum of Understanding with LDG Multifamily, LLC for the acquisition, construction, financing, development and operation of The Ridge at Loop 12.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IX",
+        "title": "Action Item: Resolution to terminate the Memorandum of Understanding between the Corporation and Opportunity Housing Group, Inc.",
+        "description": "",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "X",
+        "title": "Action Item: Resolution to terminate the Memorandum of Understanding between the Corporation and Jefferson at the Central, LLC",
+        "description": "",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "XI",
+        "title": "Discussion on Housing and Homelessness Solutions Committee Special Called Meeting",
+        "description": "Discussion regarding operation and governance of the Corporation.",
+        "presenter": "Marcy Helfand",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "XII",
+        "title": "Review and discussion of DHFC Treasurer’s report",
+        "description": "Review for the eight-month period ending on August 31, 2024.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "XIII",
+        "title": "Review and discussion of the Corporation’s pipeline report",
+        "description": "As of November 4, 2024.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas Housing Finance Corporation",
+      "2929 Wycliff",
+      "Waterford at Goldmark",
+      "The Hartford Living",
+      "The Ridge at Loop 12",
+      "Memorandum of Understanding",
+      "financing",
+      "development",
+      "housing",
+      "homelessness",
+      "Treasurer’s report",
+      "pipeline report",
+      "action items",
+      "public comments"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18875
+}

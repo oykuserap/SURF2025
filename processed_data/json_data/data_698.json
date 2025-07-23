@@ -1,0 +1,131 @@
+{
+  "agenda_number": 698,
+  "source_file": "Agenda_698.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 2, 2023",
+      "time": "10:00 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Park and Recreation Board",
+      "location": "Dallas City Hall, 6FN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Arun Agarwal",
+      "presenters": [
+        "Christina Turner-Noteware",
+        "M. Renee Johnson",
+        "Crystal R. Ross",
+        "Rachael Berry"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Kidd Springs Park",
+        "description": "Authorize an alcohol permit to Alison Matis, to serve alcohol at the Blues, Bandits & BBQ event to be held at Kidd Springs Park, located at 711 West Canty Street. The event will be held on Saturday, November 11, 2023 from 11:00 a.m. to 10:00 p.m. Estimated Revenue: $250.00 (This is a recurring item)",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Old City Park",
+        "description": "Authorize an alcohol permit to Dallas County Heritage Society, to serve alcohol at the Cocktails by Candlelight event to be held at Old City Park, located at 1515 South Harwood Street. The event will be held on Friday, December 15, 2023 – Financing: No cost consideration to the city.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "White Rock Lake Trail",
+        "description": "Authorize the purchase of Traffix Water Wall barriers to serve as barricades prohibiting vehicles from exiting Garland Road and crossing into White Rock Lake Trail for the Park and Recreation Department from Buyers Barricades, Inc. in the amount of $218,606 through the Texas Association of School Boards (BuyBoard) cooperative agreement – Total award not to exceed $218,606 - Financing: Current Funds (subject to annual appropriations)",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Moore Park",
+        "description": "Authorize a thirty-year Interlocal Agreement with the Dallas Independent School District for the use, construction, operation, and maintenance at Moore Park located at 1900 East Eighth Street — Financing: No Cost to the City.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Flag Pole Hill Park",
+        "description": "Authorize the placement of a Texas State Historical Marker at Flag Pole Hill Park located at 8015 Doran Circle – Financing: No cost consideration to the City.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Exall Park",
+        "description": "Authorize an installation site for Four Chromatic Gates by Herbert Bayer at Exall Park located at 3501 Live Oak Street, Financing: No cost consideration to the city.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Dallas Arboretum",
+        "description": "Authorize a two-year funding agreement with the Dallas Arboretum and Botanical Society, Inc. in the amount of $424,393.00 to provide services and program support within the City of Dallas for the period of January 1, 2024, through December 31, 2024, and $424,393.00 for the period of January 1, 2025, through December 31, 2025 – Not to exceed $848,786.00 – Financing: General Fund.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Dallas Arboretum Admission Fee Increase",
+        "description": "Authorize an admission fee increase at the Dallas Arboretum and Botanical Society during their Festival periods which include Spring Blooms, Autumn at the Holiday and Holiday at the Arboretum beginning January 1, 2024 – Financing: No cost consideration to the City.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "Board Meeting Schedule",
+        "description": "Authorize adoption of the proposed 2024 Park and Recreation Board Meeting Schedule - Financing: No cost consideration to the City.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Job Order Contract",
+        "description": "Authorize two-year construction services contracts, with two one-year renewal options, for job order contracting services at City facilities with Brown & Root Industrial Services, LLC, Phoenix I Restoration and Construction, LLC, METCO Engineering dba METCO, Gilbert May Inc. dba Phillips/May Corp., and York Builders Inc., most advantageous proposers of sixteen - Not to exceed $15,000,000.00 with renewable options in an amount of $250,000 for each additional year - Financing: Park and Recreation Facilities (General Obligation Bond Funds) ($9,200,000.00); Multi-Year Funds ($1,050,000); Grant Funds ($2,700,000); and General Funds ($2,050,000.00) (subject to appropriations).",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Dallas Park and Recreation Board",
+      "Kidd Springs Park",
+      "Old City Park",
+      "White Rock Lake Trail",
+      "Moore Park",
+      "Flag Pole Hill Park",
+      "Exall Park",
+      "Dallas Arboretum",
+      "Job Order Contract",
+      "Funding Agreement",
+      "Admission Fee Increase",
+      "Meeting Schedule",
+      "Alcohol Permit",
+      "Construction Services",
+      "Historical Marker"
+    ],
+    "financial_items": [
+      {
+        "description": "Authorize a two-year funding agreement with the Dallas Arboretum and Botanical Society, Inc. to provide services and program support.",
+        "amount": "$848,786.00",
+        "type": "funding"
+      },
+      {
+        "description": "Authorize the purchase of Traffix Water Wall barriers for the Park and Recreation Department.",
+        "amount": "$218,606",
+        "type": "expenditure"
+      },
+      {
+        "description": "Authorize two-year construction services contracts for job order contracting services.",
+        "amount": "$15,000,000.00",
+        "type": "contract"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 14732
+}

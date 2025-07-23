@@ -1,0 +1,69 @@
+{
+  "agenda_number": 318,
+  "source_file": "Agenda_318.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 19, 2024",
+      "time": "11:30 AM",
+      "type": "Ad Hoc Committee Meeting",
+      "organization": "City Council Ad Hoc Committee on Administrative Affairs",
+      "location": "Dallas City Hall, Council Chambers and via video conference"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [],
+      "participants": [
+        "Narvaez (VC)",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Willis",
+        "Blackmon",
+        "Schultz",
+        "Johnson"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes of the June 3, 2024 meeting of the Ad Hoc Committee on Administrative Affairs.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Discussion on City Manager Search",
+        "description": "Discuss and consider information regarding the search for the city manager, including desired qualifications, community survey results, employee survey results, and the brochure prepared by Baker Tilly.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "City Council",
+      "Ad Hoc Committee",
+      "Administrative Affairs",
+      "City Manager",
+      "Qualifications",
+      "Community Survey",
+      "Employee Survey",
+      "Baker Tilly",
+      "Minutes Approval",
+      "Video Conference",
+      "Public Participation",
+      "Executive Session",
+      "City Hall",
+      "Broadcast"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18488
+}

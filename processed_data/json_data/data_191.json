@@ -1,0 +1,105 @@
+{
+  "agenda_number": 191,
+  "source_file": "Agenda_191.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 19, 2024",
+      "time": "11:00 a.m.",
+      "type": "Special Called Meeting",
+      "organization": "City Center TIF District Board of Directors",
+      "location": "Dallas City Hall, 6DN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Joseph Pitchford",
+      "presenters": [
+        "Dorcy Clark"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call meeting to order and declare a quorum is established.",
+        "description": "",
+        "presenter": "Joseph Pitchford",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Introduction of meeting participants.",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Public comments pertaining to agenda items 4 and 5.",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Review and consider the Meeting Record of the January 11, 2024 joint meeting.",
+        "description": "Review and consider the Meeting Record of the January 11, 2024 joint meeting of the City Center TIF District Board of Directors, the Downtown Connection TIF District Board of Directors, and the Downtown Dallas Development Authority Board of Directors.",
+        "presenter": "Dorcy Clark, Senior Manager, Office of Economic Development",
+        "action_required": "Approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Review and consider a development agreement with West End Lofts LP.",
+        "description": "Review and consider a development agreement with West End Lofts LP and/or its affiliates in an amount not to exceed $49,000,000 comprised of various economic development grants and TIF Subsidy.",
+        "presenter": "Dorcy Clark, Senior Manager, Office of Economic Development",
+        "action_required": "Approve TIF Subsidy and forward a recommendation of approval of the TIF Subsidy to City Council"
+      },
+      {
+        "item_number": "6",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": "Joseph Pitchford",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "City Center TIF District",
+      "Dallas",
+      "Special Called Meeting",
+      "economic development",
+      "development agreement",
+      "West End Lofts",
+      "TIF Subsidy",
+      "Public/Private Partnership Fund",
+      "General Obligation Bond Funds",
+      "meeting record",
+      "quorum",
+      "public comments",
+      "City Council",
+      "auxiliary aid",
+      "equitable meeting"
+    ],
+    "financial_items": [
+      {
+        "description": "City Subsidy for West End Lofts Project",
+        "amount": "$49,000,000",
+        "type": "budget"
+      },
+      {
+        "description": "Chapter 380 economic development grant sourced from the City’s Public/Private Partnership Fund",
+        "amount": "$7,357,605",
+        "type": "funding"
+      },
+      {
+        "description": "Chapter 380 economic development grant sourced from 2012 and 2024 City General Obligation Bond Funds",
+        "amount": "$13,366,719",
+        "type": "funding"
+      },
+      {
+        "description": "TIF Subsidy payable from current and future City Center TIF District funds",
+        "amount": "$28,275,676",
+        "type": "funding"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12422
+}

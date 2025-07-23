@@ -1,0 +1,151 @@
+{
+  "agenda_number": 475,
+  "source_file": "Agenda_475.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 10, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Dallas City Council",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "City Attorney's Office",
+        "Department of Aviation",
+        "Department of Planning and Urban Design",
+        "Department of Public Works",
+        "Department of Sanitation Services",
+        "Office of Arts and Culture",
+        "Office of Emergency Management",
+        "Office of Environmental Quality & Sustainability",
+        "Office of Government Affairs",
+        "Office of Procurement Services",
+        "Office of Risk Management",
+        "Park & Recreation Department",
+        "Water Utilities Department",
+        "City Secretary's Office"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the March 27, 2024 City Council Meeting",
+        "description": "",
+        "presenter": "City Attorney's Office",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Settlement of Claim Against Atlantic Specialty Insurance Company",
+        "description": "Authorize settlement of the claim asserted by the City of Dallas against surety Atlantic Specialty Insurance Company for Sisters Asphalt, Inc. d/b/a SAI Construction’s failure to complete construction under Dallas Water Utilities Contract No. 20-473/474.",
+        "presenter": "City Attorney's Office",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Amendment to Emergency Vehicles Code",
+        "description": "An ordinance amending Chapter 15D, 'Emergency Vehicles', of the Dallas City Code.",
+        "presenter": "Department of Aviation",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Amendment to Transportation for Hire Code",
+        "description": "An ordinance amending Chapter 47A, 'Transportation for Hire', of the Dallas City Code.",
+        "presenter": "Department of Planning and Urban Design",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Contract for Professional Consulting Services",
+        "description": "Authorize a two-year contract with Freese and Nichols, Inc. for professional consulting services.",
+        "presenter": "Department of Planning and Urban Design",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Condemnation Proceedings Settlement",
+        "description": "Authorize deposit of the amount awarded by the Special Commissioners in the condemnation proceedings.",
+        "presenter": "Department of Public Works",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Acquisition for West Dallas Gateway Project",
+        "description": "Authorize acquisition from TB West Commerce LLC for the West Dallas Gateway Project.",
+        "presenter": "Department of Public Works",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Grant for Composting Facility Feasibility Study",
+        "description": "Authorize acceptance of a grant from NCTCOG for a composting facility technical study.",
+        "presenter": "Department of Sanitation Services",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "Amendment to Advance Funding Agreement",
+        "description": "Authorize Amendment No. 1 to the Advance Funding Agreement with the Texas Department of Transportation.",
+        "presenter": "Department of Transportation",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "ArtsActivate 2025 Program",
+        "description": "Authorize the ArtsActivate 2025 Program to support art and cultural services in the City of Dallas.",
+        "presenter": "Office of Arts and Culture",
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "meeting",
+      "agenda",
+      "settlement",
+      "contract",
+      "amendment",
+      "grant",
+      "zoning",
+      "public hearing",
+      "budget",
+      "funding",
+      "consulting services",
+      "water utilities",
+      "transportation",
+      "public works"
+    ],
+    "financial_items": [
+      {
+        "description": "Settlement of claim against Atlantic Specialty Insurance Company",
+        "amount": "$4,333,680.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Contract for professional consulting services with Freese and Nichols, Inc.",
+        "amount": "$722,255.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Acquisition for West Dallas Gateway Project",
+        "amount": "$1,220,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Grant for Composting Facility Feasibility Study",
+        "amount": "$163,200.00",
+        "type": "grant"
+      },
+      {
+        "description": "Funding for ArtsActivate 2025 Program",
+        "amount": null,
+        "type": "grant"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 68308
+}

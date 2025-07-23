@@ -1,0 +1,116 @@
+{
+  "agenda_number": 423,
+  "source_file": "Agenda_423.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 13th, 2024",
+      "time": "6:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Youth Commission",
+      "location": "Dallas City Hall, 6ES and Videoconference"
+    },
+    "attendees": {
+      "chair": "Commissioner Mercado-Cruz",
+      "presenters": [
+        "Commissioner Tenner",
+        "Commissioner Hawkins",
+        "Commissioner Tamfu",
+        "Commissioner Jeffus",
+        "Commissioner Jennings",
+        "Commissioner Moreno",
+        "Commissioner Nelson",
+        "Taylor Moody"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Commissioner Mercado-Cruz",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Approval of Minutes",
+        "description": "(April 2024)",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "III",
+        "title": "D-Town Showdown Event Update",
+        "description": "",
+        "presenter": "Commissioner Tenner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IV",
+        "title": "Quarterly Newsletter Update",
+        "description": "",
+        "presenter": "Commissioner Hawkins",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Healthy Futures of Texas Symposium Recap",
+        "description": "",
+        "presenter": "Commissioner Tamfu and Jeffus",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Reports of Special Committees",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Committee Expectations/Rules",
+        "description": "",
+        "presenter": "Taylor Moody",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Unfinished Business/General Orders",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Announcements",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Youth Commission",
+      "Regular Meeting",
+      "Call to Order",
+      "Approval of Minutes",
+      "D-Town Showdown",
+      "Quarterly Newsletter",
+      "Healthy Futures of Texas",
+      "Reports of Special Committees",
+      "Committee Expectations",
+      "Unfinished Business",
+      "Announcements",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 7611
+}

@@ -1,0 +1,98 @@
+{
+  "agenda_number": 661,
+  "source_file": "Agenda_661.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 4, 2023",
+      "time": "10:00 A.M. and 1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Landmark Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Evelyn Montgomery",
+      "presenters": [
+        "HP Staff",
+        "Christina Mankowski",
+        "Marcus Watson",
+        "Rhonda Dunn",
+        "Adan Frias",
+        "Clay Patterson",
+        "Jay Peskuski",
+        "Leah C. Kagan"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the chair.",
+        "presenter": "Evelyn Montgomery",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "Opportunity for public comments.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes from the November 6, 2023 meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Staff Report/Briefings",
+        "description": "Briefing by HR&A Advisors on the Historic and Cultural Equity Strategic Preservation Plan draft report.",
+        "presenter": "HP Staff",
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Briefing Items",
+        "description": "Discussion of consent items and other business.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Other Business",
+        "description": "Discussion and vote on amendments to the composition of the Fair Park Task Force and approval of the Historic Preservation Annual Report.",
+        "presenter": null,
+        "action_required": "discuss and vote"
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "Closing of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Landmark Commission",
+      "Historic Preservation",
+      "Public Hearing",
+      "Certificate of Appropriateness",
+      "Demolition",
+      "Equity",
+      "Task Force",
+      "Minutes Approval",
+      "Briefing",
+      "Public Comments",
+      "Amendments",
+      "Annual Report",
+      "Virtual Meeting",
+      "Accessibility"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 67053
+}

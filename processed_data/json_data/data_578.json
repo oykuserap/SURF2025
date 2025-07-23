@@ -1,0 +1,105 @@
+{
+  "agenda_number": 578,
+  "source_file": "Agenda_578.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 29, 2024",
+      "time": "6:00 – 7:30 PM",
+      "type": "Regular Meeting",
+      "organization": "South Dallas Fair Park Opportunity Fund Board",
+      "location": "Dallas City Hall, Room # 6ES Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Leander Johnson",
+      "presenters": [
+        "City Attorney’s Office"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Leander Johnson",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Approval of Minutes",
+        "description": "December 4th, 2023 Meeting",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "III",
+        "title": "New Business",
+        "description": "New Board Appointees",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IV",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Briefing",
+        "description": "Boards and Commissions attendance guidelines",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Briefing",
+        "description": "Confidentiality of Grant Award Process",
+        "presenter": "City Attorney’s Office",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Briefing on 2nd Release of 2023 NOFA Recommendations",
+        "description": "",
+        "presenter": null,
+        "action_required": "Voting-Item"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Finalize Standardization Dates for 2024 NOFA Releases",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "South Dallas",
+      "Fair Park",
+      "Opportunity Fund",
+      "Regular Meeting",
+      "Dallas City Hall",
+      "Board Appointees",
+      "Public Speakers",
+      "Grant Award Process",
+      "NOFA Recommendations",
+      "Standardization Dates",
+      "Executive Session",
+      "Attendance Guidelines",
+      "Confidentiality",
+      "Voting-Item",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8683
+}

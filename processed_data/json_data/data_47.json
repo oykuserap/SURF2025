@@ -1,0 +1,84 @@
+{
+  "agenda_number": 47,
+  "source_file": "Agenda_47.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 3, 2025",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Parks, Trails, and the Environment Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Moreno",
+      "presenters": [
+        "M. Renee Johnson",
+        "Kevin Mondy",
+        "Vincent Olsen",
+        "Matthew Amend",
+        "M. Elizabeth Cedillo-Pereira"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the February 3, 2025, Parks, Trails and Environment Committee Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Park Safety and Security Strategic Plan",
+        "description": "Briefing on the strategic plan for park safety and security.",
+        "presenter": "M. Renee Johnson, Deputy Director, Parks and Recreation Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "CECAP Goal 3 Fleet Electrification Annual Update",
+        "description": "Update on the annual progress of fleet electrification.",
+        "presenter": "Vincent Olsen, Director (I), Equipment and Fleet Management",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Water Conservation Minor Plumbing Repair (MPR) Program",
+        "description": "Overview of the water conservation minor plumbing repair program.",
+        "presenter": "M. Elizabeth Cedillo-Pereira, Assistant City Manager",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Interdepartmental Working Group Meeting - 2024 Bond CECAP Resolution",
+        "description": "Discussion on the interdepartmental working group meeting regarding the 2024 Bond CECAP resolution.",
+        "presenter": "M. Elizabeth Cedillo-Pereira, Assistant City Manager",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Parks, Trails and Environment Committee Forecast",
+        "description": "Forecast for the Parks, Trails and Environment Committee.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Parks",
+      "Trails",
+      "Environment",
+      "Safety",
+      "Security",
+      "Fleet Electrification",
+      "Water Conservation",
+      "Plumbing Repair",
+      "Interdepartmental",
+      "Bond",
+      "Forecast"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20527
+}

@@ -1,0 +1,148 @@
+{
+  "agenda_number": 361,
+  "source_file": "Agenda_361.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 25, 2024",
+      "time": "9:00 AM",
+      "type": "Special Called Meeting",
+      "organization": "Quality of Life, Arts, and Culture Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Adam Bazaldua",
+      "presenters": [
+        "Casey Burgess",
+        "Omar Narvaez",
+        "Daisy Torres",
+        "Paul Ramon",
+        "Martine Elyse Philippe",
+        "Clifton Gillespie",
+        "Emily Liu",
+        "Dr. Lindsey Wilson",
+        "Clifford Sparks"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the May 20, 2024, Quality of Life, Arts, and Culture Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": "Adam Bazaldua",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Urban Agriculture and Chapter 251 of the Texas Agriculture Code",
+        "description": "Overview of changes to Chapter 251 of the Texas Agriculture Code and potential actions the city may desire to take.",
+        "presenter": "Casey Burgess",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Consider amending the one-year limitation on subsequent representation by former councilmembers and former members of boards, commissions, and other city bodies in Chapter 12A",
+        "description": "Discussion on amending the ethics code regarding former city officials.",
+        "presenter": "Omar Narvaez",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "311 Customer Service Budget Review",
+        "description": "Review of the budget for the 311 Customer Service department.",
+        "presenter": "Daisy Torres",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Dallas Animal Services Budget Review",
+        "description": "Review of the budget for Dallas Animal Services.",
+        "presenter": "Paul Ramon",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Office of Arts and Culture Budget Review",
+        "description": "Review of the budget for the Office of Arts and Culture.",
+        "presenter": "Martine Elyse Philippe",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Department of Sanitation Services Budget Review",
+        "description": "Review of the budget for the Department of Sanitation Services.",
+        "presenter": "Clifton Gillespie",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Consideration of a Boundary Adjustment with the City of University Park",
+        "description": "Discussion on the boundary adjustment for Michael M. Boone Elementary and adjacent church.",
+        "presenter": "Emily Liu",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "National League of Cities - Cities Addressing Fines and Fees Equitably (CAFFE): People and Pets Assistance Program Grant Approval",
+        "description": "Approval of grant funding to address disparities in fines and fees.",
+        "presenter": "Dr. Lindsey Wilson",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "I",
+        "title": "Legislative Priorities",
+        "description": "Discussion on proposed legislative priorities for the upcoming session.",
+        "presenter": "Clifford Sparks",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "Quality of Life, Arts, and Culture Committee Forecast",
+        "description": "Forecast of upcoming agenda items and discussions.",
+        "presenter": "City Manager's Office",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Quality of Life",
+      "Arts",
+      "Culture",
+      "Budget Review",
+      "Urban Agriculture",
+      "Animal Services",
+      "Sanitation",
+      "Legislative Priorities",
+      "Fines and Fees",
+      "Boundary Adjustment"
+    ],
+    "financial_items": [
+      {
+        "description": "311 Customer Service Budget",
+        "amount": "$6,331,204",
+        "type": "budget"
+      },
+      {
+        "description": "Dallas Animal Services Budget",
+        "amount": null,
+        "type": "budget"
+      },
+      {
+        "description": "Office of Arts and Culture Budget",
+        "amount": "$30,207,372",
+        "type": "budget"
+      },
+      {
+        "description": "Department of Sanitation Services Budget",
+        "amount": "$158.8 million",
+        "type": "budget"
+      },
+      {
+        "description": "CAFFE Grant Approval",
+        "amount": "$40,000",
+        "type": "grant"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 175657
+}

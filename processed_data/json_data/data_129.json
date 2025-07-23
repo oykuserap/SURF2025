@@ -1,0 +1,136 @@
+{
+  "agenda_number": 129,
+  "source_file": "Agenda_129.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 9, 2025",
+      "time": "10:00 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Park & Recreation Board",
+      "location": "Dallas City Hall, 6FN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Arun Agarwal",
+      "presenters": [
+        "Christina Turner-Noteware"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Samuell Farm",
+        "description": "Authorize an application for the Texas Parks and Wildlife Department Target Range Program reimbursable grant that provides a funding amount not to exceed $250,000.00 for the design of an archery range for Samuell Farm.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Tipton Park",
+        "description": "Authorize a construction services contract for the existing pavilion demolition, new pavilion installation and new sidewalk installation with webuildfun, Inc. through the Texas Association of School Boards (BuyBoard) for the Tipton Park Pavilion Replacement located at 3607 Magdeline Street.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Five Mile Creek Trail",
+        "description": "Authorize an Advance Funding Agreement with the Texas Department of Transportation (TxDOT) for design and construction of the Five Mile Creek Trail.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Five Mile Creek Trail",
+        "description": "Authorize an Advance Funding Agreement with the Texas Department of Transportation for design and construction of the Five Mile Creek Trail.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Glendale Park",
+        "description": "Authorize a construction services contract for the construction of the Glendale Park Phase I Improvements Project.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "West Trinity Heights Park",
+        "description": "Authorize the rescission of the authorization of a public hearing to be held on December 11, 2024, and a public hearing to be held on March 26, 2025.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Roland G. Parrish Park",
+        "description": "Authorize a construction services contract for the construction of the Roland G. Parrish Park Improvements Project.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Hillcrest Village",
+        "description": "Authorize a six-month service contract to purchase and install Synthetic/Artificial Turf and Sand Infill at Hillcrest Village.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "Timberglen Trail",
+        "description": "Authorize the acceptance of a grant from the United States Department of Transportation Federal Highway Administration for the Congestion Mitigation & Air Quality (CMAQ) Program.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Park & Recreation",
+      "meeting",
+      "grant",
+      "construction",
+      "funding",
+      "public hearing",
+      "improvements",
+      "contract",
+      "Texas Department of Transportation",
+      "CMAQ",
+      "Samuell Farm",
+      "Tipton Park",
+      "Five Mile Creek Trail",
+      "Glendale Park"
+    ],
+    "financial_items": [
+      {
+        "description": "Funding for the design of an archery range for Samuell Farm",
+        "amount": "$250,000.00",
+        "type": "grant"
+      },
+      {
+        "description": "Construction services contract for Tipton Park Pavilion Replacement",
+        "amount": "$334,782.00",
+        "type": "contract"
+      },
+      {
+        "description": "Funding for Five Mile Creek Trail design and construction",
+        "amount": "$8,667,496.00",
+        "type": "grant"
+      },
+      {
+        "description": "Funding for Five Mile Creek Trail design and construction",
+        "amount": "$16,101,316.00",
+        "type": "grant"
+      },
+      {
+        "description": "Construction services contract for Glendale Park Phase I Improvements",
+        "amount": "$1,830,638.40",
+        "type": "contract"
+      },
+      {
+        "description": "Funding for Timberglen Trail project",
+        "amount": "$3,716,251.00",
+        "type": "grant"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18694
+}

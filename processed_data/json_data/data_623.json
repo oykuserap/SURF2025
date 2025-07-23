@@ -1,0 +1,94 @@
+{
+  "agenda_number": 623,
+  "source_file": "Agenda_623.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 18, 2023",
+      "time": "12:00 P.M.",
+      "type": "Hybrid Meeting",
+      "organization": "Dallas Senior Affairs Commission",
+      "location": "Dallas City Hall, L1FN Auditorium and Videoconference"
+    },
+    "attendees": {
+      "chair": "Peter Kline",
+      "presenters": [
+        "Peter Kline",
+        "Office of Community Care"
+      ],
+      "participants": [
+        "SAC Commissioners for each District"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Peter Kline",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "2 minutes per speaker",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "November 27, 2023 regular meeting and workshop",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Reports of Officers, Boards, Standing Committees",
+        "description": "Chair’s Report and District Updates",
+        "presenter": "Peter Kline",
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Unfinished Business/General Orders",
+        "description": "Discussion on 2024 Senior Affairs Commission Priorities and Goals, and 2024 Annual Report Draft Feedback",
+        "presenter": "Peter Kline",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Staff Reports/Briefings",
+        "description": "Briefing on Senior Services Program & Contracts",
+        "presenter": "Office of Community Care",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Senior Affairs Commission",
+      "Hybrid Meeting",
+      "Public Speakers",
+      "Approval of Minutes",
+      "Reports",
+      "Unfinished Business",
+      "General Orders",
+      "Staff Reports",
+      "Senior Services",
+      "2024 Priorities",
+      "2024 Annual Report",
+      "Videoconference",
+      "Community Care",
+      "District Updates"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10697
+}

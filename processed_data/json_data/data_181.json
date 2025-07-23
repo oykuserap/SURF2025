@@ -1,0 +1,75 @@
+{
+  "agenda_number": 181,
+  "source_file": "Agenda_181.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 21, 2024",
+      "time": "4:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Arts and Culture Advisory Commission",
+      "location": "Dallas City Hall, 6FN - Park and Recreation Board Room and Videoconference, 1500 Marilla Street"
+    },
+    "attendees": {
+      "chair": "David Small",
+      "presenters": [
+        "David Small",
+        "Jesse Geiger",
+        "Nico Leone",
+        "Commissioner Augustine Jalomo",
+        "Commissioner Jim Nugent",
+        "Commissioner Vicki Meek",
+        "Martine Philippe"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the October 17, 2024, Arts and Culture Advisory Commission meeting minutes.",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Recommendation to initiate the planning process for a public art installation at the Dallas Police Academy.",
+        "description": "To be funded using 2024 Bond Funds.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Recommendation(s) for Quality of Life, Arts and Culture Committee regarding FY 2024-25 Cultural Organizations Program funding allocation.",
+        "description": "For Dallas Black Dance Theatre, Incorporated pursuant to remand by City Council on October 23, 2024.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Arts and Culture",
+      "Public Art",
+      "Dallas Police Academy",
+      "Cultural Organizations",
+      "Funding Allocation",
+      "Commission Meeting",
+      "Executive Session",
+      "Public Speakers",
+      "Cultural Planning",
+      "Equity Updates",
+      "Annual Report",
+      "City Hall",
+      "Videoconference",
+      "Community Engagement",
+      "Dallas"
+    ],
+    "financial_items": [
+      {
+        "description": "Funding for public art installation",
+        "amount": "2024 Bond Funds",
+        "type": "funding"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11644
+}

@@ -1,0 +1,134 @@
+{
+  "agenda_number": 675,
+  "source_file": "Agenda_675.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 14, 2023",
+      "time": "1:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Government Performance and Financial Management Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Andrew Espinoza",
+        "Nina Arias",
+        "Sara Dempsey",
+        "Jeff Wada",
+        "Robert Perez"
+      ],
+      "participants": [
+        "City Council Members",
+        "City Manager's Office",
+        "Department of Development Services",
+        "Department of Human Resources",
+        "Office of the City Auditor",
+        "Office of Government Affairs"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the October 23, 2023 Government Performance and Financial Management Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Development Services- Monthly Update & Process Map Improvements for October 2023",
+        "description": "Monthly update on development services and improvements to process maps.",
+        "presenter": "Andrew Espinoza",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Personnel Rules Updates",
+        "description": "Updates to the personnel rules.",
+        "presenter": "Nina Arias",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Recommended 2024 External Audit Work Plan",
+        "description": "Presentation of the recommended work plan for external audits in 2024.",
+        "presenter": "Sara Dempsey, Jeff Wada",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "City-wide Real Estate Issues and Opportunities",
+        "description": "Discussion on real estate issues and opportunities across the city.",
+        "presenter": "Robert Perez",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "GPFM Two-Month Forecast",
+        "description": "Forecast for the Government Performance and Financial Management Committee for the next two months.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Budget Accountability Report Information as of September 30, 2023",
+        "description": "Report on budget accountability as of the end of September 2023.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Technology Accountability Report Information as of October 31, 2023",
+        "description": "Report on technology accountability as of the end of October 2023.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "State Fair of Texas Financial Report for years ending December 31, 2022 and 2021",
+        "description": "Financial report for the State Fair of Texas for the specified years.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Office of the City Auditor Monthly Update on Internal Audit Reports Released Between October 14, 2023 and November 3, 2023",
+        "description": "Monthly update on internal audit reports.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "Recommended 2024 Annual Internal Audit Plan",
+        "description": "Presentation of the recommended internal audit plan for 2024.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "K",
+        "title": "2025 Legislative Priorities",
+        "description": "Discussion on the legislative priorities for 2025.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Government Performance",
+      "Financial Management",
+      "City Council",
+      "Development Services",
+      "Personnel Rules",
+      "External Audit",
+      "Real Estate",
+      "Budget Accountability",
+      "Technology Accountability",
+      "State Fair of Texas",
+      "Internal Audit",
+      "Legislative Priorities"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20883
+}

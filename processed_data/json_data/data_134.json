@@ -1,0 +1,37 @@
+{
+  "agenda_number": 134,
+  "source_file": "Agenda_134.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 7, 2025",
+      "time": "1:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Government Performance and Financial Management Committee",
+      "location": "COUNCIL BRIEFING ROOM, CITY HALL, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "Government Performance",
+      "Financial Management",
+      "Committee",
+      "Dallas",
+      "Council",
+      "Executive Session",
+      "Litigation",
+      "Real Property",
+      "Contract",
+      "Public Officer",
+      "Security",
+      "Economic Development",
+      "Incentives"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 5440
+}

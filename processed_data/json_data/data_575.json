@@ -1,0 +1,66 @@
+{
+  "agenda_number": 575,
+  "source_file": "Agenda_575.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 1, 2024",
+      "time": "12:00 PM – 12:30 PM",
+      "type": "Joint Meeting",
+      "organization": "Dallas Area Partnership to End and Prevent Homelessness Local Government Corporation & Citizen Homelessness Commission",
+      "location": "Dallas City Hall, 6ES, Council Briefing Room, 1500 Marilla St., Dallas TX 75201 or join by WebEx"
+    },
+    "attendees": {
+      "chair": "Cara Mendelsohn",
+      "presenters": [
+        "Cara Mendelsohn",
+        "LeTitia Owens"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call Meeting to Order and Roll Call",
+        "description": "Declare A Quorum Present and Declare Legal Notice Posted and Meeting Duly Called",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "2",
+        "title": "Public Comment",
+        "description": "Public comment with a 2-minute limit per speaker",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Discussion: Hope Report Recommendation",
+        "description": "Discussion on the recommendation to eliminate duplicative oversight committees",
+        "presenter": "Cara Mendelsohn, LeTitia Owens",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "4",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": "adjourn"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Homelessness",
+      "Partnership",
+      "Citizen Commission",
+      "Public Comment",
+      "Quorum",
+      "Oversight Committees",
+      "Discussion",
+      "Meeting",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 5382
+}

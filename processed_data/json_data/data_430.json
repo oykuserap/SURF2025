@@ -1,0 +1,77 @@
+{
+  "agenda_number": 430,
+  "source_file": "Agenda_430.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 8, 2024",
+      "time": "5:30 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Environmental Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference (Webex)"
+    },
+    "attendees": {
+      "chair": "Kathryn Bazan",
+      "presenters": [
+        "Carlos Evans"
+      ],
+      "participants": [
+        "Esther Villarreal",
+        "Teresita Delgado",
+        "Andrew Siegel",
+        "Mark Wootton",
+        "Colleen Murray",
+        "Michael Cook",
+        "Barry Lachman",
+        "Tracy Wallace",
+        "Gregory Michaelson",
+        "Temeckia Derrough",
+        "Paula Day",
+        "Renee Roberson",
+        "Julie Hiromoto"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from the meetings held on March 6, 2024, and April 10, 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Briefing Memo",
+        "description": "Q2 CECAP Update presented by Carlos Evans, Director, Office of Environmental Quality & Sustainability.",
+        "presenter": "Carlos Evans",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Discussion Items",
+        "description": "Various discussion items including introduction of new commission members, appointment to subcommittees, and monthly updates.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Environmental Commission",
+      "meeting",
+      "public speakers",
+      "approval of minutes",
+      "briefing memo",
+      "CECAP",
+      "discussion items",
+      "subcommittees",
+      "monthly updates",
+      "upcoming meetings",
+      "environmental health",
+      "environmental justice",
+      "strategic partnerships",
+      "community engagement"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11216
+}

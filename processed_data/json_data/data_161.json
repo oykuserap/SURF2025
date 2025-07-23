@@ -1,0 +1,84 @@
+{
+  "agenda_number": 161,
+  "source_file": "Agenda_161.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 9, 2024",
+      "time": "2:00 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Tax Increment Financing Reinvestment Zone Number Eight Board of Directors",
+      "location": "Dallas City Hall, 6DN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Sue Hounsel, Senior Manager, Office of Economic Development"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to order and introduction of meeting participants",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Public comments pertaining to agenda items 3 through 5",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Review and consider the Meeting Record of the November 20, 2024, Design District TIF District Board Meeting",
+        "description": "",
+        "presenter": "Sue Hounsel, Senior Manager, Office of Economic Development",
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "4",
+        "title": "Review and consideration of the Design District TIF District Annual Report for FY 2023-2024",
+        "description": "",
+        "presenter": "Sue Hounsel, Senior Manager, Office of Economic Development",
+        "action_required": "Approval and forward a recommendation of approval to the City Council"
+      },
+      {
+        "item_number": "5",
+        "title": "Review and consideration of a regular meeting schedule for the Design District TIF District Board of Directors for calendar year 2025",
+        "description": "",
+        "presenter": "Sue Hounsel, Senior Manager, Office of Economic Development",
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "6",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Tax Increment Financing",
+      "Reinvestment Zone",
+      "Design District TIF District",
+      "Board of Directors",
+      "Meeting Record",
+      "Annual Report",
+      "FY 2023-2024",
+      "Regular Meeting Schedule",
+      "City Council",
+      "Approval",
+      "Public Comments",
+      "Economic Development",
+      "Videoconference",
+      "Equity and Inclusion"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9970
+}

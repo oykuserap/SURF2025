@@ -1,0 +1,77 @@
+{
+  "agenda_number": 521,
+  "source_file": "Agenda_521.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 6, 2024",
+      "time": "9:00 AM",
+      "type": "Council Briefing",
+      "organization": "City Council of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the February 21, 2024 City Council Meeting",
+        "description": null,
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Consideration of appointments to boards and commissions",
+        "description": "Evaluation and duties of board and commission members (List of nominees is available in the City Secretary's Office)",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "A",
+        "title": "I-345 Connects-Schematic/Environmental Phase",
+        "description": "Presentation",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Kay Bailey Hutchison Convention Center Dallas Master Plan",
+        "description": "Convention Center Component Update",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Discussion of Major Downtown Transportation Initiatives",
+        "description": "Eddie Bernice Johnson Union Station, High-Speed Rail, and Streetcar Expansion",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Vision Zero Update",
+        "description": "Presentation",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "Council Briefing",
+      "appointments",
+      "boards and commissions",
+      "I-345",
+      "Kay Bailey Hutchison Convention Center",
+      "transportation initiatives",
+      "Vision Zero",
+      "public meeting",
+      "videoconference"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20782
+}

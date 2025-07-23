@@ -1,0 +1,117 @@
+{
+  "agenda_number": 666,
+  "source_file": "Agenda_666.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 20, 2023",
+      "time": "6:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "MLK Advisory Board",
+      "location": "Martin Luther King, Jr. Community Center, Activity Room A and online via WebEx"
+    },
+    "attendees": {
+      "chair": "Mrs. Clara Brown-Trimble",
+      "presenters": [
+        "Mr. Casey Phillips",
+        "Dr. Jamel Slaughter",
+        "Ms. Pamela R. Jones",
+        "Mrs. LaRhonda Bacon"
+      ],
+      "participants": [
+        "Public Speakers",
+        "MLK Advisory Board Member"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order/Welcome",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Invocation/Opening Statement",
+        "description": "",
+        "presenter": "MLK Advisory Board Member",
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Advisory Board Member & City Staff Roll Call",
+        "description": "",
+        "presenter": "Mrs. LaRhonda Bacon",
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Public Comments",
+        "description": "",
+        "presenter": "Public Speakers",
+        "action_required": null
+      },
+      {
+        "item_number": "5",
+        "title": "Approval of October 16, 2023, Minutes",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "2024 MLK Fest",
+        "description": "",
+        "presenter": "Mr. Casey Phillips",
+        "action_required": null
+      },
+      {
+        "item_number": "7",
+        "title": "2023 Annual Report due February 1, 2024 - Volunteers Needed",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": null
+      },
+      {
+        "item_number": "8",
+        "title": "Discussion: 2024 MLK Celebration Week",
+        "description": "Includes events such as Day of Reflection, Job Fair, Youth Summit, Equity Symposium, Candle Lighting Ceremony, and Gala.",
+        "presenter": "Dr. Jamel Slaughter",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "9",
+        "title": "2023 MLK Center Manager Update",
+        "description": "Updates on Fresh Produce Distribution, Volunteer Opportunities, and Events and Programs.",
+        "presenter": "Ms. Pamela R. Jones",
+        "action_required": null
+      },
+      {
+        "item_number": "10",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "MLK Advisory Board",
+      "Community Center",
+      "Public Comments",
+      "2024 MLK Fest",
+      "Annual Report",
+      "Celebration Week",
+      "Volunteer Opportunities",
+      "Events",
+      "Public Speakers",
+      "Invocation",
+      "Roll Call",
+      "Minutes Approval",
+      "Discussion",
+      "Updates"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 6164
+}

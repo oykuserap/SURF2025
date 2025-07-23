@@ -1,0 +1,95 @@
+{
+  "agenda_number": 315,
+  "source_file": "Agenda_315.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 20, 2024",
+      "time": "10:00 A.M. and 1:00 P.M.",
+      "type": "Board of Adjustment Meeting",
+      "organization": "Board of Adjustment (Panel A)",
+      "location": "Dallas City Hall, Room 6ES, Videoconference"
+    },
+    "attendees": {
+      "chair": "David A. Neumann",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "David A. Neumann",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Staff Presentation/Briefing",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Public Hearing",
+        "description": "Board of Adjustment",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Public Testimony",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "5",
+        "title": "Miscellaneous Items",
+        "description": "Approval of Panel A Minutes, July 16, 2024",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Case Docket",
+        "description": "Uncontested Items - Holdover Items - Individual Items",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "7",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Board of Adjustment",
+      "Dallas City Hall",
+      "Public Hearing",
+      "Variance",
+      "Setback Regulations",
+      "Landscaping Regulations",
+      "Fence Height Regulations",
+      "Public Testimony",
+      "Minutes Approval",
+      "Case Docket",
+      "Executive Session",
+      "Auxiliary Aid",
+      "Video Conference",
+      "Registration",
+      "Uncontested Cases"
+    ],
+    "financial_items": [
+      {
+        "description": "Fee reimbursement for fees paid to appeal the decision of the administrative official.",
+        "amount": null,
+        "type": "fee reimbursement"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 14272
+}

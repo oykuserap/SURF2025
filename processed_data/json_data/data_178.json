@@ -1,0 +1,64 @@
+{
+  "agenda_number": 178,
+  "source_file": "Agenda_178.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 26, 2024",
+      "time": "2:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Commission on Disabilities",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference (Webex)"
+    },
+    "attendees": {
+      "chair": "John Kalkanli",
+      "presenters": [
+        "John Kalkanli",
+        "Tammy Haenftling"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of the October 22, 2024, Commission on Disabilities Special Meeting Minutes",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Chairman Report",
+        "description": "Chairman John Kalkanli will review his attendance and presentation at the Governor’s Committee on People with Disabilities Quarterly Meeting on October 29, 2024 and his attendance and speech at the 2024 North Texas UN Town Hall on November 16, 2024.",
+        "presenter": "John Kalkanli",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "DART Mobility Management Services Update",
+        "description": "Tammy Haenftling will provide an update of DART’s Mobility Management Services.",
+        "presenter": "Tammy Haenftling",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Commission on Disabilities",
+      "Regular Meeting",
+      "Dallas City Hall",
+      "Approval of Minutes",
+      "Chairman Report",
+      "DART Mobility Management Services",
+      "Public Comment",
+      "Equity & Inclusion",
+      "Governor’s Committee",
+      "North Texas UN Town Hall",
+      "Mobility Management",
+      "Video Conference",
+      "Public Participation",
+      "Executive Session",
+      "Handgun Prohibition"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9479
+}

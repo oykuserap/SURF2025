@@ -1,0 +1,89 @@
+{
+  "agenda_number": 672,
+  "source_file": "Agenda_672.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 15th, 2023",
+      "time": "10:30 A.M. and 1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Board of Adjustment (Panel B)",
+      "location": "Dallas City Hall, 6ES, and Videoconference"
+    },
+    "attendees": {
+      "chair": "Cherri Gambow, Vice-Chair",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Cherri Gambow, Vice-Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Staff Presentation/Briefing",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Public Hearing",
+        "description": "Board of Adjustment",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Public Testimony",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Miscellaneous Items",
+        "description": "Approval of Special Call Meeting Minutes – October 31, 2023 and Approval of Panel B Minutes – October 18th, 2023",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Case Docket",
+        "description": "Uncontested Items, Holdover Items, Individual Items",
+        "presenter": "Board of Adjustment",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Board of Adjustment",
+      "Public Hearing",
+      "Public Testimony",
+      "Miscellaneous Items",
+      "Case Docket",
+      "Variance",
+      "Special Exception",
+      "Landscaping Regulations",
+      "Fence Height Regulations",
+      "Meeting Accommodations",
+      "Dallas City Hall",
+      "Videoconference",
+      "Executive Session",
+      "Uncontested Cases",
+      "Individual Cases"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 13491
+}

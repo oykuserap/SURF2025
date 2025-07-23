@@ -1,0 +1,88 @@
+{
+  "agenda_number": 232,
+  "source_file": "Agenda_232.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 22nd, 2024",
+      "time": "10:30 A.M. and 1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Board of Adjustment (Panel A)",
+      "location": "Dallas City Hall, Room L1FN AUDITORIUM and Videoconference"
+    },
+    "attendees": {
+      "chair": "David A. Neumann",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "David A. Neumann",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Staff Presentation/Briefing",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Public Hearing",
+        "description": "Board of Adjustment",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Public Testimony",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "5",
+        "title": "Miscellaneous Items",
+        "description": "Approval of Panel A Minutes, September 17th, 2024",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Case Docket",
+        "description": "Uncontested Items, Holdover Items, Individual Items",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "7",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Board of Adjustment",
+      "Dallas",
+      "Public Hearing",
+      "Staff Presentation",
+      "Public Testimony",
+      "Miscellaneous Items",
+      "Case Docket",
+      "Uncontested Items",
+      "Holdover Items",
+      "Minutes Approval",
+      "Adjournment",
+      "October 22nd, 2024",
+      "Videoconference",
+      "Dallas City Hall"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 14823
+}

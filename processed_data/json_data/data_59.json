@@ -1,0 +1,132 @@
+{
+  "agenda_number": 59,
+  "source_file": "Agenda_59.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 20, 2025",
+      "time": "1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Citizen Homelessness Commission",
+      "location": "J. Erik Jonsson Central Library, 1515 Young St, 6th Floor Classroom G and Videoconference"
+    },
+    "attendees": {
+      "chair": "Linda Garner",
+      "presenters": [
+        "Sarah Kahn",
+        "Christine Crossley",
+        "James Hauck",
+        "Tramonica Brown",
+        "Wesley Keyes",
+        "Angela Klattenhoff",
+        "Gailya Silhan"
+      ],
+      "participants": [
+        "Rae Clay",
+        "Barry Dyson",
+        "Lisa Rand"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call Meeting to Order and Roll Call",
+        "description": "Declare A Quorum Present, Declare Legal Notice Posted and Meeting Duly Called",
+        "presenter": "Linda Garner",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Comments",
+        "description": "Limit 2 minutes per speaker",
+        "presenter": "Linda Garner",
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from January 16, 2025",
+        "presenter": "Linda Garner",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Discussion: Street to Home Initiative",
+        "description": "Overview of the initiative and related City Council Agenda Item #28",
+        "presenter": "Sarah Kahn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Discussion: Temporary Inclement Weather Activation",
+        "description": "Briefing Memo sent to CHC via email 2/14/25",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Briefing Memo: Properties Updates",
+        "description": "Updates on Property Development and Housing Initiatives",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Task Force Update: Highlighting Ongoing Initiatives and Priorities",
+        "description": "Updates from various task forces including Public Engagement and Racial Equity",
+        "presenter": "Linda Garner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Discussion on Point-In-Time (PIT) Count",
+        "description": "Discussion on the Point-In-Time Count",
+        "presenter": "Gailya Silhan",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IX",
+        "title": "Discussion on District Specific Homelessness Concerns",
+        "description": "Observations and discussions on district-specific concerns",
+        "presenter": "Linda Garner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "X",
+        "title": "Proposed Items for Next/Future Meetings",
+        "description": "No discussion, debate, and/or vote",
+        "presenter": "Linda Garner",
+        "action_required": null
+      },
+      {
+        "item_number": "XI",
+        "title": "Announcement of Upcoming Meetings",
+        "description": "Details of upcoming meetings",
+        "presenter": "Linda Garner",
+        "action_required": null
+      },
+      {
+        "item_number": "XII",
+        "title": "Adjournment",
+        "description": "End of the meeting",
+        "presenter": "Linda Garner",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Citizen Homelessness Commission",
+      "Public Comments",
+      "Approval of Minutes",
+      "Street to Home Initiative",
+      "Temporary Inclement Weather Activation",
+      "Properties Updates",
+      "Task Force Update",
+      "Point-In-Time Count",
+      "District Specific Homelessness",
+      "Upcoming Meetings",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11738
+}

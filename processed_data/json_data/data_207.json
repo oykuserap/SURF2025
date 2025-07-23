@@ -1,0 +1,130 @@
+{
+  "agenda_number": 207,
+  "source_file": "Agenda_207.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 7, 2024",
+      "time": "10:00 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Park & Recreation Board",
+      "location": "Dallas City Hall, 6FN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Arun Agarwal",
+      "presenters": [
+        "Christina Turner-Noteware",
+        "John Lawrence",
+        "Rachael Berry"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Arun Agarwal",
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from the meeting on October 17, 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.1",
+        "title": "Crawford Memorial Park",
+        "description": "Authorize acceptance of a grant from the Texas Parks and Wildlife Department for the development of Crawford Memorial Park.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.2",
+        "title": "Cotton Bowl",
+        "description": "Authorize Supplemental Agreement No. 4 to the architecture contract for the Cotton Bowl Renovation.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.3",
+        "title": "Land Acquisition",
+        "description": "Authorize acquisition from Hildebrand Partnership of approximately 587,174 square feet of improved land for use as a community park.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.4",
+        "title": "Board Meeting Schedule",
+        "description": "Authorize adoption of the proposed 2025 Park and Recreation Board Meeting Schedule.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI.5",
+        "title": "White Rock Lake Erosion Update",
+        "description": "",
+        "presenter": "Christina Turner-Noteware",
+        "action_required": null
+      },
+      {
+        "item_number": "VI.6",
+        "title": "Planning & Construction Project Update",
+        "description": "",
+        "presenter": "Christina Turner-Noteware",
+        "action_required": null
+      },
+      {
+        "item_number": "VI.7",
+        "title": "Youth Sports Division Update",
+        "description": "",
+        "presenter": "John Lawrence",
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "Budget Development Update",
+        "description": "",
+        "presenter": "Rachael Berry",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Park & Recreation Board",
+      "Crawford Memorial Park",
+      "Cotton Bowl",
+      "Land Acquisition",
+      "Board Meeting Schedule",
+      "White Rock Lake",
+      "Erosion Update",
+      "Planning & Construction",
+      "Youth Sports",
+      "Budget Development",
+      "Grant",
+      "Architectural Services",
+      "Community Park",
+      "Meeting Schedule",
+      "Public Speakers"
+    ],
+    "financial_items": [
+      {
+        "description": "Grant from the Texas Parks and Wildlife Department for Crawford Memorial Park",
+        "amount": "$1,500,000.00",
+        "type": "grant"
+      },
+      {
+        "description": "Supplemental Agreement for Cotton Bowl Renovation",
+        "amount": "$336,213.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Acquisition of land for community park",
+        "amount": "$13,650,000.00",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 13088
+}

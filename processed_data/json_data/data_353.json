@@ -1,0 +1,87 @@
+{
+  "agenda_number": 353,
+  "source_file": "Agenda_353.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "July 10, 2024",
+      "time": "5:30 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Environmental Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference (Webex)"
+    },
+    "attendees": {
+      "chair": "Kathryn Bazan",
+      "presenters": [
+        "M. Renee Johnson",
+        "David Lopez",
+        "Chris McMaster",
+        "Alfredo Ortiz",
+        "Natalie Requenez"
+      ],
+      "participants": [
+        "Esther Villarreal",
+        "Andrew Siegel",
+        "Mark Wootton",
+        "Colleen Murray",
+        "Michael Cook",
+        "Barry Lachman",
+        "Tracy Wallace",
+        "Gregory Michaelson",
+        "Temeckia Derrough",
+        "Paula Day",
+        "Renee Roberson",
+        "Julie Hiromoto"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from previous meetings on March 6, 2024, April 10, 2024, and May 8, 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.a",
+        "title": "Urban Forest Master Plan Update",
+        "description": "Update on the Urban Forest Master Plan.",
+        "presenter": "M. Renee Johnson, Assistant Director, Parks and Recreation Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V.b",
+        "title": "Dallas Community Air Management Program (DCAMP) Update",
+        "description": "Update on the Dallas Community Air Management Program.",
+        "presenter": "Alfredo Ortiz, Environmental Coordinator lll, Office of Environmental Quality & Sustainability",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI.a",
+        "title": "Bond Performance Criteria Update",
+        "description": "Update on Bond Performance Criteria.",
+        "presenter": "Natalie Requenez, Environmental Justice Coordinator, Office of Environmental Quality & Sustainability",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Environmental Commission",
+      "Regular Meeting",
+      "Urban Forest Master Plan",
+      "Community Air Management",
+      "Bond Performance",
+      "Public Speaker",
+      "Minutes Approval",
+      "Subcommittee Updates",
+      "District Updates",
+      "Upcoming Meetings",
+      "Environmental Quality",
+      "Sustainability",
+      "Parks and Recreation",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10844
+}

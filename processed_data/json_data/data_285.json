@@ -1,0 +1,76 @@
+{
+  "agenda_number": 285,
+  "source_file": "Agenda_285.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 10, 2024",
+      "time": "10:00 AM",
+      "type": "Ad Hoc Committee Meeting",
+      "organization": "Dallas City Council Ad Hoc Committee on Administrative Affairs",
+      "location": "Dallas City Hall, Council Chambers and via video conference"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [],
+      "participants": [
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Blackmon",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Willis",
+        "Schultz",
+        "Johnson"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes of the September 3, 2024, meeting of the Ad Hoc Committee on Administrative Affairs.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Discuss Dallas City Manager Brochure",
+        "description": "Discuss the finalizing of the Dallas City Manager Brochure prepared by Baker Tilley.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Resolution on Legislative Travel Funds",
+        "description": "A resolution amending the city's policy governing the use of legislature travel funds in order to more efficiently allow for councilmembers to travel to Austin and Washington D.C to speak on legislative matters.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "Ad Hoc Committee",
+      "Administrative Affairs",
+      "minutes approval",
+      "Dallas City Manager",
+      "Baker Tilley",
+      "legislative travel funds",
+      "Austin",
+      "Washington D.C.",
+      "resolution",
+      "discussion",
+      "public meeting",
+      "video conference",
+      "City Hall",
+      "Council Chambers"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18578
+}

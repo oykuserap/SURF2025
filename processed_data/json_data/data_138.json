@@ -1,0 +1,64 @@
+{
+  "agenda_number": 138,
+  "source_file": "Agenda_138.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 6, 2025",
+      "time": "12:00 PM",
+      "type": "Ad Hoc Committee Meeting",
+      "organization": "City Council Ad Hoc Committee on Legislative Affairs",
+      "location": "Council Briefing Room, 6ES City Hall, Dallas, Texas; also available via videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "James Anderson, Director (I), Office of Government Affairs",
+        "Bart Bevers, Inspector General (I), Office of the Inspector General"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the August 27, 2024, Ad Hoc Committee on Legislative Affairs Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Review of legislative priorities and recommendations for removal/addition of items for City Council consideration",
+        "description": "Discussion on legislative priorities and recommendations for changes.",
+        "presenter": "James Anderson, Director (I), Office of Government Affairs; Bart Bevers, Inspector General (I), Office of the Inspector General",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Discussion of legislative testimony assignments by councilmembers",
+        "description": "Discussion regarding the assignments of legislative testimony for councilmembers.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Ad Hoc Committee",
+      "Legislative Affairs",
+      "City Council",
+      "videoconference",
+      "legislative priorities",
+      "testimony assignments",
+      "public meeting",
+      "Dallas",
+      "government",
+      "minutes approval",
+      "discussion",
+      "recommendations",
+      "executive session",
+      "real property",
+      "financial information"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 5382
+}

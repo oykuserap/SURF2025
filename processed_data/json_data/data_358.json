@@ -1,0 +1,84 @@
+{
+  "agenda_number": 358,
+  "source_file": "Agenda_358.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 25th, 2024",
+      "time": "3:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Commission on Disabilities",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "John Kalkanli",
+      "presenters": [
+        "John Kalkanli",
+        "Melonie Curry"
+      ],
+      "participants": [
+        "Christina Puga",
+        "Gay Revi",
+        "Starlet Ramirez",
+        "Rod Hooker",
+        "Chris Bellew"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of the May 28th, 2024 Commission on Disabilities meeting minutes.",
+        "presenter": "John Kalkanli",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Officer Reports",
+        "description": "Chairman John Kalkanli will discuss the Department of Justice’s final rule regarding ADA Accessibility for City Websites and Mobile Apps.",
+        "presenter": "John Kalkanli",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Officer Reports",
+        "description": "Chairman John Kalkanli will review his attendance at the 2024 Diversity, Equity, Inclusion and Accessibility (DEIA) Summit.",
+        "presenter": "John Kalkanli",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Officer Reports",
+        "description": "Chairman John Kalkanli will discuss initial plans to hold a team-building retreat for the Commission on Disabilities in July 2024.",
+        "presenter": "John Kalkanli",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Briefings",
+        "description": "Melonie Curry will present on ADA Parking Enforcement and Volunteer Training and Engagement.",
+        "presenter": "Melonie Curry",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Commission on Disabilities",
+      "ADA Accessibility",
+      "Diversity",
+      "Equity",
+      "Inclusion",
+      "Team-building",
+      "Public Speakers",
+      "Officer Reports",
+      "ADA Parking Enforcement",
+      "Volunteer Training",
+      "Meeting Minutes",
+      "Public Participation",
+      "Executive Session",
+      "Mental Health Awareness",
+      "Autism Acceptance Month"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 27650
+}

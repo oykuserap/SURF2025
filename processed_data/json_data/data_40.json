@@ -1,0 +1,67 @@
+{
+  "agenda_number": 40,
+  "source_file": "Agenda_40.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 4, 2025",
+      "time": "5:30 PM",
+      "type": "Regular Meeting",
+      "organization": "Judicial Nominating Commission",
+      "location": "City Hall and via videoconference"
+    },
+    "attendees": {
+      "chair": "Matthew McDougal",
+      "presenters": [
+        "Matthew L. McDougal",
+        "Jarred Davis"
+      ],
+      "participants": [
+        "Karen Gonzalez",
+        "Preston Robinson",
+        "Rodney Patten"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "25-840A",
+        "title": "Approval of the February 13, 2025 Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "25-896A",
+        "title": "Discuss the recruitment and advertisement process and the consideration of appointments of the Administrative Law Judges (ALJ)",
+        "description": "Discussion on the recruitment process and consideration of appointments for ALJs.",
+        "presenter": "Matthew L. McDougal",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "25-841A",
+        "title": "Interview of candidates for City of Dallas- Administrative Law Judge",
+        "description": "Interview candidates for the Administrative Law Judge position.",
+        "presenter": null,
+        "action_required": "interview"
+      }
+    ],
+    "keywords": [
+      "Judicial Nominating Commission",
+      "Administrative Law Judges",
+      "recruitment",
+      "appointments",
+      "videoconference",
+      "City Hall",
+      "interview",
+      "minutes approval",
+      "discussion",
+      "Texas Open Meetings Act",
+      "City of Dallas",
+      "candidates",
+      "advertisement process",
+      "executive session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 14013
+}

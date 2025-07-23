@@ -1,0 +1,156 @@
+{
+  "agenda_number": 260,
+  "source_file": "Agenda_260.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 25, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas City Council",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the September 11, 2024 City Council Meeting",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "An ordinance amending Ordinance No. 32554",
+        "description": "Amending previous ordinances for transfers and appropriation adjustments for FY 2023-24.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Authorize payment of the jury verdict",
+        "description": "Payment related to the lawsuit styled Terry Branch v. Willie Rettig, Lamar Lambert and City of Dallas.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Authorize settlement of the lawsuit",
+        "description": "Settlement of the lawsuit styled Mavel Tovar v. City of Dallas.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Authorize settlement of the lawsuit",
+        "description": "Settlement of the lawsuit styled Tenisha Leonard v. City of Dallas.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "A resolution authorizing the execution of the Second Amendment to Revolving Credit Agreement",
+        "description": "Execution of the Second Amendment to Revolving Credit Agreement with State Street Bank and Trust Company.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Authorize a one-year contract for maintenance and support",
+        "description": "Contract for GovQA Public Records Request Management Software.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Authorize a new seven-year concession contract",
+        "description": "Food and beverage concessions services at Dallas Love Field Airport.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "Authorize a new seven-year concession contract",
+        "description": "Food and beverage concessions services at Dallas Love Field Airport.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Authorize the purchase of eight Pre-Conditioned Air units",
+        "description": "Purchase of HVAC units from Northern Air Systems, Inc.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "meeting",
+      "ordinance",
+      "settlement",
+      "lawsuit",
+      "concession contract",
+      "public records",
+      "HVAC units",
+      "budget",
+      "funding",
+      "appropriation",
+      "approval",
+      "financial",
+      "public hearing",
+      "zoning"
+    ],
+    "financial_items": [
+      {
+        "description": "Transfers and appropriation adjustments for FY 2023-24.",
+        "amount": "$5,729,829,795",
+        "type": "budget"
+      },
+      {
+        "description": "Payment related to the jury verdict in the lawsuit.",
+        "amount": "$60,000",
+        "type": "expenditure"
+      },
+      {
+        "description": "Settlement of the lawsuit styled Mavel Tovar v. City of Dallas.",
+        "amount": "$50,000",
+        "type": "expenditure"
+      },
+      {
+        "description": "Settlement of the lawsuit styled Tenisha Leonard v. City of Dallas.",
+        "amount": "$63,000",
+        "type": "expenditure"
+      },
+      {
+        "description": "Execution of the Second Amendment to Revolving Credit Agreement.",
+        "amount": "$208,000",
+        "type": "financing"
+      },
+      {
+        "description": "Contract for maintenance and support of GovQA Public Records Request Management Software.",
+        "amount": "$146,587",
+        "type": "expenditure"
+      },
+      {
+        "description": "Estimated revenue from food and beverage concessions at Dallas Love Field Airport.",
+        "amount": "$197,384",
+        "type": "revenue"
+      },
+      {
+        "description": "Estimated revenue from food and beverage concessions at Dallas Love Field Airport.",
+        "amount": "$225,000",
+        "type": "revenue"
+      },
+      {
+        "description": "Purchase of eight Pre-Conditioned Air units.",
+        "amount": "$1,021,648",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 121632
+}

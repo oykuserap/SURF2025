@@ -1,0 +1,129 @@
+{
+  "agenda_number": 393,
+  "source_file": "Agenda_393.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 6, 2024",
+      "time": "6:00 P.M.",
+      "type": "Monthly Meeting",
+      "organization": "Community Development Commission (CDC)",
+      "location": "Dallas City Hall, Conference Room 6ES, Videoconference"
+    },
+    "attendees": {
+      "chair": "Melanie Rubin",
+      "presenters": [
+        "Chan Williams, Assistant Director – BMS",
+        "Holly Holt, Assistant Director - Office of Community Care"
+      ],
+      "participants": [
+        "Community Development Coordinator"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": null,
+        "presenter": "Melanie Rubin",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Roll Call",
+        "description": null,
+        "presenter": "Community Development Coordinator",
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Public Speakers",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Approval of Monthly Minutes – May 2, 2024",
+        "description": null,
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Community Development Division Report",
+        "description": "This report may include general greetings and acknowledgements to staff, commission members and other members of the public; introduction of new commission members; additions/changes to committee assignments, scheduling of committee meetings and consideration of future agenda item.",
+        "presenter": "Budget & Management Services (BMS)",
+        "action_required": null
+      },
+      {
+        "item_number": "V.1",
+        "title": "Staff Update on City Managers’ Proposed FY 2024-25 U.S Department of Housing and Urban Development (HUD) Consolidated Plan Budget",
+        "description": null,
+        "presenter": "Chan Williams, Assistant Director – BMS",
+        "action_required": null
+      },
+      {
+        "item_number": "V.2",
+        "title": "Staff presentation on the potential impact of budget reductions in the FY 2024-25 Community Development Block Grant (CDBG), Public Services Category",
+        "description": null,
+        "presenter": "Holly Holt, Assistant Director - Office of Community Care",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Chair’s Report",
+        "description": "This report may include general greetings and acknowledgements to staff, commission members and other members of the public; introduction of new commission members; additions/changes to committee assignments, scheduling of committee meetings and consideration of future agenda item.",
+        "presenter": "Melanie Rubin, Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Vice Chair’s Report",
+        "description": "This report includes general acknowledgements to staff, commission members and members of the public.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "Public Speakers",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Announcement",
+        "description": "Announcements may include: Expressions of thanks, congratulations, or condolence; Information about holiday schedules; honorary or salutary recognition of public officials, employees, or citizens, excluding discussions about changes in their status in public office or employment, reminders about upcoming events organized or sponsored by the governing body; information about social, ceremonial, or community events organized or sponsored by entities other than the governing body, attended or scheduled to be attended by members of the governing body or officials/employees of the political subdivision.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Community Development",
+      "Monthly Meeting",
+      "Dallas City Hall",
+      "Public Speakers",
+      "Budget Management",
+      "HUD Consolidated Plan",
+      "CDBG",
+      "Chair's Report",
+      "Vice Chair's Report",
+      "Announcements",
+      "Meeting Minutes",
+      "Staff Update",
+      "Community Services",
+      "Public Participation",
+      "Equitable Access"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 13323
+}

@@ -1,0 +1,109 @@
+{
+  "agenda_number": 418,
+  "source_file": "Agenda_418.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 16, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City Plan Commission",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Lawrence Agu, III, AICP, Assoc AIA",
+        "Patrick Blaydes",
+        "Teaseia Blue, MBA",
+        "William Dahlstrom",
+        "Michael Pepe",
+        "Martin Bate",
+        "Kirksey Architects",
+        "Tasfia Zahin",
+        "Ami Pankh",
+        "Sarah May, AICP"
+      ],
+      "participants": [
+        "City of Dallas",
+        "Planning and Urban Design Department"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes of the May 2, 2024 City Plan Commission Hearing and May 9, 2024 Special Called City Plan Commission ForwardDallas Meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Development Plan Case 24-1601",
+        "description": "An application for a development plan on property zoned Subdistrict S-1a South Zone, within Planned Development District No. 521.",
+        "presenter": "Teaseia Blue, MBA",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Development Plan Case 24-1602",
+        "description": "An application for a development plan on property zoned Planned Development District No. 889.",
+        "presenter": "Teaseia Blue, MBA",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Development Plan Case 24-1603",
+        "description": "An application for a development plan on property zoned Subdistrict 2E within Planned Development District No. 305.",
+        "presenter": "Teaseia Blue, MBA",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Zoning Case 24-1604",
+        "description": "An application for an amendment to Specific Use Permit No. 2418 for a bed and breakfast use.",
+        "presenter": "Michael Pepe",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Zoning Cases - Under Advisement",
+        "description": "An application for a Specific Use Permit for an auto service center and vehicle display.",
+        "presenter": "Michael Pepe",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "14",
+        "title": "Development Code Amendment",
+        "description": "Consideration of amending Chapter 51A, the Dallas Development Code.",
+        "presenter": "Sarah May, AICP",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "15",
+        "title": "Subdivision Case 24-1620",
+        "description": "An application to replat a 40.242-acre tract of land.",
+        "presenter": "Hema Sharma",
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "City Plan Commission",
+      "Development Plan",
+      "Zoning Cases",
+      "Public Hearing",
+      "Approval of Minutes",
+      "Subdivision",
+      "Amendment",
+      "Planning",
+      "Urban Design",
+      "Dallas",
+      "Public Testimony",
+      "Consent Items",
+      "Action Items",
+      "Committee Appointments"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 52036
+}

@@ -1,0 +1,131 @@
+{
+  "agenda_number": 483,
+  "source_file": "Agenda_483.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 2, 2024",
+      "time": "6:30 PM",
+      "type": "Regular Meeting",
+      "organization": "Charter Review Commission",
+      "location": "Council Chambers, 6th Floor, City Hall and via video conference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the March 26, 2024, Charter Review Commission Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Prohibit the creation of jobs exempt from Civil Service in Chapter XVI",
+        "description": "[Amendment 15]",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Amend Chapter III §13(b) to allow each council committee to elect their own chairs and vice chairs",
+        "description": "[Amendment 122]",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Require that the mayor receive two councilmember co-sponsors for board and commission chair appointments",
+        "description": "[Amendment 96]",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Authorize a limited power of veto for the mayor with a city council override of a two-thirds vote",
+        "description": "Authorize the mayor to exercise veto power over city council action calling a special election for the purpose of authorizing general obligation bonds, with a city council override of a two-thirds vote. Authorize the mayor to exercise veto power over the annual city budget.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Require the city manager to seek and obtain the city council’s policy priorities before submitting the city manager’s annual budget",
+        "description": "Require the city manager’s annual budget to reflect those priorities.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Establish an Office of Ombudsman within the function of the city auditor",
+        "description": "[Amendment 37]",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Clarify that city council’s appointments to boards and commissions are at-will",
+        "description": "[Amendment 13]",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Delete Chapter III §15 prohibiting city council from interfering with appointments or subordinates of city manager",
+        "description": "[Amendment 9]",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Require appointees to boards and commissions to reside in the council district of the nominating councilmember",
+        "description": "While allowing for a 2/3 vote non-district exception.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "Change wording in the charter to be more inclusive",
+        "description": "Using 'resident' or 'people' in place of citizen.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "K",
+        "title": "Amend the vote requirement for council to modify the redistricting commission’s recommended districting plan",
+        "description": "From a 3/4 majority vote to a 2/3 majority vote in Chapter IV §5(b)(6).",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "L",
+        "title": "Amend Chapter IV §5 to add eligibility criteria for serving on the redistricting commission",
+        "description": "[Amendment 125]",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Charter Review",
+      "City Council",
+      "Amendments",
+      "Veto Power",
+      "Budget",
+      "Ombudsman",
+      "Civil Service",
+      "Redistricting",
+      "Appointments",
+      "Public Participation",
+      "Executive Session",
+      "Policy Priorities",
+      "Inclusivity",
+      "Council Committees",
+      "Public Meeting"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9789
+}

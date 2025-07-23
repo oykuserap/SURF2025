@@ -1,0 +1,122 @@
+{
+  "agenda_number": 522,
+  "source_file": "Agenda_522.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 5, 2024",
+      "time": "1:00 PM",
+      "type": "Public Safety Committee Meeting",
+      "organization": "City Council Public Safety Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Israel Herrera",
+        "Delridge Williams",
+        "Jason Scoggins",
+        "Kevin Oden",
+        "Bill Zielinski",
+        "Dr. Brian Gardner",
+        "Robert Uribe",
+        "David Pughes",
+        "Scott Whitworth",
+        "Kristen Kubat",
+        "Jon Fortune",
+        "Dominique Artis",
+        "Travis Houston"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the February 12, 2024 Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Public Safety Recruiting and Retention Update",
+        "description": "Update on the recruiting and retention efforts for public safety personnel.",
+        "presenter": "Israel Herrera, Delridge Williams",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Violent Crime Reduction Plan Update",
+        "description": "Update on the strategies and progress of the violent crime reduction plan.",
+        "presenter": "Jason Scoggins, Kevin Oden",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Overview of the Public Safety Technology Projects",
+        "description": "Presentation on current and upcoming technology projects in public safety.",
+        "presenter": "Bill Zielinski, Dr. Brian Gardner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Overview of the Dallas Online Reporting System (DORS) Expansion",
+        "description": "Discussion on the expansion of the online reporting system to address minor hit-and-run collisions.",
+        "presenter": "Robert Uribe",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Sobering Center Update",
+        "description": "Update on the operations and status of the Sobering Center.",
+        "presenter": "David Pughes, Scott Whitworth, Kristen Kubat",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Public Safety",
+      "Dallas Police Department",
+      "Dallas Fire Rescue",
+      "Violent Crime",
+      "Technology Projects",
+      "Online Reporting System",
+      "Sobering Center",
+      "Recruiting",
+      "Retention",
+      "Emergency Services",
+      "Community Safety",
+      "Grant Funding",
+      "City Council",
+      "Public Affairs",
+      "Emergency Management"
+    ],
+    "financial_items": [
+      {
+        "description": "Authorize a five-year agreement for emergency medical technician basic training, paramedic training, and continuing education services for Dallas Fire-Rescue.",
+        "amount": "$3,271,500.00",
+        "type": "budget"
+      },
+      {
+        "description": "Authorize an agreement with the Safe City Commission for the receipt of funds for equipping vehicles used by officers.",
+        "amount": "$51,000.00",
+        "type": "grant"
+      },
+      {
+        "description": "Authorize a three-year cooperative purchasing agreement for THC Quantification and controlled substance quantitation analysis.",
+        "amount": "$750,750.00",
+        "type": "budget"
+      },
+      {
+        "description": "Authorize a one-year Interlocal Agreement with the University of Texas at San Antonio for consulting services.",
+        "amount": "$106,951.00",
+        "type": "budget"
+      },
+      {
+        "description": "Authorize acceptance of a grant for the design and construction of a regional law enforcement training facility.",
+        "amount": "$10,000,000.00",
+        "type": "grant"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 27182
+}

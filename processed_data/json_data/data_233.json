@@ -1,0 +1,108 @@
+{
+  "agenda_number": 233,
+  "source_file": "Agenda_233.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 22, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Housing and Homelessness Solutions Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": "Moreno",
+      "presenters": [
+        "Sara Kahn, President & CEO, Housing Forward",
+        "Darilynn Belier, Vice President, Meadows Mental Health Policy Institute",
+        "Matt Roberts, COO, North Texas Behavioral Health Authority",
+        "Christine Crossley, Director, Office of Homeless Solutions",
+        "Daniel Roby, CEO Austin Street Shelter",
+        "Darwin Wade, Assistant Director, Housing & Community Development",
+        "Thor Erickson, Assistant Director, Housing & Community Development"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of minutes for the September 23, 2024, Housing & Homelessness Solutions Committee",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Homeless Response System Quarterly Report",
+        "description": "Quarterly report on the homeless response system.",
+        "presenter": "Sara Kahn, President & CEO, Housing Forward",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Cold Weather Shelter, A Systematic Approach",
+        "description": "Operational plan for inclement weather shelters.",
+        "presenter": "Christine Crossley, Director, Office of Homeless Solutions",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Office of Homeless Solutions and the Department of Housing & Community Development Properties Update",
+        "description": "Update on various projects located at specified addresses.",
+        "presenter": "Christine Crossley, Director, Office of Homeless Solutions",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Department of Housing & Community Development FY2023-2024 Quarter Four Performance Measures",
+        "description": "Performance measures for the fourth quarter.",
+        "presenter": "Thor Erickson, Assistant Director, Housing & Community Development",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Dallas Housing Finance Corporation - Oak & Ellum",
+        "description": "Authorize the acquisition of a multifamily development.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "F",
+        "title": "Dallas Housing Finance Corporation - 2929 Wycliff",
+        "description": "Authorize the acquisition of a multifamily development.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Housing",
+      "Homelessness",
+      "Committee",
+      "Dallas",
+      "Meeting",
+      "Report",
+      "Cold Weather Shelter",
+      "Performance Measures",
+      "Acquisition",
+      "Development",
+      "Community Development",
+      "Public Safety",
+      "Economic Development",
+      "City Council",
+      "Virtual Meeting"
+    ],
+    "financial_items": [
+      {
+        "description": "Estimated Revenue Foregone for Oak & Ellum development",
+        "amount": "$9,502,325.00",
+        "type": "Estimated Taxes"
+      },
+      {
+        "description": "Estimated Revenue Foregone for 2929 Wycliff development",
+        "amount": "$4,701,303.00",
+        "type": "Estimated Taxes"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 21509
+}

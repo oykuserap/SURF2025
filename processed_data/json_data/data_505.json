@@ -1,0 +1,136 @@
+{
+  "agenda_number": 505,
+  "source_file": "Agenda_505.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 21, 2024",
+      "time": "9:00 AM - 12:30 PM",
+      "type": "Regular Meeting",
+      "organization": "City Plan Commission",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Lawrence Agu, III, AICP, Assoc AIA",
+        "Patrick Blaydes",
+        "Victor Castro",
+        "Rob Baldwin",
+        "Tasfia Zahin",
+        "Liliana Garza",
+        "Michael Pepe",
+        "Wilson Kerr",
+        "Giahanna Bridges",
+        "Rhonda Dunn, Ph.D.",
+        "Trevor Brown",
+        "Scott Roper"
+      ],
+      "participants": [
+        "Rosalba Betancur Garcia",
+        "Noe Moises Santoyo",
+        "Nexus Incorporated",
+        "Baylor Health Care System",
+        "CKCP-RC",
+        "Edgar Quijada",
+        "Gary Dinsmore",
+        "Jessica Gonzales",
+        "Cee Gilmore",
+        "Alpine Douglas, LP",
+        "White Rock Union Cemetery",
+        "Brixmor Holdings 12 SPE LLC"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": null,
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Minor Amendment Case",
+        "description": "An application for a minor amendment to existing site plan for Specific Use Permit No. 2441 for a restaurant without drive-in or drive-through service.",
+        "presenter": "Victor Castro",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Waivers",
+        "description": "An application for a waiver of the two-year waiting period to submit a zoning application.",
+        "presenter": "Rob Baldwin",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Minor Amendment Cases - Under Advisement",
+        "description": "An application for a minor amendment to an existing development plan.",
+        "presenter": "Rob Baldwin",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Zoning Cases - Consent",
+        "description": "Various applications for zoning cases.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Zoning Cases - Under Advisement",
+        "description": "Various applications for zoning cases under advisement.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "7",
+        "title": "Zoning Cases - Individual",
+        "description": "Individual zoning case applications.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Authorized Hearings - Zoning Cases",
+        "description": "Authorized hearings regarding zoning classifications.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "Subdivision Docket - Consent Items",
+        "description": "Various applications for subdivision cases.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Other Matters",
+        "description": "Consideration of appointments to CPC committees.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "City Plan Commission",
+      "Zoning",
+      "Subdivision",
+      "Public Hearing",
+      "Minor Amendment",
+      "Waivers",
+      "Approval",
+      "Dallas",
+      "Planning",
+      "Urban Design",
+      "Public Testimony",
+      "Committee Appointments",
+      "Land Use",
+      "Development Plan",
+      "Special Provision Sign District"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 49932
+}

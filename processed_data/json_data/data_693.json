@@ -1,0 +1,100 @@
+{
+  "agenda_number": 693,
+  "source_file": "Agenda_693.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 6, 2023",
+      "time": "1:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Economic Development Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Andrew Espinoza",
+        "Kevin Spath"
+      ],
+      "participants": [
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Blackmon",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Schultz",
+        "Willis",
+        "Johnson"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "Approval of the October 2, 2023 Economic Development Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B",
+        "title": "Development Services Monthly Technology and Metrics Review",
+        "description": "Review of monthly technology and metrics by Development Services.",
+        "presenter": "Andrew Espinoza",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Fort Worth Avenue TIF District: Proposed Plan Amendment and Proposed Funding for Vista at Kessler/Stevens",
+        "description": "Discussion on the proposed plan amendment and funding for a grocery-anchored retail redevelopment project.",
+        "presenter": "Kevin Spath",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "City of Dallas Property Assessed Clean Energy (PACE) Program Update",
+        "description": "Update on the PACE program by the Office of Economic Development.",
+        "presenter": "Kevin Spath",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Upcoming Agenda Item Regarding an Amendment to the Agreement with Island Rock Holdings, LLC",
+        "description": "Discussion on the amendment for the Longhorn Ballroom Redevelopment Project.",
+        "presenter": "Kevin Spath",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Upcoming Agenda Item Regarding Request for 12-Month Extension of Completion Date for Chapter 380 Grant Agreement",
+        "description": "Discussion on the request for an extension with The Golden S.E.E.D.S Foundation.",
+        "presenter": "Kevin Spath",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Economic Development",
+      "City Council",
+      "Dallas",
+      "Meeting Minutes",
+      "Development Services",
+      "Fort Worth Avenue",
+      "TIF District",
+      "Funding",
+      "PACE Program",
+      "Longhorn Ballroom",
+      "Grant Agreement",
+      "Redevelopment",
+      "Extension",
+      "Public Infrastructure",
+      "Community Engagement"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20117
+}

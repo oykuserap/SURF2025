@@ -1,0 +1,98 @@
+{
+  "agenda_number": 528,
+  "source_file": "Agenda_528.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 4, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Parks, Trails, and the Environment Committee",
+      "location": "Council Chambers, 6th Floor, City Hall and via video conference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Dr. Philip Huang",
+        "Folashade Afolabi, MD",
+        "Sheila Delgado",
+        "Alicia Lee",
+        "Carlos Evans",
+        "Natalie Requenez",
+        "M. Renee Johnson",
+        "M. Elizabeth (Liz) Cedillo-Pereira"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "24-745",
+        "title": "Approval of the February 5, 2024 Parks, Trails and Environment Committee Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "24-746",
+        "title": "Environmental Health Committee Smoking Ordinance Recommendations",
+        "description": "Discussion on recommendations from the Environmental Health Committee regarding smoking ordinances.",
+        "presenter": "Dr. Philip Huang, Folashade Afolabi, MD",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "24-747",
+        "title": "Drafts of 2024 Five-Year Conservation Work Plan & 2024 Water Conservation Plan (State Required)",
+        "description": "Presentation of drafts for the conservation work plan and water conservation plan.",
+        "presenter": "Sheila Delgado, Alicia Lee",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "24-751",
+        "title": "CECAP Considerations for 2024 Bond Program",
+        "description": "Discussion on considerations for the 2024 Bond Program related to CECAP.",
+        "presenter": "Carlos Evans, Natalie Requenez",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "24-748",
+        "title": "Community Connectors",
+        "description": "Presentation on community connectors.",
+        "presenter": "M. Renee Johnson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "24-749",
+        "title": "Office of Environmental Quality & Sustainability Solar Siting Study",
+        "description": "Presentation on the solar siting study conducted by the Office of Environmental Quality & Sustainability.",
+        "presenter": "M. Elizabeth (Liz) Cedillo-Pereira",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "24-750",
+        "title": "Upcoming Earth Day Events",
+        "description": "Discussion on upcoming events related to Earth Day.",
+        "presenter": "M. Elizabeth (Liz) Cedillo-Pereira",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Parks",
+      "Trails",
+      "Environment",
+      "Committee",
+      "Dallas",
+      "Conservation",
+      "Water",
+      "Health",
+      "Sustainability",
+      "Earth Day",
+      "Smoking Ordinance",
+      "Community Connectors",
+      "Solar Siting",
+      "Bond Program",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 6838
+}

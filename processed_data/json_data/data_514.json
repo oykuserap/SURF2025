@@ -1,0 +1,23 @@
+{
+  "agenda_number": 514,
+  "source_file": "Agenda_514.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 13, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City Council",
+      "location": "COUNCIL CHAMBERS, CITY HALL"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 1472
+}

@@ -1,0 +1,117 @@
+{
+  "agenda_number": 636,
+  "source_file": "Agenda_636.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 12, 2023",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Housing and Homelessness Solutions Committee",
+      "location": "Council Chambers, 6th Floor at City Hall, Dallas, Texas; also available via videoconference"
+    },
+    "attendees": {
+      "chair": "Moreno",
+      "presenters": [
+        "Christine Crossley",
+        "Thor Erickson",
+        "Cynthia Rogers-Ellickson",
+        "Darwin Wade"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A 23-3218",
+        "title": "Approval of the November 14, 2023 Housing and Homelessness Solutions Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B 23-3206",
+        "title": "Citizens Homelessness Commission - Roles & Responsibilities",
+        "description": "Briefing on the roles and responsibilities of the Citizens Homelessness Commission.",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C 23-3207",
+        "title": "Overview of Upcoming Agenda Item: Home Improvement & Preservation Program Amendment",
+        "description": "Overview of an amendment to the Home Improvement & Preservation Program.",
+        "presenter": "Thor Erickson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D 23-3208",
+        "title": "1950 Fort Worth Avenue Property Update",
+        "description": "Update on the property located at 1950 Fort Worth Avenue.",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E 23-3209",
+        "title": "Department of Housing and Neighborhood Revitalization and Office of Homeless Solutions - Glossary of Terms",
+        "description": "Presentation of a glossary of terms related to housing and homelessness.",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F 23-3210",
+        "title": "Dallas County 4150 Independence Road Subrecipient Agreement",
+        "description": "Authorize the acceptance of a grant and execution of a subrecipient agreement for supportive housing.",
+        "presenter": "Christine Crossley",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "G 23-3211",
+        "title": "Office of Homeless Solutions Upcoming Agenda Items",
+        "description": "Discussion of upcoming agenda items related to homelessness solutions.",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H 23-3223",
+        "title": "Committee Forecast",
+        "description": "Forecast of future agenda items.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Housing",
+      "Homelessness",
+      "Committee Meeting",
+      "Dallas",
+      "Supportive Housing",
+      "Grant",
+      "American Rescue Plan",
+      "Neighborhood Revitalization",
+      "Consulting Services",
+      "Community Development",
+      "Public Hearing",
+      "Agenda Items",
+      "Roles and Responsibilities",
+      "Funding",
+      "Property Update"
+    ],
+    "financial_items": [
+      {
+        "description": "Acceptance of a $2,500,000.00 grant from the County’s allocated American Rescue Plan Act (ARPA) funds.",
+        "amount": "$2,500,000.00",
+        "type": "grant"
+      },
+      {
+        "description": "Authorize an increase in the development loan agreement for Cypress Creek Apartment Homes.",
+        "amount": "$7,646,555.00",
+        "type": "development loan"
+      },
+      {
+        "description": "Acceptance of a grant from the Texas Department of Housing and Community Affairs.",
+        "amount": "$164,293.00",
+        "type": "grant"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 33622
+}

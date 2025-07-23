@@ -1,0 +1,120 @@
+{
+  "agenda_number": 166,
+  "source_file": "Agenda_166.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 5, 2024",
+      "time": "6:00 P.M.",
+      "type": "Monthly Meeting",
+      "organization": "Community Development Commission (CDC)",
+      "location": "Dallas City Hall, Conference Room 6ES, and by Videoconference"
+    },
+    "attendees": {
+      "chair": "Melanie Rubin",
+      "presenters": [
+        "Chan Williams",
+        "Zhen Barrientos",
+        "Arnulfo Garza"
+      ],
+      "participants": [
+        "Community Development Coordinator",
+        "Budget & Management Services (BMS)"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the Chair.",
+        "presenter": "Melanie Rubin",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Roll Call",
+        "description": "Attendance check by the Community Development Coordinator.",
+        "presenter": "Community Development Coordinator",
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Approval of the November 7, 2024, Community Development Commission Meeting Minutes",
+        "description": "Review and approval of the previous meeting's minutes.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Community Development Division Report",
+        "description": "Report from the Budget & Management Services including general greetings and acknowledgements.",
+        "presenter": "Budget & Management Services (BMS)",
+        "action_required": null
+      },
+      {
+        "item_number": "V. Briefing Item",
+        "title": "Community Development Block Grant: Timely Expenditure of Funds",
+        "description": "Discussion on the timely expenditure of funds related to the Community Development Block Grant.",
+        "presenter": "Chan Williams",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Chair’s Report",
+        "description": "Report from the Chair including acknowledgements and updates.",
+        "presenter": "Melanie Rubin",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Vice Chair’s Report",
+        "description": "Report from the Vice Chair including acknowledgements.",
+        "presenter": "Zhen Barrientos",
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "CDC Committees Reports",
+        "description": "Reports from various CDC committees.",
+        "presenter": [
+          "Arnulfo Garza",
+          "Zhen Barrientos"
+        ],
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Announcement",
+        "description": "General announcements including upcoming events.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "XI",
+        "title": "Adjournment",
+        "description": "Closing of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Community Development",
+      "Commission",
+      "Meeting Minutes",
+      "Block Grant",
+      "Expenditure",
+      "Reports",
+      "Announcements",
+      "Public Speakers",
+      "Committees",
+      "Dallas City Hall",
+      "Videoconference",
+      "Budget Management",
+      "Participation",
+      "Accessibility",
+      "Equity"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11556
+}

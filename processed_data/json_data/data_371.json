@@ -1,0 +1,109 @@
+{
+  "agenda_number": 371,
+  "source_file": "Agenda_371.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 17, 2024",
+      "time": "6:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Martin Luther King, Jr. Community Center Advisory Board",
+      "location": "Martin Luther King, Jr. Community Center, Activity Room A, 2922 MLK Jr. Blvd. Bldg. A, Dallas, TX 75215; Online via WebEx"
+    },
+    "attendees": {
+      "chair": "Mrs. Clara Brown-Trimble",
+      "presenters": [
+        "Dr. Jamel Slaughter",
+        "Ms. Pamela R. Jones",
+        "Mrs. LaRhonda Bacon"
+      ],
+      "participants": [
+        "MLK Advisory Board Member",
+        "Public Speakers"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order/Welcome",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Invocation/Opening Statement",
+        "description": "",
+        "presenter": "MLK Advisory Board Member",
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Advisory Board Member & City Staff Roll Call",
+        "description": "",
+        "presenter": "Mrs. LaRhonda Bacon",
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Public Comments",
+        "description": "",
+        "presenter": "Public Speakers",
+        "action_required": null
+      },
+      {
+        "item_number": "5",
+        "title": "Approval of May 20, 2024, Minutes",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Vote: 2025 MLK Week Emblem & Banner",
+        "description": "",
+        "presenter": "Dr. Jamel Slaughter",
+        "action_required": "vote"
+      },
+      {
+        "item_number": "7",
+        "title": "2025 MLK Celebration Week Event Chair Appointment",
+        "description": "Includes various events scheduled for January 14-18, 2025.",
+        "presenter": "Ms. Pamela R. Jones",
+        "action_required": null
+      },
+      {
+        "item_number": "8",
+        "title": "2024 MLK Center Manager Update",
+        "description": "Updates on fresh produce distribution, volunteer opportunities, and upcoming events.",
+        "presenter": "Ms. Pamela R. Jones",
+        "action_required": null
+      },
+      {
+        "item_number": "9",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Martin Luther King Jr.",
+      "Community Center",
+      "Advisory Board",
+      "Public Comments",
+      "Approval of Minutes",
+      "MLK Week",
+      "Emblem",
+      "Banner",
+      "Celebration Events",
+      "Updates",
+      "Volunteer Opportunities",
+      "Legal Aid",
+      "Community Events",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 5673
+}

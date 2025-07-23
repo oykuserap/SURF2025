@@ -1,0 +1,49 @@
+{
+  "agenda_number": 123,
+  "source_file": "Agenda_123.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 13, 2025",
+      "time": "10:00 A.M.",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas",
+      "location": "Dallas City Hall, L1FN Auditorium, Video Conference Link: https://dallascityhall.webex.com/dallascityhall/j.php?MTID=m119199a81d2fc681a91a4fb63b377f96"
+    },
+    "attendees": {
+      "chair": "Peter Kline",
+      "presenters": [
+        "Lance Robertson",
+        "Richard Hanely",
+        "Claudia Sandoval",
+        "Jay Wright",
+        "Tony Moten, Jr.",
+        "Madeline Holler"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "III",
+        "title": "Senior Services Strategic Plan – Senior Affairs Commission (SAC) Listening Session",
+        "description": "Senior Services Strategic Plan Consultants, Guidehouse, Inc. and CoSpero Consulting along with Office of Community Care and Empowerment staff will provide an update on the strategic plan’s progress. During the presentation, the consultants will engage the Commission with targeted questions to gain insights into the Commissioners' priorities and their perspectives on the community's evolving needs for aging services.",
+        "presenter": "Guidehouse, Inc. and CoSpero Consulting",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Senior Services",
+      "Strategic Plan",
+      "Senior Affairs Commission",
+      "Guidehouse",
+      "CoSpero Consulting",
+      "Community Care",
+      "Aging Services",
+      "Listening Session",
+      "Public Meeting"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9133
+}

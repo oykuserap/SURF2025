@@ -1,0 +1,124 @@
+{
+  "agenda_number": 403,
+  "source_file": "Agenda_403.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 13, 2024",
+      "time": "3:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Citizen Homelessness Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Linda Garner",
+      "presenters": [
+        "Rachel Wilson",
+        "Christine Crossley"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call Meeting to Order and Roll Call",
+        "description": "Declare A Quorum Present, Declare Legal Notice Posted and Meeting Duly Called",
+        "presenter": "Linda Garner",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Comments",
+        "description": "Limit 2 minutes per speaker",
+        "presenter": "Linda Garner",
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes – May 9, 2024",
+        "description": null,
+        "presenter": "Linda Garner",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Presentation: All Inside Initiative",
+        "description": null,
+        "presenter": "Rachel Wilson",
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Discussion: CitySquare",
+        "description": null,
+        "presenter": "Linda Garner",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Presentation: Temporary and Alternate Housing",
+        "description": null,
+        "presenter": "Christine Crossley",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Office of Homeless Solutions Agenda Contract Forecast Update",
+        "description": "Update on various locations",
+        "presenter": "Christine Crossley",
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "Discussion: Rescheduling New Meeting Time/Date for Citizen Homelessness Commission",
+        "description": "Vote on new meeting times",
+        "presenter": "Linda Garner",
+        "action_required": "vote"
+      },
+      {
+        "item_number": "IX",
+        "title": "Discussion: New Pilot Subcommittee(s)",
+        "description": "Vote on new subcommittees",
+        "presenter": "Linda Garner",
+        "action_required": "vote"
+      },
+      {
+        "item_number": "X",
+        "title": "Proposed Items for Next/Future Meetings",
+        "description": "No discussion, debate, and/or vote",
+        "presenter": "Linda Garner",
+        "action_required": null
+      },
+      {
+        "item_number": "XI",
+        "title": "Announcement of Upcoming Meetings",
+        "description": null,
+        "presenter": "Linda Garner",
+        "action_required": null
+      },
+      {
+        "item_number": "XII",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": "Linda Garner",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Citizen Homelessness Commission",
+      "Dallas",
+      "Public Comments",
+      "Approval of Minutes",
+      "All Inside Initiative",
+      "CitySquare",
+      "Temporary Housing",
+      "Homeless Solutions",
+      "Meeting Rescheduling",
+      "Subcommittee",
+      "Future Meetings",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 13512
+}

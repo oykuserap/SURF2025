@@ -1,0 +1,89 @@
+{
+  "agenda_number": 600,
+  "source_file": "Agenda_600.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 16th, 2024",
+      "time": "10:30 A.M. and 1:00 P.M.",
+      "type": "Board of Adjustment Meeting",
+      "organization": "Board of Adjustment (Panel A)",
+      "location": "Dallas City Hall, L1FN AUDITORIUM and Videoconference"
+    },
+    "attendees": {
+      "chair": "David A. Neumann",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "David A. Neumann",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Staff Presentation/Briefing",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Public Hearing",
+        "description": "Board of Adjustment",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Public Testimony",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Miscellaneous Items",
+        "description": "Approval of 2022-2023 BOA Annual Report and Approval of Panel A Minutes, November 14, 2023",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Case Docket",
+        "description": "Uncontested Items, Holdover Items, Individual Items",
+        "presenter": "Board of Adjustment",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Board of Adjustment",
+      "Public Hearing",
+      "Public Testimony",
+      "Annual Report",
+      "Minutes Approval",
+      "Variance",
+      "Special Exception",
+      "Setback Regulations",
+      "Fence Regulations",
+      "Parking Regulations",
+      "Visibility Obstruction",
+      "Dallas City Hall",
+      "Videoconference",
+      "Accommodations",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 17222
+}

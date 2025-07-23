@@ -1,0 +1,121 @@
+{
+  "agenda_number": 612,
+  "source_file": "Agenda_612.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 8th, 2024",
+      "time": "6:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Youth Commission",
+      "location": "Dallas City Hall, 6ES and Videoconference"
+    },
+    "attendees": {
+      "chair": "Commissioner Mercado-Cruz",
+      "presenters": [
+        "Commissioner Mercado-Cruz",
+        "Commissioner Hawkins",
+        "Intern Hilton Sampson",
+        "Taylor Moody",
+        "Commissioner Jennings",
+        "Commissioner Tamfu",
+        "Commissioner Nelson"
+      ],
+      "participants": [
+        "Taylor Moody",
+        "Commissioner Jennings",
+        "Commissioner Tamfu",
+        "Commissioner Hawkins",
+        "Commissioner Nelson"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the chair.",
+        "presenter": "Commissioner Mercado-Cruz",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Approval of Minutes",
+        "description": "Review and approval of the minutes from December 2023.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "III",
+        "title": "Martin Luther King Podcast Special & Launch",
+        "description": "Discussion on the launch event for the podcast episode.",
+        "presenter": "Commissioner Hawkins",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IV",
+        "title": "Multicultural (World Cultures) Day",
+        "description": "Presentation on the upcoming Multicultural Day.",
+        "presenter": "Intern Hilton Sampson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Welcoming Communities Session Discussion",
+        "description": "Discussion led by Taylor Moody.",
+        "presenter": "Taylor Moody",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "NCL Partnership & Civic Engagement Survey",
+        "description": "Discussion on the partnership and survey results.",
+        "presenter": "Commissioner Mercado-Cruz",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Reports of Special Committees",
+        "description": "Reports from various committees including Branding, Youth Magazine, Environmental, and Community Closet.",
+        "presenter": "Commissioner Mercado-Cruz, Commissioner Jennings, Commissioner Tamfu, Commissioner Hawkins",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Unfinished Business/General Orders",
+        "description": "Voting on the Youth Democracy Reform Committee and Vice Chair Appointment.",
+        "presenter": "Commissioner Nelson, Taylor Moody",
+        "action_required": "vote"
+      },
+      {
+        "item_number": "IX",
+        "title": "Announcements",
+        "description": "Open floor for announcements.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Adjournment",
+        "description": "Closing of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Youth Commission",
+      "Regular Meeting",
+      "Podcast Launch",
+      "Multicultural Day",
+      "Welcoming Communities",
+      "NCL Partnership",
+      "Civic Engagement",
+      "Special Committees",
+      "Youth Democracy Reform",
+      "Vice Chair Appointment",
+      "Announcements",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 7589
+}

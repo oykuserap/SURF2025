@@ -1,0 +1,162 @@
+{
+  "agenda_number": 699,
+  "source_file": "Agenda_699.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 2, 2023",
+      "time": "9:00 AM - 12:30 PM",
+      "type": "Regular Meeting",
+      "organization": "City Plan Commission",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Karl Crawley",
+        "Michael Pepe",
+        "Liliana Garza",
+        "Jenniffer Allgaier",
+        "Steven Darling",
+        "Terrance J. Wright",
+        "Isai Marquez",
+        "Andrew Ruegg",
+        "Elsie Thurman"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Zoning Case 23-2844",
+        "description": "An application for a new subdistrict on property zoned Tract 1 and Tract 1A within Planned Development District No. 260; and the termination of Specific Use Permit No. 1569 for a medical clinic or ambulatory surgical center and in-patient rehabilitation facility.",
+        "presenter": "Karl Crawley",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Zoning Case 23-2845",
+        "description": "An application for an amendment to Specific Use Permit No. 2155 for a recycling buy-back center for the collection of household and industrial metals.",
+        "presenter": "Steven Darling",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Zoning Case 23-2846",
+        "description": "An application for an amendment to Specific Use Permit No. 1687 for a bar, lounge, or tavern and an inside commercial amusement limited to a Class A dance hall.",
+        "presenter": "Marty Monroe",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Zoning Case 23-2847",
+        "description": "An application for a Specific Use Permit for a motor vehicle fueling station and for the sale of alcoholic beverages.",
+        "presenter": "Anil Ram",
+        "action_required": "deny"
+      },
+      {
+        "item_number": "5",
+        "title": "Zoning Case 23-2848",
+        "description": "An application for an amendment to Planned Development District No. 435.",
+        "presenter": "Karl Crawley",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Zoning Case 23-2850",
+        "description": "An application for a Specific Use Permit for an auto service center.",
+        "presenter": "Andres Barragan",
+        "action_required": "deny"
+      },
+      {
+        "item_number": "7",
+        "title": "Zoning Case 23-2851",
+        "description": "An application for an amendment to Specific Use Permit No.1501 for a private school.",
+        "presenter": "Terrance J. Wright",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Zoning Case 23-2852",
+        "description": "An application for a Specific Use Permit for an auto service center and vehicle display.",
+        "presenter": "Daniel Marquez",
+        "action_required": "deny"
+      },
+      {
+        "item_number": "9",
+        "title": "Zoning Case 23-2853",
+        "description": "An application for the sale of alcoholic beverages in conjunction with a general merchandise or food store.",
+        "presenter": "Andrew Ruegg",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Zoning Case 23-2854",
+        "description": "An application for an amendment to Planned Development District No. 636.",
+        "presenter": "Elsie Thurman",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "11",
+        "title": "Subdivision Case 23-2855",
+        "description": "An application to replat a 3.064-acre tract of land.",
+        "presenter": "Hema Sharma",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "12",
+        "title": "Subdivision Case 23-2856",
+        "description": "An application to create one 3.630-acre lot.",
+        "presenter": "Hema Sharma",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "13",
+        "title": "Subdivision Case 23-2857",
+        "description": "An application to create one 0.223-acre lot.",
+        "presenter": "Hema Sharma",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "14",
+        "title": "Subdivision Case 23-2858",
+        "description": "An application to create 11 lots and one common area.",
+        "presenter": "Hema Sharma",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "15",
+        "title": "Subdivision Case 23-2859",
+        "description": "An application to create one 17.900-acre lot and one 3.042-acre lot.",
+        "presenter": "Hema Sharma",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "16",
+        "title": "Residential Replat Case 23-2860",
+        "description": "An application to replat a 0.381-acre tract of land.",
+        "presenter": "Hema Sharma",
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "City Plan Commission",
+      "Zoning",
+      "Public Hearing",
+      "Subdivision",
+      "Specific Use Permit",
+      "Dallas",
+      "Planning",
+      "Urban Design",
+      "Development",
+      "Community",
+      "Public Participation",
+      "Regulations",
+      "Approval",
+      "Denial",
+      "Meeting"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 34881
+}

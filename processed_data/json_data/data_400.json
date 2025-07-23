@@ -1,0 +1,156 @@
+{
+  "agenda_number": 400,
+  "source_file": "Agenda_400.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 12, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the May 22, 2024 City Council Meeting",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Authorize an increase in the homestead property tax exemption for persons who are disabled or 65 or older",
+        "description": "Increase from $139,400 to $153,400 beginning with the 2024 tax year.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Authorize partial settlement of the lawsuit styled Pedro Lopez Individually, as a Parent, Guardian, and Next Friends of J.L. and T.L. v. City of Dallas et al.",
+        "description": "Not to exceed $55,000.00.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Authorize payment of the jury verdict entered against the City in the lawsuit styled Krystal Thompson and Saige Frazier v. Mario P. Mazza and City of Dallas",
+        "description": "Not to exceed $50,000.00.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Authorize payment of the jury verdict issued against the City in the lawsuit styled Terrance Cotton, Individually, and as Next Friend of E.C., T.C., and T.C., Jr. v. the City of Dallas",
+        "description": "Not to exceed $270,000.00.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Authorize settlement of the lawsuit styled Anthony Darvette Anderson v. City of Dallas",
+        "description": "Not to exceed $36,000.00.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Authorize settlement of the lawsuit styled Cedrick Omah Williams v. City of Dallas",
+        "description": "Not to exceed $80,000.00.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Authorize settlement of the lawsuit styled Tammy Jenkins v. City of Dallas",
+        "description": "Not to exceed $248,500.00.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "Authorize execution of the Amended and Restated Revolving Credit Agreement with JPMorgan Chase Bank",
+        "description": "Not to exceed $6,230,579.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Authorize an amendment to Resolution No. 24-0417 for an Interlocal Agreement with the Texas Department of Transportation",
+        "description": "Modify the City’s estimated share of the project costs from $791,600.00 to $1,234,600.00.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "City Council",
+      "Dallas",
+      "meeting",
+      "property tax exemption",
+      "lawsuit settlement",
+      "budget",
+      "public hearing",
+      "economic development",
+      "housing",
+      "infrastructure",
+      "transportation",
+      "funding",
+      "community development",
+      "public safety",
+      "zoning"
+    ],
+    "financial_items": [
+      {
+        "description": "Increase in homestead property tax exemption for disabled or elderly",
+        "amount": "$5,402,040",
+        "type": "budget"
+      },
+      {
+        "description": "Partial settlement of lawsuit",
+        "amount": "$55,000",
+        "type": "expenditure"
+      },
+      {
+        "description": "Payment of jury verdict against the City",
+        "amount": "$50,000",
+        "type": "expenditure"
+      },
+      {
+        "description": "Payment of jury verdict against the City",
+        "amount": "$270,000",
+        "type": "expenditure"
+      },
+      {
+        "description": "Settlement of lawsuit",
+        "amount": "$36,000",
+        "type": "expenditure"
+      },
+      {
+        "description": "Settlement of lawsuit",
+        "amount": "$80,000",
+        "type": "expenditure"
+      },
+      {
+        "description": "Settlement of lawsuit",
+        "amount": "$248,500",
+        "type": "expenditure"
+      },
+      {
+        "description": "Execution of Amended and Restated Revolving Credit Agreement",
+        "amount": "$6,230,579",
+        "type": "funding"
+      },
+      {
+        "description": "Amendment to Interlocal Agreement with TxDOT",
+        "amount": "$1,234,600",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 84007
+}

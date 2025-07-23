@@ -1,0 +1,91 @@
+{
+  "agenda_number": 200,
+  "source_file": "Agenda_200.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 13, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas City Council",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the October 23, 2024 City Council Meeting",
+        "description": "",
+        "presenter": "City Attorney's Office",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Authorize acceptance of a grant from the U.S. Department of Justice",
+        "description": "Acceptance of a grant for the BJA FY24 Veterans Treatment Court Discretionary Grant Program in the amount of $999,745.00.",
+        "presenter": "City Attorney's Office",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Authorize Supplemental Agreement No. 3 to the professional services contract",
+        "description": "Provide additional legal services related to the enforcement of the Hensley Field settlement agreement.",
+        "presenter": "City Attorney's Office",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "An ordinance authorizing the issuance and sale of General Obligation Refunding and Improvement Bonds",
+        "description": "Issuance of bonds in an aggregate principal amount not to exceed $353,000,000.00.",
+        "presenter": "City Controller's Office",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Authorize a Construction Manager-at-Risk Agreement",
+        "description": "Provide pre-construction and construction services for the Elm Fork Water Treatment Plant Water Quality Improvements Program.",
+        "presenter": "Dallas Water Utilities Department",
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "City Council",
+      "Dallas",
+      "meeting",
+      "agenda",
+      "grant",
+      "bonds",
+      "construction",
+      "water treatment",
+      "legal services",
+      "voting",
+      "public hearing",
+      "zoning",
+      "financial",
+      "community development",
+      "economic development"
+    ],
+    "financial_items": [
+      {
+        "description": "Grant from the U.S. Department of Justice for Veterans Treatment Court",
+        "amount": "$999,745.00",
+        "type": "grant"
+      },
+      {
+        "description": "Issuance of General Obligation Refunding and Improvement Bonds",
+        "amount": "$353,000,000.00",
+        "type": "bond issuance"
+      },
+      {
+        "description": "Construction services for Elm Fork Water Treatment Plant",
+        "amount": "$4,087,120.00",
+        "type": "contract"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 111567
+}

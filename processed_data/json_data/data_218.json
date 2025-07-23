@@ -1,0 +1,82 @@
+{
+  "agenda_number": 218,
+  "source_file": "Agenda_218.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 29, 2024",
+      "time": "5:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Municipal Library Board",
+      "location": "Central Library, 1515 Young St. Dallas, TX 75201, Board Room, 2nd floor, Video Conference Link: https://dallascityhall.webex.com/dallascityhall/j.php?MTID=m52d723ac429b8174a1e7e18b0269b2c0"
+    },
+    "attendees": {
+      "chair": "Temporary Chair",
+      "presenters": [
+        "Heather Lowe",
+        "Debra Jonhson",
+        "Shannon Adams"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Call to order by the Temporary Chair.",
+        "presenter": "Temporary Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "Opportunity for public speakers to address the board.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes from the meeting on September 24, 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Reports of Officers, Boards, Standing Committees",
+        "description": "Chair’s Report including updates from the Friends of the Dallas Public Library meeting.",
+        "presenter": "Temporary Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Staff Reports/Briefings",
+        "description": "Director’s Report including Library’s Strategic & Facilities Plan update and Adult Learning overview.",
+        "presenter": "Heather Lowe",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Adjournment",
+        "description": "Closing of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Municipal Library Board",
+      "Regular Meeting",
+      "Public Speakers",
+      "Approval of Minutes",
+      "Chair’s Report",
+      "Director’s Report",
+      "Strategic Plan",
+      "Facilities Plan",
+      "Adult Learning",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9736
+}

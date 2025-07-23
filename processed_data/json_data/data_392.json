@@ -1,0 +1,69 @@
+{
+  "agenda_number": 392,
+  "source_file": "Agenda_392.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 6, 2024",
+      "time": "3:00 PM",
+      "type": "Ad Hoc Committee Meeting",
+      "organization": "City Council Ad Hoc Committee on Pensions",
+      "location": "City Council Chambers, 6th Floor, Dallas, Texas; Virtual via Webex"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Dory Wiley, President & CEO, Commerce Street Investment Management",
+        "Grant Glover, Investment Analyst, Commerce Street Investment Management",
+        "Cheryl Alston, Executive Director, City of Dallas Employee Retirement Fund",
+        "David Etheridge, Deputy Executive Director, City of Dallas Employee Retirement Fund",
+        "Jack Ireland, Chief Financial Officer, City Manager’s Office"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the May 23, 2024 Ad Hoc Committee on Pensions Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Dallas Police and Fire Pension System (DPFP) and Employees’ Retirement Fund (ERF): Investment Portfolio Review and Discussion",
+        "description": "Review and discussion of the investment portfolio for DPFP and ERF.",
+        "presenter": "Dory Wiley, President & CEO, Commerce Street Investment Management; Grant Glover, Investment Analyst, Commerce Street Investment Management",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Employees’ Retirement Fund (ERF): Funding Soundness Restoration Plan Update and Consideration of Recommendations",
+        "description": "Update on the funding soundness restoration plan for ERF and consideration of recommendations.",
+        "presenter": "Cheryl Alston, Executive Director, City of Dallas Employee Retirement Fund; David Etheridge, Deputy Executive Director, City of Dallas Employee Retirement Fund",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Dallas Police and Fire Pension System (DPFP): Funding Soundness Restoration Plan Update and Consideration of Recommendations",
+        "description": "Update on the funding soundness restoration plan for DPFP and consideration of recommendations.",
+        "presenter": "Jack Ireland, Chief Financial Officer, City Manager’s Office",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Pensions",
+      "Ad Hoc Committee",
+      "Investment Portfolio",
+      "Funding Soundness",
+      "Retirement Fund",
+      "City Council",
+      "Discussion",
+      "Recommendations",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 6033
+}

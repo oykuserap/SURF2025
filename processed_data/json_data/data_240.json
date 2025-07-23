@@ -1,0 +1,79 @@
+{
+  "agenda_number": 240,
+  "source_file": "Agenda_240.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 17, 2024",
+      "time": "4:30 P. M.",
+      "type": "Regular Meeting",
+      "organization": "Arts and Culture Advisory Commission",
+      "location": "Dallas City Hall, 6FN - Park and Recreation Board Room and Videoconference, 1500 Marilla Street"
+    },
+    "attendees": {
+      "chair": "David Small",
+      "presenters": [
+        "David Small",
+        "Jaxon J. Huffman",
+        "Martine Philippe"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the September 19, 2024, Arts and Culture Advisory Commission meeting minutes",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Approval of FY 24-2025 Arts and Culture Advisory Commission Meeting Schedule",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Chair’s Report",
+        "description": "Welcome address to Commission; Confirmation of Liaison Assignments",
+        "presenter": "David Small",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Cultural Spotlights: The Creator House",
+        "description": "We Teach Creators Life & Leadership Skills",
+        "presenter": "Jaxon J. Huffman",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Director’s Update",
+        "description": "FY25 OAC Division Priorities & District Newsletters Update",
+        "presenter": "Martine Philippe",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Arts and Culture",
+      "Advisory Commission",
+      "Regular Meeting",
+      "Dallas City Hall",
+      "Public Speakers",
+      "Approval",
+      "Meeting Minutes",
+      "Cultural Spotlights",
+      "Director's Update",
+      "Liaison Assignments",
+      "FY 24-2025",
+      "Community Engagement",
+      "Equity",
+      "Inclusion",
+      "Public Participation"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10836
+}

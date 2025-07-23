@@ -1,0 +1,116 @@
+{
+  "agenda_number": 583,
+  "source_file": "Agenda_583.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 23, 2024",
+      "time": "6:30 PM",
+      "type": "Regular Meeting",
+      "organization": "Charter Review Commission",
+      "location": "Council Chambers, 6th Floor, City Hall and via video conference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of January 11, 2024 Charter Review Commission Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Submitted Amendments Recommended for Exclusion",
+        "description": "Amendments 10, 20, 25, 26, 27, 28, 29, 30, 47, 51, 53, 54, 55, 60, 68, 72, 73, 74, 75, 77, 78, 80, 81, 84, 89, and 92 are recommended for exclusion.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Delete Section on Urban Conservation Programs",
+        "description": "Delete the section allowing the city council to provide urban conservation, rehabilitation, and redevelopment programs in Chapter XV § 2.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Rename Zoning Commission",
+        "description": "Rename the Zoning Commission to the City Plan and Zoning Commission and allow that commission’s membership to contain a minimum of 15 residents in Chapter XV § 3.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Amend Process for Appointing Plan Commission Members",
+        "description": "Amend the process for appointing the chair and members of the plan commission to reflect current practice in Chapter XV § 3.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Allow Boards and Commissions to Elect Vice Chairs",
+        "description": "Allow city boards and commissions to elect their own vice chairs in Chapter IV § 5, Chapter XV § 3, Chapter XVII § 2, and Chapter XXIV § 13.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Remove Requirement for Thoroughfare Plan",
+        "description": "Remove the requirement to have a Thoroughfare Plan from Chapter XV § 8.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Amend Language for City Secretary's Hiring Authority",
+        "description": "Amend language within Chapter IIIA § 2 to allow the City Secretary the ability to hire all staff within their office.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Delete Requirement for Assistant City Attorneys",
+        "description": "Delete the requirement that all assistant city attorneys shall devote their entire time to the service of the city in Chapter VII § 2.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Delete Provisions for Opening and Inspection of Bids",
+        "description": "Delete provisions in Chapter XXII § 3 pertaining to the procedures for the opening and public inspection of bids.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "Abolish or Amend Mayor Pro Tem Positions",
+        "description": "Abolish the Mayor Pro Tem and Deputy Mayor Pro Tem positions or amend the appointment process of the Mayor Pro Tem and Deputy Mayor Pro Tem positions in Chapter III § 11.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Charter Review",
+      "Amendments",
+      "Zoning Commission",
+      "Urban Conservation",
+      "City Secretary",
+      "Vice Chairs",
+      "Thoroughfare Plan",
+      "Assistant City Attorneys",
+      "Bids",
+      "Mayor Pro Tem",
+      "Executive Session",
+      "Public Participation",
+      "City Council",
+      "Dallas"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8796
+}

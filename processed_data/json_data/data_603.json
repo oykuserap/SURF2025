@@ -1,0 +1,134 @@
+{
+  "agenda_number": 603,
+  "source_file": "Agenda_603.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 11, 2024",
+      "time": "3:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Citizen Homelessness Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "David King",
+      "presenters": [
+        "Christine Crossley",
+        "Sarah Kahn",
+        "John Shellene",
+        "LeTitia Owens",
+        "Linda Garner"
+      ],
+      "participants": [
+        "Angela Klattenhoff",
+        "Soraya Santos",
+        "Gailya Silhan"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call Meeting to Order and Roll Call",
+        "description": "Declare A Quorum Present and Declare Legal Notice Posted and Meeting Duly Called",
+        "presenter": "David King",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "II",
+        "title": "Public Comments",
+        "description": "Limit 2 minutes per speaker",
+        "presenter": "David King",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from December 14, 2023",
+        "presenter": "David King",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Presentation: Temporary Housing Pilot Update",
+        "description": "Update on the Temporary Housing Pilot",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Office of Homeless Solutions Agenda/Contract Forecast",
+        "description": "Substantial Amendment No. 1 to FY 2023-24 Annual Action Plan (HOME ARPA Grant Reallocation)",
+        "presenter": "Sarah Kahn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Citizen Homelessness Commission: Subcommittee Reports",
+        "description": "Reports from various subcommittees",
+        "presenter": "Various Chairs",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Dallas City Code Article XX – Citizen Homelessness Commission",
+        "description": "Discussion on the purpose and duties of the commission",
+        "presenter": "David King",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Chapter 8, Section 8-1.1 (a) – Annual Report",
+        "description": "Draft Distribution/Review of FY 2022-2023 Annual Report",
+        "presenter": "David King",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IX",
+        "title": "(CHC) Citizen Homelessness Retreat Update",
+        "description": "Update on the Citizen Homelessness Retreat",
+        "presenter": "David King",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "X",
+        "title": "Proposed Items for Next/Future Meetings",
+        "description": "No discussion, debate, and/or vote",
+        "presenter": "David King",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "XI",
+        "title": "Announcement of Upcoming Meetings",
+        "description": "Upcoming meetings and events",
+        "presenter": "David King",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "XII",
+        "title": "Adjournment",
+        "description": "Closing of the meeting",
+        "presenter": "David King",
+        "action_required": "adjourn"
+      }
+    ],
+    "keywords": [
+      "Citizen Homelessness Commission",
+      "Dallas City Hall",
+      "Temporary Housing Pilot",
+      "Public Comments",
+      "Approval of Minutes",
+      "Subcommittee Reports",
+      "Annual Report",
+      "Homeless Solutions",
+      "Future Meetings",
+      "Housing",
+      "Racial Equity",
+      "Street Outreach",
+      "Support Services",
+      "Legal Notice",
+      "Quorum"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 14897
+}

@@ -1,0 +1,131 @@
+{
+  "agenda_number": 204,
+  "source_file": "Agenda_204.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 07, 2024",
+      "time": "6:00 P.M.",
+      "type": "Monthly Meeting",
+      "organization": "Community Development Commission (CDC)",
+      "location": "Dallas City Hall, Conference Room 6ES, Videoconference"
+    },
+    "attendees": {
+      "chair": "Melanie Rubin",
+      "presenters": [
+        "Melanie Rubin",
+        "Zhen Barrientos",
+        "Rosanne Mills",
+        "Budget & Management Services (BMS)"
+      ],
+      "participants": [
+        "Community Development Coordinator"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": null,
+        "presenter": "Melanie Rubin",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Roll Call",
+        "description": "Community Development Coordinator",
+        "presenter": "Community Development Coordinator",
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Public Speakers",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Approval of the October 10, 2024, Community Development Commission Meeting Minutes",
+        "description": null,
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Community Development Division Report",
+        "description": "This report may include general greetings and acknowledgements to staff, commission members and other members of the public; introduction of new commission members; additions/changes to committee assignments, scheduling of committee meetings and consideration of future agenda item.",
+        "presenter": "Budget & Management Services (BMS)",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Chair’s Report",
+        "description": "This report may include general greetings and acknowledgements to staff, commission members and other members of the public; introduction of new commission members; additions/changes to committee assignments, scheduling of committee meetings and consideration of future agenda item.",
+        "presenter": "Melanie Rubin",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Vice Chairs Report",
+        "description": "This report includes general acknowledgements to staff, commission members and members of the public.",
+        "presenter": "Zhen Barrientos",
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "CDC Committee Report – Citizen Participation / Policy Procedures (CPPP) Committee",
+        "description": null,
+        "presenter": "Rosanne Mills",
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Action Item: Consider and Approve FY 2025-26 Neighborhood Public Meetings Communication Plan, Dates/times, and Flyer",
+        "description": null,
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "X",
+        "title": "Public Speakers",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "XI",
+        "title": "Announcement",
+        "description": "Announcements may include: Expressions of thanks, congratulations, or condolence; Information about holiday schedules; honorary or salutary recognition of public officials, employees, or citizens, excluding discussions about changes in their status in public office or employment, reminders about upcoming events organized or sponsored by the governing body; information about social, ceremonial, or community events organized or sponsored by entities other than the governing body, attended or scheduled to be attended by members of the governing body or officials/employees of the political subdivision.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "XII",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Community Development",
+      "Commission",
+      "Meeting Minutes",
+      "Public Speakers",
+      "Reports",
+      "Action Items",
+      "Announcements",
+      "Neighborhood Public Meetings",
+      "Citizen Participation",
+      "Policy Procedures",
+      "Budget Management",
+      "Dallas City Hall",
+      "Videoconference",
+      "Equitable Access",
+      "Inclusion"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11474
+}

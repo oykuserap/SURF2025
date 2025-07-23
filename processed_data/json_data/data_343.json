@@ -1,0 +1,102 @@
+{
+  "agenda_number": 343,
+  "source_file": "Agenda_343.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 01, 2024",
+      "time": "6:00 P.M.",
+      "type": "Monthly Meeting",
+      "organization": "Community Development Commission (CDC)",
+      "location": "Dallas City Hall, Conference Room 6ES, Videoconference"
+    },
+    "attendees": {
+      "chair": "Melanie Rubin",
+      "presenters": [
+        "Chan Williams",
+        "Baron Eliason",
+        "Brady Flanery"
+      ],
+      "participants": [
+        "Zhen Barrientos"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of Monthly Minutes",
+        "description": "Approval of Monthly Minutes – June 6, 2024",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Community Development Division Report",
+        "description": "This report may include general greetings and acknowledgements to staff, commission members and other members of the public; introduction of new commission members; additions/changes to committee assignments, scheduling of committee meetings and consideration of future agenda item.",
+        "presenter": "Budget & Management Services (BMS)",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Staff Update on U.S Department of Housing and Urban Development (HUD) Five-Year Consolidated Plan",
+        "description": "Update on the HUD Five-Year Consolidated Plan (FY 2024-25 through 2028-29) and FY 2024-25 Budget Development Process.",
+        "presenter": "Chan Williams, Assistant Director – BMS",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Training on Chapter 12A-Code of Ethics for CDC",
+        "description": "Training session on the Code of Ethics for the Community Development Commission.",
+        "presenter": "Baron Eliason, Chief Integrity Officer, Inspector General Division – Dallas City Attorney’s Office",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Training on Texas Open Meetings Act (T.O.M.A) for CDC",
+        "description": "Training session on the Texas Open Meetings Act for the Community Development Commission.",
+        "presenter": "Brady Flanery, Assistant City Attorney, General Counsel Division – Dallas City Attorney’s Office",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Chair’s Report",
+        "description": "This report may include general greetings and acknowledgements to staff, commission members and other members of the public; introduction of new commission members; additions/changes to committee assignments, scheduling of committee meetings and consideration of future agenda item.",
+        "presenter": "Melanie Rubin, Chair",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Vice Chair’s Report",
+        "description": "This report includes general acknowledgements to staff, commission members and members of the public.",
+        "presenter": "Zhen Barrientos, Vice Chair",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IX",
+        "title": "Announcements",
+        "description": "Announcements may include expressions of thanks, congratulations, or condolence; information about holiday schedules; honorary or salutary recognition of public officials, employees, or citizens.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Community Development",
+      "Monthly Meeting",
+      "HUD",
+      "Budget Development",
+      "Code of Ethics",
+      "Texas Open Meetings Act",
+      "Chair's Report",
+      "Vice Chair's Report",
+      "Public Speakers",
+      "Announcements",
+      "Dallas City Hall",
+      "Videoconference",
+      "BMS",
+      "Commission Members",
+      "Training"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 13145
+}

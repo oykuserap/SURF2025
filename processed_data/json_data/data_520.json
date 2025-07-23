@@ -1,0 +1,92 @@
+{
+  "agenda_number": 520,
+  "source_file": "Agenda_520.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 6, 2024",
+      "time": "5:30 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Environmental Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Kathryn Bazan",
+      "presenters": [
+        "Kevin Mondy, Manager, Department of Code Compliance",
+        "Alicia Lee, Water Conservation Manager, Office of Environmental Quality & Sustainability",
+        "Sheila Delgado, Assistant Director, Office of Environmental Quality & Sustainability",
+        "Carlos Evans, Director, Office of Environmental Quality & Sustainability"
+      ],
+      "participants": [
+        "Esther Villarreal, Vice Chair, District 6",
+        "Teresita Delgado, District 1",
+        "Andrew Siegel, District 10",
+        "Mark Wootton, District 2",
+        "Colleen Murray, District 11",
+        "Michael Cook, District 3",
+        "Barry Lachman, District 12",
+        "Tracy Wallace, District 5",
+        "Paula Day, District 14",
+        "Temeckia Derrough, District 7",
+        "Julie Hiromoto, District 15",
+        "Renee Roberson, District 8"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes from the January 10, 2024 meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Voting Items",
+        "description": "Vote to pass a special recognition honoring the life, work, and legacy of Raúl Reyes, Jr. and other recommendations.",
+        "presenter": null,
+        "action_required": "vote"
+      },
+      {
+        "item_number": "VI",
+        "title": "Briefing Items",
+        "description": "Updates on Keep Dallas Beautiful and the 2024 Five-Year Water Conservation Work Plan.",
+        "presenter": "Kevin Mondy, Alicia Lee",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Discussion Items",
+        "description": "Monthly updates from subcommittees and upcoming meetings.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Environmental Commission",
+      "Dallas City Hall",
+      "Water Conservation",
+      "Keep Dallas Beautiful",
+      "Public Speakers",
+      "Voting Items",
+      "Briefing Items",
+      "Community Engagement",
+      "Sustainability",
+      "Environmental Quality"
+    ],
+    "financial_items": [
+      {
+        "description": "Funding for the Water Conservation Regional Public Awareness Campaign",
+        "amount": "$3,350,000",
+        "type": "budget"
+      },
+      {
+        "description": "Annual contribution for the Water Conservation Campaign",
+        "amount": "$670,000",
+        "type": "budget"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 160533
+}

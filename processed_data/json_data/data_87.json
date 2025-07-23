@@ -1,0 +1,105 @@
+{
+  "agenda_number": 87,
+  "source_file": "Agenda_87.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 30, 2025",
+      "time": "11:00 a.m.",
+      "type": "Special Called Meeting",
+      "organization": "Tax Increment Financing Reinvestment Zone Number Seven Board of Directors",
+      "location": "Dallas City Hall, 6DN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Tamara Leak, Assistant Director (I), Office of Economic Development"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call meeting to order and declare a quorum is established.",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Nominate and elect a Temporary Chairperson.",
+        "description": "Recommended action: Nominate and elect a Temporary Chairperson",
+        "presenter": null,
+        "action_required": "Nominate and elect"
+      },
+      {
+        "item_number": "3",
+        "title": "Introduction of meeting participants.",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Public comments pertaining to agenda items 5 through 8.",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "5",
+        "title": "Nominate and elect a Vice Chairperson.",
+        "description": "Recommended action: Nominate and elect a Vice Chairperson.",
+        "presenter": null,
+        "action_required": "Nominate and elect"
+      },
+      {
+        "item_number": "6",
+        "title": "Review and consider the Meeting Record for the January 25, 2024 meeting.",
+        "description": null,
+        "presenter": "Tamara Leak, Assistant Director (I), Office of Economic Development",
+        "action_required": "Approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Review and consider the Sports Arena TIF District Annual Report for Fiscal Year 2023-2024.",
+        "description": null,
+        "presenter": "Tamara Leak, Assistant Director (I), Office of Economic Development",
+        "action_required": "Approve and forward a recommendation of approval to City Council"
+      },
+      {
+        "item_number": "8",
+        "title": "Review and consider a quarterly regular meeting schedule for Sports Arena TIF District Board of Directors for calendar year 2025.",
+        "description": null,
+        "presenter": "Tamara Leak, Assistant Director (I), Office of Economic Development",
+        "action_required": "Approve"
+      },
+      {
+        "item_number": "9",
+        "title": "Adjournment.",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Special Called Meeting",
+      "Tax Increment Financing",
+      "Reinvestment Zone",
+      "Sports Arena TIF District",
+      "Board of Directors",
+      "Meeting Record",
+      "Annual Report",
+      "Vice Chairperson",
+      "Temporary Chairperson",
+      "Public Comments",
+      "Meeting Schedule",
+      "Economic Development",
+      "Quorum",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12222
+}

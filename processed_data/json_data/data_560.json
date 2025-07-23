@@ -1,0 +1,166 @@
+{
+  "agenda_number": 560,
+  "source_file": "Agenda_560.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 12, 2024",
+      "time": "1:00 PM",
+      "type": "Public Safety Committee Meeting",
+      "organization": "Dallas City Council",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "William H. Griffith",
+        "Delridge Williams",
+        "Jason Scoggins",
+        "Kevin Oden",
+        "Catrina Shead",
+        "Scott Clumpner",
+        "Dr. Marshal Isaacs",
+        "Courtney Edwards",
+        "Bill Zielinski",
+        "Dr. Brian Gardner",
+        "Jon Fortune",
+        "Dominique Artis",
+        "Eddie Garcia",
+        "Gregory Nelson"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the January 8, 2024 Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Public Safety Recruiting and Retention Update",
+        "description": "Update on the recruiting and retention efforts within the public safety departments.",
+        "presenter": "William H. Griffith, Delridge Williams",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Violent Crime Reduction Plan Update",
+        "description": "Update on the strategies and progress of the violent crime reduction plan.",
+        "presenter": "Jason Scoggins, Kevin Oden",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Overview of the Enhancements to the Sexual Assault Investigation Process",
+        "description": "Presentation on the improvements made to the sexual assault investigation process.",
+        "presenter": "Catrina Shead",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Overview of Dallas Fire-Rescue Blood Transfusion Pilot Program",
+        "description": "Presentation on the pilot program for blood transfusions in Dallas Fire-Rescue.",
+        "presenter": "Scott Clumpner, Dr. Marshal Isaacs, Courtney Edwards",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Overview of Public Safety Technology Projects",
+        "description": "Update on various technology projects related to public safety.",
+        "presenter": "Bill Zielinski, Dr. Brian Gardner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Public Safety Dashboards",
+        "description": "Presentation on the public safety dashboards.",
+        "presenter": "Jon Fortune",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Dallas Fire Rescue Facility Construction Update",
+        "description": "Update on the construction of Dallas Fire Rescue facilities.",
+        "presenter": "Dominique Artis",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Dallas Fire-Rescue Fleet Maintenance Update",
+        "description": "Update on the maintenance of the Dallas Fire-Rescue fleet.",
+        "presenter": "Dominique Artis",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Dallas Fire-Rescue Emergency Response Review Project Update",
+        "description": "Update on the emergency response review project.",
+        "presenter": "Dominique Artis",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "Police Academy Update",
+        "description": "Update on the status of the police academy.",
+        "presenter": "Eddie Garcia, Jennifer Nicewander",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "K",
+        "title": "Warrant Roundup Scheduled for February 2024",
+        "description": "Information regarding the upcoming warrant roundup.",
+        "presenter": "Gregory Nelson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "L",
+        "title": "Sexually Orientated Business (SOB) Hours of Operation Update",
+        "description": "Update on the hours of operation for sexually oriented businesses.",
+        "presenter": "Eddie Garcia",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "M",
+        "title": "City Council Agenda Item #6; 24-79",
+        "description": "An ordinance amending Chapter 7A, 'Anti-Litter Regulations.'",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "N",
+        "title": "City Council Agenda Item #30; 24-456",
+        "description": "Authorize a three-year cooperative purchasing agreement for mobile forensic software.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Public Safety",
+      "Dallas City Council",
+      "Recruiting",
+      "Retention",
+      "Violent Crime",
+      "Sexual Assault",
+      "Fire Rescue",
+      "Technology Projects",
+      "Dashboards",
+      "Fleet Maintenance",
+      "Warrant Roundup",
+      "Ordinance",
+      "Cooperative Purchasing",
+      "Emergency Response",
+      "Public Safety Committee"
+    ],
+    "financial_items": [
+      {
+        "description": "Authorize a three-year cooperative purchasing agreement for a mobile forensic software subscription for the Police Department.",
+        "amount": "715141.64",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 23666
+}

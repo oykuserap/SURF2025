@@ -1,0 +1,96 @@
+{
+  "agenda_number": 228,
+  "source_file": "Agenda_228.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 23, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the October 8, 2024 City Council Meeting",
+        "description": "",
+        "presenter": "City Attorney's Office",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Authorize settlement of the bodily injury claims brought by Demariyea Williams",
+        "description": "Settlement in the lawsuit styled Untrell Calhoun, Demariyea Williams, and Tiffany Shipp v. City of Dallas, Cause No. DC-23-18179.",
+        "presenter": "City Attorney's Office",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Authorize settlement of the lawsuit styled Israel Selgado v. City of Dallas",
+        "description": "",
+        "presenter": "City Attorney's Office",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Authorize settlement of the lawsuit styled Thomas Meagher v. City of Dallas",
+        "description": "",
+        "presenter": "City Attorney's Office",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "An ordinance authorizing the issuance and sale of City of Dallas, Texas Waterworks and Sewer System Revenue Bonds, Series 2024C",
+        "description": "In the amount of $34,000,000 to the Texas Water Development Board.",
+        "presenter": "City Controller's Office",
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "meeting",
+      "settlement",
+      "lawsuit",
+      "bonds",
+      "waterworks",
+      "revenue",
+      "public hearing",
+      "zoning",
+      "ordinance",
+      "financial",
+      "budget",
+      "community",
+      "development",
+      "public services"
+    ],
+    "financial_items": [
+      {
+        "description": "Settlement of bodily injury claims",
+        "amount": "$48,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Settlement of lawsuit Israel Selgado",
+        "amount": "$30,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Settlement of lawsuit Thomas Meagher",
+        "amount": "$150,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Issuance of Waterworks and Sewer System Revenue Bonds",
+        "amount": "$34,000,000.00",
+        "type": "funding"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 79419
+}

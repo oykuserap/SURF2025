@@ -1,0 +1,129 @@
+{
+  "agenda_number": 453,
+  "source_file": "Agenda_453.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 23, 2024",
+      "time": "12:00 PM",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas Public Facility Corporation",
+      "location": "Dallas City Hall, Auditorium L1FN and Videoconference, 1500 Marilla Street, Dallas, TX 75201"
+    },
+    "attendees": {
+      "chair": "Keith Pomykal",
+      "presenters": [
+        "Albert Gonzalez",
+        "Jim Plummer",
+        "Tim Nelson",
+        "Thor Erickson"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Roll Call",
+        "description": "",
+        "presenter": "Albert Gonzalez",
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Public Testimony",
+        "description": "public comment(s) on items 4 – 11",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Approval of Minutes",
+        "description": "Discussion and approval of the minutes of March 26, 2024 Board Meeting",
+        "presenter": "Keith Pomykal",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Amended Resolution for The Park at Northpoint Apartments",
+        "description": "Discussion and approval of an amended resolution inducing The Park at Northpoint Apartments in partnership with an affiliate of LDG - The Park at Northpoint LP to be located at approximately 9999 Technology Boulevard West, Dallas Texas; and authorizing the negotiation and execution of a term sheet; and other matters in connection therewith",
+        "presenter": "Albert Gonzalez; Jim Plummer; Tim Nelson",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Appointment of Board Members",
+        "description": "Discussion and approval of a resolution authorizing the appointment of One Dallas Public Facility Corporation Board member to the Dallas Public Facility Corporation Governance Committee and the appointment of Three Dallas Public Facility Corporation Board members to the Dallas Public Facility Corporation Community Outreach Committee",
+        "presenter": "Keith Pomykal",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Dallas Housing Policy 2033 Equity Strategy Target Areas",
+        "description": "Presentation and discussion of Dallas Housing Policy 2033 Equity Strategy Target Areas",
+        "presenter": "Thor Erickson",
+        "action_required": null
+      },
+      {
+        "item_number": "8",
+        "title": "Community Reinvestment Review",
+        "description": "Discussion and review of Dallas Public Facility Corporation’s community reinvestment",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      },
+      {
+        "item_number": "9",
+        "title": "Governance Committee Progress Report",
+        "description": "Discussion and review of Dallas PFC Governance Committee Progress Report",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      },
+      {
+        "item_number": "10",
+        "title": "Treasurer’s Report",
+        "description": "Discussion and review of Dallas PFC Treasurer’s Report",
+        "presenter": "Albert Gonzalez",
+        "action_required": null
+      },
+      {
+        "item_number": "11",
+        "title": "Pipeline Report",
+        "description": "Discussion and review of Dallas PFC Pipeline Report",
+        "presenter": "Albert Gonzalez",
+        "action_required": null
+      },
+      {
+        "item_number": "12",
+        "title": "Adjourn",
+        "description": "",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Public Facility Corporation",
+      "Board Meeting",
+      "Housing Policy",
+      "Community Reinvestment",
+      "Governance Committee",
+      "Treasurer’s Report",
+      "Pipeline Report",
+      "Public Testimony",
+      "Resolution",
+      "Minutes Approval",
+      "Equity Strategy",
+      "Appointment",
+      "Amended Resolution",
+      "Technology Boulevard"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9253
+}

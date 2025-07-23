@@ -1,0 +1,1679 @@
+{
+  "total_files_found": 702,
+  "files_processed": 15,
+  "summary_stats": {
+    "successful": 5,
+    "failed": 0,
+    "skipped": 13,
+    "total_in_db": 18
+  },
+  "json_stats": {
+    "successful": 15,
+    "failed": 0,
+    "skipped": 3,
+    "total_in_db": 18
+  },
+  "results": [
+    {
+      "agenda_number": 102,
+      "source_file": "Agenda_102.txt",
+      "summary_result": {
+        "status": "already_processed"
+      },
+      "json_result": {
+        "agenda_number": 102,
+        "source_file": "Agenda_102.txt",
+        "extracted_data": {
+          "meeting_info": {
+            "date": "January 21, 2025",
+            "time": "11:00 AM",
+            "type": "Ad Hoc Committee Meeting",
+            "organization": "Ad Hoc Committee on Administrative Affairs",
+            "location": "Dallas City Hall, Council Chambers and via video conference"
+          },
+          "attendees": {
+            "chair": "Atkins",
+            "presenters": [
+              "Nina Arias"
+            ],
+            "participants": []
+          },
+          "agenda_items": [
+            {
+              "item_number": "1",
+              "title": "Approval of Minutes",
+              "description": "Approval of the minutes of the January 9, 2025 meeting of the Ad Hoc Committee on Administrative Affairs.",
+              "presenter": null,
+              "action_required": "approve"
+            },
+            {
+              "item_number": "A",
+              "title": "Propose Timeline for Performance Review",
+              "description": "Propose timeline to conduct the annual performance review for City Council Appointed Officials (City Attorney, City Secretary, City Manager, and Inspector General).",
+              "presenter": "Nina Arias",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "B",
+              "title": "Procurement Process for Consultant Services",
+              "description": "Consider recommendation to City Council to start procurement process for human resources consultant services for performance evaluations of City Council-appointed positions (City Attorney, City Secretary, City Manager, and Inspector General).",
+              "presenter": null,
+              "action_required": "discuss"
+            }
+          ],
+          "keywords": [
+            "Dallas City Hall",
+            "Ad Hoc Committee",
+            "Administrative Affairs",
+            "performance review",
+            "City Council",
+            "consultant services",
+            "human resources",
+            "evaluation",
+            "procurement",
+            "minutes approval",
+            "video conference",
+            "public meeting"
+          ],
+          "financial_items": []
+        },
+        "extraction_method": "openai_gpt",
+        "original_length": 19207
+      }
+    },
+    {
+      "agenda_number": 103,
+      "source_file": "Agenda_103.txt",
+      "summary_result": {
+        "status": "already_processed"
+      },
+      "json_result": {
+        "agenda_number": 103,
+        "source_file": "Agenda_103.txt",
+        "extracted_data": {
+          "meeting_info": {
+            "date": "January 21, 2025",
+            "time": "10:30 A.M. and 1:00 P.M.",
+            "type": "Board of Adjustment Meeting",
+            "organization": "Board of Adjustment (Panel A)",
+            "location": "Dallas City Hall, Council Briefing 6ES and Videoconference"
+          },
+          "attendees": {
+            "chair": "David A. Neumann",
+            "presenters": [],
+            "participants": []
+          },
+          "agenda_items": [
+            {
+              "item_number": "1",
+              "title": "Approval of Panel A Minutes",
+              "description": "Approval of Panel A Minutes – December 9, 2024",
+              "presenter": null,
+              "action_required": "approve"
+            },
+            {
+              "item_number": "2",
+              "title": "Application of Mohanad Albadri",
+              "description": "Application for a special exception to enlarge a nonconforming use.",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "3",
+              "title": "Application of Sudduha Sham",
+              "description": "Application for a variance to the front-yard setback regulations.",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "4",
+              "title": "Application of Monica Hernandez",
+              "description": "Application for a special exception to the single-family use regulations and for a variance to the maximum height regulations.",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "5",
+              "title": "Application of Richard Powell",
+              "description": "Application for a special exception to the fence height regulations.",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "6",
+              "title": "Application of Daniel Le",
+              "description": "Application for a variance to the maximum height requirements.",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "7",
+              "title": "Application of Tracy Jordan",
+              "description": "Application for a variance to the maximum building height regulations.",
+              "presenter": null,
+              "action_required": "discuss"
+            }
+          ],
+          "keywords": [
+            "Board of Adjustment",
+            "Dallas City Hall",
+            "public hearing",
+            "variance",
+            "special exception",
+            "front-yard setback",
+            "nonconforming use",
+            "fence height",
+            "maximum height",
+            "individual cases",
+            "minutes approval",
+            "public testimony",
+            "executive session",
+            "accommodations",
+            "video conference"
+          ],
+          "financial_items": []
+        },
+        "extraction_method": "openai_gpt",
+        "original_length": 15849
+      }
+    },
+    {
+      "agenda_number": 104,
+      "source_file": "Agenda_104.txt",
+      "summary_result": {
+        "status": "already_processed"
+      },
+      "json_result": {
+        "agenda_number": 104,
+        "source_file": "Agenda_104.txt",
+        "extracted_data": {
+          "meeting_info": {
+            "date": "January 21, 2025",
+            "time": "9:00 AM",
+            "type": "Regular Meeting",
+            "organization": "Quality of Life, Arts, and Culture Committee",
+            "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+          },
+          "attendees": {
+            "chair": "Paul E. Ridley",
+            "presenters": [
+              "Luis Loya",
+              "Martine Elyse Philippe",
+              "Sallie Lockhart",
+              "Jessica Galleshaw",
+              "Mary Martin",
+              "Clifton Gillespie",
+              "James Walton",
+              "Candice Bryant",
+              "Israel Herrera",
+              "Dr. Lindsey Wilson",
+              "Christina Da Silva"
+            ],
+            "participants": [
+              "Jaime Resendez",
+              "Adam Bazaldua",
+              "Paula Blackmon",
+              "Zarin Gracey",
+              "Jaynie Schultz",
+              "Gay Donnell Willis"
+            ]
+          },
+          "agenda_items": [
+            {
+              "item_number": "1",
+              "title": "Approval of the December 3, 2024, Quality of Life, Arts, and Culture Committee Meeting Minutes",
+              "description": "Approval of the minutes from the previous meeting.",
+              "presenter": "Paul E. Ridley",
+              "action_required": "approve"
+            },
+            {
+              "item_number": "A",
+              "title": "2024 Department Highlights and Quality of Life, Arts, and Culture Committee Feedback",
+              "description": "Presentation on the department's accomplishments and feedback from the committee.",
+              "presenter": "Luis Loya",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "B",
+              "title": "Dallas Public Art Program Update",
+              "description": "Update on the Dallas Public Art Program and upcoming projects.",
+              "presenter": "Martine Elyse Philippe",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "C",
+              "title": "Office of Arts and Culture - FY 2025-26 Cultural Organizations Program Guidelines",
+              "description": "Discussion on the guidelines for the Cultural Organizations Program.",
+              "presenter": "Martine Elyse Philippe",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "D",
+              "title": "Resident Vehicle Towing Practices",
+              "description": "Overview of the towing practices and regulations in Dallas.",
+              "presenter": "James Walton",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "E",
+              "title": "Acceptance of NLC FY25 Cities Addressing Fines and Fees Equitably (CAFFE) Initiative Grant",
+              "description": "Consideration of acceptance of grant funding to address fines and fees.",
+              "presenter": "Dr. Lindsey Wilson",
+              "action_required": "approve"
+            },
+            {
+              "item_number": "F",
+              "title": "Quality of Life, Arts, and Culture Committee Forecast",
+              "description": "Forecast of upcoming agenda items and committee activities.",
+              "presenter": "City Manager’s Office",
+              "action_required": "discuss"
+            }
+          ],
+          "keywords": [
+            "Quality of Life",
+            "Arts",
+            "Culture",
+            "Committee",
+            "Dallas",
+            "Public Art",
+            "Cultural Organizations",
+            "Towing Practices",
+            "Fines and Fees",
+            "Equity"
+          ],
+          "financial_items": [
+            {
+              "description": "NLC FY25 CAFFE Initiative Grant",
+              "amount": "$10,000.00",
+              "type": "grant"
+            }
+          ]
+        },
+        "extraction_method": "openai_gpt",
+        "original_length": 239352
+      }
+    },
+    {
+      "agenda_number": 105,
+      "source_file": "Agenda_105.txt",
+      "summary_result": {
+        "status": "already_processed"
+      },
+      "json_result": {
+        "agenda_number": 105,
+        "source_file": "Agenda_105.txt",
+        "extracted_data": {
+          "meeting_info": {
+            "date": "January 17, 2025",
+            "time": "10 a.m. – 11:30 a.m.",
+            "type": "Board Meeting",
+            "organization": "Dallas Local Government Corporation",
+            "location": "Dallas City Hall, City Council Briefing Room (6ES) and Videoconference WebEx"
+          },
+          "attendees": {
+            "chair": "Vincent T. Parker",
+            "presenters": [
+              "Vincent T. Parker",
+              "Tony Moore"
+            ],
+            "participants": []
+          },
+          "agenda_items": [
+            {
+              "item_number": "I",
+              "title": "Call to Order",
+              "description": "",
+              "presenter": "Vincent T. Parker",
+              "action_required": null
+            },
+            {
+              "item_number": "II",
+              "title": "Public Speakers",
+              "description": "",
+              "presenter": null,
+              "action_required": null
+            },
+            {
+              "item_number": "III",
+              "title": "Approval of Minutes",
+              "description": "Approval of minutes from the meeting on November 15, 2024.",
+              "presenter": null,
+              "action_required": "approve"
+            },
+            {
+              "item_number": "IV",
+              "title": "Election of 2025 LGC Board Officers and Appointment of Work Groups",
+              "description": "",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "V",
+              "title": "Update on Amendments to the Master Development Agreement",
+              "description": "Update on amendments to the Master Development Agreement with the City of Dallas.",
+              "presenter": "Vincent T. Parker",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "VI",
+              "title": "Update on Harold Simmons Park",
+              "description": "Update on Harold Simmons Park.",
+              "presenter": "Tony Moore",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "VII",
+              "title": "Other Public Speakers",
+              "description": "",
+              "presenter": null,
+              "action_required": null
+            },
+            {
+              "item_number": "VIII",
+              "title": "Reports from LGC Work Groups",
+              "description": "Reports from various LGC work groups including Parks Operations Excellence, Community Engagement, Park Design Advocacy, and Communications and Marketing.",
+              "presenter": null,
+              "action_required": null
+            },
+            {
+              "item_number": "IX",
+              "title": "Adjournment",
+              "description": "",
+              "presenter": null,
+              "action_required": null
+            }
+          ],
+          "keywords": [
+            "Dallas",
+            "Local Government Corporation",
+            "Board Meeting",
+            "Trinity River Corridor",
+            "Public Speakers",
+            "Approval of Minutes",
+            "Election of Officers",
+            "Master Development Agreement",
+            "Harold Simmons Park",
+            "Work Groups",
+            "Community Engagement",
+            "Parks Operations",
+            "Park Design Advocacy",
+            "Communications",
+            "Marketing"
+          ],
+          "financial_items": []
+        },
+        "extraction_method": "openai_gpt",
+        "original_length": 7726
+      }
+    },
+    {
+      "agenda_number": 106,
+      "source_file": "Agenda_106.txt",
+      "summary_result": {
+        "status": "already_processed"
+      },
+      "json_result": {
+        "agenda_number": 106,
+        "source_file": "Agenda_106.txt",
+        "extracted_data": {
+          "meeting_info": {
+            "date": "January 16, 2025",
+            "time": "6:00 PM",
+            "type": "Special Meeting",
+            "organization": "Dallas Housing Finance Corporation",
+            "location": "Canopy by Hilton Dallas Uptown, 2950 Cityplace W Blvd, Dallas, Matilda Room 8th Floor and Videoconference"
+          },
+          "attendees": {
+            "chair": "Marcy Helfand",
+            "presenters": [
+              "Ryan Bowen",
+              "Aaron Eaquinto"
+            ],
+            "participants": [
+              "Jaclyn Schroeder"
+            ]
+          },
+          "agenda_items": [
+            {
+              "item_number": "I",
+              "title": "Call to Order",
+              "description": "Opening of the meeting by the President.",
+              "presenter": "Marcy Helfand",
+              "action_required": null
+            },
+            {
+              "item_number": "II",
+              "title": "Roll Call",
+              "description": "Attendance check conducted by the Housing Project Manager.",
+              "presenter": "Jaclyn Schroeder",
+              "action_required": null
+            },
+            {
+              "item_number": "III",
+              "title": "Public Comments",
+              "description": "Opportunity for public comments on items IV – IX.",
+              "presenter": null,
+              "action_required": null
+            },
+            {
+              "item_number": "IV",
+              "title": "Discussion of Bylaws amendment",
+              "description": "Discussion regarding amendments to the bylaws of the Corporation.",
+              "presenter": "Ryan Bowen",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "V",
+              "title": "Discussion of potential uses of funds",
+              "description": "Discussion on how the Corporation's funds may be utilized.",
+              "presenter": "Marcy Helfand",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "VI",
+              "title": "Presentation on workforce housing study",
+              "description": "Presentation and discussion of the October 2024 study on workforce housing costs and benefits.",
+              "presenter": "Aaron Eaquinto",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "VII",
+              "title": "Discussion on targeted areas of development",
+              "description": "Discussion on aligning development goals with the City of Dallas Housing Policy.",
+              "presenter": "Aaron Eaquinto",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "VIII",
+              "title": "Discussion and approval of 2025 Budget",
+              "description": "Discussion and approval of the Corporation’s budget for 2025.",
+              "presenter": "Aaron Eaquinto",
+              "action_required": "approve"
+            },
+            {
+              "item_number": "IX",
+              "title": "Review of 2025 calendar",
+              "description": "Review and discussion of the Corporation’s 2025 calendar and planning session.",
+              "presenter": "Aaron Eaquinto",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "X",
+              "title": "Adjourn",
+              "description": "Closing of the meeting by the President.",
+              "presenter": "Marcy Helfand",
+              "action_required": null
+            }
+          ],
+          "keywords": [
+            "Dallas Housing Finance Corporation",
+            "Special Meeting",
+            "Bylaws amendment",
+            "Corporation funds",
+            "workforce housing",
+            "development goals",
+            "2025 Budget",
+            "2025 calendar",
+            "public comments",
+            "meeting adjournment"
+          ],
+          "financial_items": [
+            {
+              "description": "Discussion and approval of the Corporation’s 2025 Budget",
+              "amount": null,
+              "type": "budget"
+            }
+          ]
+        },
+        "extraction_method": "openai_gpt",
+        "original_length": 10029
+      }
+    },
+    {
+      "agenda_number": 107,
+      "source_file": "Agenda_107.txt",
+      "summary_result": {
+        "status": "already_processed"
+      },
+      "json_result": {
+        "agenda_number": 107,
+        "source_file": "Agenda_107.txt",
+        "extracted_data": {
+          "meeting_info": {
+            "date": "January 16, 2025",
+            "time": "4:30 P.M.",
+            "type": "Regular Meeting",
+            "organization": "Arts and Culture Advisory Commission",
+            "location": "Dallas City Hall, 6FN - Park and Recreation Board Room and Videoconference, 1500 Marilla Street"
+          },
+          "attendees": {
+            "chair": "David Small",
+            "presenters": [
+              "David Small",
+              "Margie J. Reese",
+              "Martine Philippe"
+            ],
+            "participants": []
+          },
+          "agenda_items": [
+            {
+              "item_number": "1",
+              "title": "Approval of the November 21, 2024, Arts and Culture Advisory Commission meeting minutes",
+              "description": "",
+              "presenter": null,
+              "action_required": "approve"
+            },
+            {
+              "item_number": "2",
+              "title": "Vote to recommend new selection panelists to the Office of Arts and Culture’s Public Art Review Panel Roster",
+              "description": "",
+              "presenter": null,
+              "action_required": "vote"
+            },
+            {
+              "item_number": "3",
+              "title": "Recommendation in support of the initiation of the City-Wide, Sidewalk Poetry Public Art Project",
+              "description": "to begin in the Esperanza District located in Council District 11",
+              "presenter": null,
+              "action_required": "recommend"
+            },
+            {
+              "item_number": "4",
+              "title": "Recommendation in support of the Arts and Culture Advisory Commission’s FY 2023-24 Annual Report",
+              "description": "",
+              "presenter": null,
+              "action_required": "recommend"
+            },
+            {
+              "item_number": "5",
+              "title": "Recommendation in support of the FY 2025-26 Cultural Organizations Program (COP) Guidelines",
+              "description": "",
+              "presenter": null,
+              "action_required": "recommend"
+            },
+            {
+              "item_number": "6",
+              "title": "Vote to recommend additional panelists to the Office of Arts and Culture’s Funding Programs Review Panel Roster",
+              "description": "",
+              "presenter": null,
+              "action_required": "vote"
+            }
+          ],
+          "keywords": [
+            "Arts and Culture",
+            "Advisory Commission",
+            "Public Art",
+            "Sidewalk Poetry",
+            "Cultural Organizations",
+            "Annual Report",
+            "Selection Panelists",
+            "Funding Programs",
+            "Dallas City Hall",
+            "Meeting Minutes",
+            "Community Engagement",
+            "Public Speakers",
+            "Executive Session",
+            "Cultural Plan",
+            "Equity"
+          ],
+          "financial_items": []
+        },
+        "extraction_method": "openai_gpt",
+        "original_length": 11857
+      }
+    },
+    {
+      "agenda_number": 108,
+      "source_file": "Agenda_108.txt",
+      "summary_result": {
+        "status": "already_processed"
+      },
+      "json_result": {
+        "agenda_number": 108,
+        "source_file": "Agenda_108.txt",
+        "extracted_data": {
+          "meeting_info": {
+            "date": "January 16, 2025",
+            "time": "1:30 P.M.",
+            "type": "Regular Meeting",
+            "organization": "City Secretary",
+            "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+          },
+          "attendees": {
+            "chair": "Linda Garner",
+            "presenters": [
+              "Brenda E. Snitzer",
+              "Christine Crossley",
+              "James Hauck",
+              "Tramonica Brown",
+              "Wesley Keyes",
+              "Angela Klattenhoff"
+            ],
+            "participants": [
+              "Barry Dyson",
+              "Lisa Rand"
+            ]
+          },
+          "agenda_items": [
+            {
+              "item_number": "I",
+              "title": "Call Meeting to Order and Roll Call",
+              "description": "Declare A Quorum Present, Declare Legal Notice Posted and Meeting Duly Called",
+              "presenter": "Linda Garner",
+              "action_required": null
+            },
+            {
+              "item_number": "II",
+              "title": "Public Comments",
+              "description": "Limit 2 minutes per speaker",
+              "presenter": "Linda Garner",
+              "action_required": null
+            },
+            {
+              "item_number": "III",
+              "title": "Approval of Minutes",
+              "description": "December 19, 2024",
+              "presenter": "Linda Garner",
+              "action_required": "approve"
+            },
+            {
+              "item_number": "IV",
+              "title": "Discussion: Overview of The Stewpot Program and Services",
+              "description": "Discussion on the services provided by The Stewpot",
+              "presenter": "Brenda E. Snitzer",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "V",
+              "title": "Discussion / Approval of Citizen Homelessness Commission 2024 Annual Report",
+              "description": "Discussion and approval of the annual report",
+              "presenter": "Linda Garner",
+              "action_required": "approve"
+            },
+            {
+              "item_number": "VI",
+              "title": "Briefing Memo: Properties Updates",
+              "description": "Updates on Property Development and Housing Initiatives",
+              "presenter": "Christine Crossley",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "VII",
+              "title": "Task Force Update: Highlighting Ongoing Initiatives and Priorities",
+              "description": "Updates from various task force members",
+              "presenter": "Linda Garner",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "VIII",
+              "title": "Discussion on District Specific Homelessness Concerns",
+              "description": "Observations: See One, Be One, Teach One Matrix",
+              "presenter": "Linda Garner and Commissioners",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "IX",
+              "title": "Proposed Items for Next/Future Meetings by Commissioners",
+              "description": "No discussion, debate, and/or vote",
+              "presenter": "Linda Garner",
+              "action_required": null
+            },
+            {
+              "item_number": "X",
+              "title": "Announcement of Upcoming Meetings",
+              "description": "Details on upcoming meetings",
+              "presenter": "Linda Garner",
+              "action_required": null
+            },
+            {
+              "item_number": "XI",
+              "title": "Adjournment",
+              "description": null,
+              "presenter": "Linda Garner",
+              "action_required": null
+            }
+          ],
+          "keywords": [
+            "Dallas",
+            "City Hall",
+            "Homelessness",
+            "Stewpot Program",
+            "Citizen Homelessness Commission",
+            "Public Comments",
+            "Task Force",
+            "Housing Initiatives",
+            "Annual Report",
+            "District Specific Concerns",
+            "Upcoming Meetings",
+            "Executive Session",
+            "Financial Information",
+            "Public Engagement",
+            "Racial Equity"
+          ],
+          "financial_items": []
+        },
+        "extraction_method": "openai_gpt",
+        "original_length": 9942
+      }
+    },
+    {
+      "agenda_number": 109,
+      "source_file": "Agenda_109.txt",
+      "summary_result": {
+        "status": "already_processed"
+      },
+      "json_result": {
+        "agenda_number": 109,
+        "source_file": "Agenda_109.txt",
+        "extracted_data": {
+          "meeting_info": {
+            "date": "January 16, 2025",
+            "time": "1:00 p.m.",
+            "type": "Special Called Meeting",
+            "organization": "Downtown Dallas Development Authority Board of Directors",
+            "location": "Dallas City Hall, 6DN Conference Room and Videoconference"
+          },
+          "attendees": {
+            "chair": "Joseph Pitchford",
+            "presenters": [
+              "Tamara L. Leak",
+              "Dorcy Clark"
+            ],
+            "participants": [
+              "Billy Prewitt"
+            ]
+          },
+          "agenda_items": [
+            {
+              "item_number": "1",
+              "title": "Call meeting to order and declare a quorum is established.",
+              "description": null,
+              "presenter": "Joseph Pitchford",
+              "action_required": null
+            },
+            {
+              "item_number": "2",
+              "title": "Motion for Chair to preside over the Special Called Meeting.",
+              "description": null,
+              "presenter": null,
+              "action_required": null
+            },
+            {
+              "item_number": "3",
+              "title": "Introduction of meeting participants.",
+              "description": null,
+              "presenter": null,
+              "action_required": null
+            },
+            {
+              "item_number": "4",
+              "title": "Public comments pertaining to agenda items 5 through 10.",
+              "description": null,
+              "presenter": null,
+              "action_required": null
+            },
+            {
+              "item_number": "5",
+              "title": "Review and consider the Meeting Record of the August 29, 2024 special called joint meeting.",
+              "description": "Review and consider the Meeting Record of the August 29, 2024 special called joint meeting of the Downtown Connection TIF District Board of Directors and the Downtown Dallas Development Authority Board of Directors.",
+              "presenter": "Tamara L. Leak",
+              "action_required": "Approve"
+            },
+            {
+              "item_number": "6",
+              "title": "Review and consider the Meeting Record of the November 19, 2024 special called meeting.",
+              "description": "Review and consider the Meeting Record of the November 19, 2024 special called meeting of the City Center TIF District Board of Directors.",
+              "presenter": "Dorcy Clark",
+              "action_required": "Approve"
+            },
+            {
+              "item_number": "7",
+              "title": "Review and consider an extension of all project deadlines.",
+              "description": "Review and consider an extension of all project deadlines previously authorized by City Council Resolution No. 21-1147 on June 23, 2021, and previously extended by 12-months on September 26, 2022 for the Phase 2 expansion of Klyde Warren Park project.",
+              "presenter": "Dorcy Clark",
+              "action_required": "Approve and forward a recommendation of approval to City Council"
+            },
+            {
+              "item_number": "8",
+              "title": "Review and consider the Downtown Connection TIF District Annual Report for FY 2023-2024.",
+              "description": null,
+              "presenter": "Tamara L. Leak",
+              "action_required": "Approve and forward a recommendation of approval to City Council"
+            },
+            {
+              "item_number": "9",
+              "title": "Review and consider the City Center TIF District Annual Report for FY 2023-2024.",
+              "description": null,
+              "presenter": "Dorcy Clark",
+              "action_required": "Approve and forward a recommendation of approval to City Council"
+            },
+            {
+              "item_number": "10",
+              "title": "Review and consider a quarterly joint meeting schedule for the City Center TIF District Board of Directors.",
+              "description": null,
+              "presenter": "Tamara L. Leak",
+              "action_required": "Approve"
+            },
+            {
+              "item_number": "11",
+              "title": "Adjournment",
+              "description": null,
+              "presenter": null,
+              "action_required": null
+            }
+          ],
+          "keywords": [
+            "City Center TIF District",
+            "Downtown Connection TIF District",
+            "Downtown Dallas Development Authority",
+            "special called meeting",
+            "meeting record",
+            "Klyde Warren Park",
+            "M/WBE participation",
+            "annual report",
+            "joint meeting schedule",
+            "public comments"
+          ],
+          "financial_items": []
+        },
+        "extraction_method": "openai_gpt",
+        "original_length": 14913
+      }
+    },
+    {
+      "agenda_number": 11,
+      "source_file": "Agenda_11.txt",
+      "summary_result": {
+        "status": "already_processed"
+      },
+      "json_result": {
+        "agenda_number": 11,
+        "source_file": "Agenda_11.txt",
+        "extracted_data": {
+          "meeting_info": {
+            "date": "March 26, 2025",
+            "time": "9:00 AM",
+            "type": "Regular Meeting",
+            "organization": "Dallas City Council",
+            "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX"
+          },
+          "attendees": {
+            "chair": null,
+            "presenters": [],
+            "participants": []
+          },
+          "agenda_items": [
+            {
+              "item_number": "1",
+              "title": "Approval of Minutes of the February 26, 2025 City Council Meeting",
+              "description": "",
+              "presenter": null,
+              "action_required": "approve"
+            },
+            {
+              "item_number": "2",
+              "title": "Authorize revisions to the Financial Management Performance Criteria",
+              "description": "Add language that establishes an Employee Benefit Reserve in Unassigned Fund Balance; clarify the pension benefit adjustment approval process; change the comparison of the disabled and over 65 property tax exemption; exclude certificate of obligation debt repaid by Enterprise Funds; add language for systematic funding of retirement systems.",
+              "presenter": null,
+              "action_required": "approve"
+            },
+            {
+              "item_number": "3",
+              "title": "An ordinance amending Ordinance No. 32861",
+              "description": "Authorize certain transfers and appropriation adjustments for FY 2024-25 for maintenance and operation of various departments.",
+              "presenter": null,
+              "action_required": "approve"
+            },
+            {
+              "item_number": "4",
+              "title": "Authorize settlement of lawsuit Jon Puryear EMS CE LLC v. City of Dallas",
+              "description": "",
+              "presenter": null,
+              "action_required": "approve"
+            },
+            {
+              "item_number": "5",
+              "title": "Authorize settlement of lawsuit Laura Alonzo v. City of Dallas",
+              "description": "",
+              "presenter": null,
+              "action_required": "approve"
+            },
+            {
+              "item_number": "6",
+              "title": "Authorize settlement of bodily injury claims by Sterling Bradshaw",
+              "description": "",
+              "presenter": null,
+              "action_required": "approve"
+            },
+            {
+              "item_number": "7",
+              "title": "A resolution authorizing an increase in the joint election agreement",
+              "description": "Increase in election services contract for the November 5, 2024, special election.",
+              "presenter": null,
+              "action_required": "approve"
+            },
+            {
+              "item_number": "8",
+              "title": "Authorize interlocal agreement with Dallas Independent School District",
+              "description": "Provide emergency medical services during football games and other District events.",
+              "presenter": null,
+              "action_required": "approve"
+            },
+            {
+              "item_number": "9",
+              "title": "Authorize a five-year sole source services agreement for asset tracking system",
+              "description": "",
+              "presenter": null,
+              "action_required": "approve"
+            },
+            {
+              "item_number": "10",
+              "title": "Authorize Standard Utility Agreement with the State of Texas",
+              "description": "For water pipeline encasement extensions in State Highway 205.",
+              "presenter": null,
+              "action_required": "approve"
+            }
+          ],
+          "keywords": [
+            "Dallas City Council",
+            "meeting",
+            "agenda",
+            "financial management",
+            "settlement",
+            "lawsuit",
+            "election agreement",
+            "emergency services",
+            "asset tracking",
+            "utility agreement",
+            "public hearings",
+            "zoning",
+            "budget",
+            "community services",
+            "public infrastructure"
+          ],
+          "financial_items": [
+            {
+              "description": "Settlement of lawsuit Jon Puryear EMS CE LLC v. City of Dallas",
+              "amount": "$100,000.00",
+              "type": "expenditure"
+            },
+            {
+              "description": "Settlement of lawsuit Laura Alonzo v. City of Dallas",
+              "amount": "$82,000.00",
+              "type": "expenditure"
+            },
+            {
+              "description": "Settlement of bodily injury claims by Sterling Bradshaw",
+              "amount": "$30,000.00",
+              "type": "expenditure"
+            },
+            {
+              "description": "Increase in joint election agreement for special election",
+              "amount": "$21,738.51",
+              "type": "expenditure"
+            },
+            {
+              "description": "Five-year sole source services agreement for asset tracking system",
+              "amount": "$1,071,846.75",
+              "type": "expenditure"
+            },
+            {
+              "description": "Standard Utility Agreement with the State of Texas for water pipeline encasement",
+              "amount": "$123,165.67",
+              "type": "revenue"
+            }
+          ]
+        },
+        "extraction_method": "openai_gpt",
+        "original_length": 127116
+      }
+    },
+    {
+      "agenda_number": 110,
+      "source_file": "Agenda_110.txt",
+      "summary_result": {
+        "status": "already_processed"
+      },
+      "json_result": {
+        "agenda_number": 110,
+        "source_file": "Agenda_110.txt",
+        "extracted_data": {
+          "meeting_info": {
+            "date": "January 16, 2025",
+            "time": "11:00 AM - 12:30 PM",
+            "type": "Special Called Meeting",
+            "organization": "City Plan Commission",
+            "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+          },
+          "attendees": {
+            "chair": "Tony Shidid",
+            "presenters": [
+              "Michael Wade"
+            ],
+            "participants": []
+          },
+          "agenda_items": [
+            {
+              "item_number": "1",
+              "title": "Briefing on DCA190-002 Off-Street Parking & Loading Code Amendment",
+              "description": "Consideration of amending Chapter 51 and 51A of the Dallas Development Code regarding minimum off-street parking and loading requirements, including establishing a Transportation Demand Management Plan and off-street parking design standards.",
+              "presenter": "Michael Wade",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "2",
+              "title": "Public Hearing: Development Code Amendments - Under Advisement",
+              "description": "Consideration of amending Chapters 51 and 51A of the Dallas City Code regarding off-street parking and loading requirements, including various sections and related amendments.",
+              "presenter": "Michael T. Wade",
+              "action_required": "approve"
+            },
+            {
+              "item_number": "3",
+              "title": "FY 2023-24 Annual Report",
+              "description": "Presentation of the annual report for the City Plan Commission.",
+              "presenter": null,
+              "action_required": null
+            }
+          ],
+          "keywords": [
+            "City Plan Commission",
+            "Special Called Meeting",
+            "Public Hearing",
+            "Off-Street Parking",
+            "Loading Code Amendment",
+            "Transportation Demand Management",
+            "Dallas Development Code",
+            "Annual Report",
+            "Zoning Ordinance",
+            "Public Participation",
+            "Videoconference",
+            "City Hall",
+            "Planning and Development",
+            "Amendments",
+            "Public Hearing Procedures"
+          ],
+          "financial_items": []
+        },
+        "extraction_method": "openai_gpt",
+        "original_length": 17324
+      }
+    },
+    {
+      "agenda_number": 111,
+      "source_file": "Agenda_111.txt",
+      "summary_result": {
+        "agenda_number": 111,
+        "source_file": "Agenda_111.txt",
+        "summary": "**Meeting Overview**:  \nThe Maple/Mockingbird Tax Increment Financing (TIF) District Board of Directors is holding a special called meeting on January 15, 2025, at 3:00 p.m. at Dallas City Hall. The purpose of the meeting is to review and approve key documents related to the TIF district's operations and future meetings.\n\n**Key Agenda Items**:  \n1. Call to order and establish a quorum.\n2. Introduction of participants.\n3. Public comments on agenda items 4-6.\n4. Review and approval of the Meeting Record from December 21, 2023.\n5. Review and approval of the Maple/Mockingbird TIF District Annual Report for FY 2023-2024.\n6. Review and approval of the regular meeting schedule for 2025.\n\n**Important Details**:  \n- The Annual Report for FY 2023-2024 will provide insights into the district's financial performance and future plans, and it is recommended to be forwarded to the City Council for approval.\n- Establishing a regular meeting schedule for 2025 is crucial for ongoing governance and oversight of the TIF district.\n\n**Action Items**:  \nThe Board is seeking approval for the Meeting Record, the Annual Report, and the proposed meeting schedule for 2025. Public comments will be considered prior to these decisions. \n\nThis meeting will also ensure compliance with accessibility requirements, allowing for equitable participation from all residents.",
+        "original_length": 11912,
+        "summary_length": 1357,
+        "processed_at": "170372.359678083"
+      },
+      "json_result": {
+        "agenda_number": 111,
+        "source_file": "Agenda_111.txt",
+        "extracted_data": {
+          "meeting_info": {
+            "date": "January 15, 2025",
+            "time": "3:00 p.m.",
+            "type": "Special Called Meeting",
+            "organization": "Maple/Mockingbird TIF District Board of Directors",
+            "location": "Dallas City Hall, 6DN Conference Room and Videoconference"
+          },
+          "attendees": {
+            "chair": "Greer Christian",
+            "presenters": [
+              "Leslyn Blake"
+            ],
+            "participants": []
+          },
+          "agenda_items": [
+            {
+              "item_number": "1",
+              "title": "Call meeting to order and declare a quorum is established.",
+              "description": "",
+              "presenter": "Greer Christian",
+              "action_required": null
+            },
+            {
+              "item_number": "2",
+              "title": "Introduction of meeting participants.",
+              "description": "",
+              "presenter": null,
+              "action_required": null
+            },
+            {
+              "item_number": "3",
+              "title": "Public comments pertaining to agenda items 4 through 6.",
+              "description": "",
+              "presenter": null,
+              "action_required": null
+            },
+            {
+              "item_number": "4",
+              "title": "Review and consider the Meeting Record of the December 21, 2023 meeting.",
+              "description": "Review and consider the Meeting Record of the December 21, 2023 meeting of the Maple/Mockingbird TIF District Board of Directors.",
+              "presenter": "Leslyn Blake",
+              "action_required": "Approve"
+            },
+            {
+              "item_number": "5",
+              "title": "Review and consider the Maple/Mockingbird TIF District Annual Report for FY 2023-2024.",
+              "description": "Review and consider the Maple/Mockingbird TIF District Annual Report for FY 2023-2024.",
+              "presenter": "Leslyn Blake",
+              "action_required": "Approve and forward a recommendation of approval to City Council"
+            },
+            {
+              "item_number": "6",
+              "title": "Review and consider a regular meeting schedule for the Maple/Mockingbird TIF District Board of Directors for calendar year 2025.",
+              "description": "Review and consider a regular meeting schedule for the Maple/Mockingbird TIF District Board of Directors for calendar year 2025.",
+              "presenter": "Leslyn Blake",
+              "action_required": "Approve"
+            },
+            {
+              "item_number": "7",
+              "title": "Adjournment.",
+              "description": "",
+              "presenter": "Greer Christian",
+              "action_required": null
+            }
+          ],
+          "keywords": [
+            "Maple/Mockingbird",
+            "TIF District",
+            "Board of Directors",
+            "Special Called Meeting",
+            "Dallas",
+            "Annual Report",
+            "Meeting Record",
+            "Regular Meeting Schedule",
+            "Public Comments",
+            "Economic Development",
+            "Quorum",
+            "Approval",
+            "City Council",
+            "Participants",
+            "Videoconference"
+          ],
+          "financial_items": []
+        },
+        "extraction_method": "openai_gpt",
+        "original_length": 11912
+      }
+    },
+    {
+      "agenda_number": 112,
+      "source_file": "Agenda_112.txt",
+      "summary_result": {
+        "agenda_number": 112,
+        "source_file": "Agenda_112.txt",
+        "summary": "**Meeting Overview**:  \nThe Dallas City Council will hold a Council Briefing Meeting on January 15, 2025, at 9:00 AM in the Council Chambers, 6th Floor of City Hall. The meeting will be conducted both in-person and via videoconference, allowing public attendance and participation.\n\n**Key Agenda Items**:  \n1. Approval of minutes from the December 4, 2024, City Council meeting.\n2. Consideration of appointments to various boards and commissions.\n3. Briefings on several topics, including updates on Senate Bill 929, the Planning & Development Department, and Thanks-Giving Square.\n\n**Important Details**:  \n- The meeting will feature a closed session to discuss legal matters, including a case involving Janie Cisneros against the City of Dallas, and deliberations regarding the Bullington Truck Terminal real estate.\n- The Council will also interview candidates for the city manager position, recommended by the Ad Hoc Committee on Administrative Affairs.\n\n**Action Items**:  \nThe Council is seeking approval for the meeting minutes and the appointments to boards and commissions. Additionally, they will deliberate on the appointment of a new city manager and discuss real estate matters in closed session. Public participation is encouraged, with sign-up required for those wishing to speak.",
+        "original_length": 21978,
+        "summary_length": 1295,
+        "processed_at": "170385.663619791"
+      },
+      "json_result": {
+        "agenda_number": 112,
+        "source_file": "Agenda_112.txt",
+        "extracted_data": {
+          "meeting_info": {
+            "date": "January 15, 2025",
+            "time": "9:00 AM",
+            "type": "Council Briefing Meeting",
+            "organization": "Dallas City Council",
+            "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+          },
+          "attendees": {
+            "chair": null,
+            "presenters": [],
+            "participants": []
+          },
+          "agenda_items": [
+            {
+              "item_number": "1",
+              "title": "Approval of Minutes of the December 4, 2024 City Council Meeting",
+              "description": "",
+              "presenter": null,
+              "action_required": "approve"
+            },
+            {
+              "item_number": "2",
+              "title": "Consideration of appointments to boards and commissions",
+              "description": "Evaluation and duties of board and commission members (List of nominees is available in the City Secretary's Office)",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "A",
+              "title": "Senate Bill 929 Update",
+              "description": "Presentation",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "B",
+              "title": "Planning & Development Department Updates",
+              "description": "Presentation",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "C",
+              "title": "Thanks-Giving Square Update",
+              "description": "Presentation",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "3",
+              "title": "Attorney Briefings",
+              "description": "Seeking the advice of the City Attorney regarding: Janie Cisneros v. The City of Dallas, et. al., DC-23-21102.",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "4",
+              "title": "Real Estate",
+              "description": "(1) Deliberate the purchase, exchange, lease, or value of real property, the Bullington Truck Terminal, generally located underground at 1627 Pacific Avenue; (2) seek the advice of the City Attorney on this matter.",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "5",
+              "title": "Personnel",
+              "description": "Interview candidates for the city manager position as recommended by the Ad Hoc Committee on Administrative Affairs.",
+              "presenter": null,
+              "action_required": "discuss"
+            }
+          ],
+          "keywords": [
+            "Dallas City Council",
+            "Council Briefing",
+            "January 15, 2025",
+            "appointments",
+            "boards and commissions",
+            "Senate Bill 929",
+            "Planning & Development",
+            "Thanks-Giving Square",
+            "Attorney Briefings",
+            "Real Estate",
+            "Personnel",
+            "City Manager",
+            "public meeting",
+            "videoconference",
+            "City Hall"
+          ],
+          "financial_items": []
+        },
+        "extraction_method": "openai_gpt",
+        "original_length": 21978
+      }
+    },
+    {
+      "agenda_number": 113,
+      "source_file": "Agenda_113.txt",
+      "summary_result": {
+        "agenda_number": 113,
+        "source_file": "Agenda_113.txt",
+        "summary": "**Meeting Overview**:  \nThe Ad Hoc Committee on Legislative Affairs of the City of Dallas will convene on January 15, 2025, at 8:00 AM. The meeting will be held via videoconference and in-person at the Council Briefing Room, City Hall. The purpose of the meeting is to discuss and make recommendations regarding various legislative items relevant to the city.\n\n**Key Agenda Items**:  \n1. Approval of the minutes from the January 6, 2025, meeting.\n2. Recommendations to adjust the status of several legislative items within the state legislative program appendix.\n\n**Important Details**:  \n- The committee will consider moving the item regarding \"Amend local government election dates and authorize ranked choice voting\" from \"Pursue\" to \"Support.\"\n- Another item, \"Enhance safety for residents of senior facilities,\" will be moved from \"Monitor\" to \"Support.\"\n- The item on \"Support transparency in utility operations and grid reliability\" will shift from \"Support\" to \"Monitor.\"\n- The item concerning \"Support rail safety legislation\" will also move from \"Support\" to \"Monitor.\"\n- The proposal to \"Promote proper mental and physical healthcare for all\" will transition from \"Support\" to \"Monitor.\"\n- Lastly, the item \"Seek clarity regarding card rooms\" will be moved from \"Monitor\" to \"Pursue.\"\n\n**Action Items**:  \nThe committee seeks approval for the minutes and recommendations for the movement of the legislative items as outlined above. Additionally, an executive session may be held to discuss legal matters or negotiations that require confidentiality.",
+        "original_length": 6743,
+        "summary_length": 1560,
+        "processed_at": "170397.457164208"
+      },
+      "json_result": {
+        "agenda_number": 113,
+        "source_file": "Agenda_113.txt",
+        "extracted_data": {
+          "meeting_info": {
+            "date": "January 15, 2025",
+            "time": "8:00 AM",
+            "type": "Ad Hoc Committee Meeting",
+            "organization": "City of Dallas Ad Hoc Committee on Legislative Affairs",
+            "location": "Council Briefing Room, 6ES City Hall and via videoconference"
+          },
+          "attendees": {
+            "chair": null,
+            "presenters": [],
+            "participants": []
+          },
+          "agenda_items": [
+            {
+              "item_number": "25-243A",
+              "title": "Approval of the January 6, 2025, Ad Hoc Committee on Legislative Affairs Minutes",
+              "description": "Approval of the minutes from the previous meeting.",
+              "presenter": null,
+              "action_required": "approve"
+            },
+            {
+              "item_number": "25-244A",
+              "title": "Movement of election dates and ranked choice voting",
+              "description": "Consider recommending the movement of the item 'Amend local government election dates and authorize ranked choice voting for local government elections' from Pursue to Support within the state legislative program appendix.",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "25-245A",
+              "title": "Enhance safety for residents of senior facilities",
+              "description": "Consider recommending the movement of the item 'Enhance safety for residents of senior facilities' from Monitor to Support within the state legislative program appendix.",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "25-246A",
+              "title": "Support transparency in utility operations",
+              "description": "Consider recommending the movement of the item 'Support transparency in utility operations and grid reliability' from Support to Monitor within the state legislative program appendix.",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "25-247A",
+              "title": "Support rail safety legislation",
+              "description": "Consider recommending the movement of the item 'Support rail safety legislation to ensure transparency and protection of local communities' from Support to Monitor within the state legislative program appendix.",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "25-248A",
+              "title": "Promote mental and physical healthcare",
+              "description": "Consider recommending the movement of the item 'Promote proper mental and physical healthcare for all, including participation in Medicaid' from Support to Monitor within the state legislative program appendix.",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "25-249A",
+              "title": "Seek clarity regarding card rooms",
+              "description": "Consider recommending the movement of the item 'Seek clarity regarding card rooms' from Monitor to Pursue within the state legislative program appendix.",
+              "presenter": null,
+              "action_required": "discuss"
+            }
+          ],
+          "keywords": [
+            "Ad Hoc Committee",
+            "Legislative Affairs",
+            "Dallas",
+            "election dates",
+            "ranked choice voting",
+            "senior facilities",
+            "utility operations",
+            "rail safety",
+            "mental healthcare",
+            "card rooms",
+            "state legislative program"
+          ],
+          "financial_items": []
+        },
+        "extraction_method": "openai_gpt",
+        "original_length": 6743
+      }
+    },
+    {
+      "agenda_number": 114,
+      "source_file": "Agenda_114.txt",
+      "summary_result": {
+        "agenda_number": 114,
+        "source_file": "Agenda_114.txt",
+        "summary": "**Meeting Overview**:  \nThe City of Dallas Community Police Oversight Board (CPOB) will hold a regular meeting on January 14, 2025, at 5:30 PM. The meeting aims to address community concerns regarding police oversight, present updates on departmental activities, and facilitate public engagement.\n\n**Key Agenda Items**:  \n1. Call to Order & Roll Call  \n2. Public Comment/Open Microphone  \n3. Approval of December 10, 2024, meeting minutes  \n4. Introduction of Dallas Police Department Interim Chief Michael Igo  \n5. Presentation on racial disparities in DPD arrests  \n6. Overview of the OCPO Accountability and Transparency Dashboard  \n7. Reports from OCPO staff, including legislative updates and independent review requests  \n\n**Important Details**:  \n- A presentation by Bob Scales will analyze racial disparities in arrests by council district using data from various sources.  \n- The OCPO will showcase a new Transparency & Accountability Dashboard designed to enhance public trust by detailing complaint statistics and resolutions.  \n- Legislative updates will include discussions on Senate Bills 280 and 281, with recommendations for the complaint intake process.\n\n**Action Items**:  \n- Approval of the December meeting minutes.  \n- Votes on independent reviews of specific cases (EC2024-1186, EC2024-0675, CN2024-138).  \n- Approval of the CPOB Annual Report due by February 1.  \n\nThe meeting will allow public participation, with registration required for those wishing to speak.",
+        "original_length": 21706,
+        "summary_length": 1487,
+        "processed_at": "170410.035981916"
+      },
+      "json_result": {
+        "agenda_number": 114,
+        "source_file": "Agenda_114.txt",
+        "extracted_data": {
+          "meeting_info": {
+            "date": "January 14, 2025",
+            "time": "5:30 PM",
+            "type": "Regular Meeting",
+            "organization": "City of Dallas Community Police Oversight Board",
+            "location": "Dallas City Hall, 6EN Council Chambers"
+          },
+          "attendees": {
+            "chair": "John Mark Davidson",
+            "presenters": [
+              "Michele Andre",
+              "Waldir Guerrero",
+              "Gregory Huff",
+              "Siara Montoya Obasuyi",
+              "Alma Perez",
+              "Michael Igo",
+              "Bob Scales"
+            ],
+            "participants": [
+              "Aswad Smith",
+              "Jonathan E Maples",
+              "Walter Higgins",
+              "Loren Gilbert-Smith",
+              "Brian Bah",
+              "Derric Pegram",
+              "Chauncey Lander",
+              "Alison Grinter Allen",
+              "Jennifer King",
+              "Deatra Wadsworth",
+              "David Kitner",
+              "Brandon Friedman"
+            ]
+          },
+          "agenda_items": [
+            {
+              "item_number": "I",
+              "title": "Call To Order & Roll Call",
+              "description": "Chairman John Mark Davidson will call the meeting to order and conduct a roll call.",
+              "presenter": "John Mark Davidson",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "II",
+              "title": "Purpose of the CPOB",
+              "description": "Chairman John Mark Davidson will explain the purpose of the Community Police Oversight Board.",
+              "presenter": "John Mark Davidson",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "III",
+              "title": "Public Comment / Open Microphone",
+              "description": "Open microphone period for public comments, limited to three minutes per person.",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "IV",
+              "title": "Approval of Meeting Minutes",
+              "description": "Approval of the minutes from the December 10, 2024, CPOB Regular Meeting.",
+              "presenter": null,
+              "action_required": "approve"
+            },
+            {
+              "item_number": "V",
+              "title": "Overview of Information and Technology Services",
+              "description": "Overview of services offered by the Department of Information Technology to CPOB members.",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "VI",
+              "title": "Introduction to CPOB",
+              "description": "Introduction of Dallas Police Department Interim Chief Michael Igo to the CPOB.",
+              "presenter": "Michael Igo",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "VII",
+              "title": "Presentation on Racial Disparity in DPD Monthly Arrests",
+              "description": "Bob Scales will present on racial disparity issues in DPD monthly arrests by council district.",
+              "presenter": "Bob Scales",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "VIII",
+              "title": "OCPO Accountability and Transparency Dashboard Presentation",
+              "description": "Presentation on the Transparency & Accountability Dashboard developed by DBI.",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "IX",
+              "title": "Introduction of New OCPO Staff",
+              "description": "Introduction of new staff members Waldir Guerrero and Alma D. Perez.",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "X",
+              "title": "Reports / Briefings",
+              "description": "Various reports including Director Report, Policy Analyst Report, and Special Investigator Report.",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "XI",
+              "title": "Monthly Activity Reports",
+              "description": "Reports on DPD monthly arrests by council district and external administrative complaints.",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "XII",
+              "title": "Upcoming Meeting and Events",
+              "description": "Discussion of upcoming events including the Next Generation Action Network 10 Year Anniversary Gala.",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "XIII",
+              "title": "Public Comment/Open Microphone",
+              "description": "Second opportunity for public comments, limited to three minutes per person.",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "XIV",
+              "title": "Board Members Comments",
+              "description": "Comments from board members.",
+              "presenter": null,
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "XV",
+              "title": "Adjournment",
+              "description": "Formal adjournment of the meeting.",
+              "presenter": null,
+              "action_required": "adjourn"
+            }
+          ],
+          "keywords": [
+            "Community Police Oversight Board",
+            "Dallas Police Department",
+            "public comment",
+            "meeting minutes",
+            "information technology",
+            "racial disparity",
+            "accountability",
+            "transparency",
+            "staff introduction",
+            "reports",
+            "monthly activity",
+            "upcoming events",
+            "board comments",
+            "adjournment"
+          ],
+          "financial_items": []
+        },
+        "extraction_method": "openai_gpt",
+        "original_length": 21706
+      }
+    },
+    {
+      "agenda_number": 115,
+      "source_file": "Agenda_115.txt",
+      "summary_result": {
+        "agenda_number": 115,
+        "source_file": "Agenda_115.txt",
+        "summary": "**Meeting Overview**:  \nThe City of Dallas is holding a City Planning Session on January 14, 2025, at 5:00 PM at the Central Library, Board Room, 2nd floor. The meeting aims to discuss city planning initiatives and review the annual report.\n\n**Key Agenda Items**:  \n1. Call to Order by the Temporary Chair.\n2. Public Speakers segment for community input.\n3. Approval of the minutes from the previous meeting held on November 19, 2024.\n4. Reports from the Chair and other officers, including a review and approval of the 2024 Annual Report.\n5. Staff reports, specifically a briefing from Director Heather Lowe regarding inclement weather.\n\n**Important Details**:  \nThe meeting will address the 2024 Annual Report, which is crucial for assessing the city's planning progress and future initiatives. Additionally, the Director's report will touch on the city's preparedness for inclement weather, a significant concern for community safety and infrastructure.\n\n**Action Items**:  \nThe meeting seeks approval of the minutes from the previous meeting and the 2024 Annual Report. Community members wishing to speak must register 24 hours in advance, and the meeting will also include provisions for reasonable accommodations for participants. \n\nOverall, this session is pivotal for community engagement and strategic planning for the city of Dallas.",
+        "original_length": 9173,
+        "summary_length": 1343,
+        "processed_at": "170431.299602916"
+      },
+      "json_result": {
+        "agenda_number": 115,
+        "source_file": "Agenda_115.txt",
+        "extracted_data": {
+          "meeting_info": {
+            "date": "January 14, 2025",
+            "time": "5:00 P.M.",
+            "type": "Regular Meeting",
+            "organization": "City of Dallas",
+            "location": "Central Library, 1515 Young St. Dallas, TX 75201, Board Room, 2nd floor, Video Conference Link: https://dallascityhall.webex.com/dallascityhall/j.php?MTID=m60070c37c59f1291a081e1e1a1cb8705"
+          },
+          "attendees": {
+            "chair": "Temporary Chair",
+            "presenters": [
+              "Heather Lowe"
+            ],
+            "participants": []
+          },
+          "agenda_items": [
+            {
+              "item_number": "I",
+              "title": "Call to Order",
+              "description": null,
+              "presenter": "Temporary Chair",
+              "action_required": null
+            },
+            {
+              "item_number": "II",
+              "title": "Public Speakers",
+              "description": null,
+              "presenter": null,
+              "action_required": null
+            },
+            {
+              "item_number": "III",
+              "title": "Approval of Minutes",
+              "description": "(November 19, 2024)",
+              "presenter": null,
+              "action_required": "approve"
+            },
+            {
+              "item_number": "IV",
+              "title": "Reports of Officers, Boards, Standing Committees",
+              "description": "Chair’s Report - 2024 Annual Report Review/Approval",
+              "presenter": "Temporary Chair",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "V",
+              "title": "Staff Reports/Briefings",
+              "description": "Director’s Report - Inclement Weather",
+              "presenter": "Heather Lowe, Director(I)",
+              "action_required": "discuss"
+            },
+            {
+              "item_number": "VI",
+              "title": "Adjournment",
+              "description": null,
+              "presenter": null,
+              "action_required": null
+            }
+          ],
+          "keywords": [
+            "Dallas",
+            "City Planning",
+            "Public Speakers",
+            "Approval of Minutes",
+            "Reports of Officers",
+            "Chair’s Report",
+            "Annual Report",
+            "Staff Reports",
+            "Director’s Report",
+            "Inclement Weather",
+            "Adjournment"
+          ],
+          "financial_items": []
+        },
+        "extraction_method": "openai_gpt",
+        "original_length": 9173
+      }
+    }
+  ]
+}

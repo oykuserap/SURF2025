@@ -1,0 +1,149 @@
+{
+  "agenda_number": 219,
+  "source_file": "Agenda_219.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 29, 2024",
+      "time": "1:00 PM",
+      "type": "Special Called Meeting",
+      "organization": "Public Safety Committee",
+      "location": "Council Briefing Room, 6ES, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Pollyana Ashford",
+        "Delridge Williams",
+        "Nathan Swyers",
+        "William H. Griffith",
+        "Irene Alanis",
+        "Jarred D. Davis",
+        "Dominique Artis",
+        "Greg Nelson",
+        "Justin Ball",
+        "David Pughes"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of September 9, 2024 Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Overview of Police and Fire Recruiting and Retention",
+        "description": "Discussion on the current status and strategies for recruiting and retaining police and fire personnel.",
+        "presenter": "Pollyana Ashford, Major of Police, Dallas Police Department; Delridge Williams, Assistant Chief, Dallas Fire-Rescue Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Violent Crime Reduction Plan Update",
+        "description": "Update on the strategies and effectiveness of the violent crime reduction plan.",
+        "presenter": "Nathan Swyers, Major of Police, Dallas Police Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Domestic Violence Awareness Update",
+        "description": "Update on initiatives and awareness programs related to domestic violence.",
+        "presenter": "William H. Griffith, Deputy Chief of Police, Dallas Police Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Overview of the Criminal Trespass Affidavit (CTA) Program",
+        "description": "Discussion on the Criminal Trespass Affidavit program and its implications.",
+        "presenter": "Irene Alanis, Police Major, Dallas Police Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Civil Service Board Rules and Regulations",
+        "description": "Presentation on the rules and regulations governing the Civil Service Board.",
+        "presenter": "Jarred D. Davis, Director, Civil Service Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Public Safety Dashboards",
+        "description": "Presentation of public safety dashboards and metrics.",
+        "presenter": "Dominique Artis, Chief of Public Safety (I), City Manager’s Office",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Municipal Court Week- November 2024",
+        "description": "Discussion on the upcoming Municipal Court Week activities.",
+        "presenter": "Greg Nelson, Director, Dallas Municipal Court",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Police and Fire New Hires Update",
+        "description": "Update on new hires in the police and fire departments.",
+        "presenter": "Dominique Artis, Chief of Public Safety (I), City Manager’s Office",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Dallas Fire-Rescue Hydrant Maintenance Program Update",
+        "description": "Update on the hydrant maintenance program by Dallas Fire-Rescue.",
+        "presenter": "Justin Ball, Chief of Fire (I), Dallas Fire-Rescue Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "Dallas Fire-Rescue Blood Transfusion Pilot Program Update",
+        "description": "Update on the pilot program for blood transfusions in Dallas Fire-Rescue.",
+        "presenter": "Justin Ball, Chief of Fire (I), Dallas Fire-Rescue Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "K",
+        "title": "Dallas Fire-Rescue Facility Construction Update",
+        "description": "Update on the construction of new facilities for Dallas Fire-Rescue.",
+        "presenter": "Justin Ball, Chief of Fire (I), Dallas Fire-Rescue Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "L",
+        "title": "Dallas Fire-Rescue Fleet Maintenance Update",
+        "description": "Update on the maintenance of the fleet for Dallas Fire-Rescue.",
+        "presenter": "Justin Ball, Chief of Fire, Dallas Fire-Rescue Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "M",
+        "title": "Marshal’s Homeless Action Response Team Activity Report",
+        "description": "Report on the activities of the Marshal’s Homeless Action Response Team.",
+        "presenter": "David Pughes, City Marshal, Dallas Marshal’s Office",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Public Safety",
+      "Police",
+      "Fire",
+      "Recruiting",
+      "Retention",
+      "Violent Crime",
+      "Domestic Violence",
+      "Criminal Trespass",
+      "Civil Service",
+      "Public Safety Dashboards",
+      "Municipal Court",
+      "New Hires",
+      "Hydrant Maintenance",
+      "Blood Transfusion",
+      "Facility Construction"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 21464
+}

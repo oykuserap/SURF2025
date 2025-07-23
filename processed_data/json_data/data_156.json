@@ -1,0 +1,131 @@
+{
+  "agenda_number": 156,
+  "source_file": "Agenda_156.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 11, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes of the November 13, 2024 City Council Meeting and November 19, 2024 Special Called City Council Meeting",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Amendment to Code of Ethics",
+        "description": "An ordinance amending Chapter 12A, 'Code of Ethics,' of the Dallas City Code by amending Sections 12A-2, 12A-29, 12A-46, 12A-47, and 12A-48; establishing the Office of the Inspector General; providing a saving clause; providing a severability clause; and providing an effective date.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Transfers and Appropriation Adjustments",
+        "description": "An ordinance amending Ordinance No. 32861, previously approved on September 18, 2024, authorizing certain transfers and appropriation adjustments for FY 2024-25 for the maintenance and operation of various departments.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Amendment to Abandonment Regulations",
+        "description": "An ordinance amending Ordinance No. 32863, previously approved on September 18, 2024 to add regulations regarding abandonment of public rights-of-way.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "CDBG Contract Rescission",
+        "description": "Authorize an amendment to Resolution No. 22-0984, previously authorized on June 22, 2022, rescinding the Community Development Block Grant (CDBG) Contract.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Litigation Support Services",
+        "description": "Authorize a three-year cooperative purchasing service price agreement for litigation and pre-litigation support services.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Legal Representation for Firefighter",
+        "description": "Authorize Supplemental Agreement No. 2 to the professional services contract for continued legal representation.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Issuance of Certificates of Obligation",
+        "description": "An ordinance authorizing the issuance and sale of City of Dallas, Texas, Combination Tax and Revenue Certificates of Obligation.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "Internet Crimes Against Children Grant",
+        "description": "Authorize the application for and acceptance of supplemental funding from the U.S. Department of Justice for the Internet Crimes Against Children Grant.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Cooperative Working Agreements",
+        "description": "Authorize cooperative working agreements through the Internet Crimes Against Children Grant with various agencies.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "City Council",
+      "Dallas",
+      "meeting",
+      "ordinance",
+      "amendment",
+      "funding",
+      "grant",
+      "CDBG",
+      "legal",
+      "ethics",
+      "public hearing",
+      "zoning",
+      "budget",
+      "appropriation",
+      "community"
+    ],
+    "financial_items": [
+      {
+        "description": "Transfers and appropriation adjustments for FY 2024-25",
+        "amount": "$3,859,143,950",
+        "type": "budget"
+      },
+      {
+        "description": "Funding for litigation support services",
+        "amount": "$300,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Funding for Internet Crimes Against Children Grant",
+        "amount": "$925,369.00",
+        "type": "grant"
+      },
+      {
+        "description": "Issuance of Certificates of Obligation",
+        "amount": "$40,000,000",
+        "type": "debt"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 148533
+}

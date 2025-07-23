@@ -1,0 +1,61 @@
+{
+  "agenda_number": 438,
+  "source_file": "Agenda_438.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 2, 2024",
+      "time": "3:00 PM",
+      "type": "Ad Hoc Committee Meeting",
+      "organization": "City of Dallas Ad Hoc Committee on General Investigating and Ethics",
+      "location": "Council Briefing Room, 6th Floor at City Hall and via videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes of the May 4, 2023, Ad Hoc Committee on General Investigating and Ethics.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Discussion of City Actions Related to 7800 N. Stemmons Freeway",
+        "description": "Discussion of all City actions related to 7800 N. Stemmons Freeway from consideration of purchase to present day, including a detailed briefing by staff regarding the timeline, costs, and responsibilities associated with acquisition and occupancy.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Request for Audit or Investigation",
+        "description": "Consider requesting the Office of the City Auditor to conduct or facilitate a limited-scope audit or investigation of the City’s due diligence process for the purchase of the 7800 N. Stemmons Freeway office building and subsequent improvements, inspections, and permitting activities completed before the decision to start moving employees into the building, including comparing the practices observed to industry practices.",
+        "presenter": null,
+        "action_required": "consider"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Ad Hoc Committee",
+      "General Investigating",
+      "Ethics",
+      "City actions",
+      "7800 N. Stemmons Freeway",
+      "audit",
+      "investigation",
+      "due diligence",
+      "real property",
+      "executive session",
+      "public meeting",
+      "videoconference",
+      "City Hall",
+      "minutes approval"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 5948
+}

@@ -1,0 +1,23 @@
+{
+  "agenda_number": 141,
+  "source_file": "Agenda_141.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 1, 2025",
+      "time": "9:00 AM",
+      "type": "Briefing Meeting",
+      "organization": "City Council",
+      "location": "Council Chambers, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 1595
+}

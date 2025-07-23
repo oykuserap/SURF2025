@@ -1,0 +1,141 @@
+{
+  "agenda_number": 162,
+  "source_file": "Agenda_162.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 9, 2024",
+      "time": "1:00 PM",
+      "type": "Public Safety Committee Meeting",
+      "organization": "Dallas City Council",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Ridley",
+      "presenters": [
+        "Pollyana Ashford",
+        "Delridge Williams",
+        "Nathan Swyers",
+        "Kevin Oden",
+        "Tabitha Castillo",
+        "Teena Schultz",
+        "James Russ",
+        "Robert Borse",
+        "Scott Clumpner",
+        "Chris Chiara",
+        "Marshall Isaacs",
+        "Ghassan (Gus) Khankarli",
+        "Dominique Artis",
+        "Justin Ball",
+        "David Pughes"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the October 29, 2024 Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Overview of Police and Fire Recruiting and Retention",
+        "description": "Discussion on the recruitment and retention strategies for police and fire departments.",
+        "presenter": "Pollyana Ashford, Major of Police, Dallas Police Department; Delridge Williams, Assistant Chief, Dallas Fire-Rescue Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Violent Crime Reduction Plan Update",
+        "description": "Update on the strategies and effectiveness of the violent crime reduction plan.",
+        "presenter": "Nathan Swyers, Major of Police, Dallas Police Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Overview of Crisis Response Division",
+        "description": "Presentation on the operations and initiatives of the Crisis Response Division.",
+        "presenter": "Kevin Oden, Director, Emergency Management & Crisis Response; Tabitha Castillo, Manager, Emergency Management & Crisis Responses",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Overview of Police and Fire Wellness Programs",
+        "description": "Discussion on wellness programs available for police and fire personnel.",
+        "presenter": "Teena Schultz, Assistant Chief, Dallas Police Department; James Russ, Executive Deputy Chief (I), Dallas Fire-Rescue Department; Robert Borse, Captain, Dallas Fire-Rescue Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Dallas Fire-Rescue EMS Update",
+        "description": "Update on the EMS operations and initiatives of Dallas Fire-Rescue.",
+        "presenter": "Scott Clumpner, Deputy Chief, Dallas Fire Rescue Department; Chris Chiara, Section Chief, Dallas Fire-Rescue Department; Marshall Isaacs, Medical Director, Dallas Fire-Rescue Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Overview of Personal Delivery Devices - Avride",
+        "description": "Presentation on the implementation and use of personal delivery devices.",
+        "presenter": "Ghassan (Gus) Khankarli, PhD, PE, Director, Department of Transportation and Public Works",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Public Safety",
+      "Dallas City Council",
+      "Police Department",
+      "Fire Department",
+      "Recruiting",
+      "Retention",
+      "Violent Crime",
+      "Crisis Response",
+      "Wellness Programs",
+      "Emergency Management",
+      "Personal Delivery Devices",
+      "Funding",
+      "Grants",
+      "Community Safety",
+      "Child Exploitation"
+    ],
+    "financial_items": [
+      {
+        "description": "Grant from the U.S. Department of Justice for Internet Crimes Against Children",
+        "amount": "$925,369.00",
+        "type": "grant"
+      },
+      {
+        "description": "Cooperative working agreements for Internet Crimes Against Children Task Force",
+        "amount": "$335,000.00",
+        "type": "grant"
+      },
+      {
+        "description": "Consultant contract with Del Carmen Consulting, LLC for data analysis support",
+        "amount": "$425,000.00",
+        "type": "contract"
+      },
+      {
+        "description": "Grant from Texas Office of the Governor for Internet Crimes Against Children",
+        "amount": "$284,969.84",
+        "type": "grant"
+      },
+      {
+        "description": "Grant from U.S. Department of Transportation for CMV Grant Program",
+        "amount": "$506,102.00",
+        "type": "grant"
+      },
+      {
+        "description": "Homeland Security Grant Program funding for preparedness activities",
+        "amount": "$5,842,198.40",
+        "type": "grant"
+      },
+      {
+        "description": "Acquisition contract for Fire Station Alerting System",
+        "amount": "$3,638,102.80",
+        "type": "contract"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 32681
+}

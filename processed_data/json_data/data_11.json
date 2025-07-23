@@ -1,0 +1,141 @@
+{
+  "agenda_number": 11,
+  "source_file": "Agenda_11.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 26, 2025",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Dallas City Council",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the February 26, 2025 City Council Meeting",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Authorize revisions to the Financial Management Performance Criteria",
+        "description": "Add language that establishes an Employee Benefit Reserve in Unassigned Fund Balance; clarify the pension benefit adjustment approval process; change the comparison of the disabled and over 65 property tax exemption; exclude certificate of obligation debt repaid by Enterprise Funds; add language for systematic funding of retirement systems.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "An ordinance amending Ordinance No. 32861",
+        "description": "Authorize certain transfers and appropriation adjustments for FY 2024-25 for maintenance and operation of various departments.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Authorize settlement of lawsuit Jon Puryear EMS CE LLC v. City of Dallas",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Authorize settlement of lawsuit Laura Alonzo v. City of Dallas",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Authorize settlement of bodily injury claims by Sterling Bradshaw",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "A resolution authorizing an increase in the joint election agreement",
+        "description": "Increase in election services contract for the November 5, 2024, special election.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Authorize interlocal agreement with Dallas Independent School District",
+        "description": "Provide emergency medical services during football games and other District events.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "Authorize a five-year sole source services agreement for asset tracking system",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Authorize Standard Utility Agreement with the State of Texas",
+        "description": "For water pipeline encasement extensions in State Highway 205.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "meeting",
+      "agenda",
+      "financial management",
+      "settlement",
+      "lawsuit",
+      "election agreement",
+      "emergency services",
+      "asset tracking",
+      "utility agreement",
+      "public hearings",
+      "zoning",
+      "budget",
+      "community services",
+      "public infrastructure"
+    ],
+    "financial_items": [
+      {
+        "description": "Settlement of lawsuit Jon Puryear EMS CE LLC v. City of Dallas",
+        "amount": "$100,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Settlement of lawsuit Laura Alonzo v. City of Dallas",
+        "amount": "$82,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Settlement of bodily injury claims by Sterling Bradshaw",
+        "amount": "$30,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Increase in joint election agreement for special election",
+        "amount": "$21,738.51",
+        "type": "expenditure"
+      },
+      {
+        "description": "Five-year sole source services agreement for asset tracking system",
+        "amount": "$1,071,846.75",
+        "type": "expenditure"
+      },
+      {
+        "description": "Standard Utility Agreement with the State of Texas for water pipeline encasement",
+        "amount": "$123,165.67",
+        "type": "revenue"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 127116
+}

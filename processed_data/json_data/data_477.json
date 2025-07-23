@@ -1,0 +1,105 @@
+{
+  "agenda_number": 477,
+  "source_file": "Agenda_477.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 9, 2024",
+      "time": "9:00 AM",
+      "type": "Special Called Meeting",
+      "organization": "Dallas City Council Workforce, Education, and Equity Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX and via video conference"
+    },
+    "attendees": {
+      "chair": "Not specified",
+      "presenters": [
+        "Dr. Pamela Lear",
+        "Dr. Lindsey Wilson",
+        "Christina Da Silva",
+        "Chris Graves",
+        "Sarah Cotton Nelson",
+        "Coda Rayo-Garza",
+        "Drexell Owusu",
+        "Liz Cedillo-Pereira"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the March 5, 2024, Workforce, Education and Equity Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Dallas Independent School District Equity Efforts Update",
+        "description": "Update on equity efforts by the Dallas Independent School District.",
+        "presenter": "Dr. Pamela Lear",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Human Rights Commission April 2024 Update",
+        "description": "Follow-up, engagement, feedback, and findings from the Human Rights Commission.",
+        "presenter": "Dr. Lindsey Wilson, Christina Da Silva, Chris Graves",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Presentation Regarding the Impact of Equity in the Dallas Business Sector",
+        "description": "Discussion on the impact of equity in the business sector.",
+        "presenter": "Sarah Cotton Nelson, Coda Rayo-Garza, Drexell Owusu",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Welcoming Strategy Update",
+        "description": "Insights from the Certified Welcoming Dallas Audit and Welcoming Interactive Conference.",
+        "presenter": "Dr. Lindsey Wilson, Christina Da Silva",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Proposed Contract for Council Consideration",
+        "description": "Multimedia Messaging Platform for Woman, Infants, and Children (WIC) Outreach and Scheduling Support.",
+        "presenter": "Liz Cedillo-Pereira",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Housing Opportunities for Persons with AIDS (HOPWA) Renewal and Contract Increase",
+        "description": "Discussion on the renewal and increase of the HOPWA contract.",
+        "presenter": "Liz Cedillo-Pereira",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Committee Forecast",
+        "description": "Forecast of upcoming committee activities.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "City Council",
+      "Workforce",
+      "Education",
+      "Equity",
+      "Human Rights",
+      "Business Sector",
+      "WIC",
+      "HOPWA",
+      "Contract",
+      "Presentation",
+      "Update",
+      "Committee",
+      "Meeting Minutes",
+      "Engagement"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20717
+}

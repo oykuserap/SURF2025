@@ -1,0 +1,186 @@
+{
+  "agenda_number": 18,
+  "source_file": "Agenda_18.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 24, 2025",
+      "time": "1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Government Performance and Financial Management Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Cheryl Jordan",
+        "Juanita Ortiz",
+        "Brita Andercheck",
+        "John Johnson",
+        "Budget and Management Services",
+        "Sanitation Services",
+        "Information & Technology Services",
+        "City Auditor",
+        "Office of Homeless Solutions",
+        "Facilities and Real Estate Management",
+        "Equipment & Fleet Management"
+      ],
+      "participants": [
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Willis",
+        "Blackmon",
+        "Schultz",
+        "Johnson"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the February 24, 2025, Government Performance and Financial Management Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Dallas Central Appraisal District FY 2025-26 Proposed Budget Overview",
+        "description": "Overview of the proposed budget for the Dallas Central Appraisal District for FY 2025-26.",
+        "presenter": "Cheryl Jordan",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Office of Procurement Services Process Improvement",
+        "description": "Discussion on contract management and authorization thresholds, including strike team findings and strategic initiatives implementation.",
+        "presenter": "Juanita Ortiz",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Update on Artificial Intelligence - City AI Plan",
+        "description": "Discussion on the City AI Plan, governance, best practices, and upcoming projects.",
+        "presenter": "Brita Andercheck",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Review of City Real Estate for Development and Redeployment",
+        "description": "Update on Cadillac Heights acquisition including project funding, phases, and next steps.",
+        "presenter": "John Johnson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Upcoming Agenda Item #25-908A",
+        "description": "FY 2024-25 Budget Ordinance Amendments related to Bullington Truck and Pedestrian Terminal and reallocation of American Rescue Plan Act funds.",
+        "presenter": "Budget and Management Services",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Upcoming Agenda Items Related to Private Solid Waste Collection Services",
+        "description": "Public hearing and ordinance amending solid waste franchises.",
+        "presenter": "Sanitation Services",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Upcoming Agenda Item #25-1010A",
+        "description": "Cooperative purchasing agreement for priority based budgeting software.",
+        "presenter": "Budget and Management Services",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Monthly Budget Accountability Report FY 2024-25",
+        "description": "Report on budget accountability as of January 31, 2025.",
+        "presenter": "Budget & Management Services",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Upcoming Agenda Item #25-92A",
+        "description": "Authorize revisions to financial management performance criteria related to employee benefits fund.",
+        "presenter": "Budget & Management Services",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "Monthly Technology Accountability Report",
+        "description": "Report on technology accountability as of January 31, 2025.",
+        "presenter": "Information & Technology Services",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "K",
+        "title": "Office of the City Auditor Monthly Internal Update",
+        "description": "Update on internal audit reports released between February 15, 2025 and March 14, 2025.",
+        "presenter": "City Auditor",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "L",
+        "title": "Monthly American Rescue Plan Act Report",
+        "description": "Report for the period ending February 28, 2025.",
+        "presenter": "Budget & Management Services",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "M",
+        "title": "Report on Progress of Family Gateway Property Repairs",
+        "description": "Update for window framing deterioration and failed exterior insulation repairs.",
+        "presenter": "Office of Homeless Solutions",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "N",
+        "title": "City Hall Space Planning Project",
+        "description": "Analysis regarding space organization within Dallas City Hall.",
+        "presenter": "Facilities and Real Estate Management",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "O",
+        "title": "Update on Property Leased by the City",
+        "description": "Update on properties leased by the city.",
+        "presenter": "Facilities and Real Estate Management",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "P",
+        "title": "Upcoming Agenda Item #25-845A",
+        "description": "Authorize a five-year master agreement for the purchase of motor fuels.",
+        "presenter": "Equipment & Fleet Management",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "City Council",
+      "Government Performance",
+      "Financial Management",
+      "Budget",
+      "Procurement",
+      "Artificial Intelligence",
+      "Real Estate",
+      "Public Safety",
+      "Solid Waste",
+      "Technology",
+      "Audit",
+      "American Rescue Plan",
+      "Family Gateway",
+      "City Hall"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 25790
+}

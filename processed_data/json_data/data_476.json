@@ -1,0 +1,187 @@
+{
+  "agenda_number": 476,
+  "source_file": "Agenda_476.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 9, 2024",
+      "time": "1:00 PM",
+      "type": "Special Called Meeting",
+      "organization": "Public Safety Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Israel Herrera",
+        "Delridge Williams",
+        "Dr. Michael R. Smith",
+        "Dr. Rob Tillyer",
+        "Dr. Brandon Tregle",
+        "Dr. Stephanie Cardwell",
+        "Dr. Yongjae (David) Nam",
+        "Rory Galter",
+        "Eddie Garcia",
+        "Dominique Artis",
+        "Greg Nelson",
+        "Rodney Patten",
+        "Preston Robinson",
+        "Travis Houston",
+        "Jon Fortune",
+        "Devon Palk",
+        "Michael Igo",
+        "Dominique Artis",
+        "Julio Gonzalez"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the March 5, 2024 Minutes",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Public Safety Recruiting and Retention Update",
+        "description": "",
+        "presenter": "Israel Herrera, Delridge Williams",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Dallas Violent Crime Reduction Plan: Year 3 Mid-Year Evaluation",
+        "description": "",
+        "presenter": "Dr. Michael R. Smith, Dr. Rob Tillyer, Dr. Brandon Tregle, Dr. Stephanie Cardwell, Dr. Yongjae (David) Nam",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "2024 Public Safety Audit Reports",
+        "description": "",
+        "presenter": "Rory Galter, Eddie Garcia, Dominique Artis",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Municipal Court Warrant Resolution and Review of Non-Adjudicated Cases Update",
+        "description": "",
+        "presenter": "Greg Nelson, Rodney Patten, Preston Robinson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "DallasAlert Emergency Notification System Update",
+        "description": "",
+        "presenter": "Travis Houston",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Public Safety Dashboards",
+        "description": "",
+        "presenter": "Jon Fortune",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Opioid Strike Force & Interdepartmental Strategies Update",
+        "description": "",
+        "presenter": "Devon Palk, Scott Clumpner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Off-Duty Software Implementation Update and Proposal to engage Rollkall Technologies for Services",
+        "description": "",
+        "presenter": "Michael Igo",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Dallas Fire-Rescue’s Facility Construction Update",
+        "description": "",
+        "presenter": "Dominique Artis",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "Dallas Fire-Rescue’s Fleet Maintenance Update",
+        "description": "",
+        "presenter": "Dominique Artis",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "K",
+        "title": "Repeal SEC. 31-33 Curfew Hours for Minors Per State law",
+        "description": "",
+        "presenter": "Julio Gonzalez",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "L",
+        "title": "Amend four sections of Chapter 40B, “Secondary Metals Recyclers,” of the Dallas City Code",
+        "description": "",
+        "presenter": "Julio Gonzalez",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Public Safety",
+      "Dallas Police Department",
+      "Dallas Fire Rescue",
+      "Crime Reduction",
+      "Emergency Management",
+      "Municipal Court",
+      "Public Safety Audit",
+      "Opioid Strike Force",
+      "Dashboards",
+      "Recruiting and Retention",
+      "Legislative Affairs",
+      "City Council",
+      "Community Engagement",
+      "Funding",
+      "Grant"
+    ],
+    "financial_items": [
+      {
+        "description": "Authorize a service contract to evaluate the City’s Continuity of Operations Program capabilities",
+        "amount": "$109,916.00",
+        "type": "budget"
+      },
+      {
+        "description": "Authorize the acceptance of a grant from the U.S. Department of Justice",
+        "amount": "$1,267,929.00",
+        "type": "grant"
+      },
+      {
+        "description": "Authorize a three-year service contract for a secondary job management system for the Police Department",
+        "amount": "$815,181",
+        "type": "contract"
+      },
+      {
+        "description": "Authorize a three-year master agreement for battery powered intraosseous needle driver systems for the Fire-Rescue Department",
+        "amount": "$1,697,373.75",
+        "type": "contract"
+      },
+      {
+        "description": "Authorize a three-year cooperative purchasing agreement for over the phone language interpretation services for the Police Department",
+        "amount": "$463,918.56",
+        "type": "contract"
+      },
+      {
+        "description": "Authorize a three-year cooperative purchasing agreement for web-based law enforcement training subscriptions for the Police Department",
+        "amount": "$401,310.00",
+        "type": "contract"
+      },
+      {
+        "description": "Authorize a three-year purchasing agreement for web-based software subscriptions for the Police Department",
+        "amount": "$561,740.00",
+        "type": "contract"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 28608
+}

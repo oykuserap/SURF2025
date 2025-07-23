@@ -1,0 +1,126 @@
+{
+  "agenda_number": 203,
+  "source_file": "Agenda_203.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 12, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Quality of Life, Arts, and Culture Committee",
+      "location": "Council Chambers, 6th Floor, City Hall and via video conference"
+    },
+    "attendees": {
+      "chair": "Paul E. Ridley",
+      "presenters": [
+        "Rosa Flemming",
+        "Jacqulin Justice",
+        "Ghassan Khankarli",
+        "Luis L. Villarreal",
+        "Heather Lowe",
+        "Martine Elyse Philippe",
+        "Glenn Ayars",
+        "Emily Liu",
+        "Rafael Tamoya",
+        "Augustine Jalomo",
+        "Jessica Galleshaw"
+      ],
+      "participants": [
+        "Jaime Resendez",
+        "Adam Bazaldua",
+        "Paula Blackmon",
+        "Zarin Gracey",
+        "Jaynie Schultz",
+        "Gay Donnell Willis"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the October 21, 2024, Quality of Life, Arts, and Culture Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": "Paul E. Ridley",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Periodic Weekend Street Closures to Create Vehicle-Free Zones",
+        "description": "Discussion on the administration of Chapter 42A of the Dallas City Code to promote temporary outdoor activities.",
+        "presenter": "Rosa Flemming",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Adult Learning Initiatives at Dallas Public Library",
+        "description": "Overview of adult learning initiatives and programs at the Dallas Public Library.",
+        "presenter": "Heather Lowe",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "City Facilities Partners Update - Sammons Center for the Arts",
+        "description": "Update on the partnership and activities of the Sammons Center for the Arts.",
+        "presenter": "Martine Elyse Philippe",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Amendment to the Dallas Development Code to align with Texas Senate Bill 929",
+        "description": "Discussion on amendments to the Dallas Development Code as required by Texas Senate Bill 929.",
+        "presenter": "Emily Liu",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Oak Cliff Cultural District Designation Planning Status Update",
+        "description": "Update on the planning status for the Oak Cliff Cultural District designation.",
+        "presenter": "Rafael Tamoya",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Second of Two One-year Renewal Options for the Service Contracts with the Senior Citizens of Greater Dallas, Inc.",
+        "description": "Consideration of the renewal of service contracts for the Senior Services Ombudsman Program.",
+        "presenter": "Jessica Galleshaw",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Quality of Life, Arts, and Culture Committee Forecast",
+        "description": "Forecast of upcoming agenda items for the Quality of Life, Arts, and Culture Committee.",
+        "presenter": "City Manager's Office",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Quality of Life",
+      "Arts",
+      "Culture",
+      "Dallas",
+      "Committee",
+      "Public Library",
+      "Cultural District",
+      "Street Closures",
+      "Ombudsman Program",
+      "Sammons Center",
+      "Development Code",
+      "Adult Learning",
+      "Community Engagement",
+      "Economic Development",
+      "Public Safety"
+    ],
+    "financial_items": [
+      {
+        "description": "Funding for the Senior Services Ombudsman Program",
+        "amount": "$150,868.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Annual funding for Sammons Center for the Arts",
+        "amount": "$121,170.00",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 174742
+}

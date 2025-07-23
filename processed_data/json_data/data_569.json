@@ -1,0 +1,115 @@
+{
+  "agenda_number": 569,
+  "source_file": "Agenda_569.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 5, 2024",
+      "time": "1:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Economic Development Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Rosa Fleming",
+        "Andrew Espinoza",
+        "Kevin Spath",
+        "Heather Lepeska"
+      ],
+      "participants": [
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridely",
+        "Stewart",
+        "West",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Blackmon",
+        "Willis",
+        "Schultz"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "Approval of the January 9, 2024 Economic Development Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B",
+        "title": "Kay Bailey Hutchison Convention Center Dallas (KBHCCD) Master Plan Update",
+        "description": "Update on the master plan for the Kay Bailey Hutchison Convention Center.",
+        "presenter": "Rosa Fleming",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Development Services Monthly Technology and Metrics Review",
+        "description": "Review of monthly technology and metrics from Development Services.",
+        "presenter": "Andrew Espinoza",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "FY 2022-2023 Tax Increment Financing (TIF) District Annual Reports",
+        "description": "Presentation of annual reports for the TIF districts.",
+        "presenter": "Kevin Spath",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Deep Ellum TIF District: Proposed Plan Amendment",
+        "description": "Discussion on the proposed amendment for the Deep Ellum TIF District.",
+        "presenter": "Kevin Spath",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Lancaster-Corning Retail Development Project",
+        "description": "Discussion on the retail development project at 3011 - 3039 South Lancaster Road.",
+        "presenter": "Kevin Spath",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Upcoming Agenda Item Regarding a New Markets Tax Credit Transaction for Nexus Recovery Center",
+        "description": "Discussion on a new markets tax credit transaction for Nexus Recovery Center.",
+        "presenter": "Heather Lepeska",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Upcoming Agenda Item Regarding a New Markets Tax Credit Transaction for the Resource Center Medical Campus",
+        "description": "Discussion on a new markets tax credit transaction for the Resource Center Medical Campus.",
+        "presenter": "Heather Lepeska",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Economic Development",
+      "Dallas",
+      "City Council",
+      "Meeting Minutes",
+      "Kay Bailey Hutchison Convention Center",
+      "Development Services",
+      "Tax Increment Financing",
+      "Deep Ellum",
+      "Lancaster-Corning",
+      "New Markets Tax Credit",
+      "Nexus Recovery Center",
+      "Resource Center Medical Campus",
+      "Public Affairs",
+      "Videoconference",
+      "City Hall"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20145
+}

@@ -1,0 +1,137 @@
+{
+  "agenda_number": 340,
+  "source_file": "Agenda_340.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 5, 2024",
+      "time": "1:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Economic Development Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Emily Liu",
+        "Kevin Spath",
+        "Ghassan “Gus” Khankarli",
+        "Sam Eskander",
+        "Rosa Fleming",
+        "Maria Smith"
+      ],
+      "participants": [
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "West",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Willis",
+        "Blackmon",
+        "Schultz"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "A 24-994",
+        "title": "Approval of the June 3, 2024 Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B 24-2316",
+        "title": "Update on Forward Dallas 2.0",
+        "description": "Presentation on the Forward Dallas 2.0 initiative.",
+        "presenter": "Emily Liu",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C 24-2337",
+        "title": "Upcoming Agenda Item: The Adaline Mixed-Income Multi-Family Residential Project",
+        "description": "Discussion on the Adaline project at Bonnie View Road and Riverside Road.",
+        "presenter": "Kevin Spath",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D 24-2341",
+        "title": "Update on High Speed Rail Economic Impact Study",
+        "description": "Presentation on the economic impact study related to high-speed rail.",
+        "presenter": "Ghassan “Gus” Khankarli",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E 24-2328",
+        "title": "Q-Team Process Improvements",
+        "description": "Discussion on improvements to the Q-Team process.",
+        "presenter": "Sam Eskander",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F 24-2329",
+        "title": "Update on FIFA World Cup 2026",
+        "description": "Presentation on preparations for the FIFA World Cup 2026.",
+        "presenter": "Rosa Fleming",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G 24-2330",
+        "title": "Update on Kay Bailey Hutchison Convention Center Dallas Master Plan",
+        "description": "Discussion on the master plan for the convention center.",
+        "presenter": "Rosa Fleming",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H 24-2339",
+        "title": "Upcoming Public Improvement District (PID) Agenda Items",
+        "description": "Discussion on upcoming PID agenda items and public hearings.",
+        "presenter": "Maria Smith",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I 24-2334",
+        "title": "Discussion Regarding Parking Management at Construction Sites",
+        "description": "Discussion on parking management issues at construction sites.",
+        "presenter": "Emily Liu and Ghassan “Gus” Khankarli",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J 24-2322",
+        "title": "Quarterly Update on Incentives Awarded via Administrative Action",
+        "description": "Update on incentives awarded through administrative actions.",
+        "presenter": "Kevin Spath",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "K 24-2331",
+        "title": "Upcoming Agenda Item: University Hills Municipal Management District Conditional Consent",
+        "description": "Discussion on the conditional consent for the University Hills MMD.",
+        "presenter": "Kevin Spath",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Economic Development",
+      "City Council",
+      "Dallas",
+      "Forward Dallas 2.0",
+      "High Speed Rail",
+      "FIFA World Cup 2026",
+      "Public Improvement District",
+      "Kay Bailey Hutchison Convention Center",
+      "Parking Management",
+      "Incentives",
+      "Adaline Project",
+      "Q-Team Process",
+      "University Hills MMD",
+      "Executive Session",
+      "Council Minutes"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 21084
+}

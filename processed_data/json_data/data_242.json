@@ -1,0 +1,135 @@
+{
+  "agenda_number": 242,
+  "source_file": "Agenda_242.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 17, 2024",
+      "time": "10:00 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Park & Recreation Board",
+      "location": "Dallas City Hall, 6FN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Arun Agarwal",
+      "presenters": [
+        "Rachael Berry"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Arun Agarwal",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Special Recognition",
+        "description": "Special recognition of former Park Board Member Priscilla Rice for her service to the Park & Recreation Board",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from September 19, 2024",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.1",
+        "title": "Kidd Springs Park",
+        "description": "Authorize issuing an alcohol permit to Alison Matis, to serve alcohol at the Blues, Bandits & BBQ event to be held at Kidd Springs Park, located at 711 West Canty Street, on Saturday, November 16, 2024, from 11:00 a.m. to 10:00 p.m.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.2",
+        "title": "Bachman Lake",
+        "description": "Authorize issuing an alcohol permit to Taryn Federer, to serve alcohol at the Super Sam's 5k & Dino Dash event to be held at Bachman Lake, located at 3500 W. Northwest Highway, on Saturday, November 2, 2024, from 7 a.m. to 2:00 p.m.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.3",
+        "title": "Interlocal Agreement",
+        "description": "Authorize a 20-year interlocal agreement between the City of Dallas and the Richardson Independent School District (RISD) for shared access of campus grounds and the design, construction and maintenance of park improvements at Dobie Pre-Kindergarten School located at 14040 Rolling Hills Ln.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.4",
+        "title": "Preston Green Park",
+        "description": "Authorize adoption of the Preston Green Park Master Plan.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.5",
+        "title": "Bachman Creek Greenbelt",
+        "description": "Authorize a public hearing to be held on December 11, 2024, to receive comments on the proposed use of a portion of parkland at Bachman Creek Greenbelt by Dallas Water Utilities for the construction of a 36-inch stormwater line for the Rexford Road Project.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Encroachment Policy",
+        "description": "Authorize approval of the revisions to the Park and Recreation Department Encroachment Policy, Section VI: Park Department Encroachment Actions.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Executive Session",
+        "description": "Seeking advice of the City Attorney regarding the City’s management contract with Fair Park First and other related matters.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Budget Development Update",
+        "description": "Update on budget development by Rachael Berry, Assistant Director.",
+        "presenter": "Rachael Berry",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Park & Recreation Board",
+      "meeting",
+      "alcohol permit",
+      "Kidd Springs Park",
+      "Bachman Lake",
+      "interlocal agreement",
+      "Preston Green Park",
+      "Bachman Creek Greenbelt",
+      "Encroachment Policy",
+      "budget development",
+      "executive session",
+      "public hearing",
+      "special recognition",
+      "minutes approval",
+      "event planning"
+    ],
+    "financial_items": [
+      {
+        "description": "Estimated Revenue from Kidd Springs Park event",
+        "amount": "$250",
+        "type": "revenue"
+      },
+      {
+        "description": "Estimated Revenue from Bachman Lake event",
+        "amount": "$250",
+        "type": "revenue"
+      },
+      {
+        "description": "Revenue from Bachman Creek Greenbelt public hearing",
+        "amount": "$639.00",
+        "type": "revenue"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12783
+}

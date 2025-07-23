@@ -1,0 +1,56 @@
+{
+  "agenda_number": 380,
+  "source_file": "Agenda_380.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 28, 2024",
+      "time": "9:00 AM",
+      "type": "Ad Hoc Committee Meeting",
+      "organization": "City Council Ad Hoc Committee on Legislative Affairs",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; videoconference available"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Clifford Sparks"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the May 7, 2024, Ad Hoc Committee on Legislative Affairs Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Consideration of the 2025 State Legislative Priorities",
+        "description": "Discussion on the priorities for the upcoming state legislative session.",
+        "presenter": "Clifford Sparks",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Ad Hoc Committee",
+      "Legislative Affairs",
+      "State Legislative Priorities",
+      "videoconference",
+      "City Council",
+      "public meeting",
+      "minutes approval",
+      "briefing items",
+      "executive session",
+      "Texas Open Meetings Act",
+      "public participation",
+      "economic development",
+      "real property",
+      "security personnel"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 5011
+}

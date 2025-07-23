@@ -1,0 +1,88 @@
+{
+  "agenda_number": 605,
+  "source_file": "Agenda_605.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 11, 2024",
+      "time": "12:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Veteran’s Affairs Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order & Pledge of Allegiance",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Comments on Items III – VI",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Vote to Approve Meeting Minutes from December 14th, 2023",
+        "description": null,
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Review and Discuss FY 2023 Annual Report Draft",
+        "description": "Final feedback and discussion of the FY 2023 Annual Report",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Vote to Approve FY 2023 Annual Report",
+        "description": null,
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Announcements",
+        "description": "Discussion regarding the timeline for the 2023 Annual Report and any questions or concerns they may have about the report.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Veteran’s Affairs",
+      "Regular Meeting",
+      "Annual Report",
+      "Public Comments",
+      "Meeting Minutes",
+      "Discussion",
+      "Vote",
+      "Announcements",
+      "Equitable Meeting",
+      "Accessibility",
+      "Executive Session",
+      "City Council",
+      "Texas Open Meetings Act"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8180
+}

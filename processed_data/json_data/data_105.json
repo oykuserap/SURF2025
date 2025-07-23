@@ -1,0 +1,106 @@
+{
+  "agenda_number": 105,
+  "source_file": "Agenda_105.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 17, 2025",
+      "time": "10 a.m. – 11:30 a.m.",
+      "type": "Board Meeting",
+      "organization": "Dallas Local Government Corporation",
+      "location": "Dallas City Hall, City Council Briefing Room (6ES) and Videoconference WebEx"
+    },
+    "attendees": {
+      "chair": "Vincent T. Parker",
+      "presenters": [
+        "Vincent T. Parker",
+        "Tony Moore"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Vincent T. Parker",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from the meeting on November 15, 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Election of 2025 LGC Board Officers and Appointment of Work Groups",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Update on Amendments to the Master Development Agreement",
+        "description": "Update on amendments to the Master Development Agreement with the City of Dallas.",
+        "presenter": "Vincent T. Parker",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Update on Harold Simmons Park",
+        "description": "Update on Harold Simmons Park.",
+        "presenter": "Tony Moore",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Other Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "Reports from LGC Work Groups",
+        "description": "Reports from various LGC work groups including Parks Operations Excellence, Community Engagement, Park Design Advocacy, and Communications and Marketing.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Local Government Corporation",
+      "Board Meeting",
+      "Trinity River Corridor",
+      "Public Speakers",
+      "Approval of Minutes",
+      "Election of Officers",
+      "Master Development Agreement",
+      "Harold Simmons Park",
+      "Work Groups",
+      "Community Engagement",
+      "Parks Operations",
+      "Park Design Advocacy",
+      "Communications",
+      "Marketing"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 7726
+}

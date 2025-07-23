@@ -1,0 +1,45 @@
+{
+  "agenda_number": 305,
+  "source_file": "Agenda_305.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 27, 2024",
+      "time": "11:00 AM",
+      "type": "Special Called Meeting",
+      "organization": "City Council Economic Development Committee",
+      "location": "Council Chambers, 6th Floor at City Hall and via videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Emily Liu"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A 24-2586",
+        "title": "Update on Forward Dallas 2.0",
+        "description": "Presentation regarding the Forward Dallas 2.0 initiative.",
+        "presenter": "Emily Liu, Director, Planning and Development Department",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Economic Development",
+      "City Council",
+      "Forward Dallas 2.0",
+      "videoconference",
+      "public meeting",
+      "presentation",
+      "Planning and Development",
+      "City Hall",
+      "public attendance",
+      "special called meeting",
+      "Dallas"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 7616
+}

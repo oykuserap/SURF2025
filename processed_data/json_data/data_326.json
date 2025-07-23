@@ -1,0 +1,103 @@
+{
+  "agenda_number": 326,
+  "source_file": "Agenda_326.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 14, 2024",
+      "time": "5:30 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Environmental Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference (Webex)"
+    },
+    "attendees": {
+      "chair": "Kathryn Bazan",
+      "presenters": [
+        "Carlos Evans",
+        "Natalie Requenez",
+        "Rabekha Siebert",
+        "Yaritza Torres Espinoza",
+        "Paul White II",
+        "Oppong Hemmeng",
+        "Rosaerlinda Cisneros"
+      ],
+      "participants": [
+        "Esther Villarreal",
+        "Andrew Siegel",
+        "Mark Wootton",
+        "Colleen Murray",
+        "Michael Cook",
+        "Barry Lachman",
+        "Gregory Michaelson",
+        "Tracy Wallace",
+        "Paula Day",
+        "Temeckia Derrough",
+        "Julie Hiromoto",
+        "Renee Roberson"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes from the meeting held on July 10, 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.a",
+        "title": "Overview of the Dallas Environmental Justice Screening Tool",
+        "description": "Presentation on the Dallas Environmental Justice Screening Tool.",
+        "presenter": "Carlos Evans, Director, Office of Environmental Quality and Sustainability; Natalie Requenez, Environmental Justice Coordinator, Office of Environmental Quality and Sustainability",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V.b",
+        "title": "Comprehensive Urban Agriculture Plan (CUAP) Briefing – Year 1 Implementation",
+        "description": "Briefing on the Year 1 implementation of the Comprehensive Urban Agriculture Plan.",
+        "presenter": "Rabekha Siebert, Urban Agriculture Coordinator III, Office of Environmental Quality & Sustainability; Yaritza Torres Espinoza, Urban Agriculture Coordinator II, Office of Environmental Quality and Sustainability",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI.a",
+        "title": "Q3 LEAF/CECAP Update",
+        "description": "Update on the Q3 LEAF/CECAP.",
+        "presenter": "Carlos Evans, Director, Office of Environmental Quality and Sustainability; Paul White II, Assistant Director, Office of Environmental Quality and Sustainability; Oppong Hemmeng, OEQS Senior Climate Coordinator, Office of Environmental Quality and Sustainability; Rosaerlinda Cisneros, OEQS Climate Coordinator, Office of Environmental Quality and Sustainability",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII.a",
+        "title": "Vote on Sustainable Procurement Policy",
+        "description": "Vote to refer a review of the city's Sustainable Procurement Policy, formation of a Sustainable Procurement Working Group and benchmarks of other cities' Sustainable Procurement policies to the Implementation Subcommittee.",
+        "presenter": null,
+        "action_required": "vote"
+      },
+      {
+        "item_number": "VII.b",
+        "title": "Vote on Tree Removal Metrics",
+        "description": "Vote to recommend that the city implement a metric system for quantifying the removal of trees by development.",
+        "presenter": null,
+        "action_required": "vote"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Environmental Commission",
+      "Regular Meeting",
+      "Environmental Justice",
+      "Urban Agriculture",
+      "Sustainable Procurement",
+      "Tree Canopy",
+      "Public Speakers",
+      "Minutes Approval",
+      "Q3 Update",
+      "Subcommittee Updates",
+      "Community Engagement",
+      "Environmental Health",
+      "Climate Coordinator",
+      "Development Metrics"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12468
+}

@@ -1,0 +1,89 @@
+{
+  "agenda_number": 227,
+  "source_file": "Agenda_227.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 23, 2024",
+      "time": "10:30 A.M. and 1:00 P.M.",
+      "type": "Board of Adjustment Meeting",
+      "organization": "Board of Adjustment (Panel B)",
+      "location": "Dallas City Hall, Room 6ES, Videoconference"
+    },
+    "attendees": {
+      "chair": "Cherri Gambow, Vice-Chair",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Cherri Gambow, Vice-Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Staff Presentation/Briefing",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Public Hearing",
+        "description": "Board of Adjustment",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Public Testimony",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Miscellaneous Items",
+        "description": "Approval of Panel B Minutes – September 18th, 2024",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Case Docket",
+        "description": "Uncontested Items, Holdover Items, Individual Items",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Board of Adjustment",
+      "Dallas City Hall",
+      "Public Hearing",
+      "Public Testimony",
+      "Miscellaneous Items",
+      "Case Docket",
+      "Uncontested Items",
+      "Holdover Items",
+      "Individual Items",
+      "Minutes Approval",
+      "Visibility Obstruction",
+      "Fence Height Regulations",
+      "Zoning District Boundary",
+      "Special Exception",
+      "Variance"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 15206
+}

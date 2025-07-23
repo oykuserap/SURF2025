@@ -1,0 +1,58 @@
+{
+  "agenda_number": 433,
+  "source_file": "Agenda_433.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 7, 2024",
+      "time": "9:00 AM",
+      "type": "Ad Hoc Committee Meeting",
+      "organization": "Ad Hoc Committee on Legislative Affairs",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Mendelsohn",
+      "presenters": [
+        "Carrie Rogers",
+        "Jake Anderson",
+        "Linley Youderian",
+        "Alex Renteria"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the December 11, 2023, Ad Hoc Committee on Legislative Affairs Minutes",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Consideration of the 2025 Federal Legislative Priorities and Overview of the Process",
+        "description": "",
+        "presenter": "Carrie Rogers",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Ad Hoc Committee",
+      "Legislative Affairs",
+      "Federal Legislative Priorities",
+      "Government Affairs",
+      "Dallas City Council",
+      "Minutes Approval",
+      "Public Meeting",
+      "Videoconference",
+      "City Hall",
+      "Texas Open Meetings Act",
+      "Executive Session",
+      "Public Participation",
+      "City Services",
+      "Community Engagement"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18404
+}

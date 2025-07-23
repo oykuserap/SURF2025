@@ -1,0 +1,144 @@
+{
+  "agenda_number": 75,
+  "source_file": "Agenda_75.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 11, 2025",
+      "time": "5:30 PM",
+      "type": "Regular Meeting",
+      "organization": "Community Police Oversight Board",
+      "location": "Dallas City Hall, 6EN Council Chambers"
+    },
+    "attendees": {
+      "chair": "John Mark Davidson",
+      "presenters": [
+        "Kimberly Bizor Tolbert",
+        "Michele Andre",
+        "Greg Huff",
+        "Siara Obasuyi",
+        "Waldir Guerrero",
+        "Alma Perez"
+      ],
+      "participants": [
+        "Deatra Wadsworth",
+        "Alison Grinter-Allen",
+        "Jonathan Maples",
+        "Derric Pegram",
+        "Ozzie Smith",
+        "Judge C. Lander",
+        "David Kitner",
+        "Brian Bah",
+        "Jennifer King",
+        "Changa Higgins"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call To Order & Roll Call",
+        "description": "Chairman John Mark Davidson calls the meeting to order and conducts roll call.",
+        "presenter": "John Mark Davidson",
+        "action_required": "None"
+      },
+      {
+        "item_number": "II",
+        "title": "Purpose of the CPOB",
+        "description": "Chairman John Mark Davidson discusses the purpose of the Community Police Oversight Board.",
+        "presenter": "John Mark Davidson",
+        "action_required": "None"
+      },
+      {
+        "item_number": "III",
+        "title": "Public Comment / Open Microphone",
+        "description": "Public comments are allowed for up to five registered speakers.",
+        "presenter": "John Mark Davidson",
+        "action_required": "None"
+      },
+      {
+        "item_number": "IV",
+        "title": "Recruitment Strategy and Process for the Chief of Police",
+        "description": "Discussion on the search for the next Dallas Police Chief.",
+        "presenter": "Kimberly Bizor Tolbert",
+        "action_required": "Discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Approval of Meeting Minutes",
+        "description": "Approval of the minutes from the January 14, 2025, CPOB Regular Meeting.",
+        "presenter": "John Mark Davidson",
+        "action_required": "Approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Welcome New CPOB Member Timothy Jackson",
+        "description": "Introduction of new board member Timothy Jackson.",
+        "presenter": "John Mark Davidson",
+        "action_required": "None"
+      },
+      {
+        "item_number": "VII",
+        "title": "Training",
+        "description": "Training on Robert's Rules of Order and overview of Chapter 8, 'Boards and Commissions'.",
+        "presenter": "City Attorney’s Office",
+        "action_required": "None"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Reports / Briefings",
+        "description": "Reports from the Director and Special Investigator.",
+        "presenter": "Michele Andre and Greg Huff",
+        "action_required": "None"
+      },
+      {
+        "item_number": "IX",
+        "title": "Community Police Oversight Board Reports / Briefings",
+        "description": "Reports from the Chairman and Standing Subcommittees.",
+        "presenter": "John Mark Davidson",
+        "action_required": "None"
+      },
+      {
+        "item_number": "X",
+        "title": "Announcements",
+        "description": "Upcoming events and meetings.",
+        "presenter": "John Mark Davidson",
+        "action_required": "None"
+      },
+      {
+        "item_number": "XI",
+        "title": "Public Comment/Open Microphone",
+        "description": "Final opportunity for public comments.",
+        "presenter": "John Mark Davidson",
+        "action_required": "None"
+      },
+      {
+        "item_number": "XII",
+        "title": "Board Members Comments",
+        "description": "Comments from board members.",
+        "presenter": "Board Members",
+        "action_required": "None"
+      },
+      {
+        "item_number": "XIII",
+        "title": "Adjournment",
+        "description": "Motion to adjourn the meeting.",
+        "presenter": "John Mark Davidson",
+        "action_required": "Adjourn"
+      }
+    ],
+    "keywords": [
+      "Community Police Oversight Board",
+      "Dallas Police Chief",
+      "Public Comment",
+      "Training",
+      "Reports",
+      "Community Engagement",
+      "Accountability",
+      "Transparency",
+      "Public Trust",
+      "Police Oversight"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 544723
+}

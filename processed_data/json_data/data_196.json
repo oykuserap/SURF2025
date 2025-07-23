@@ -1,0 +1,89 @@
+{
+  "agenda_number": 196,
+  "source_file": "Agenda_196.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 18, 2024",
+      "time": "10:30 A.M. and 1:00 P.M.",
+      "type": "Board of Adjustment Meeting",
+      "organization": "Board of Adjustment (Panel C)",
+      "location": "Dallas City Hall, 6ES Council Briefing, and Videoconference"
+    },
+    "attendees": {
+      "chair": "Robert Agnich",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the Vice-Chair.",
+        "presenter": "Robert Agnich",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Staff Presentation/Briefing",
+        "description": "Presentation by staff regarding agenda items.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Public Hearing",
+        "description": "Public hearing conducted by the Board of Adjustment.",
+        "presenter": "Board of Adjustment",
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Public Testimony",
+        "description": "Opportunity for public testimony on agenda items.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Miscellaneous Items",
+        "description": "Discussion of miscellaneous items.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Case Docket",
+        "description": "Review of uncontested items, holdover items, and individual items.",
+        "presenter": "Board of Adjustment",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "Closing of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Board of Adjustment",
+      "Dallas",
+      "Public Hearing",
+      "Testimony",
+      "Case Docket",
+      "Special Exception",
+      "Fence Height Regulations",
+      "Parking Regulations",
+      "Uncontested Items",
+      "Miscellaneous Items",
+      "Executive Session",
+      "Accessibility",
+      "Virtual Meeting",
+      "Public Participation",
+      "Meeting Minutes"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 13834
+}

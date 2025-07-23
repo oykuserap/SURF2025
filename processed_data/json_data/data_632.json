@@ -1,0 +1,58 @@
+{
+  "agenda_number": 632,
+  "source_file": "Agenda_632.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 12, 2023",
+      "time": "4:00 P.M.",
+      "type": "Special Called Meeting",
+      "organization": "Municipal Library Board",
+      "location": "Central Library, 1515 Young St. Dallas, TX 75201, Video Conference Link: https://dallascityhall.webex.com/dallascityhall/j.php?MTID=m3cdc7d12bd7cd2b223f17a5f02c4a58d"
+    },
+    "attendees": {
+      "chair": "Thomas Perryman",
+      "presenters": [
+        "Group4"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Thomas Perryman",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Library’s Strategic & Facilities Plan presentation",
+        "description": "",
+        "presenter": "Group4",
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Municipal Library Board",
+      "Special Called Meeting",
+      "Library’s Strategic Plan",
+      "Facilities Plan",
+      "Video Conference",
+      "Accessibility",
+      "Public Participation",
+      "Executive Session",
+      "Texas Open Meetings Act"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9203
+}

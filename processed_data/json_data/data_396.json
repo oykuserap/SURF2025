@@ -1,0 +1,77 @@
+{
+  "agenda_number": 396,
+  "source_file": "Agenda_396.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 10th, 2024",
+      "time": "5:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Youth Commission",
+      "location": "Dallas City Hall, Council Chambers and Videoconference"
+    },
+    "attendees": {
+      "chair": "Commissioner Mercado-Cruz",
+      "presenters": [
+        "Sunrise Youth"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": null,
+        "presenter": "Commissioner Mercado-Cruz",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from May 2024",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "III",
+        "title": "Presentation",
+        "description": "Presentation by Sunrise Youth",
+        "presenter": "Sunrise Youth",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IV",
+        "title": "Announcements",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Youth Commission",
+      "Regular Meeting",
+      "Call to Order",
+      "Approval of Minutes",
+      "Sunrise Youth",
+      "Presentation",
+      "Announcements",
+      "Adjournment",
+      "Dallas City Hall",
+      "Videoconference",
+      "Executive Session",
+      "Public Participation",
+      "Accessibility",
+      "Meeting Notice",
+      "Texas Open Meetings Act"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 6392
+}

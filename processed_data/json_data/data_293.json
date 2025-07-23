@@ -1,0 +1,123 @@
+{
+  "agenda_number": 293,
+  "source_file": "Agenda_293.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 5, 2024",
+      "time": "9:00 AM - 12:30 PM",
+      "type": "Regular Meeting",
+      "organization": "City Plan Commission",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Teaseia Blue, MBA",
+        "LeQuan Clinton",
+        "Giahanna Bridges",
+        "Martin Bate",
+        "Liliana Garza",
+        "Trevor Lumsden"
+      ],
+      "participants": [
+        "Capella Park Development LLC",
+        "Dayton Macatee",
+        "Baldwin Associates, LLC",
+        "Bill Dahlstrom",
+        "Victoria Morris",
+        "Karl Sanford",
+        "Patrick Robertson",
+        "Mark Weatherford",
+        "Rob Baldwin",
+        "Hema Sharma",
+        "Jamieson Davis",
+        "Epic Dallas Office, Lp"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Development Plans",
+        "description": "An application for a development plan on property zoned Subdistrict 5 Urban Center & Subdistrict 6 Urban Core within Planned Development No. 655.",
+        "presenter": "Teaseia Blue, MBA",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Zoning Cases - Consent",
+        "description": "An application for a Specific Use Permit for a late-hours establishment limited to a restaurant without drive-in or drive-through service.",
+        "presenter": "LeQuan Clinton",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Zoning Cases - Consent",
+        "description": "An application for a new subdistrict on property zoned RS-C Regional Service Commercial Subdistrict.",
+        "presenter": "Giahanna Bridges",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Zoning Cases - Consent",
+        "description": "An application for an amendment to Subdistrict 1D within Planned Development District No. 714.",
+        "presenter": "Martin Bate",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Zoning Cases - Consent",
+        "description": "An application for WR-3 Walkable Urban Residential District on property zoned an IR Industrial Research District.",
+        "presenter": "Liliana Garza",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Zoning Cases - Under Advisement",
+        "description": "An application for a TH-3(A) Townhouse District with deed restrictions volunteered by the applicant.",
+        "presenter": "Liliana Garza",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Subdivision Cases - Consent",
+        "description": "An application to create one 13.672-acre lot from a tract of land in City Block 6113.",
+        "presenter": "Hema Sharma",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "17",
+        "title": "Certificate of Appropriateness for Signs",
+        "description": "An application for a Certificate of Appropriateness for a 450-square-foot non-illuminated attached mesh banner sign.",
+        "presenter": "Trevor Lumsden",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "18",
+        "title": "Items for Reconsideration",
+        "description": "Approval of Minutes of the July 25, 2024 City Plan Commission Hearing and the August 8, 2024 City Plan Commission Hearing.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "City Plan Commission",
+      "Development Plans",
+      "Zoning Cases",
+      "Subdivision Cases",
+      "Certificate of Appropriateness",
+      "Public Hearing",
+      "Approval of Minutes",
+      "Urban Center",
+      "Special Purpose District",
+      "Public Testimony",
+      "Action Items",
+      "Consent Items",
+      "Reconsideration",
+      "Planning and Development",
+      "Dallas"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 35126
+}

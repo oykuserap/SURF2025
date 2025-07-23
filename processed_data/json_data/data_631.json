@@ -1,0 +1,73 @@
+{
+  "agenda_number": 631,
+  "source_file": "Agenda_631.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 12, 2023",
+      "time": "6:30 PM",
+      "type": "Regular Meeting",
+      "organization": "Charter Review Commission",
+      "location": "Council Chambers, 6th Floor, City Hall; Virtual via Webex"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Office of Government Affairs",
+        "P. Michael Jung, Commissioner"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "23-3247",
+        "title": "Approval of December 5th, 2023 Charter Review Commission Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "23-3248",
+        "title": "Consideration and Adoption of Amendment to the Charter Review Commission Calendar",
+        "description": "Amendment Submission Deadline.",
+        "presenter": "Office of Government Affairs",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "23-3249",
+        "title": "Consideration and Adoption of Commission Mission Statement",
+        "description": "Discussion on the mission statement of the commission.",
+        "presenter": "Office of Government Affairs",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "23-3250",
+        "title": "Proposed Process for Advancing Amendments",
+        "description": "Presentation on the process for advancing amendments.",
+        "presenter": "Office of Government Affairs",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "23-3251",
+        "title": "Charter Amendment Proposal: Council/Mayor Compensation",
+        "description": "Discussion on the proposal regarding compensation for the council and mayor.",
+        "presenter": "P. Michael Jung, Commissioner",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Charter Review Commission",
+      "meeting minutes",
+      "amendment",
+      "mission statement",
+      "advancing amendments",
+      "compensation",
+      "public meeting",
+      "video conference",
+      "City Hall",
+      "Dallas"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8812
+}

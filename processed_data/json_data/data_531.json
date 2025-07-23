@@ -1,0 +1,88 @@
+{
+  "agenda_number": 531,
+  "source_file": "Agenda_531.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 27, 2024",
+      "time": "4:00 P.M.",
+      "type": "Regular Meeting/Planning Session",
+      "organization": "Dallas Municipal Library Board",
+      "location": "Central Library, 1515 Young St. Dallas, TX 75201, Video Conference Link: https://dallascityhall.webex.com/dallascityhall/j.php?MTID=m87f4c65e0debe71300580bfa2087340b"
+    },
+    "attendees": {
+      "chair": "Thomas Perryman",
+      "presenters": [
+        "Shannon Adams",
+        "Jo Giudice"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Thomas Perryman",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from January 16, 2024",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Reports of Officers, Boards, Standing Committees",
+        "description": "Chair’s Report",
+        "presenter": "Thomas Perryman",
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Staff Reports/Briefings",
+        "description": "Culinary Literacy Overview and Director’s Report",
+        "presenter": "Shannon Adams, Jo Giudice",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "New Business",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Municipal Library Board",
+      "Regular Meeting",
+      "Planning Session",
+      "Public Speakers",
+      "Approval of Minutes",
+      "Reports",
+      "Culinary Literacy",
+      "Director’s Report",
+      "New Business",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9438
+}

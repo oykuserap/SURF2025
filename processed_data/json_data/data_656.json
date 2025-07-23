@@ -1,0 +1,112 @@
+{
+  "agenda_number": 656,
+  "source_file": "Agenda_656.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 5, 2023",
+      "time": "9:00 AM",
+      "type": "Quality of Life, Arts, and Culture Committee Meeting",
+      "organization": "Dallas City Council",
+      "location": "Council Chambers, 6th Floor, City Hall and via video conference"
+    },
+    "attendees": {
+      "chair": "Mendelsohn",
+      "presenters": [
+        "Andrea Giles",
+        "Andreea Udrea",
+        "Carrie Rogers",
+        "Linley Youderian",
+        "Patrick Carreno",
+        "Martine Philippe",
+        "Glenn Ayers",
+        "Benjamin Espino",
+        "Raymond Scottilare",
+        "Sarah Standifer",
+        "Sally Wright"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "Approve of the November 7, 2023 Quality of Life, Arts, and Culture Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B",
+        "title": "Development Code Amendment for Adult Day Care, Child-care Facilities, and Day Homes (DCA223-002)",
+        "description": "Discussion on the amendment regarding adult day care and child-care facilities.",
+        "presenter": "Andrea Giles",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "2025 Legislative Priorities",
+        "description": "Presentation of the legislative priorities for the year 2025.",
+        "presenter": "Carrie Rogers",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Update on Horse-Drawn Carriages Permitted for Transportation-For-Hire Services",
+        "description": "Update regarding the regulations and status of horse-drawn carriages.",
+        "presenter": "Patrick Carreno",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Cultural Facilities Program Funding- Kitchen Dog Theater",
+        "description": "Discussion on funding for the Kitchen Dog Theater.",
+        "presenter": "Martine Philippe",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Dallas Museum of Art (DMA) Emergency Reimbursement Increase",
+        "description": "Discussion regarding an increase in emergency reimbursement for the DMA.",
+        "presenter": "Martine Philippe",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Community Water Fluoridation in Dallas- Follow-Up Responses",
+        "description": "Follow-up responses regarding community water fluoridation.",
+        "presenter": "Sarah Standifer",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Quality of Life",
+      "Arts",
+      "Culture",
+      "Dallas City Council",
+      "Legislative Priorities",
+      "Cultural Facilities",
+      "Funding",
+      "Community Water Fluoridation",
+      "Horse-Drawn Carriages",
+      "Adult Day Care",
+      "Child-care Facilities",
+      "Emergency Reimbursement",
+      "Planning",
+      "Urban Design",
+      "Government Affairs"
+    ],
+    "financial_items": [
+      {
+        "description": "Cultural Facilities Program Funding for Kitchen Dog Theater",
+        "amount": null,
+        "type": "funding"
+      },
+      {
+        "description": "Emergency Reimbursement Increase for Dallas Museum of Art",
+        "amount": null,
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20227
+}

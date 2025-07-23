@@ -1,0 +1,94 @@
+{
+  "agenda_number": 20,
+  "source_file": "Agenda_20.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 20, 2025",
+      "time": "4:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Arts and Culture Advisory Commission",
+      "location": "Dallas City Hall, 6FN - Park and Recreation Board Room and Videoconference, 1500 Marilla Street"
+    },
+    "attendees": {
+      "chair": "David Small",
+      "presenters": [
+        "David Small",
+        "Mary Pat Higgins",
+        "Martine Philippe",
+        "Glenn Ayars"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the February 20, 2025, Arts and Culture Advisory Commission meeting minutes",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Recommendation in support of artist finalist, Anaisa Franco, Singing Hills Rec Center Public Art, CD8",
+        "description": "",
+        "presenter": null,
+        "action_required": "recommend"
+      },
+      {
+        "item_number": "3",
+        "title": "Recommendation in support of the FY 2025-26 Community Artist Program (CAP) and CAP Guidelines",
+        "description": "",
+        "presenter": null,
+        "action_required": "recommend"
+      },
+      {
+        "item_number": "A",
+        "title": "Chair’s Report",
+        "description": "Welcome address to Commission; Announcements, ACAC April 10, 2025",
+        "presenter": "David Small",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Cultural Spotlight: Dallas Holocaust & Human Rights Museum",
+        "description": "",
+        "presenter": "Mary Pat Higgins",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Dallas Museum of Art Lease Agreement Amendment Number 6",
+        "description": "",
+        "presenter": "Martine Philippe, Glenn Ayars",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Director’s Update – Dallas Arts Month, Boards & Commissions Attendance Policies",
+        "description": "",
+        "presenter": "Martine Philippe",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Arts and Culture",
+      "Dallas",
+      "Commission",
+      "Public Art",
+      "Community Artist Program",
+      "Cultural Spotlight",
+      "Dallas Museum of Art",
+      "Lease Agreement",
+      "Director’s Update",
+      "Public Speakers",
+      "Executive Session",
+      "Meeting Minutes",
+      "Recommendations",
+      "Chair's Report",
+      "Inclusivity"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11253
+}

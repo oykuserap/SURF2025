@@ -1,0 +1,146 @@
+{
+  "agenda_number": 48,
+  "source_file": "Agenda_48.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 26, 2025",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Dallas City Council",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the February 12, 2025 City Council Meeting",
+        "description": null,
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Authorize public hearings for FY 2025-26 Budgets",
+        "description": "Authorize public hearings to be held on March 26, 2025, May 28, 2025, and August 27, 2025, to receive comments on the FY 2025-26 Operating, Capital, and Grant & Trust Budgets.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Authorize settlement of bodily injury claims",
+        "description": "Authorize settlement of the bodily injury claims brought by Adam Hewitt in the lawsuit styled, Adam Hewitt v. City of Dallas.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Authorize settlement of bodily injury claims",
+        "description": "Authorize settlement of the bodily injury claims brought by Kimberly Ludd in the lawsuit styled, Kimberly Ludd v. City of Dallas.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Authorize grant application for Bullet Resistance Shield",
+        "description": "Authorize the application for and acceptance of a grant from the Texas Office of the Governor for the Bullet Resistance Shield Grant.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Authorize service price agreement for E. coli testing",
+        "description": "Authorize a three-year service price agreement for E. coli testing in rivers and lakes for the Dallas Water Utilities Department.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Authorize increase to construction services contract",
+        "description": "Authorize an increase to the construction services contract with Oscar Renda Contracting, Inc. for additional work associated with the rehabilitation of wastewater interceptors.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Abandon utility easements",
+        "description": "An ordinance abandoning a utility easement, a water easement, and two sanitary sewer easements.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "Authorize settlement in lieu of condemnation",
+        "description": "Authorize settlement in lieu of proceeding further with condemnation in the condemnation suit styled City of Dallas vs. Totsie Irene Farley.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Authorize approval of Supplemental Agreement",
+        "description": "Authorize approval of the Supplemental Agreement 2 with WEX Health Inc. to cover additional fees incurred when filing IRS Form 1095.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "meeting",
+      "public hearings",
+      "budget",
+      "settlement",
+      "claims",
+      "grant",
+      "construction",
+      "easements",
+      "condemnation",
+      "agreement",
+      "E. coli testing",
+      "Bullet Resistance Shield",
+      "service contract",
+      "tax credits"
+    ],
+    "financial_items": [
+      {
+        "description": "Settlement of bodily injury claims brought by Adam Hewitt",
+        "amount": "$30,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Settlement of bodily injury claims brought by Kimberly Ludd",
+        "amount": "$65,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Grant for Bullet Resistance Shield",
+        "amount": "$412,938.13",
+        "type": "grant"
+      },
+      {
+        "description": "Service price agreement for E. coli testing",
+        "amount": "$369,600.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Increase to construction services contract with Oscar Renda Contracting, Inc.",
+        "amount": "$1,321,577.94",
+        "type": "expenditure"
+      },
+      {
+        "description": "Settlement in lieu of condemnation for City of Dallas vs. Totsie Irene Farley",
+        "amount": "$407,759.49",
+        "type": "expenditure"
+      },
+      {
+        "description": "Supplemental Agreement 2 with WEX Health Inc.",
+        "amount": "$24,643.20",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 107780
+}

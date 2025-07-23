@@ -1,0 +1,85 @@
+{
+  "agenda_number": 113,
+  "source_file": "Agenda_113.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 15, 2025",
+      "time": "8:00 AM",
+      "type": "Ad Hoc Committee Meeting",
+      "organization": "City of Dallas Ad Hoc Committee on Legislative Affairs",
+      "location": "Council Briefing Room, 6ES City Hall and via videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "25-243A",
+        "title": "Approval of the January 6, 2025, Ad Hoc Committee on Legislative Affairs Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "25-244A",
+        "title": "Movement of election dates and ranked choice voting",
+        "description": "Consider recommending the movement of the item 'Amend local government election dates and authorize ranked choice voting for local government elections' from Pursue to Support within the state legislative program appendix.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "25-245A",
+        "title": "Enhance safety for residents of senior facilities",
+        "description": "Consider recommending the movement of the item 'Enhance safety for residents of senior facilities' from Monitor to Support within the state legislative program appendix.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "25-246A",
+        "title": "Support transparency in utility operations",
+        "description": "Consider recommending the movement of the item 'Support transparency in utility operations and grid reliability' from Support to Monitor within the state legislative program appendix.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "25-247A",
+        "title": "Support rail safety legislation",
+        "description": "Consider recommending the movement of the item 'Support rail safety legislation to ensure transparency and protection of local communities' from Support to Monitor within the state legislative program appendix.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "25-248A",
+        "title": "Promote mental and physical healthcare",
+        "description": "Consider recommending the movement of the item 'Promote proper mental and physical healthcare for all, including participation in Medicaid' from Support to Monitor within the state legislative program appendix.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "25-249A",
+        "title": "Seek clarity regarding card rooms",
+        "description": "Consider recommending the movement of the item 'Seek clarity regarding card rooms' from Monitor to Pursue within the state legislative program appendix.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Ad Hoc Committee",
+      "Legislative Affairs",
+      "Dallas",
+      "election dates",
+      "ranked choice voting",
+      "senior facilities",
+      "utility operations",
+      "rail safety",
+      "mental healthcare",
+      "card rooms",
+      "state legislative program"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 6743
+}

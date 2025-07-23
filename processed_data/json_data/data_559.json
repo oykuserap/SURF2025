@@ -1,0 +1,75 @@
+{
+  "agenda_number": 559,
+  "source_file": "Agenda_559.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 12, 2024",
+      "time": "2:00 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Design District TIF District Board of Directors",
+      "location": "Dallas City Hall, 6DN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Sue Hounsel, District Manager, Office of Economic Development",
+        "Mark Colby, Westwood Professional Services"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to order and introduction of meeting participants",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Public comments pertaining to agenda items 3 through 4",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Review and consideration of the Meeting Record of the December 4, 2023 Design District TIF District Board Meeting",
+        "description": "",
+        "presenter": "Sue Hounsel, District Manager, Office of Economic Development",
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "4",
+        "title": "Review and discussion of the final stage of design for the Trinity Strand Hi-Line Span Project",
+        "description": "Including pedestrian bridge concepts and other trail elements.",
+        "presenter": "Mark Colby, Westwood Professional Services",
+        "action_required": "Discussion and direction to staff, as applicable"
+      },
+      {
+        "item_number": "5",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Design District",
+      "TIF District",
+      "Dallas",
+      "meeting record",
+      "Trinity Strand Hi-Line Span Project",
+      "pedestrian bridge",
+      "trail elements",
+      "economic development",
+      "public comments",
+      "approval",
+      "discussion",
+      "adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9866
+}

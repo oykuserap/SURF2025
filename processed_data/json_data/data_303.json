@@ -1,0 +1,153 @@
+{
+  "agenda_number": 303,
+  "source_file": "Agenda_303.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 27, 2024",
+      "time": "12:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Dallas Housing Finance Corporation",
+      "location": "Central Library – Classroom A (6th Floor) and Videoconference"
+    },
+    "attendees": {
+      "chair": "Marcy Helfand",
+      "presenters": [
+        "Aaron Eaquinto",
+        "George Rodriguez",
+        "Tim Nelson",
+        "Ryan Bowen",
+        "Anthony Page"
+      ],
+      "participants": [
+        "Jaclyn Schroeder"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes for the July 16, 2024 City of Dallas Housing Finance Corporation Meeting.",
+        "presenter": "Marcy Helfand",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Inducement Resolution for CF Hawn Apartments",
+        "description": "Consider and Adopt an Inducement Resolution declaring intent to issue bonds for a loan to AMTEX CF Hawn Fund, LP for financing a multifamily residential rental development.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Inducement Resolution for Westmoreland Townhomes",
+        "description": "Consider and Adopt an Inducement Resolution declaring intent to issue bonds for a loan to Westmoreland Townhomes Limited Partnership.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VII",
+        "title": "Inducement Resolution for Torrington Davis",
+        "description": "Consider and Adopt an Inducement Resolution declaring intent to issue bonds for a loan to a limited liability company created by JPI Affordable Acquisition, LLC.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Inducement Resolution for Torrington Forest",
+        "description": "Consider and Adopt an Inducement Resolution declaring intent to issue bonds for a loan to a limited liability company created by JPI Affordable Acquisition, LLC.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IX",
+        "title": "Resolutions for 2929 Wycliff",
+        "description": "Resolutions for a multifamily residential development to be located at 2929 Wycliff Avenue.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "X",
+        "title": "Resolution Regarding The Ridge at Loop 12",
+        "description": "Consider and adopt a resolution approving the participation in the financing, development, and ownership of a multifamily residential development.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "XI",
+        "title": "Establishment of Credit Card Account",
+        "description": "Resolution regarding the establishment of a credit card account for the Corporation with Origin Bank.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "XII",
+        "title": "Dallas HFC Meeting Schedule",
+        "description": "Consider and approve the Dallas HFC September 2024 to December 2025 meeting schedule.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "XIII",
+        "title": "DHFC Treasurer’s Report",
+        "description": "Review and discussion of DHFC Treasurer’s report for the six-month period ending on June 30, 2024.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "XIV",
+        "title": "Corporation’s Pipeline Report",
+        "description": "Review and discussion of the Corporation’s pipeline report as of August 5, 2024.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "XV",
+        "title": "Presentation by Housing Connector",
+        "description": "Presentation regarding the services provided by Housing Connector.",
+        "presenter": "Anthony Page",
+        "action_required": "none"
+      }
+    ],
+    "keywords": [
+      "Dallas Housing Finance Corporation",
+      "Inducement Resolution",
+      "bonds",
+      "multifamily residential",
+      "low income",
+      "moderate income",
+      "financing",
+      "development",
+      "credit card account",
+      "meeting schedule",
+      "Treasurer’s report",
+      "pipeline report",
+      "Housing Connector",
+      "public comments",
+      "minutes approval"
+    ],
+    "financial_items": [
+      {
+        "description": "Loan to AMTEX CF Hawn Fund, LP for CF Hawn Apartments",
+        "amount": "$40,000,000",
+        "type": "loan"
+      },
+      {
+        "description": "Loan to Westmoreland Townhomes Limited Partnership",
+        "amount": "$40,000,000",
+        "type": "loan"
+      },
+      {
+        "description": "Loan for Torrington Davis development",
+        "amount": "$40,000,000",
+        "type": "loan"
+      },
+      {
+        "description": "Loan for Torrington Forest development",
+        "amount": "$40,000,000",
+        "type": "loan"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 16020
+}

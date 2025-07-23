@@ -1,0 +1,75 @@
+{
+  "agenda_number": 39,
+  "source_file": "Agenda_39.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 5, 2025",
+      "time": "9:00 AM",
+      "type": "Council Briefing Meeting",
+      "organization": "City Council of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; also available via videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the February 19, 2025 City Council Meeting",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Consideration of appointments to boards and commissions",
+        "description": "Evaluation and duties of board and commission members (List of nominees is available in the City Secretary's Office)",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "A",
+        "title": "2024 Bond Program Quarterly Reporting",
+        "description": "Presentation regarding the quarterly reporting of the 2024 Bond Program",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Dallas Police Regional Training Academy Update",
+        "description": "Presentation regarding updates on the Dallas Police Regional Training Academy",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Attorney Briefing",
+        "description": "Seeking the advice of the City Attorney regarding: Dallas Police and Fire Pension System v. City of Dallas",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "Council Briefing",
+      "videoconference",
+      "appointments",
+      "boards and commissions",
+      "2024 Bond Program",
+      "Dallas Police",
+      "Training Academy",
+      "Attorney Briefing",
+      "public meeting",
+      "open microphone",
+      "minutes approval",
+      "executive session",
+      "rules of courtesy",
+      "ADA compliance"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 21023
+}

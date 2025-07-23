@@ -1,0 +1,34 @@
+{
+  "agenda_number": 363,
+  "source_file": "Agenda_363.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": null,
+      "time": null,
+      "type": null,
+      "organization": "City Council",
+      "location": null
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "executive session",
+      "litigation",
+      "real property",
+      "contract",
+      "employment",
+      "security",
+      "financial information",
+      "economic development",
+      "negotiations",
+      "public officer"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 3137
+}

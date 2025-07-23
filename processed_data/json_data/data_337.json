@@ -1,0 +1,82 @@
+{
+  "agenda_number": 337,
+  "source_file": "Agenda_337.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 7, 2024",
+      "time": "9:00 AM",
+      "type": "Council Briefing",
+      "organization": "Dallas City Council",
+      "location": "Council Chambers, 6th Floor, City Hall and via videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes of the June 18, 2024 City Council Meeting",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Appointments to Boards and Commissions",
+        "description": "Consideration of appointments to boards and commissions and the evaluation and duties of board and commission members.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Casting of Lots",
+        "description": "Casting of lots to identify the recommended vendor resulting from tie bids between Living Earth and The Organic Recycler on Group 1 Line 4 in response to bid BY24-00024715 for a three-year master agreement for the purchase of a variety of mulching materials.",
+        "presenter": "Office of Procurement Services",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Charter Review Process Update",
+        "description": "Update on the charter review process and voter-submitted charter amendment petitions, Dallas Freedom Act and Dallas HERO; and discussion of the Mayor and City Councilmember Salaries Amendment in the 2024 Charter Review Commission’s Final Report and newly-submitted councilmember-proposed charter amendments.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Pension System Update",
+        "description": "Dallas Police and Fire Pension System (DPFPS) and Employee Retirement Fund (ERF): Funding Soundness Restoration Plan Update and Consideration of Recommendations.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Attorney Briefings",
+        "description": "Seeking the advice of the City Attorney regarding City of Dallas v. Employees' Retirement Fund of City of Dallas and the city’s management contract with Fair Park First.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "Council Briefing",
+      "appointments",
+      "boards and commissions",
+      "casting of lots",
+      "vendor",
+      "charter review",
+      "pension system",
+      "funding soundness",
+      "attorney briefings",
+      "public meeting",
+      "videoconference",
+      "City Hall",
+      "open microphone",
+      "minutes approval"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 22089
+}

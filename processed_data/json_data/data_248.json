@@ -1,0 +1,115 @@
+{
+  "agenda_number": 248,
+  "source_file": "Agenda_248.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 10, 2024",
+      "time": "12:00 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Veteran’s Affairs Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Ed Vonder",
+        "Lakeydra Houston"
+      ],
+      "participants": [
+        "City staff"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order, Pledge of Allegiance, and Roll Call",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Comments on Items III – VI",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Vote to Approve the September 12th, 2024 Meeting Minutes",
+        "description": null,
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "U&I Spread the Light Presentation",
+        "description": "The Director of Veteran Affairs Ed Vonder and Lead Veteran Employment Specialist Lakeydra Houston with U&I Spread the Light will present on their organization and services for veterans. This will be followed up by discussion.",
+        "presenter": "Ed Vonder and Lakeydra Houston",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Veterans’ Wellbeing Assessment Request for Proposal (RFP) Update",
+        "description": "City staff to provide an update on the status of the Veterans’ Wellbeing RFP and next steps.",
+        "presenter": "City staff",
+        "action_required": "update"
+      },
+      {
+        "item_number": "VI",
+        "title": "Follow-up on Dr. Katina Robertson’s Proclamation",
+        "description": "City staff to provide an update on the status of the proclamation.",
+        "presenter": "City staff",
+        "action_required": "update"
+      },
+      {
+        "item_number": "VII",
+        "title": "Fiscal Year 2023/2024 Annual Report",
+        "description": "City staff will provide a preliminary draft of the Fiscal Year 2023-2024 Annual Report.",
+        "presenter": "City staff",
+        "action_required": "present"
+      },
+      {
+        "item_number": "VIII",
+        "title": "2025 Meeting Calendar approval and vote",
+        "description": "Boards and Commissions along with Room Reservations is asking for the 2025 Calendar year meetings.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IX",
+        "title": "Announcements",
+        "description": "Homeless Veteran Stand Down- From 8:00am to 1:30pm on Thursday, October 17 the US Department of Veteran Affairs is hosting this annual event to assist homeless veterans.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Veteran Affairs",
+      "Meeting Minutes",
+      "Presentation",
+      "RFP Update",
+      "Proclamation",
+      "Annual Report",
+      "2025 Calendar",
+      "Homeless Veterans",
+      "Public Comments",
+      "City Staff",
+      "Discussion",
+      "Vote",
+      "Accommodations",
+      "Equity and Inclusion",
+      "Community Affairs"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10018
+}

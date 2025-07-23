@@ -1,0 +1,72 @@
+{
+  "agenda_number": 94,
+  "source_file": "Agenda_94.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 27, 2025",
+      "time": "6:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "College Advisory Commission",
+      "location": "Dallas City Hall, Council Chambers and Videoconference"
+    },
+    "attendees": {
+      "chair": "Max Brenner",
+      "presenters": [
+        "Sue Hounsel"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": null,
+        "presenter": "Max Brenner",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "Sue Hounsel Senior Manager, Economic Development, City of Dallas",
+        "presenter": "Sue Hounsel",
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes from October 28, 2024 College Advisory Commission Regular Meeting",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "New Business",
+        "description": "Recruitment and Application Process for New Commissioners",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "City Hall",
+      "College Advisory Commission",
+      "Public Speakers",
+      "Economic Development",
+      "Minutes Approval",
+      "New Business",
+      "Recruitment",
+      "Commissioners",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8437
+}

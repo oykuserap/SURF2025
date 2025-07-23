@@ -1,0 +1,102 @@
+{
+  "agenda_number": 137,
+  "source_file": "Agenda_137.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 6, 2025",
+      "time": "1:00 PM",
+      "type": "Economic Development Committee Meeting",
+      "organization": "City Council Economic Development Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Ben Glispie",
+        "John Stephens",
+        "Heather Lepeska",
+        "Kevin Spath",
+        "Emily Liu"
+      ],
+      "participants": [
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Willis",
+        "Blackmon",
+        "Schultz"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the December 2, 2024 Economic Development Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Dallas Housing Opportunity Fund (DHOF): Annual Progress Update",
+        "description": "Annual progress update on the Dallas Housing Opportunity Fund.",
+        "presenter": "Ben Glispie",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "City of Dallas Economic Development Corporation Update",
+        "description": "Update from the City of Dallas Economic Development Corporation.",
+        "presenter": "John Stephens",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Upcoming City Council Agenda Item, January 8, 2025",
+        "description": "Public hearing to receive comments regarding the adoption of an amended City of Dallas Economic Development Incentive Policy.",
+        "presenter": "Heather Lepeska",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Upcoming City Council Agenda Item, January 22, 2025",
+        "description": "Construction Services Contract for Roland G. Parrish Park Phase 1 Park Improvements.",
+        "presenter": "Kevin Spath",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Petition for Consent to Creation of Willow Ranch Municipal Utility District No. 1",
+        "description": "Petition regarding the creation of a municipal utility district.",
+        "presenter": "Emily Liu",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Economic Development",
+      "Dallas Housing Opportunity Fund",
+      "City Council",
+      "Incentive Policy",
+      "Construction Services",
+      "Municipal Utility District",
+      "Public Hearing",
+      "Committee Meeting",
+      "Progress Update",
+      "Community Development",
+      "Business Activity",
+      "Park Improvements",
+      "Economic Development Corporation",
+      "Public Affairs",
+      "Virtual Meeting"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20428
+}

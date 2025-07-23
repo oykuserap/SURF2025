@@ -1,0 +1,99 @@
+{
+  "agenda_number": 341,
+  "source_file": "Agenda_341.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 5, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Parks, Trails, and the Environment Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX and via video conference"
+    },
+    "attendees": {
+      "chair": "Moreno",
+      "presenters": [
+        "Jimmy Smith",
+        "Andy Swift",
+        "Carlos Evans",
+        "Paul White II",
+        "Freddie Ortiz",
+        "Maritza Figy",
+        "M. Elizabeth (Liz) Cedillo-Pereira",
+        "Carrie Rogers",
+        "John Jenkins"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the June 3, 2024 Parks, Trails and Environment Committee Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "April 2025 Dallas Cup Overview",
+        "description": "Overview of the International Youth Soccer Tournament.",
+        "presenter": "Jimmy Smith, FC Dallas; Andy Swift, Dallas Cup",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Dallas Community Air Management Program Annual Update",
+        "description": "Annual update on the community air management program.",
+        "presenter": "Carlos Evans, Director, Office of Environmental Quality and Sustainability",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Q3 Comprehensive Environmental & Climate Action Plan (CECAP) Update",
+        "description": "Update on the Comprehensive Environmental & Climate Action Plan.",
+        "presenter": "M. Elizabeth (Liz) Cedillo-Pereira, Assistant City Manager",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Upcoming August 14, 2024 Agenda Items for Council Consideration",
+        "description": "Discussion on upcoming agenda items including TCEQ Air Monitoring Grant Contracts.",
+        "presenter": "M. Elizabeth (Liz) Cedillo-Pereira, Assistant City Manager",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "State Legislative Priorities Update",
+        "description": "Update on state legislative priorities.",
+        "presenter": "Carrie Rogers, Director, Office of Government Affairs",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Summer 2024 Pool Operations Update",
+        "description": "Update on pool operations for summer 2024.",
+        "presenter": "John Jenkins, Director, Parks and Recreation Department",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Parks",
+      "Trails",
+      "Environment",
+      "Committee",
+      "Meeting",
+      "Air Management",
+      "Climate Action",
+      "Legislative Priorities",
+      "Pool Operations",
+      "Dallas Cup",
+      "Environmental Quality",
+      "Sustainability",
+      "Public Safety",
+      "Community Engagement"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 21629
+}

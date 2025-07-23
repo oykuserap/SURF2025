@@ -1,0 +1,69 @@
+{
+  "agenda_number": 309,
+  "source_file": "Agenda_309.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 26, 2024",
+      "time": "11:30 AM",
+      "type": "Ad Hoc Committee Meeting",
+      "organization": "City Council Ad Hoc Committee on Administrative Affairs",
+      "location": "Dallas City Hall, Council Chambers and via video conference"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [],
+      "participants": [
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Willis",
+        "Blackmon",
+        "Schultz",
+        "Johnson"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes of the August 19, 2024, meeting of the Ad Hoc Committee on Administrative Affairs.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Discuss City Manager Brochure",
+        "description": "Discuss the finalizing of the Dallas City Manager Brochure prepared by Baker Tilly.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "City Council",
+      "Ad Hoc Committee",
+      "Administrative Affairs",
+      "meeting",
+      "minutes",
+      "discussion",
+      "City Manager",
+      "Baker Tilly",
+      "video conference",
+      "public attendance",
+      "broadcast",
+      "executive session",
+      "litigation",
+      "real property"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18300
+}

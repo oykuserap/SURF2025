@@ -1,0 +1,89 @@
+{
+  "agenda_number": 681,
+  "source_file": "Agenda_681.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 13th, 2023",
+      "time": "10:30 A.M. and 1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Board of Adjustment (Panel C)",
+      "location": "Dallas City Hall, 6ES, and Videoconference"
+    },
+    "attendees": {
+      "chair": "Robert Agnich",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Robert Agnich, Vice-Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Staff Presentation/Briefing",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Public Hearing",
+        "description": "Board of Adjustment",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Public Testimony",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Miscellaneous Items",
+        "description": "Approval of Special Call Meeting Minutes – October 31st, 2023 and Approval of Panel C Minutes – July 17th, 2023",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Case Docket",
+        "description": "Uncontested Items - Holdover Items - Individual Items",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Board of Adjustment",
+      "Dallas City Hall",
+      "Public Hearing",
+      "Public Testimony",
+      "Special Call Meeting",
+      "Minutes Approval",
+      "Case Docket",
+      "Uncontested Items",
+      "Variance",
+      "Special Exception",
+      "Setback Regulations",
+      "Landscaping Regulations",
+      "Fence Regulations",
+      "Parking Regulations",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12931
+}

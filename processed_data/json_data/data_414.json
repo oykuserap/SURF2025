@@ -1,0 +1,47 @@
+{
+  "agenda_number": 414,
+  "source_file": "Agenda_414.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 20, 2024",
+      "time": "12:00 PM",
+      "type": "Special Called Meeting",
+      "organization": "Transportation and Infrastructure Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; also available virtually"
+    },
+    "attendees": {
+      "chair": "Council Member Narvaez",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "DART Board Appointee Candidate Interviews",
+        "description": "Interviews for candidates for the DART Board.",
+        "presenter": "Council Member Narvaez",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Transportation",
+      "Infrastructure",
+      "DART",
+      "Board Appointee",
+      "Candidate Interviews",
+      "City Council",
+      "Dallas",
+      "Special Called Meeting",
+      "Virtual Meeting",
+      "Public Participation",
+      "Executive Session",
+      "City Hall",
+      "Committee Meeting",
+      "Broadcast",
+      "Video Conference"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 19732
+}

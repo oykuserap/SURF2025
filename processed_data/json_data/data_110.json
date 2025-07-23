@@ -1,0 +1,63 @@
+{
+  "agenda_number": 110,
+  "source_file": "Agenda_110.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 16, 2025",
+      "time": "11:00 AM - 12:30 PM",
+      "type": "Special Called Meeting",
+      "organization": "City Plan Commission",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Tony Shidid",
+      "presenters": [
+        "Michael Wade"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Briefing on DCA190-002 Off-Street Parking & Loading Code Amendment",
+        "description": "Consideration of amending Chapter 51 and 51A of the Dallas Development Code regarding minimum off-street parking and loading requirements, including establishing a Transportation Demand Management Plan and off-street parking design standards.",
+        "presenter": "Michael Wade",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "2",
+        "title": "Public Hearing: Development Code Amendments - Under Advisement",
+        "description": "Consideration of amending Chapters 51 and 51A of the Dallas City Code regarding off-street parking and loading requirements, including various sections and related amendments.",
+        "presenter": "Michael T. Wade",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "FY 2023-24 Annual Report",
+        "description": "Presentation of the annual report for the City Plan Commission.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "City Plan Commission",
+      "Special Called Meeting",
+      "Public Hearing",
+      "Off-Street Parking",
+      "Loading Code Amendment",
+      "Transportation Demand Management",
+      "Dallas Development Code",
+      "Annual Report",
+      "Zoning Ordinance",
+      "Public Participation",
+      "Videoconference",
+      "City Hall",
+      "Planning and Development",
+      "Amendments",
+      "Public Hearing Procedures"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 17324
+}

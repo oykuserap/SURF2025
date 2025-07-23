@@ -1,0 +1,99 @@
+{
+  "agenda_number": 342,
+  "source_file": "Agenda_342.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 5, 2024",
+      "time": "10:00 A.M. and 1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Landmark Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Evelyn Montgomery",
+      "presenters": [
+        "Rhonda Dunn",
+        "Christina Paress",
+        "Marcus Watson"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Evelyn Montgomery",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of July 1, 2024, regular meeting minutes",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Staff Reports/Briefings",
+        "description": "Historic Preservation",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Briefing Items",
+        "description": "Update on First Baptist Church Property Fire, Certificate of Eligibility (CE) Items, Consent Items, Discussion Items",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Public Hearing",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Landmark Commission",
+      "Historic Preservation",
+      "Certificate of Eligibility",
+      "Public Hearing",
+      "Dallas City Hall",
+      "Evelyn Montgomery",
+      "Rhonda Dunn",
+      "Christina Paress",
+      "Marcus Watson",
+      "Consent Items",
+      "Discussion Items",
+      "Public Speakers",
+      "Approval of Minutes",
+      "First Baptist Church",
+      "Tenth Street Historic District"
+    ],
+    "financial_items": [
+      {
+        "description": "Approval of an estimated $100,000 in expenditures to be spent on rehabilitation prior to the issuance of the Certificate of Eligibility.",
+        "amount": "$100,000",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 64767
+}

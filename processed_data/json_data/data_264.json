@@ -1,0 +1,135 @@
+{
+  "agenda_number": 264,
+  "source_file": "Agenda_264.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 23, 2024",
+      "time": "1:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Government Performance and Financial Management Committee",
+      "location": "Council Briefing Room, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Ellen Magnis",
+        "John Johnson",
+        "Janette Weedon",
+        "Mark Swann"
+      ],
+      "participants": [
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the August 26, 2024 Government Performance and Financial Management Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Monthly Update on Repairs to Family Gateway Property Damage",
+        "description": "Update on the repairs to the Family Gateway property.",
+        "presenter": "Ellen Magnis",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Review of City Real Estate for Development and Redevelopment",
+        "description": "Proposed new property management strategies and process improvements for various properties.",
+        "presenter": "John Johnson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Bullington Terminal & Thanksgiving Foundation Lease",
+        "description": "Proposed recommendations for operations.",
+        "presenter": "John Johnson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "FY24 Year End Appropriation Adjustments",
+        "description": "Adjustments to the budget for the fiscal year 2024.",
+        "presenter": "Janette Weedon",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Office of the City Auditor Fiscal Year 2025 Recommended Annual Audit Work Plan",
+        "description": "Presentation of the recommended audit work plan for FY 2025.",
+        "presenter": "Mark Swann",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Upcoming Debt Issuances",
+        "description": "Discussion of upcoming agenda items related to debt issuances.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Cotton Bowl 2025 Scope of Work Contract Award",
+        "description": "Discussion on the contract award for the Cotton Bowl 2025.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "Monthly Budget Accountability Report",
+        "description": "Report on the budget accountability for the month.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "K",
+        "title": "Technology Accountability Report",
+        "description": "Report on technology accountability as of August 31, 2024.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "L",
+        "title": "Office of the City Auditor Monthly Internal Update on Internal Audit",
+        "description": "Update on internal audits released between August 17, 2024, and September 13, 2024.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "M",
+        "title": "Upcoming Agenda Item - Authorizing a one-year Indefinite Delivery/Indefinite Quantity service price agreement for waste collection",
+        "description": "Discussion on the service price agreement for waste collection and disposal.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Government Performance",
+      "Financial Management",
+      "City Council",
+      "Budget",
+      "Audit",
+      "Real Estate",
+      "Property Management",
+      "Family Gateway",
+      "Debt Issuances",
+      "Waste Collection",
+      "Technology Accountability",
+      "Monthly Reports",
+      "Appropriation Adjustments",
+      "Contract Award"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 23468
+}

@@ -1,0 +1,136 @@
+{
+  "agenda_number": 459,
+  "source_file": "Agenda_459.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 18, 2024",
+      "time": "10:00 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Park and Recreation Board",
+      "location": "Dallas City Hall, 6FN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Arun Agarwal",
+      "presenters": [
+        "Ryan O’Connor",
+        "Crystal R. Ross",
+        "Rachael Berry",
+        "Christina Turner-Noteware"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Arun Agarwal",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "SPECIAL RECOGNITION",
+        "description": "Special recognition of Sergio Pena and Adalberto Rodriguez for their years of service and dedication to the City and Park and Recreation Department.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from April 4, 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.1",
+        "title": "Trinity Forest Spine Trail",
+        "description": "Authorize Amendment #1 to the Project Specific Agreement with Dallas County for funding for the Trinity Forest Spine Trail Phase 2.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.2",
+        "title": "Trinity Forest Spine Trail Correction",
+        "description": "Authorize a correction to Resolution No. 21-1020 regarding funding for the Trinity Spine Trail.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.3",
+        "title": "Land Acquisition",
+        "description": "Authorize acquisition from Dallas Independent School District of approximately 360,143 square feet of residential unimproved land for development as a community park.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.4",
+        "title": "Glencoe Park Site Approval",
+        "description": "Authorize a site approval for the installation of Four Chromatic Gates art piece at Glencoe Park.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI.5",
+        "title": "Juanita J. Craft Park",
+        "description": "Authorize a construction services contract for installation of playground equipment and Independent Safety Audit.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "X.10",
+        "title": "Budget Update & Workshop",
+        "description": "",
+        "presenter": "Rachael Berry",
+        "action_required": null
+      },
+      {
+        "item_number": "XII.12",
+        "title": "2024 Bond Program",
+        "description": "Final Proposed Bond Program Lists.",
+        "presenter": "Christina Turner-Noteware",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Park and Recreation Board",
+      "Trinity Forest Spine Trail",
+      "Land Acquisition",
+      "Glencoe Park",
+      "Juanita J. Craft Park",
+      "Budget Update",
+      "Bond Program",
+      "Public Speakers",
+      "Minutes Approval",
+      "Special Recognition",
+      "Community Park",
+      "Construction Services",
+      "Art Installation",
+      "Funding",
+      "Dallas Independent School District"
+    ],
+    "financial_items": [
+      {
+        "description": "Funding for the Trinity Forest Spine Trail Phase 2 from Dallas County.",
+        "amount": "$2,000,000.00",
+        "type": "Funding"
+      },
+      {
+        "description": "Correction to funding for the Trinity Spine Trail.",
+        "amount": "$2,923,878.00",
+        "type": "Funding"
+      },
+      {
+        "description": "Acquisition of land for community park development.",
+        "amount": "$4,240,740.00",
+        "type": "Expenditure"
+      },
+      {
+        "description": "Construction services contract for playground equipment.",
+        "amount": "$217,228.00",
+        "type": "Expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 13072
+}

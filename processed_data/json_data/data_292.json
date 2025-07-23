@@ -1,0 +1,183 @@
+{
+  "agenda_number": 292,
+  "source_file": "Agenda_292.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 5, 2024",
+      "time": "10:00 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Park and Recreation Board",
+      "location": "Dallas City Hall, 6FN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Arun Agarwal",
+      "presenters": [
+        "Rachael Berry",
+        "Steve Baker"
+      ],
+      "participants": [
+        "Barbara Sneary",
+        "Karl Hartford"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the Chair.",
+        "presenter": "Arun Agarwal",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Special Recognition",
+        "description": "Recognition of Barbara Sneary for her 27 years of service and Karl Hartford for his 23 years of service.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes from the meeting on August 15, 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.1",
+        "title": "Reverchon Park Alcohol Permit",
+        "description": "Authorize issuing an alcohol permit to Jodi Jordan for the Katy 5K event.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.2",
+        "title": "Reverchon Park Alcohol Permit",
+        "description": "Authorize issuing an alcohol permit to Tanisha Maddox for the Leukemia & Lymphoma Society Light the Night event.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.3",
+        "title": "Norbuck Park Alcohol Permit",
+        "description": "Authorize issuing an alcohol permit to Michael Baker for the Dallas Running Club Half Marathon event.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.4",
+        "title": "Flag Pole Hill Park Alcohol Permit",
+        "description": "Authorize issuing an alcohol permit to Brad McCutcheon for the Dallas Oktoberfest event.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.5",
+        "title": "Flag Pole Hill Park Alcohol Permit",
+        "description": "Authorize issuing an alcohol permit to Marcus Grunewald for the BMW of Dallas Fun Run.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.6",
+        "title": "Prism Center Alcohol Permit",
+        "description": "Authorize an alcohol permit to 4Oak Events for the Night Market.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.7",
+        "title": "Public Hearing Authorization",
+        "description": "Authorize a public hearing regarding the proposed use of parkland at Flag Pole Hill Park.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI.8",
+        "title": "Cotton Bowl Renovation Agreement",
+        "description": "Authorize Supplemental Agreement No. 2 for additional construction services for the Cotton Bowl Renovation.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VIII.11",
+        "title": "Dallas Arboretum Pricing Model",
+        "description": "Authorize a variable pricing model and a Credit Card Recovery Fee at the Dallas Arboretum.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IX.12",
+        "title": "Budget Development Update",
+        "description": "Update on the budget development process.",
+        "presenter": "Rachael Berry",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Park and Recreation",
+      "meeting",
+      "alcohol permit",
+      "public hearing",
+      "Cotton Bowl",
+      "budget",
+      "recognition",
+      "events",
+      "community",
+      "service",
+      "revenue",
+      "approval",
+      "construction",
+      "pricing model"
+    ],
+    "financial_items": [
+      {
+        "description": "Estimated Revenue from Katy 5K event",
+        "amount": "$250",
+        "type": "revenue"
+      },
+      {
+        "description": "Estimated Revenue from Leukemia & Lymphoma Society Light the Night event",
+        "amount": "$250",
+        "type": "revenue"
+      },
+      {
+        "description": "Estimated Revenue from Dallas Running Club Half Marathon event",
+        "amount": "$250",
+        "type": "revenue"
+      },
+      {
+        "description": "Estimated Revenue from Dallas Oktoberfest event",
+        "amount": "$250",
+        "type": "revenue"
+      },
+      {
+        "description": "Estimated Revenue from BMW of Dallas Fun Run",
+        "amount": "$250",
+        "type": "revenue"
+      },
+      {
+        "description": "Revenue from public hearing on parkland use",
+        "amount": "$639.00",
+        "type": "revenue"
+      },
+      {
+        "description": "Construction services for Cotton Bowl Renovation",
+        "amount": "$65,015,823.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Increase appropriations in the 2024 Certificate of Obligation Fund",
+        "amount": "$2,856,430.01",
+        "type": "expenditure"
+      },
+      {
+        "description": "Increase appropriations in the Fair Park Revenue Bonds, Series 2023 Fund",
+        "amount": "$42,871,754.81",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 15628
+}

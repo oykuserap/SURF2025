@@ -1,0 +1,187 @@
+{
+  "agenda_number": 54,
+  "source_file": "Agenda_54.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 24, 2025",
+      "time": "1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Government Performance and Financial Management Committee",
+      "location": "Council Briefing Room, 6th Floor at City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Michele Andre",
+        "Jenny Nicewander",
+        "John Johnson"
+      ],
+      "participants": [
+        "Budget & Management Service",
+        "Information & Technology Services",
+        "City Auditor",
+        "City Controller’s Office",
+        "Office of Homeless Solutions",
+        "Facilities and Real Estate Management",
+        "Human Services & Information & Technology Services",
+        "Convention & Event Services"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the January 26, 2025, Government Performance and Financial Management Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Overview of the Office of Community Police Oversight",
+        "description": "Responsibility, Budget Summary, and Performance Metrics.",
+        "presenter": "Michele Andre",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "General Obligation Bond Program Updates",
+        "description": "Updates on the General Obligation Bond Program.",
+        "presenter": "Jenny Nicewander",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Review of City Real Estate For Development and Redevelopment",
+        "description": "Review of various properties for development and redevelopment.",
+        "presenter": "John Johnson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Monthly Budget Accountability Report FY 2024-25",
+        "description": "Report on budget accountability as of December 31, 2024.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Monthly Technology Accountability Report",
+        "description": "Information as of December 30, 2024.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Office of the City Auditor Monthly Internal Update",
+        "description": "Update on internal audit reports released between January 18, 2025 and February 14, 2025.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Quarterly Investment Report from Meeder Public Funds",
+        "description": "Investment report as of December 31, 2024.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Monthly American Rescue Plan Act (ARPA) Report",
+        "description": "Report for the period ending January 31, 2025.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Report on Progress of Family Gateway Property Repairs",
+        "description": "Update on property repairs as of January 2025.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "City Hall Space Planning Project",
+        "description": "Discussion on space allocation and needs.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "K",
+        "title": "Financial Management Performance Criteria Update",
+        "description": "Follow-up to the October 22, 2024, GPFM Committee Meeting.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "L",
+        "title": "Development of A Strategic Real Estate Master Plan",
+        "description": "Process and next steps for city real estate.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "M",
+        "title": "Update on Upcoming City Council Agenda Item",
+        "description": "Update on service contract with Workday, Inc.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "N",
+        "title": "Update on Property Leased by the City",
+        "description": "Update on city-leased properties.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "O",
+        "title": "Hotel Occupancy Tax (HOT) Allocation",
+        "description": "Discussion on allocation of hotel occupancy tax.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "P",
+        "title": "Reallocation of Funds for Bullington Truck Terminal & Thanksgiving Square",
+        "description": "Discussion on fund reallocation.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "Q",
+        "title": "Upcoming Agenda Items for City Council Meeting",
+        "description": "Seeking authorization of city’s election services contracts.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "R",
+        "title": "Upcoming Agenda Item for City Council Meeting",
+        "description": "Seeking authorization for supplemental agreement with AT&T Enterprises, LLC.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Government Performance",
+      "Financial Management",
+      "Community Police Oversight",
+      "General Obligation Bond",
+      "City Real Estate",
+      "Budget Accountability",
+      "Technology Accountability",
+      "Internal Audit",
+      "Investment Report",
+      "American Rescue Plan Act",
+      "Family Gateway",
+      "Space Planning",
+      "Financial Management Criteria",
+      "Strategic Real Estate Master Plan",
+      "Hotel Occupancy Tax",
+      "Fund Reallocation"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 25070
+}

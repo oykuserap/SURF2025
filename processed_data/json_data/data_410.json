@@ -1,0 +1,53 @@
+{
+  "agenda_number": 410,
+  "source_file": "Agenda_410.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 20, 2024",
+      "time": "6:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Judicial Nominating Commission",
+      "location": "1500 Marilla Street- 4EN Dallas, Tx 75201, City Hall (videoconference)"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "Review of Full-time Municipal Judges including the Administrative Judge and Associate Judge Positions",
+        "description": "Pursuant to Section 551.074 of the Texas Open Meetings Act, Texas Government Code, to deliberate the possible appointment and employment of Municipal Judge positions.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Selection of Recommendations of Full-time Municipal Judge including the Administrative Judge and Associate Judge positions",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Judicial Nominating Commission",
+      "Municipal Judges",
+      "Administrative Judge",
+      "Associate Judge",
+      "Executive Session",
+      "Texas Open Meetings Act",
+      "appointment",
+      "employment",
+      "recommendations",
+      "videoconference",
+      "City Hall",
+      "Dallas",
+      "meeting",
+      "action items"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 7871
+}

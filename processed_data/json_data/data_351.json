@@ -1,0 +1,77 @@
+{
+  "agenda_number": 351,
+  "source_file": "Agenda_351.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "July 11, 2024",
+      "time": "12:00 p.m.",
+      "type": "Needs Assessment Subcommittee Meeting",
+      "organization": "Dallas Veteran’s Affairs Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order, Pledge of Allegiance, and Roll Call",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Comments on Items III – VI",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Review draft Request for Proposals (RFP) for the Veteran Affairs Needs Assessment",
+        "description": "The commissioners will review the draft request for proposals for the Veteran Needs Assessment and propose modifications.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IV",
+        "title": "Evaluate criteria for the selection process for the Veteran Affairs Needs Assessment",
+        "description": "The commission will review the evaluation criteria of the Veteran Needs Assessment and propose modifications.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Announcements",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Veteran’s Affairs",
+      "Needs Assessment",
+      "RFP",
+      "evaluation criteria",
+      "public comments",
+      "commissioners",
+      "modifications",
+      "announcements",
+      "adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9122
+}

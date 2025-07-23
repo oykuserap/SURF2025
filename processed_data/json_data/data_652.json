@@ -1,0 +1,118 @@
+{
+  "agenda_number": 652,
+  "source_file": "Agenda_652.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 5, 2023",
+      "time": "1:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Transportation and Infrastructure Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Ali Hatefi",
+        "Ghassan Khankarli, Ph.D., P.E.",
+        "Kathryn Rush",
+        "Sarah Standifer"
+      ],
+      "participants": [
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Willis"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "Approval of November 7, 2023 Transportation and Infrastructure Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B",
+        "title": "Fiber Reinforced Concrete (FRC) Pilot Project Update",
+        "description": "Update on the Fiber Reinforced Concrete Pilot Project.",
+        "presenter": "Ali Hatefi",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "On-Street Parking & Curb Lane Management Policy Update",
+        "description": "Update on the On-Street Parking and Curb Lane Management Policy.",
+        "presenter": "Ghassan Khankarli, Ph.D., P.E.",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Flood Risk Management Project Update - Trinity Portland Pump Station",
+        "description": "Update on the Flood Risk Management Project.",
+        "presenter": "Sarah Standifer",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Department of Public Works- Snow and Ice Events Preparations",
+        "description": "Preparation plans for snow and ice events.",
+        "presenter": "Ali Hatefi",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Transportation",
+      "Infrastructure",
+      "Public Works",
+      "Flood Risk Management",
+      "Parking Policy",
+      "Concrete Pilot Project",
+      "City Council",
+      "Dallas",
+      "Meeting Minutes",
+      "Snow and Ice Preparation",
+      "Committee Update",
+      "Engineering Services",
+      "Funding",
+      "Construction",
+      "Public Safety"
+    ],
+    "financial_items": [
+      {
+        "description": "Increase to the contract for job order contracting services for waterproofing and roofing repairs.",
+        "amount": "$1,000,000.00",
+        "type": "budget"
+      },
+      {
+        "description": "Increase to the contract with Schneider Electric for building operating systems support.",
+        "amount": "$219,859.75",
+        "type": "budget"
+      },
+      {
+        "description": "Increase in construction services contract for wastewater pipeline improvements.",
+        "amount": "$2,491,279.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Construction services contract for elevated water storage tank installation.",
+        "amount": "$16,790,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Settlement of a condemnation proceeding for land acquisition.",
+        "amount": "$340,600.00",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 50041
+}

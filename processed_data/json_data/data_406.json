@@ -1,0 +1,109 @@
+{
+  "agenda_number": 406,
+  "source_file": "Agenda_406.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 17, 2024",
+      "time": "10:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Transportation and Infrastructure Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Narvaez",
+      "presenters": [
+        "Clifford Sparks",
+        "Jennifer Nicewander",
+        "Candi Green",
+        "Patrick Carreno",
+        "Sheneice Hughes",
+        "Ghassan Khankarli",
+        "Auro Majumdar",
+        "Scott Walton",
+        "John Johnson",
+        "Ali Hatefi"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A 24-2003",
+        "title": "Approval of the May 20, 2024 Transportation and Infrastructure Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B 24-2005",
+        "title": "Approval of the May 20, 2024 Special Called Transportation and Infrastructure Committee Meeting Minutes",
+        "description": "Approval of the minutes from the special called meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "C 24-2019",
+        "title": "Proposed 2025 Legislative Priorities- Transportation & Infrastructure",
+        "description": "Discussion on the proposed legislative priorities for 2025.",
+        "presenter": "Clifford Sparks",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D 24-2006",
+        "title": "Office of Bond and Construction Management Budget Review and Next Steps",
+        "description": "Review of the budget and next steps for the Office of Bond and Construction Management.",
+        "presenter": "Jennifer Nicewander, Candi Green",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E 24-2007",
+        "title": "Department of Aviation Budget Review and Next Steps",
+        "description": "Review of the budget and next steps for the Department of Aviation.",
+        "presenter": "Patrick Carreno, Sheneice Hughes",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F 24-2008",
+        "title": "Department of Transportation Budget Review and Next Steps",
+        "description": "Review of the budget and next steps for the Department of Transportation.",
+        "presenter": "Ghassan Khankarli, Auro Majumdar, Scott Walton",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G 24-2014",
+        "title": "Draft City Ordinance to Require Valid Vehicle Registration for On-Street Parking",
+        "description": "Discussion on the draft ordinance regarding vehicle registration for parking.",
+        "presenter": "Ghassan Khankarli",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H 24-2011",
+        "title": "June 26, 2024, Upcoming Agenda Item, Hall Arts Garage elevators emergency repairs and modernization",
+        "description": "Discussion on upcoming agenda item regarding emergency repairs.",
+        "presenter": "John Johnson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I 24-2012",
+        "title": "Monthly Update of Public Works Program Performance - May 2024",
+        "description": "Update on the performance of the Public Works Program.",
+        "presenter": "Ali Hatefi",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Transportation",
+      "Infrastructure",
+      "Budget Review",
+      "Legislative Priorities",
+      "Public Works",
+      "Aviation",
+      "Ordinance",
+      "Emergency Repairs",
+      "City Council",
+      "Dallas"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20903
+}

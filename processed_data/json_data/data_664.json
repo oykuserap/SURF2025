@@ -1,0 +1,123 @@
+{
+  "agenda_number": 664,
+  "source_file": "Agenda_664.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 28, 2023",
+      "time": "2:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Commission on Disabilities",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Christina Puga",
+      "presenters": [
+        "Alireza Hatefi",
+        "Chiamaka Nwaizu",
+        "Chanlor Akins",
+        "Dr. Lisa Rainey"
+      ],
+      "participants": [
+        "John Kalkanli",
+        "Gay Revi",
+        "Nancy Immerman",
+        "Starlet Ramirez",
+        "Nicole Munoz Huschka",
+        "Beverly White",
+        "Shelley Draper Olsen"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Roll Call",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from the October 24, 2023 meeting.",
+        "presenter": "Christina Puga",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Public Speakers",
+        "description": "Opportunity for public speakers to address the commission.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Officer Reports",
+        "description": "Reports from the Chair and Vice Chair.",
+        "presenter": "Christina Puga and John Kalkanli",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Commissioners’ Reports/Updates",
+        "description": "Reports by each Commissioner regarding events attended.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Sub-Committee’s Reports",
+        "description": "Updates on various sub-committees.",
+        "presenter": "Commissioner Gay Revi",
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "Briefings",
+        "description": "Presentations on Public Works Infrastructure Improvements and Fair Housing Laws.",
+        "presenter": "Alireza Hatefi, Chiamaka Nwaizu, Dr. Lisa Rainey",
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Announcements",
+        "description": "Announcements regarding November Disability Awareness Months.",
+        "presenter": "Christina Puga",
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Commission on Disabilities",
+      "Public Works",
+      "Fair Housing",
+      "Infrastructure Improvements",
+      "Disability Awareness",
+      "Equity",
+      "Accessibility",
+      "Community Engagement",
+      "Veterans",
+      "Service Animals",
+      "Handicap Parking",
+      "Public Speakers",
+      "Commission Reports",
+      "Sub-Committee Reports",
+      "Racial Equity Plan"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 42749
+}

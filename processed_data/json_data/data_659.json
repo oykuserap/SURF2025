@@ -1,0 +1,110 @@
+{
+  "agenda_number": 659,
+  "source_file": "Agenda_659.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 4, 2023",
+      "time": "1:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Economic Development Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Andrew Espinoza",
+        "Robin Bentley",
+        "George Ashton",
+        "Andrea Gilles",
+        "Andreea Udrea",
+        "Heather Lepeska"
+      ],
+      "participants": [
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Blackmon",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Schultz",
+        "Willis",
+        "Johnson"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "Approval of the October 2, 2023 Economic Development Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B",
+        "title": "Approval of the November 6, 2023 Economic Development Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "C",
+        "title": "Development Services Fee Updates",
+        "description": "Updates on the fees related to development services.",
+        "presenter": "Andrew Espinoza",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Update on investment and affordable housing financing goals",
+        "description": "An update on the goals of the Dallas Housing Opportunity Fund.",
+        "presenter": "Robin Bentley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Forward Dallas Update",
+        "description": "An update on the Forward Dallas initiative.",
+        "presenter": "Andrea Gilles",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Discussion of Impact of Two-Four Unit Housing and Minimum Residential Lot Size Regulations",
+        "description": "Discussion on the impact of housing regulations on development options.",
+        "presenter": "Andrea Gilles, Andreea Udrea",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Upcoming Agenda Item Regarding a New Markets Tax Credit Transaction for Park South YMCA",
+        "description": "Discussion on a new markets tax credit transaction.",
+        "presenter": "Heather Lepeska",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Economic Development",
+      "Housing",
+      "Affordable Housing",
+      "Development Services",
+      "Investment",
+      "Financing Goals",
+      "Regulations",
+      "Tax Credit",
+      "City Council",
+      "Dallas",
+      "Committee Meeting",
+      "Urban Design",
+      "Public Affairs",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20211
+}

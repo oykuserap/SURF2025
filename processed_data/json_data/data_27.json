@@ -1,0 +1,107 @@
+{
+  "agenda_number": 27,
+  "source_file": "Agenda_27.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 17, 2025",
+      "time": "6:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "MLK Advisory Board",
+      "location": "Activity Room A, Dr. Martin Luther King, Jr. Community Center, Dallas, TX and online via WebEx"
+    },
+    "attendees": {
+      "chair": "Mrs. Clara Brown-Trimble",
+      "presenters": [
+        "Mrs. LaRhonda Bacon",
+        "Mr. Clinton Baker",
+        "Ms. Pamela R. Jones"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order/Welcome",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Invocation/Opening Statement",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Advisory Board Member & City Staff Roll Call",
+        "description": "",
+        "presenter": "Mrs. LaRhonda Bacon",
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Public Comments",
+        "description": "Public speakers are invited to comment on agenda items for up to 3 minutes each.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "5",
+        "title": "Approval of February 24, 2025, Minutes",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Discussion: 2025 MLK Day Parade",
+        "description": "Mr. Baker will give a summary of the 2025 MLK Day Parade.",
+        "presenter": "Mr. Clinton Baker",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "7",
+        "title": "Discussion: 2026 MLK Celebration Planning",
+        "description": "Board members will discuss the 2026 MLK Celebration suggested colors, themes, speakers, and Trail Blazer nominees.",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "8",
+        "title": "MLK Center Manager Update",
+        "description": "Updates on fresh produce distribution, volunteer opportunities, and upcoming events.",
+        "presenter": "Ms. Pamela R. Jones",
+        "action_required": null
+      },
+      {
+        "item_number": "9",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "MLK Advisory Board",
+      "Community Center",
+      "Public Comments",
+      "2025 MLK Day Parade",
+      "2026 MLK Celebration",
+      "Discussion",
+      "Approval of Minutes",
+      "Updates",
+      "Volunteer Opportunities",
+      "Events",
+      "Fresh Produce Distribution",
+      "Public Participation",
+      "Accommodations",
+      "Speakers",
+      "Trail Blazer nominees"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10754
+}

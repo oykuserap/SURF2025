@@ -1,0 +1,138 @@
+{
+  "agenda_number": 364,
+  "source_file": "Agenda_364.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 24, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Housing and Homelessness Solutions Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Moreno",
+      "presenters": [
+        "Cynthia Rogers-Ellickson",
+        "Christine Crossley",
+        "Sarah Kahn",
+        "Jo Guidice",
+        "Thor Erickson",
+        "Clifford Sparks",
+        "Tyrone Wilson"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A 24-2035",
+        "title": "Approval of the May 24, 2024, Housing & Homelessness Solutions Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B 24-2036",
+        "title": "Department of Housing and Neighborhood Revitalization FY 2024-25 Budget Review and Next Steps",
+        "description": "Review of the budget and next steps for the Department of Housing and Neighborhood Revitalization.",
+        "presenter": "Cynthia Rogers-Ellickson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C 24-2037",
+        "title": "Homeless Response System Quarterly Report",
+        "description": "Quarterly report on the homeless response system.",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D 24-2038",
+        "title": "Homeless Engagement Initiatives at Dallas Public Library",
+        "description": "Discussion on initiatives for engaging the homeless at the Dallas Public Library.",
+        "presenter": "Jo Guidice",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E 24-2041",
+        "title": "Consideration and Approval of the Sale of two (2) Land Transfer Program Lots",
+        "description": "Approval of the sale of land lots to Cornerstone Community Development Corporation.",
+        "presenter": "Cynthia Rogers-Ellickson",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "F 24-2039",
+        "title": "Office of Homeless Solutions and the Department of Housing and Neighborhood Revitalization Properties Update",
+        "description": "Update on various properties related to the Office of Homeless Solutions.",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G 24-2049",
+        "title": "Dallas Housing Needs Assessment and Target Area Action Plans",
+        "description": "Discussion on the housing needs assessment and action plans.",
+        "presenter": "Thor Erickson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H 24-2095",
+        "title": "Housing and Homelessness Committee Solutions Proposed 2025 Legislative Priorities",
+        "description": "Discussion on proposed legislative priorities for 2025.",
+        "presenter": "Clifford Sparks",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I 24-2042",
+        "title": "Authorize a contract with Wright Choice Group, LLC",
+        "description": "Authorization for a contract for consultant services related to housing instability.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "J 24-2092",
+        "title": "Authorize the amendment of Resolution No. 23-0543",
+        "description": "Amendment of a resolution regarding funding and agreements for homeless assistance.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Housing",
+      "Homelessness",
+      "Budget",
+      "Legislative Priorities",
+      "Community Development",
+      "Public Library",
+      "Engagement Initiatives",
+      "Land Transfer",
+      "Properties Update",
+      "Quarterly Report",
+      "Consultant Services",
+      "Funding",
+      "City Council",
+      "Dallas"
+    ],
+    "financial_items": [
+      {
+        "description": "Consultant services for housing instability project",
+        "amount": "$110,133.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Conditional grant agreement for homeless assistance",
+        "amount": "$2,345,273.00",
+        "type": "funding"
+      },
+      {
+        "description": "Development agreement for homeless assistance",
+        "amount": "$2,444,727.00",
+        "type": "funding"
+      },
+      {
+        "description": "Total funding for redevelopment",
+        "amount": "$4,790,000.00",
+        "type": "funding"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 25664
+}

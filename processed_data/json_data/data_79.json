@@ -1,0 +1,109 @@
+{
+  "agenda_number": 79,
+  "source_file": "Agenda_79.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 6, 2025",
+      "time": "6:00 P.M.",
+      "type": "Monthly Meeting",
+      "organization": "Community Development Commission (CDC)",
+      "location": "Dallas City Hall, Conference Room 6ES, and by Videoconference"
+    },
+    "attendees": {
+      "chair": "Melanie Rubin",
+      "presenters": [
+        "Victor Salazar",
+        "Chan Williams",
+        "Zhen Barrientos"
+      ],
+      "participants": [
+        "Community Development Coordinator"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": null,
+        "presenter": "Melanie Rubin",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Roll Call",
+        "description": "Community Development Coordinator",
+        "presenter": "Community Development Coordinator",
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Approval of the January 13, 2025, Special Called Meeting Minutes",
+        "description": null,
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Community Development Division Reports",
+        "description": "Briefing Items on various reports",
+        "presenter": "Victor Salazar, Chan Williams",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Chair’s Report",
+        "description": "General greetings and acknowledgements",
+        "presenter": "Melanie Rubin",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Action Item: Review and Approval of FY 2023-24 Community Development Commission’s (CDC) Annual Report",
+        "description": null,
+        "presenter": "Melanie Rubin",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Vice Chair’s Report",
+        "description": "General acknowledgements",
+        "presenter": "Zhen Barrientos",
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Announcement",
+        "description": "Expressions of thanks, congratulations, or condolence",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "XI",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Community Development",
+      "Dallas",
+      "Monthly Meeting",
+      "Budget",
+      "HUD",
+      "CDBG",
+      "Annual Report",
+      "Public Speakers",
+      "Vice Chair",
+      "Chair’s Report",
+      "Community Development Coordinator",
+      "Grant Administration",
+      "Neighborhood Public Meetings",
+      "Action Item",
+      "Approval"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18684
+}

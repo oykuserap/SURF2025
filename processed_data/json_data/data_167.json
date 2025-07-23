@@ -1,0 +1,87 @@
+{
+  "agenda_number": 167,
+  "source_file": "Agenda_167.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 5, 2024",
+      "time": "2:00 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Grand Park South TIF District Board of Directors",
+      "location": "Dallas City Hall, 6DN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Sue Hounsel, Senior Manager, Office of Economic Development",
+        "Angela Hardiman, District Manager, Office of Economic Development"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to order and introduction of meeting participants.",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Public comments pertaining to agenda items 4 through 6.",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Review and consideration of the Meeting Record of the May 2, 2024 Grand Park South TIF District Board Meeting.",
+        "description": "",
+        "presenter": "Sue Hounsel, Senior Manager, Office of Economic Development",
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "4",
+        "title": "Review and consideration of a request by Vector Studies LLC for an extension of material dates and deadlines.",
+        "description": "Request for an extension of twelve months for the Legacy of Hope DFW redevelopment project addressed as 2516 Martin Luther King Jr Boulevard.",
+        "presenter": "Sue Hounsel, Senior Manager, Office of Economic Development",
+        "action_required": "Approval and forward a recommendation of approval to the Director of the Office of Economic Development"
+      },
+      {
+        "item_number": "5",
+        "title": "Review and consideration of the Grand Park South TIF District Annual Report for FY 2023-2024.",
+        "description": "",
+        "presenter": "Angela Hardiman, District Manager, Office of Economic Development",
+        "action_required": "Approval and forward a recommendation of approval to the City Council"
+      },
+      {
+        "item_number": "6",
+        "title": "Review and consideration of a regular meeting schedule for the Grand Park South TIF District Board of Directors for calendar year 2025.",
+        "description": "",
+        "presenter": null,
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "7",
+        "title": "Adjournment.",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Grand Park South",
+      "TIF District",
+      "Board of Directors",
+      "Meeting Record",
+      "Vector Studies LLC",
+      "Legacy of Hope DFW",
+      "Annual Report",
+      "FY 2023-2024",
+      "meeting schedule",
+      "Dallas City Hall"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11390
+}

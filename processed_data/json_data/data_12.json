@@ -1,0 +1,91 @@
+{
+  "agenda_number": 12,
+  "source_file": "Agenda_12.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 25, 2025",
+      "time": "5:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Municipal Library Board",
+      "location": "Central Library, 1515 Young St. Dallas, TX 75201, Board Room, 2nd floor, Video Conference Link: https://dallascityhall.webex.com/dallascityhall/j.php?MTID=ma021a766c6ef746fbf5f4763512878a0"
+    },
+    "attendees": {
+      "chair": "Katherine Leal Unmuth",
+      "presenters": [
+        "Katherine Leal Unmuth",
+        "Tiffany Bailey",
+        "Heather Lowe"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Katherine Leal Unmuth",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "(February 25, 2025)",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Reports of Officers, Boards, Standing Committees",
+        "description": "Chair’s Report - Budget Town Hall Listening Sessions",
+        "presenter": "Katherine Leal Unmuth",
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Staff Reports/Briefings",
+        "description": "Music Program, Director’s Report, Library Code of Conduct Overview, Library Operational Update",
+        "presenter": "Tiffany Bailey, Heather Lowe",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Discussion of Potential Future Agenda Items or Presentations",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Municipal Library Board",
+      "Regular Meeting",
+      "Call to Order",
+      "Public Speakers",
+      "Approval of Minutes",
+      "Reports",
+      "Staff Reports",
+      "Music Program",
+      "Library Code of Conduct",
+      "Operational Update",
+      "Future Agenda Items",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9957
+}

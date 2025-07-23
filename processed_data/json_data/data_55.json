@@ -1,0 +1,102 @@
+{
+  "agenda_number": 55,
+  "source_file": "Agenda_55.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 24, 2025",
+      "time": "12:00 P.M.",
+      "type": "Hybrid Meeting",
+      "organization": "Senior Affairs Commission",
+      "location": "Dallas City Hall, L1FN Auditorium and Video Conference"
+    },
+    "attendees": {
+      "chair": "J. Peter Kline",
+      "presenters": [
+        "Robert Emery",
+        "Mirka Norman",
+        "Tabitha Taylor"
+      ],
+      "participants": [
+        "Commissioner Rob Friedman"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": null,
+        "presenter": "J. Peter Kline",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers for items V- VII",
+        "description": "2 minutes per speaker",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes for the January 27, 2025 Senior Affairs Commission Meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Chair’s Report",
+        "description": "Reminder of Texas Open Meetings Act Requirements for Videoconference Meeting and Ad Hoc Committees Guidelines.",
+        "presenter": "J. Peter Kline",
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "New Business: Presentation",
+        "description": "An Introduction and Overview from the Coalition for Aging LGBT. The presentation will explore the needs of LGBT seniors and strategies for fostering inclusivity, equity, and improved support in future senior services.",
+        "presenter": "Robert Emery",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Staff Reports/Briefings",
+        "description": "Presentation by the Office of Community Care and Empowerment (OCCE) Senior Services. OCCE will provide a monthly update on services provided, programs, and contracts targeting the older residents of Dallas.",
+        "presenter": "Mirka Norman and Tabitha Taylor",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "New Business: Discussion",
+        "description": "Commissioner Rob Friedman will lead discussion on 2025 Funding Priorities in preparation for the annual SAC memorandum to the City Council.",
+        "presenter": "Commissioner Rob Friedman",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Senior Affairs Commission",
+      "Dallas",
+      "Hybrid Meeting",
+      "LGBT seniors",
+      "inclusivity",
+      "equity",
+      "community care",
+      "funding priorities",
+      "Texas Open Meetings Act",
+      "presentation",
+      "staff reports",
+      "public speakers",
+      "minutes approval",
+      "ad hoc committees",
+      "City Council"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9751
+}

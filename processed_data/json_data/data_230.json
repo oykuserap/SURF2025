@@ -1,0 +1,101 @@
+{
+  "agenda_number": 230,
+  "source_file": "Agenda_230.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 22, 2024",
+      "time": "1:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Government Performance and Financial Management Committee",
+      "location": "Council Briefing Room, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Jenny Kerzman",
+        "Nina Arias",
+        "Jarred Davis",
+        "Elizabeth Saab",
+        "John Johnson",
+        "Janette Weedon",
+        "Filicia Hernandez"
+      ],
+      "participants": [
+        "Moreno",
+        "Stewart",
+        "Blackmon",
+        "Resendez",
+        "Gracey",
+        "Schultz"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the September 23, 2024 Government Performance and Financial Management Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Annual Review of City’s Investment Policy Review",
+        "description": "Review of the city's investment policy.",
+        "presenter": "Jenny Kerzman",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Update Regarding Talent Acquisition Audit",
+        "description": "Update on the audit related to talent acquisition.",
+        "presenter": "Nina Arias, Jarred Davis, Elizabeth Saab",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Review of City Real Estate for Development, Sale, and Redevelopment",
+        "description": "Options for City Council consideration related to the City lease of the Bullington truck terminal and Family Gateway property repair update.",
+        "presenter": "John Johnson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Overview of the City’s Financial Management Performance Review Criteria",
+        "description": "Proposed revisions to existing criteria and new criteria.",
+        "presenter": "Janette Weedon",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "FY 2024-25 Debt Issuance Overview",
+        "description": "Overview of the debt issuance for the fiscal year.",
+        "presenter": "Jenny Kerzman, Filicia Hernandez",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Government Performance",
+      "Financial Management",
+      "Investment Policy",
+      "Talent Acquisition Audit",
+      "City Real Estate",
+      "Financial Management Performance",
+      "Debt Issuance",
+      "Budget Accountability",
+      "Technology Accountability",
+      "City Auditor",
+      "Family Gateway",
+      "American Rescue Plan",
+      "Community Development Block Grants"
+    ],
+    "financial_items": [
+      {
+        "description": "American Rescue Plan Act - Coronavirus State & Local Fiscal Recovery Funds - Summary of Budgets, Encumbrances, Expenditures, and Unencumbered Funds - October 2024",
+        "amount": null,
+        "type": "budget"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 23062
+}

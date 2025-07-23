@@ -1,0 +1,38 @@
+{
+  "agenda_number": 557,
+  "source_file": "Agenda_557.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 13, 2024",
+      "time": "12:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Dallas Housing Finance Corporation",
+      "location": "1500 Marilla Street Council Chambers, 6th Floor, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "Dallas",
+      "Housing",
+      "Finance",
+      "Corporation",
+      "Executive Session",
+      "Attorney",
+      "Litigation",
+      "Real Property",
+      "Negotiations",
+      "Public Officer",
+      "Employment",
+      "Security",
+      "Economic Development",
+      "Incentives"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 3535
+}

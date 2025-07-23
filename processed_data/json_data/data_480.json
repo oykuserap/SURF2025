@@ -1,0 +1,170 @@
+{
+  "agenda_number": 480,
+  "source_file": "Agenda_480.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 4, 2024",
+      "time": "10:00 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Park and Recreation Board",
+      "location": "Dallas City Hall, 6FN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Arun Agarwal",
+      "presenters": [
+        "Rachael Berry",
+        "John Lawrence",
+        "Christina Turner-Noteware"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Arun Agarwal",
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from March 21, 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.1",
+        "title": "Southern Gateway Park Naming",
+        "description": "Authorize the naming of the Texas Capital Landing at Southern Gateway Park. Texas Capital Bank desires to make a $1 million contribution to Southern Gateway Public Green Foundation for a naming opportunity.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.2",
+        "title": "Methodist Health System Plaza Naming",
+        "description": "Authorize the naming of the Methodist Health System Plaza at Southern Gateway Park. Methodist Health System desires to make a $1 million contribution to Southern Gateway Public Green Foundation for a naming opportunity.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.3",
+        "title": "McKesson Marget Grove Naming",
+        "description": "Authorize the naming of the McKesson Marget Grove at the Community Park at Fair Park. The McKesson Foundation desires to make a $2.5 million contribution for a naming opportunity.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.4",
+        "title": "Alcohol Permit for Flag Pole Hill Park",
+        "description": "Authorize issuing an alcohol permit to Anna Pollard, to serve alcohol at the White Rock North School Founders Day Picnic.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.5",
+        "title": "Service Price Agreement for Preventative Maintenance",
+        "description": "Authorize a three-year service price agreement for preventative maintenance and repair services to concession kitchen equipment and appliances.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.6",
+        "title": "Youth Sports Officiating Services Agreement",
+        "description": "Authorize a three-year service price agreement for Youth Sports Officiating Services.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.7",
+        "title": "Kleberg Rylie Recreation Center Renovation",
+        "description": "Authorize a construction services contract for the construction of the Kleberg Rylie Recreation Center Gymnasium Renovation and Repairs Project.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.8",
+        "title": "Anita Nañez Martinez Recreation Center Repairs",
+        "description": "Authorize a construction services contract for the construction of the Anita Nañez Martinez Recreation Center Building Envelope Repairs.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VII.9",
+        "title": "Shakespeare Dallas Briefing",
+        "description": "",
+        "presenter": "Rachael Berry",
+        "action_required": null
+      },
+      {
+        "item_number": "VII.10",
+        "title": "Youth Sports Division Update",
+        "description": "",
+        "presenter": "John Lawrence",
+        "action_required": null
+      },
+      {
+        "item_number": "VII.11",
+        "title": "2024 Summer Aquatics Preview",
+        "description": "",
+        "presenter": "John Lawrence",
+        "action_required": null
+      },
+      {
+        "item_number": "VII.12",
+        "title": "Budget Update",
+        "description": "",
+        "presenter": "Rachael Berry",
+        "action_required": null
+      },
+      {
+        "item_number": "VII.13",
+        "title": "2024 Bond Program",
+        "description": "Final Proposed Bond Program list.",
+        "presenter": "Christina Turner-Noteware",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Park and Recreation Board",
+      "Regular Meeting",
+      "Southern Gateway Park",
+      "Alcohol Permit",
+      "Service Price Agreement",
+      "Youth Sports",
+      "Budget Update",
+      "Construction Services",
+      "Naming Opportunities",
+      "Community Development Block Grant",
+      "Fair Park",
+      "Public Speakers",
+      "Executive Session",
+      "Video Conference",
+      "Public Participation"
+    ],
+    "financial_items": [
+      {
+        "description": "Service price agreement for preventative maintenance and repair services.",
+        "amount": "$184,900",
+        "type": "expenditure"
+      },
+      {
+        "description": "Youth Sports Officiating Services Agreement total award.",
+        "amount": "$1,940,945",
+        "type": "expenditure"
+      },
+      {
+        "description": "Kleberg Rylie Recreation Center Gymnasium Renovation and Repairs Project.",
+        "amount": "$429,000",
+        "type": "expenditure"
+      },
+      {
+        "description": "Anita Nañez Martinez Recreation Center Building Envelope Repairs.",
+        "amount": "$1,160,269.20",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 17093
+}

@@ -1,0 +1,71 @@
+{
+  "agenda_number": 257,
+  "source_file": "Agenda_257.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 1, 2024",
+      "time": "2:00 P.M.",
+      "type": "Special Meeting",
+      "organization": "Commission on Disabilities",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "John Kalkanli",
+      "presenters": [
+        "J’La Dade",
+        "Michael Quezada"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of the August 27, 2024, Commission on Disabilities Meeting minutes",
+        "presenter": "John Kalkanli",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Chairman Report",
+        "description": "Chairman John Kalkanli will review the Harmonies of Humanities event by Human Rights Dallas on September 7, 2024 and discuss his briefing to the Texas Workforce Solutions, Vocational Rehabilitation Services about the Commission on Disabilities, given on September 9, 2024.",
+        "presenter": "John Kalkanli",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Accessible Voting Methods for People with Disabilities",
+        "description": "Community Outreach Coordinator of the Dallas County Elections Department, J’La Dade, will present on Accessible Voting Methods for People with Disabilities.",
+        "presenter": "J’La Dade",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VIII",
+        "title": "EmployAbility Career Expo 2024",
+        "description": "Chair of EmployAbility, Michael Quezada, will present on EmployAbility and their upcoming Career Expo 2024.",
+        "presenter": "Michael Quezada",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Commission on Disabilities",
+      "Special Meeting",
+      "Dallas City Hall",
+      "Accessible Voting",
+      "EmployAbility",
+      "Career Expo",
+      "Public Comment",
+      "Chairman Report",
+      "Human Rights Dallas",
+      "Texas Workforce Solutions",
+      "Community Outreach",
+      "Equity & Inclusion",
+      "Meeting Minutes",
+      "Voting Methods",
+      "Disabilities"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9769
+}

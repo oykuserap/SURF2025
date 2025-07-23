@@ -1,0 +1,70 @@
+{
+  "agenda_number": 38,
+  "source_file": "Agenda_38.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 5, 2025",
+      "time": "11:30 A.M.",
+      "type": "Special Called Meeting",
+      "organization": "Building Inspection Advisory, Examining and Appeals Board",
+      "location": "Oak Cliff Municipal Center, Room 300, 320 E. Jefferson Boulevard, Dallas, TX 75203"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Mina 'Sam' Eskander, P.E., CBO"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Review and Approval of the Minutes from the January 21, 2024 Meeting",
+        "description": null,
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Review and recommendations regarding the adoption of the 2023 National Electrical Code",
+        "description": "with amendments, as Chapter 56 'Dallas Electrical Code' of the Dallas City Code",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "4",
+        "title": "Briefing on request for amendments to the International Residential Code",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Building Inspection",
+      "Electrical Code",
+      "Dallas City Code",
+      "International Residential Code",
+      "Meeting Minutes",
+      "Recommendations",
+      "Amendments",
+      "Planning and Development",
+      "Special Called Meeting",
+      "Accessibility",
+      "Public Participation",
+      "Video Conference",
+      "Accommodations",
+      "Equitable Access",
+      "Development Services"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 5094
+}

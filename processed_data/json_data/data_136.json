@@ -1,0 +1,39 @@
+{
+  "agenda_number": 136,
+  "source_file": "Agenda_136.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 7, 2025",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Housing and Homelessness Solutions Committee",
+      "location": "Council Chambers, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "Housing",
+      "Homelessness",
+      "Solutions",
+      "Committee",
+      "Dallas",
+      "City Council",
+      "Executive Session",
+      "Litigation",
+      "Real Property",
+      "Negotiations",
+      "Public Officer",
+      "Employment",
+      "Security",
+      "Economic Development",
+      "Incentives"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 4559
+}

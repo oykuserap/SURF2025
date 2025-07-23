@@ -1,0 +1,89 @@
+{
+  "agenda_number": 421,
+  "source_file": "Agenda_421.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 14, 2024",
+      "time": "5:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Community Police Oversight Board",
+      "location": "Dallas City Hall, 6EN Council Chambers and Videoconference"
+    },
+    "attendees": {
+      "chair": "John Mark Davidson",
+      "presenters": [
+        "C. Clark",
+        "Siara Obasuyi",
+        "Deputy City Manager Kimberly Tolbert",
+        "Dallas Police Department Chief Eddie Garcia"
+      ],
+      "participants": [
+        "Tony Rodriguez",
+        "Sarah Cruz",
+        "Brandon Friedman",
+        "Judge Lander",
+        "David Kitner",
+        "Alison Grinter Allen",
+        "Derric Pegram",
+        "Ozzie Smith",
+        "Jonathan E Maples",
+        "Brian Bah",
+        "Walter Higgins",
+        "Deatra Wadsworth",
+        "Dr. Loren Gilbert-Smith"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Approval of Minutes - April 9, 2024",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": "David Kitner",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "II",
+        "title": "Action Items",
+        "description": "Review External Administrative Complaints.",
+        "presenter": "C. Clark",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "III",
+        "title": "Staff Reports/Briefings",
+        "description": "Reports on various topics including hiring search for new director and monthly arrest data.",
+        "presenter": "Chairman Davidson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IV",
+        "title": "Monthly Activity Report",
+        "description": "Presentation of the monthly activity report by OCPO.",
+        "presenter": "C. Clark",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Upcoming Meeting",
+        "description": "Announcement of the next meeting scheduled for June 11, 2024.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Community Police Oversight",
+      "Dallas City Hall",
+      "Administrative Complaints",
+      "Staff Reports",
+      "Monthly Activity Report",
+      "Hiring Search",
+      "Senate Bill 4",
+      "Public Comment",
+      "CPOB Committees",
+      "DPD Monthly Arrest Data"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 193168
+}

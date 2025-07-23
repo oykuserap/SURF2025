@@ -1,0 +1,95 @@
+{
+  "agenda_number": 668,
+  "source_file": "Agenda_668.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 16, 2023",
+      "time": "4:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Arts and Culture Advisory Commission",
+      "location": "Dallas City Hall, 6FN - Park and Recreation Board Room and Videoconference, 1500 Marilla Street"
+    },
+    "attendees": {
+      "chair": "David Small",
+      "presenters": [
+        "David Small",
+        "Curtis King",
+        "Martine Philippe",
+        "Jim Nugent",
+        "Vicki Meek"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the October 19, 2023, Arts and Culture Advisory Commission meeting minutes",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Approval of Calendar Year 2024 Arts and Culture Advisory Commission Meeting Dates",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Chair’s Report",
+        "description": "Acknowledge past Chair, Ella Goode Johnson; Acknowledge new members on the Commission; Commissioners/Cultural Organizations Program Liaisons’ Reports; Update on Committees; Expectations of Commission and Commissioners",
+        "presenter": "David Small",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Cultural Spotlight: The Black Academy of Arts and Letters",
+        "description": "",
+        "presenter": "Curtis King",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Director’s Update",
+        "description": "Acknowledge past Chair, Staff Updates, Cultural Facilities Program - Kitchen Dog Theater Update",
+        "presenter": "Martine Philippe",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Status Report Update - Annual Reports Committee",
+        "description": "",
+        "presenter": "Jim Nugent",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Facility Support Update – Cultural Planning and Equity Committee",
+        "description": "",
+        "presenter": "Vicki Meek",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Arts and Culture",
+      "Commission",
+      "Meeting Minutes",
+      "Calendar Year 2024",
+      "Chair's Report",
+      "Cultural Spotlight",
+      "Director's Update",
+      "Annual Reports",
+      "Facility Support",
+      "Public Speakers",
+      "Dallas City Hall",
+      "Equitable Access",
+      "Cultural Organizations",
+      "Commissioners",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10812
+}

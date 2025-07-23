@@ -1,0 +1,90 @@
+{
+  "agenda_number": 122,
+  "source_file": "Agenda_122.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 13, 2025",
+      "time": "12:00 p.m.",
+      "type": "Special Called Meeting",
+      "organization": "Dallas Veteran Affairs Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Nikki Musko"
+      ],
+      "participants": [
+        "Christina da Silva"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order, Pledge of Allegiance, and Roll Call",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Comments on Items III – VI",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Vote to Approve the December 12th, 2024 Meeting Minutes",
+        "description": null,
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Presentation by Nikki Musko with Mercy Dogs Inc.",
+        "description": "The Executive Director of Mercy Dogs Inc., Nikki Musko, will present to the commission on their organization and how it benefits veterans.",
+        "presenter": "Nikki Musko",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Veterans’ Wellbeing Assessment Request for Proposal (RFP) Update",
+        "description": "Christina da Silva, Assistant Director Office of Equity & Inclusion to provide an update on the status of the Veterans’ Wellbeing RFP and next steps.",
+        "presenter": "Christina da Silva",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Announcements",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Veteran Affairs",
+      "Commission",
+      "Special Called Meeting",
+      "Mercy Dogs Inc.",
+      "Nikki Musko",
+      "Veterans’ Wellbeing",
+      "RFP Update",
+      "Public Comments",
+      "Meeting Minutes",
+      "Announcements",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 17621
+}

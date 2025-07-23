@@ -1,0 +1,66 @@
+{
+  "agenda_number": 229,
+  "source_file": "Agenda_229.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 22, 2024",
+      "time": "2:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Commission on Disabilities",
+      "location": "Dallas City Hall, Council Chambers and Videoconference (Webex)"
+    },
+    "attendees": {
+      "chair": "John Kalkanli",
+      "presenters": [
+        "John Kalkanli",
+        "Al Rodriguez"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of the October 1, 2024, Commission on Disabilities Special Meeting Minutes",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Vote and Approval of Commission Meeting Calendar Dates",
+        "description": "Approval of November and December 2024 Commission Meeting Dates and Approval of 2025 Commission Meeting Dates",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Chairman Report",
+        "description": "Chairman John Kalkanli will review the Career Expo 2024 by Employability Dallas, his meeting with Mozee and Commissioner Revi, and discuss White Cane Awareness Day.",
+        "presenter": "John Kalkanli",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VIII",
+        "title": "National Federation of the Blind – an Overview",
+        "description": "Al Rodriguez will provide an overview of the National Federation of the Blind.",
+        "presenter": "Al Rodriguez",
+        "action_required": "briefing"
+      }
+    ],
+    "keywords": [
+      "Commission on Disabilities",
+      "Regular Meeting",
+      "Dallas City Hall",
+      "Approval of Minutes",
+      "Commission Meeting Calendar",
+      "Career Expo 2024",
+      "White Cane Awareness Day",
+      "National Federation of the Blind",
+      "Public Comment",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9721
+}

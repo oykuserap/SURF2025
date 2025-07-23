@@ -1,0 +1,169 @@
+{
+  "agenda_number": 306,
+  "source_file": "Agenda_306.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 27, 2024",
+      "time": "9:00 AM",
+      "type": "Public Safety Committee Meeting",
+      "organization": "Dallas City Council",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX"
+    },
+    "attendees": {
+      "chair": "Ridley",
+      "presenters": [
+        "Pollyanna Ashford",
+        "Delridge Williams",
+        "Jason Scoggins",
+        "Kevin Oden",
+        "Justin Ball",
+        "Robert Borse",
+        "William Griffith",
+        "Scott Clumpner",
+        "Dr. Philip Huang",
+        "Keith Brown",
+        "Dominique Artis",
+        "Eddie Garcia",
+        "David Pughes"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the June 10, 2024 Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Public Safety Recruiting and Retention Update",
+        "description": "Update on the recruiting and retention efforts for public safety personnel.",
+        "presenter": "Pollyanna Ashford, Major of Police, Dallas Police Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Violent Crime Reduction Plan Update",
+        "description": "Update on the strategies and effectiveness of the violent crime reduction plan.",
+        "presenter": "Jason Scoggins, Major of Police, Dallas Police Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Dallas Fire-Rescue 2023 Annual Report",
+        "description": "Presentation of the annual report for Dallas Fire-Rescue.",
+        "presenter": "Justin Ball, Chief of Fire (I), Dallas Fire Rescue Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Overview of Violent Crime Clearance Rates",
+        "description": "Presentation on the clearance rates for violent crimes in Dallas.",
+        "presenter": "William Griffith, Deputy Chief, Dallas Police Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Overdose Program Update",
+        "description": "Update on the overdose response program and its effectiveness.",
+        "presenter": "Scott Clumpner, Deputy Chief, Fire-Rescue Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Public Safety Dashboards",
+        "description": "Presentation on the public safety dashboards and their usage.",
+        "presenter": "Dominique Artis, Chief of Public Safety (I), City Manager’s Office",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Dallas Police Department 2023 Racial Profiling Report",
+        "description": "Presentation of the racial profiling report for the Dallas Police Department.",
+        "presenter": "Eddie Garcia, Chief of Police, Dallas Police Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Flock Purchase - Additional Cameras and Extended Data Retention Period",
+        "description": "Discussion on the purchase of additional cameras and data retention.",
+        "presenter": "Eddie Garcia, Chief of Police, Dallas Police Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Marshal’s Homeless Action Response Team Activity Report",
+        "description": "Report on the activities of the Marshal’s Homeless Action Response Team.",
+        "presenter": "David Pughes, City Marshal, Dallas Marshal’s Office",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "Dallas Fire Rescue Facility Construction Update",
+        "description": "Update on the construction of Dallas Fire Rescue facilities.",
+        "presenter": "Justin Ball, Chief of Fire (I), Dallas Fire Rescue Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "K",
+        "title": "Dallas Fire Rescue Fleet Maintenance Update",
+        "description": "Update on the maintenance of the Dallas Fire Rescue fleet.",
+        "presenter": "Justin Ball, Chief of Fire (I), Dallas Fire Rescue Department",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Public Safety",
+      "Dallas City Council",
+      "Crime Reduction",
+      "Fire Rescue",
+      "Recruiting",
+      "Retention",
+      "Violent Crime",
+      "Annual Report",
+      "Overdose Program",
+      "Dashboards",
+      "Racial Profiling",
+      "Cameras",
+      "Homeless Action",
+      "Facility Construction",
+      "Fleet Maintenance"
+    ],
+    "financial_items": [
+      {
+        "description": "Authorize a three-year service contract for Deaf Link’s Accessible Hazard Alert System for the Office of Emergency Management",
+        "amount": "$352,755.00",
+        "type": "service contract"
+      },
+      {
+        "description": "Authorize the acceptance of a grant from Cities for Financial Empowerment Fund, Inc. for Emergency Financial Empowerment",
+        "amount": "$150,000.00",
+        "type": "grant"
+      },
+      {
+        "description": "Authorize a three-year service price agreement for spoken language interpretation and associated equipment rental",
+        "amount": "$1,010,140.00",
+        "type": "service agreement"
+      },
+      {
+        "description": "Authorize a three-year Interlocal Agreement with Southern Methodist University for consulting and technical assistance",
+        "amount": "$662,301.00",
+        "type": "interlocal agreement"
+      },
+      {
+        "description": "Authorize a five-year master agreement for a Law Enforcement Monitoring Facility product for the Dallas Police Department",
+        "amount": "$196,400.00",
+        "type": "master agreement"
+      },
+      {
+        "description": "Authorize an Interlocal Agreement with Tarrant County for forensic analysis services",
+        "amount": "$500,000.00",
+        "type": "interlocal agreement"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 29496
+}

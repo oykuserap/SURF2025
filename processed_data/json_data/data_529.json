@@ -1,0 +1,87 @@
+{
+  "agenda_number": 529,
+  "source_file": "Agenda_529.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 4, 2024",
+      "time": "9:00 A.M. and 1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Landmark Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Evelyn Montgomery",
+      "presenters": [
+        "HP Staff",
+        "Rhonda Dunn",
+        "Christina Mankowski",
+        "Marcus Watson"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Evelyn Montgomery",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "February 5, 2024, regular meeting minutes",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Staff Report/Briefings",
+        "description": "Briefing on progress by the Ad Hoc Code Amendment Committee",
+        "presenter": "HP Staff",
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Briefing Items",
+        "description": "Consideration and discussion of the draft HR&A Report on the Historic and Cultural Preservation Plan",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Landmark Commission",
+      "Historic Preservation",
+      "Certificate of Appropriateness",
+      "Public Hearing",
+      "Dallas City Hall",
+      "Ad Hoc Code Amendment Committee",
+      "Minutes Approval",
+      "Briefing Items",
+      "Public Speakers",
+      "Executive Session",
+      "Consent Items",
+      "Discussion Items",
+      "Courtesy Review",
+      "New Construction",
+      "Renovation"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 98912
+}

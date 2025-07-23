@@ -1,0 +1,137 @@
+{
+  "agenda_number": 680,
+  "source_file": "Agenda_680.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 13, 2023",
+      "time": "1:00 PM",
+      "type": "Public Safety Committee Meeting",
+      "organization": "City Council Public Safety Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "William H. Griffith",
+        "Delridge Williams",
+        "Greg Evans",
+        "Angela Shaw",
+        "Rocky Vaz",
+        "Jason Scoggins",
+        "Kevin Oden",
+        "Scott Clumpner",
+        "Dr. Marshal Isaacs",
+        "Carrie Rogers",
+        "Jon Fortune",
+        "Dominique Artis"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "Approval of the October 10, 2023 Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B",
+        "title": "Public Safety Recruiting and Retention Update",
+        "description": "Update on the recruiting and retention efforts within the Public Safety departments.",
+        "presenter": "William H. Griffith",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Police Academy Lease Agreement with UNT Dallas Update",
+        "description": "Update on the lease agreement with the University of North Texas at Dallas for the Police Academy.",
+        "presenter": "Angela Shaw",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Overview of Emergency Alert and Warning Systems Used in the City of Dallas",
+        "description": "Presentation on the emergency alert and warning systems currently in use.",
+        "presenter": "Rocky Vaz",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Violent Crime Reduction Plan Update",
+        "description": "Update on the strategies and progress of the Violent Crime Reduction Plan.",
+        "presenter": "Jason Scoggins",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Opioid Response Team Update",
+        "description": "Update on the activities and progress of the Opioid Response Team.",
+        "presenter": "Scott Clumpner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Dallas Fire- Rescue EMS Quality Management Program Update",
+        "description": "Update on the quality management program for EMS services.",
+        "presenter": "Scott Clumpner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Public Safety Legislative Priority Discussion",
+        "description": "Discussion on the legislative priorities for public safety.",
+        "presenter": "Carrie Rogers",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Public Safety Dashboards",
+        "description": "Presentation on the public safety dashboards.",
+        "presenter": "Jon Fortune",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "Update Regarding DFR Blocker Apparatus Program to Protect Emergency Responders at the Scene of Highway Accidents",
+        "description": "Update on the DFR Blocker Apparatus Program.",
+        "presenter": "Dominique Artis",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "K",
+        "title": "Dallas Fire-Rescue Facility Construction Update",
+        "description": "Update on the construction of Dallas Fire-Rescue facilities.",
+        "presenter": "Dominique Artis",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "L",
+        "title": "Dallas Fire-Rescue Fleet Maintenance Update",
+        "description": "Update on the maintenance of the Dallas Fire-Rescue fleet.",
+        "presenter": "Dominique Artis",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Public Safety",
+      "Dallas Police Department",
+      "Dallas Fire Rescue",
+      "Emergency Management",
+      "Violent Crime Reduction",
+      "Opioid Response",
+      "Legislative Priorities",
+      "Recruiting and Retention",
+      "Quality Management",
+      "Public Safety Dashboards",
+      "Facility Construction",
+      "Fleet Maintenance",
+      "Emergency Alert Systems",
+      "Lease Agreement",
+      "Highway Safety"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20900
+}

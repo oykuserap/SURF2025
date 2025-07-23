@@ -1,0 +1,102 @@
+{
+  "agenda_number": 65,
+  "source_file": "Agenda_65.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 18, 2025",
+      "time": "6 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Youth Commission",
+      "location": "Dallas City Hall, Council Chambers and Videoconference"
+    },
+    "attendees": {
+      "chair": "Hawkins",
+      "presenters": [
+        "Vernon Pellum",
+        "Shpendim Nadzaku"
+      ],
+      "participants": [
+        "Commissioner Moreno",
+        "Commissioner Nelson"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "II",
+        "title": "Vote to Approve the January 13th, 2025 Youth Commission (YC) Meeting Minutes",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "III",
+        "title": "Presentation by City of Dallas: Teens Organized and Prepared for Success briefing",
+        "description": "The manager for TOPS, Vernon Pellum will present to the commission on the Teens Organized and Prepared for Success Program. They will also address their partnership with the youth commission and how this will support the triple threat basketball game and future events.",
+        "presenter": "Vernon Pellum",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IV",
+        "title": "Presentation by City of Dallas: Welcoming Communities briefing",
+        "description": "Shpendim Nadzaku, welcoming coordinator, will provide a briefing regarding the City of Dallas WCIA office, their programming, and their response to current events.",
+        "presenter": "Shpendim Nadzaku",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "YC wide retreat update",
+        "description": "Chair Hawkins will provide an update on the ongoing action and next steps for the Youth Commission wide retreat.",
+        "presenter": "Hawkins",
+        "action_required": "update"
+      },
+      {
+        "item_number": "VI",
+        "title": "Environmental Committee task update",
+        "description": "Commissioner Moreno will provide an update on the activities of the Environmental Committee, including stream team certifications and earth day activities with Dallas Arboretum.",
+        "presenter": "Commissioner Moreno",
+        "action_required": "update"
+      },
+      {
+        "item_number": "VII",
+        "title": "Triple Threat Basketball game update",
+        "description": "Commissioner Nelson will provide an update on the Triple Threat basketball game including what arrangements have been made and what support will be needed from the commission.",
+        "presenter": "Commissioner Nelson",
+        "action_required": "update"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Reading of deadlines and tasks",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IX",
+        "title": "Announcements",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Youth Commission",
+      "TOPS",
+      "Teens Organized and Prepared for Success",
+      "Welcoming Communities",
+      "Environmental Committee",
+      "Triple Threat Basketball",
+      "retreat",
+      "updates",
+      "meetings",
+      "presentations",
+      "community",
+      "programming",
+      "events",
+      "accommodations"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 14490
+}

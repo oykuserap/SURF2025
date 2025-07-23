@@ -1,0 +1,66 @@
+{
+  "agenda_number": 538,
+  "source_file": "Agenda_538.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 26, 2024",
+      "time": "6:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Judicial Nominating Commission",
+      "location": "1500 Marilla Street- 4EN Dallas, Tx 75201, City Hall, videoconference"
+    },
+    "attendees": {
+      "chair": "Matthew McDougal",
+      "presenters": [
+        "Karen Gonzalez",
+        "Matthew McDougal"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the April 7, 2022 Minutes",
+        "description": "Approval of the minutes from the previous meeting held on April 7, 2022.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Overview of the Municipal Judge Selection Process",
+        "description": "Presentation on the process for selecting municipal judges.",
+        "presenter": "Karen Gonzalez",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Discuss the Municipal Judge Selection Process",
+        "description": "Discussion led by the chair regarding the municipal judge selection process.",
+        "presenter": "Matthew McDougal",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Approval of the job advertisement for Municipal Judges",
+        "description": "Approval of the job advertisement for the position of Municipal Judges.",
+        "presenter": "Matthew McDougal",
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Judicial Nominating Commission",
+      "Municipal Judge",
+      "Selection Process",
+      "Approval",
+      "Minutes",
+      "Job Advertisement",
+      "City Council",
+      "Videoconference",
+      "Dallas",
+      "Meeting"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 7712
+}

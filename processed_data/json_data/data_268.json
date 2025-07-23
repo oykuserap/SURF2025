@@ -1,0 +1,129 @@
+{
+  "agenda_number": 268,
+  "source_file": "Agenda_268.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 19, 2024",
+      "time": "1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Citizen Homelessness Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Linda Garner",
+      "presenters": [
+        "Dr. Philip Huang, MD, MPH",
+        "Ellen Magnis",
+        "Christine Crossley",
+        "LeTitia Owens",
+        "Tramonica Brown",
+        "Wesley Keyes",
+        "Angela Klattenhoff",
+        "Jim Hauck"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call Meeting to Order and Roll Call",
+        "description": "Declare A Quorum Present, Declare Legal Notice Posted and Meeting Duly Called",
+        "presenter": "Linda Garner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "II",
+        "title": "Public Comments",
+        "description": "Limit 2 minutes per speaker",
+        "presenter": "Linda Garner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from August 15, 2024",
+        "presenter": "Linda Garner",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Presentation: Economic Cost of Homelessness",
+        "description": "Presentation on the economic cost of homelessness in Dallas & Collins Counties",
+        "presenter": "Dr. Philip Huang, MD, MPH",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Discussion: Update on Family Homelessness",
+        "description": "Update on family homelessness initiatives",
+        "presenter": "Ellen Magnis",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Update: Office of Homeless Solutions",
+        "description": "Contract forecast for September 2024 Council Agenda Items",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Task Force Update: Citizen Homelessness Commission",
+        "description": "Updates from various task force members",
+        "presenter": "Linda Garner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Presentation: See One, Be One, Teach One Matrix",
+        "description": "Report on District 2 Specific Homelessness Concerns",
+        "presenter": "Linda Garner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IX",
+        "title": "Proposed Items for Next/Future Meetings",
+        "description": "No discussion, debate, and/or vote",
+        "presenter": "Linda Garner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "X",
+        "title": "Discussion: CHC Housekeeping and Administrative Matters",
+        "description": "Preparation of the Annual Report and Task Force Meetings",
+        "presenter": "Linda Garner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "XI",
+        "title": "Announcement of Upcoming Meetings",
+        "description": "Details of upcoming meetings",
+        "presenter": "Linda Garner",
+        "action_required": "inform"
+      },
+      {
+        "item_number": "XII",
+        "title": "Adjournment",
+        "description": "Closing of the meeting",
+        "presenter": "Linda Garner",
+        "action_required": "adjourn"
+      }
+    ],
+    "keywords": [
+      "homelessness",
+      "Dallas",
+      "public comments",
+      "economic cost",
+      "family homelessness",
+      "Office of Homeless Solutions",
+      "task force",
+      "presentation",
+      "annual report",
+      "upcoming meetings",
+      "Citizen Homelessness Commission"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12122
+}

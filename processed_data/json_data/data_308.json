@@ -1,0 +1,137 @@
+{
+  "agenda_number": 308,
+  "source_file": "Agenda_308.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 26, 2024",
+      "time": "1:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Government Performance and Financial Management Committee",
+      "location": "Council Briefing Room, 6th Floor, City Hall, Dallas, TX"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Chris Poinsatte",
+        "Sheri Kowalski",
+        "Jenny Kerzman",
+        "John Johnson",
+        "Ashley Eubanks"
+      ],
+      "participants": [
+        "Budget & Management Services",
+        "City Controller's Office",
+        "Information & Technology Services",
+        "Office of City Auditor",
+        "Office of Homeless Solutions",
+        "Office of Government Affairs"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the June 24, 2024 and August 6, 2024 Government Performance and Financial Management Committee Meeting Minutes",
+        "description": "Approval of previous meeting minutes.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "DFW International Airport’s FY25 Budget",
+        "description": "Presentation on the budget for the fiscal year 2025.",
+        "presenter": "Chris Poinsatte",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Update on New Banking Depository Contract Solicitation",
+        "description": "Update on the solicitation process for a new banking depository contract.",
+        "presenter": "Sheri Kowalski, Jenny Kerzman",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Update on Real Estate Realignment and Property Management Strategies",
+        "description": "Discussion on strategies for real estate realignment and property management.",
+        "presenter": "John Johnson, Ashley Eubanks",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Status of Quarterly ARPA Spending",
+        "description": "Report on the spending of ARPA funds.",
+        "presenter": "Budget & Management Services",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "General Fund Reserve Overview",
+        "description": "Overview of the general fund reserves.",
+        "presenter": "Budget & Management Services",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "AdvantageDallas Financial System Upgrade - Project Update",
+        "description": "Update on the financial system upgrade project.",
+        "presenter": "Information & Technology Services",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Quarterly Investment Report",
+        "description": "Report on the quarterly investments.",
+        "presenter": "City Controller’s Office",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Technology Accountability Report (Information as of Jul 21, 2024)",
+        "description": "Report on technology accountability.",
+        "presenter": "Information & Technology Services",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Office of City Auditor Monthly Update on Internal Audit Reports Released Between Apr 13, 2024 and Aug 16, 2024",
+        "description": "Monthly update on internal audit reports.",
+        "presenter": "Office of City Auditor",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "Family Gateway Property Damage",
+        "description": "Discussion on property damage related to Family Gateway.",
+        "presenter": "Office of Homeless Solutions",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "K",
+        "title": "ERCOT’s Board Member Stakeholder Engagement Meetings (August 2024)",
+        "description": "Discussion on stakeholder engagement meetings.",
+        "presenter": "Office of Government Affairs",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "Government Performance",
+      "Financial Management",
+      "Budget",
+      "Banking Depository",
+      "Real Estate",
+      "ARPA Spending",
+      "Investment Report",
+      "Technology Accountability",
+      "Internal Audit",
+      "Family Gateway",
+      "Stakeholder Engagement",
+      "Executive Session",
+      "Public Safety",
+      "Economic Development"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 21359
+}

@@ -1,0 +1,130 @@
+{
+  "agenda_number": 422,
+  "source_file": "Agenda_422.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 14, 2024",
+      "time": "12:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Dallas Housing Finance Corporation",
+      "location": "Dallas City Hall, Council Chambers and Videoconference"
+    },
+    "attendees": {
+      "chair": "Marcy Helfand",
+      "presenters": [
+        "Aaron Eaquinto",
+        "George Rodriguez",
+        "Ryan Bowen",
+        "Tim Nelson",
+        "Jaclyn Schroeder",
+        "Tatiana Farrow"
+      ],
+      "participants": [
+        "David Ellis"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the President.",
+        "presenter": "Marcy Helfand",
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes for the April 16, 2024 meeting.",
+        "presenter": "Marcy Helfand",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Resolutions for The Mondello",
+        "description": "Discussion and approval of financing resolutions for The Mondello multifamily residential development.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Resolutions for Axis Kessler Park",
+        "description": "Discussion and approval of resolutions for Axis Kessler Park multifamily residential development.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VII",
+        "title": "Appointment of Assistant Investment Officer",
+        "description": "Discussion and approval of the appointment of an Assistant Investment Officer and establishment of a TexPool account.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Review of Treasurer’s Report",
+        "description": "Review and discussion of the DHFC Treasurer’s report for the three-month period ending on March 31, 2024.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IX",
+        "title": "Review of Pipeline Report",
+        "description": "Review and discussion of the Corporation’s pipeline report as of May 10, 2024.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "X",
+        "title": "Discussion about Charitable Contributions",
+        "description": "Discussion about the Corporation making charitable contributions.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "XI",
+        "title": "Discussion of Conference Take-aways",
+        "description": "Discussion of take-aways from the National Association of Local Housing Finance Agencies conference attended by Corporation staff and Board Members.",
+        "presenter": "Tatiana Farrow",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "XII",
+        "title": "Adjourn",
+        "description": "Closing of the meeting.",
+        "presenter": "Marcy Helfand",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Housing Finance Corporation",
+      "The Mondello",
+      "Axis Kessler Park",
+      "financing resolutions",
+      "multifamily residential development",
+      "Assistant Investment Officer",
+      "TexPool account",
+      "Treasurer’s report",
+      "pipeline report",
+      "charitable contributions",
+      "conference take-aways",
+      "public comments",
+      "meeting minutes",
+      "action items",
+      "resolutions"
+    ],
+    "financial_items": [
+      {
+        "description": "Financing for The Mondello multifamily residential development",
+        "amount": "$22,500,000.00",
+        "type": "bond financing"
+      },
+      {
+        "description": "Aggregate amount for financing including various loans for The Mondello development",
+        "amount": "$9,000,000.00",
+        "type": "financing"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 14057
+}

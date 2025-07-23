@@ -1,0 +1,115 @@
+{
+  "agenda_number": 9,
+  "source_file": "Agenda_9.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 28, 2025",
+      "time": "9:30 A.M.",
+      "type": "Special Called Meeting",
+      "organization": "City of Dallas",
+      "location": "Dallas City Hall, Room #1 C- South and Videoconference"
+    },
+    "attendees": {
+      "chair": "Jarred D. Davis, MS, Sr. CAAP",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approve minutes from the February 4, 2025, Regular Civil Service Board Meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.a",
+        "title": "Hearing Item",
+        "description": "Hear the rehire eligibility appeal of Mr. Ramón Ruvalcaba, a former employee in the Dallas Fire Department.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IV.b",
+        "title": "Hearing Item",
+        "description": "Hear the rehire eligibility appeal of Mr. Devon Sheets, a former employee in the Dallas Fire Department.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V.a",
+        "title": "Briefing and Discussion Item",
+        "description": "Civil Services Rules Revision Update",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V.b",
+        "title": "Briefing and Discussion Item",
+        "description": "Sworn Promotional Forecast",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V.c",
+        "title": "Briefing and Discussion Item",
+        "description": "Department Updates and Announcements",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI.a",
+        "title": "Action Item",
+        "description": "Take any necessary or appropriate action as result of Executive Session.",
+        "presenter": null,
+        "action_required": "take action"
+      },
+      {
+        "item_number": "EXECUTIVE SESSION",
+        "title": "Performance Evaluation",
+        "description": "Conduct the FY 24 annual performance evaluation of the Secretary to the Civil Service Board.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Civil Service Board",
+      "Special Called Meeting",
+      "rehire eligibility",
+      "performance evaluation",
+      "minutes approval",
+      "Civil Services Rules",
+      "Department Updates",
+      "Executive Session",
+      "public speakers",
+      "action items",
+      "briefing",
+      "discussion"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9869
+}

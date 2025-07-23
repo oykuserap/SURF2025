@@ -1,0 +1,57 @@
+{
+  "agenda_number": 338,
+  "source_file": "Agenda_338.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 6, 2024",
+      "time": "9:00 a.m.",
+      "type": "Committee Meeting",
+      "organization": "City Council Government Performance and Financial Management Committee",
+      "location": "Council Briefing Room, 6th Floor at City Hall, and via video conference"
+    },
+    "attendees": {
+      "chair": "Donzell Gipson",
+      "presenters": [
+        "Donzell Gipson",
+        "City Attorney’s Office",
+        "Planning and Development Department"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "City-Leased Properties & Budgetary Implications for the City",
+        "description": "Discussion on city-leased properties and their budgetary implications.",
+        "presenter": "Donzell Gipson, Assistant City Manager(I)",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Update on Proposed Private Game Club Land Use",
+        "description": "Update on proposed private game club land use and budget implications.",
+        "presenter": "City Attorney’s Office & Planning and Development Department",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "City Council",
+      "Government Performance",
+      "Financial Management",
+      "Budgetary Implications",
+      "City-Leased Properties",
+      "Private Game Club",
+      "Land Use",
+      "City Attorney",
+      "Planning and Development",
+      "Video Conference",
+      "Public Attendance",
+      "Broadcast",
+      "Spectrum Cable",
+      "Dallas City Hall"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18665
+}

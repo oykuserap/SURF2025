@@ -1,0 +1,43 @@
+{
+  "agenda_number": 654,
+  "source_file": "Agenda_654.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 5, 2023",
+      "time": "11:00 AM",
+      "type": "Special Called Meeting",
+      "organization": "Transportation and Infrastructure Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Omar Narvaez",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A 23-3140",
+        "title": "Dallas-Fort Worth International Airport Board Appointee Candidate Interviews",
+        "description": "",
+        "presenter": "Omar Narvaez, Council Member, Chair of Transportation & Infrastructure",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Transportation",
+      "Infrastructure",
+      "Committee",
+      "Special Called Meeting",
+      "Airport",
+      "Board Appointee",
+      "Candidate Interviews",
+      "City Council",
+      "Public Meeting",
+      "Video Conference"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 17878
+}

@@ -1,0 +1,88 @@
+{
+  "agenda_number": 244,
+  "source_file": "Agenda_244.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 15, 2024",
+      "time": "6:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Youth Commission",
+      "location": "Dallas City Hall, Chambers and Videoconference"
+    },
+    "attendees": {
+      "chair": "Commissioner Hawkins",
+      "presenters": [
+        "Commissioner Hawkins",
+        "Commissioner Okon",
+        "Commissioner Nelson",
+        "Commissioner Tamfu",
+        "Taylor Moody"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Commissioner Hawkins",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Approval of Minutes",
+        "description": "(Sep 2024)",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "III",
+        "title": "Staff Reports/Briefings/Special Committees",
+        "description": "Survey Launch/Distribution Plan Rehash, D11 Town Hall Briefing, Thanksgiving Event Briefing, Tripple Threat Game, YC-wide retreat, Dallas Youth Scholarship Gala Night, Dallas Morning News Opportunity, Dallas Film Screening Opportunity",
+        "presenter": "Various",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IV",
+        "title": "Unfinished Business/General Orders",
+        "description": "YC General Elections, Reading of Deadlines and Tasks",
+        "presenter": "Taylor Moody, Commissioner Tamfu",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Announcements",
+        "description": "",
+        "presenter": "Taylor Moody",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Youth Commission",
+      "Regular Meeting",
+      "Call to Order",
+      "Approval of Minutes",
+      "Staff Reports",
+      "Briefings",
+      "Unfinished Business",
+      "General Orders",
+      "Announcements",
+      "Adjournment",
+      "Dallas City Hall",
+      "Videoconference",
+      "Community Engagement",
+      "Events Planning",
+      "Elections"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8119
+}

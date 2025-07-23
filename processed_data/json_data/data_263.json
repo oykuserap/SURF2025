@@ -1,0 +1,88 @@
+{
+  "agenda_number": 263,
+  "source_file": "Agenda_263.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 23, 2024",
+      "time": "6:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "College Advisory Commission",
+      "location": "Dallas City Hall, Council Chambers and Videoconference"
+    },
+    "attendees": {
+      "chair": "Max Brenner",
+      "presenters": [
+        "Taylor Moody"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the chair.",
+        "presenter": "Max Brenner",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "Opportunity for public speakers to address the commission.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes from the meeting on June 17, 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Reports of Committees",
+        "description": "Reports from various committees.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Staff Reports/Briefings/Discussions",
+        "description": "Discussion on the Purpose and Goals of the CAC and Civic Analysis Projects.",
+        "presenter": "Taylor Moody",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "New Business",
+        "description": "Updates from commissioners, feedback on the CAC, recruitment, and meeting schedule.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "Closing of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "College Advisory Commission",
+      "Dallas",
+      "Regular Meeting",
+      "Public Speakers",
+      "Approval of Minutes",
+      "Reports of Committees",
+      "Staff Reports",
+      "Civic Analysis Projects",
+      "New Business",
+      "Commissioner Recruitment",
+      "Meeting Schedule",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8411
+}

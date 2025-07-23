@@ -1,0 +1,108 @@
+{
+  "agenda_number": 413,
+  "source_file": "Agenda_413.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 20, 2024",
+      "time": "12:00 P.M.",
+      "type": "Hybrid Meeting",
+      "organization": "Senior Affairs Commission",
+      "location": "Dallas City Hall, L1FN Auditorium and Videoconference"
+    },
+    "attendees": {
+      "chair": "Peter Kline",
+      "presenters": [
+        "Peter Kline",
+        "Feliz Jarvis",
+        "Chris Culak",
+        "Jessica Galleshaw",
+        "Mirka Norman"
+      ],
+      "participants": [
+        "SAC Commissioners for each District"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Peter Kline",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "(2 minutes per speaker)",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "(April 15, 2024)",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Chair’s Report",
+        "description": "Reminder of Texas Open Meetings Act (TOMA) Requirements for Videoconference Meeting - Update on Senior Listening Sessions",
+        "presenter": "Peter Kline",
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "New Business",
+        "description": "Briefing Item: The Visiting Nurses Association’s (VNA) Impact on Senior Issues and Resources",
+        "presenter": "Chris Culak",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Action Item",
+        "description": "Discussion and Voting on SAC’s Recommended Funding Priorities for Senior Citizens for the City’s Budget Process FY 2024-25",
+        "presenter": "Peter Kline",
+        "action_required": "vote"
+      },
+      {
+        "item_number": "VI",
+        "title": "Staff Reports/Briefings",
+        "description": "Briefing Item: Senior Services Program & Contracts Monthly Update",
+        "presenter": "Jessica Galleshaw and Mirka Norman",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Reports of Officers, Boards, and Standing Committees",
+        "description": "Senior Affairs Commissioners District Updates",
+        "presenter": "SAC Commissioners for each District",
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Senior Affairs Commission",
+      "Dallas City Hall",
+      "Public Speakers",
+      "Approval of Minutes",
+      "Texas Open Meetings Act",
+      "Visiting Nurses Association",
+      "Funding Priorities",
+      "Senior Citizens",
+      "Budget Process",
+      "Staff Reports",
+      "Community Care",
+      "Senior Services"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11198
+}

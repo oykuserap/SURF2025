@@ -1,0 +1,115 @@
+{
+  "agenda_number": 349,
+  "source_file": "Agenda_349.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "July 16, 2024",
+      "time": "12:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Dallas Housing Finance Corporation",
+      "location": "Dallas City Hall, L1FN Auditorium and Videoconference"
+    },
+    "attendees": {
+      "chair": "Marcy Helfand",
+      "presenters": [
+        "Aaron Eaquinto",
+        "Ryan Bowen",
+        "Tim Nelson",
+        "Jaclyn Schroeder"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Call to order by the President.",
+        "presenter": "Marcy Helfand",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Roll Call",
+        "description": "Roll call conducted by the Housing Project Manager.",
+        "presenter": "Jaclyn Schroeder",
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes for the June 11, 2024 meeting.",
+        "presenter": "Marcy Helfand",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Public Hearing on The Mondello",
+        "description": "Public hearing on possible issuance of bonds for The Mondello development.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Public Hearing on West Virginia Apartments",
+        "description": "Public hearing on possible issuance of bonds for West Virginia Apartments.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Action Item: Resolutions for Axis Kessler Park",
+        "description": "Consider and adopt partnership resolutions for Axis Kessler Park.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Action Item: Resolution for 555 Ross",
+        "description": "Consider and adopt a resolution for the acquisition of 555 Ross.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IX",
+        "title": "Review of Treasurer’s Report",
+        "description": "Review and discussion of the DHFC Treasurer’s report.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "X",
+        "title": "Review of Pipeline Report",
+        "description": "Review and discussion of the Corporation’s pipeline report.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "XI",
+        "title": "Adjourn",
+        "description": "Adjournment of the meeting.",
+        "presenter": "Marcy Helfand",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Housing Finance Corporation",
+      "Regular Meeting",
+      "bonds",
+      "The Mondello",
+      "West Virginia Apartments",
+      "Axis Kessler Park",
+      "555 Ross",
+      "Treasurer’s report",
+      "pipeline report",
+      "public hearing",
+      "resolution",
+      "approval",
+      "acquisition",
+      "rehabilitation",
+      "multifamily residential development"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12630
+}

@@ -1,0 +1,128 @@
+{
+  "agenda_number": 325,
+  "source_file": "Agenda_325.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 15, 2024",
+      "time": "9:00 AM",
+      "type": "Special Called Meeting",
+      "organization": "Transportation and Infrastructure Committee",
+      "location": "Council Chambers, 6th Floor, City Hall and via video conference"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Carrie Rogers",
+        "Patrick Carreno",
+        "Ghassan Khankarli, Ph.D., P.E.",
+        "James Baker III"
+      ],
+      "participants": [
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Willis",
+        "Blackmon",
+        "Schultz",
+        "Johnson"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "A 24-2502",
+        "title": "Approval of the June 17, 2024 Transportation and Infrastructure Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B 24-2503",
+        "title": "Consideration of 2025 Transportation & Infrastructure Legislative Priorities",
+        "description": "Discussion on the legislative priorities for the upcoming year.",
+        "presenter": "Carrie Rogers",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C 24-2504",
+        "title": "Dallas Love Field Master Plan Progress Update",
+        "description": "Update on the progress of the master plan for Dallas Love Field.",
+        "presenter": "Patrick Carreno",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D 24-2530",
+        "title": "High Speed Rail- Status of Economic Impact Analysis Procurement",
+        "description": "Status update on the procurement for the economic impact analysis of high-speed rail.",
+        "presenter": "Ghassan Khankarli, Ph.D., P.E.",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E 24-2525",
+        "title": "Approval Amendments to Chapter 3, Article III, Chapter 8, and Appendix 1 of the DFW International Airport’s Code of Rules and Regulations",
+        "description": "Consideration of amendments to the airport's code of rules and regulations.",
+        "presenter": "James Baker III",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "F 24-2505",
+        "title": "Monthly Update of Public Works Program Performance - July 2024",
+        "description": "Monthly performance update for the Public Works program.",
+        "presenter": "Ghassan Khankarli, Ph.D., P.E.",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Transportation",
+      "Infrastructure",
+      "Dallas Love Field",
+      "Legislative Priorities",
+      "Public Works",
+      "Economic Impact",
+      "High Speed Rail",
+      "Airport Regulations",
+      "Construction",
+      "Funding",
+      "City Council",
+      "Committee Meeting",
+      "Minutes Approval",
+      "Video Conference",
+      "Public Participation"
+    ],
+    "financial_items": [
+      {
+        "description": "Authorize a cooperative purchasing agreement for web-based managed security system software.",
+        "amount": "$1,027,256.25",
+        "type": "funding"
+      },
+      {
+        "description": "Authorize a construction service contract for HVAC/Boilers Replacement & Roof Repairs Project.",
+        "amount": "$7,199,214.61",
+        "type": "expenditure"
+      },
+      {
+        "description": "Authorize a construction service contract for Dallas Airport System Signage Project.",
+        "amount": "$1,218,632.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Authorize an Advance Funding Agreement with TxDOT for Highway Safety Improvement Program grant.",
+        "amount": "$3,707,223.51",
+        "type": "funding"
+      },
+      {
+        "description": "Authorize a professional engineering services contract for Streetlighting Design.",
+        "amount": "$317,000.00",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 37184
+}

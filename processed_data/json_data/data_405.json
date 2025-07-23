@@ -1,0 +1,64 @@
+{
+  "agenda_number": 405,
+  "source_file": "Agenda_405.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 17, 2024",
+      "time": "9:00 AM",
+      "type": "Special Called Meeting",
+      "organization": "City Plan Commission",
+      "location": "Dallas City Hall, 1500 Marilla Street, Council Briefing Room – 6ES, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Lawrence Agu, III; AICP, Assoc AIA",
+        "Patrick Blaydes"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Key Updates to the ForwardDallas 2.0 Comprehensive Plan CPC Draft Plan #4",
+        "description": "Discussion on key updates to the ForwardDallas 2.0 Comprehensive Plan CPC Draft Plan #4.",
+        "presenter": "Lawrence Agu, III; AICP, Assoc AIA",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "2",
+        "title": "Consideration of the ForwardDallas 2.0 Comprehensive Plan CPC Draft Plan #4",
+        "description": "Consideration of the ForwardDallas 2.0 Comprehensive Plan CPC Draft Plan #4.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Discussion of upcoming review/public hearing schedule",
+        "description": "Discussion regarding the upcoming review and public hearing schedule.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "City Plan Commission",
+      "ForwardDallas 2.0",
+      "Comprehensive Plan",
+      "Public Hearing",
+      "Dallas City Hall",
+      "Special Called Meeting",
+      "Key Updates",
+      "Discussion",
+      "Action Items",
+      "Public Testimony",
+      "Planning and Urban Design",
+      "Virtual Participation",
+      "Webex",
+      "Accommodations",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 13563
+}

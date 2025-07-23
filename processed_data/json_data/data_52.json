@@ -1,0 +1,114 @@
+{
+  "agenda_number": 52,
+  "source_file": "Agenda_52.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 24, 2025",
+      "time": "6:30 P.M.",
+      "type": "Advisory Board Meeting",
+      "organization": "MLK Advisory Board",
+      "location": "Dr. Martin Luther King, Jr. Community Center, Activity Room A, Dallas, TX and online via WebEx"
+    },
+    "attendees": {
+      "chair": "Mrs. Clara Brown-Trimble",
+      "presenters": [
+        "Mrs. Clara Brown-Trimble",
+        "Mrs. LaRhonda Bacon",
+        "Dr. Jamel Slaughter",
+        "Ms. Pamela R. Jones"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order/Welcome",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Invocation/Opening Statement",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Advisory Board Member & City Staff Roll Call",
+        "description": "",
+        "presenter": "Mrs. LaRhonda Bacon",
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Public Comments",
+        "description": "Public speakers are invited to comment on agenda items for up to 3 minutes each.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "5",
+        "title": "Approval of January 27, 2025, Minutes",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Discussion: 2025 MLK Celebration Survey",
+        "description": "Board members will discuss the use of an electronic survey for members’ feedback surrounding the MLK Celebration Week.",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "7",
+        "title": "Discussion: 2025 MLK Celebration Week Recap",
+        "description": "Board members will discuss all events surrounding 2025 MLK Celebration.",
+        "presenter": "Dr. Jamel Slaughter",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "8",
+        "title": "Discussion & Appointment: 2025 MLK Cultural Events",
+        "description": "Board members will discuss and volunteer for chair and co-chair positions for the 2025 MLK Jr. Community Center cultural events.",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "9",
+        "title": "MLK Center Manager Update",
+        "description": "Updates on fresh produce distribution, volunteer opportunities, and upcoming events.",
+        "presenter": "Ms. Pamela R. Jones",
+        "action_required": null
+      },
+      {
+        "item_number": "10",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "MLK Advisory Board",
+      "Community Center",
+      "Public Comments",
+      "2025 MLK Celebration",
+      "Cultural Events",
+      "Volunteer Opportunities",
+      "Fresh Produce Distribution",
+      "Legal Aid",
+      "AIDS Walk",
+      "Public Participation",
+      "Meeting Minutes",
+      "Discussion",
+      "Appointment",
+      "Updates"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9821
+}

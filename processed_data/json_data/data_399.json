@@ -1,0 +1,103 @@
+{
+  "agenda_number": 399,
+  "source_file": "Agenda_399.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 11, 2024",
+      "time": "5:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Community Police Oversight Board",
+      "location": "Dallas City Hall, 6EN Council Chambers and Videoconference"
+    },
+    "attendees": {
+      "chair": "John Mark Davidson",
+      "presenters": [
+        "Brandon Friedman",
+        "Kevin Williams",
+        "C. Clark",
+        "Siara Obasuyi"
+      ],
+      "participants": [
+        "Ozzie Smith",
+        "Jonathan E Maples",
+        "Changa Higgins",
+        "Deatra Wadsworth",
+        "Dr. Loren Gilbert-Smith",
+        "Brian Bah",
+        "Derric Pegram",
+        "Jose Rivas",
+        "Judge Lander",
+        "Arlene Steinfeld",
+        "David Kitner",
+        "Brandon Friedman"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Approval of Minutes - May 14, 2024",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": "David Kitner",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "III.a",
+        "title": "UPDATE: Progress on the hiring search for new OCPO Director/Monitor",
+        "description": "Discussion on the hiring process for the new OCPO Director.",
+        "presenter": "Chairman Davidson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "III.b",
+        "title": "UPDATE: Update on Council vote regarding recommendation for OCPO Director reporting and ordinance changes",
+        "description": "Update on the council's vote regarding the OCPO Director.",
+        "presenter": "Brandon Friedman",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "III.c",
+        "title": "REPORT: CPOB and OCPO Outreach",
+        "description": "Report on outreach efforts by the CPOB and OCPO.",
+        "presenter": "Kevin Williams",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "III.d",
+        "title": "UPDATE: CPOB Standing Committees",
+        "description": "Update on the status of the CPOB standing committees.",
+        "presenter": "Chairman Davidson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "III.e",
+        "title": "REPORT: DPD Monthly Arrest Data",
+        "description": "Presentation of the monthly arrest data from the DPD.",
+        "presenter": "Chairman Davidson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IV",
+        "title": "Monthly Activity Report",
+        "description": "Presentation of the monthly activity report by OCPO.",
+        "presenter": "C. Clark",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Community Police Oversight",
+      "Dallas City Hall",
+      "OCPO Director",
+      "Outreach",
+      "Monthly Activity Report",
+      "Arrest Data",
+      "Public Comment",
+      "Committee Updates",
+      "Hiring Search",
+      "Council Vote",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 59011
+}

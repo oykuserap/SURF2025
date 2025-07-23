@@ -1,0 +1,99 @@
+{
+  "agenda_number": 32,
+  "source_file": "Agenda_32.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 12, 2025",
+      "time": "5:30 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Environmental Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference (Webex)"
+    },
+    "attendees": {
+      "chair": "Kathryn Bazan",
+      "presenters": [
+        "Paul White II",
+        "Oppong Hemeng",
+        "Maritza Figy"
+      ],
+      "participants": [
+        "Esther Villarreal",
+        "Katherine Homan",
+        "Andrew Siegel",
+        "Mark Wootton",
+        "Colleen Murray",
+        "Barry Lachman",
+        "Rebecca Posten",
+        "Tracy Wallace",
+        "Paula Day",
+        "Temeckia Derrough",
+        "Julie Hiromoto",
+        "Renee Roberson"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "February 12, 2025 Minutes",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.a",
+        "title": "Urban Heat Island Project Annual Update",
+        "description": "Briefing on the Urban Heat Island Project.",
+        "presenter": "Paul White II, Director (I), Office of Environmental Quality and Sustainability",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V.a",
+        "title": "Interdepartmental Working Group Meeting First Status Update – 2024 Bond CECAP Resolution",
+        "description": "Briefing memorandum regarding the status update.",
+        "presenter": "Paul White II, Director (I), Office of Environmental Quality and Sustainability",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI.a",
+        "title": "Approval of FY24 Environmental Commission Annual Report",
+        "description": "Voting item for the approval of the annual report.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VII.a.i",
+        "title": "Monthly Subcommittee Updates",
+        "description": "Updates from various subcommittees.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII.c.i",
+        "title": "Upcoming Meetings",
+        "description": "Discussion of upcoming meetings.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Environmental Commission",
+      "Urban Heat Island",
+      "Annual Report",
+      "Subcommittee Updates",
+      "Interdepartmental Working Group",
+      "2024 Bond",
+      "Climate Coordinator",
+      "Dallas City Hall",
+      "Videoconference",
+      "Public Participation",
+      "Meeting Accommodations",
+      "Environmental Quality",
+      "Sustainability",
+      "Community Engagement",
+      "Commissioners"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10850
+}

@@ -1,0 +1,103 @@
+{
+  "agenda_number": 394,
+  "source_file": "Agenda_394.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 10, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City Council Workforce, Education, and Equity Committee",
+      "location": "City Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Narvaez",
+      "presenters": [
+        "Joyce Williams",
+        "Dena Owens",
+        "Jessica Galleshaw",
+        "Dr. Lindsey Wilson",
+        "Chris Graves",
+        "Clifford Sparks"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A 24-1858",
+        "title": "Approval of the May 13, 2024, Workforce, Education and Equity Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B 24-1898",
+        "title": "Small Business Center Budget Review and Next Steps",
+        "description": "Review of the budget and next steps for the Small Business Center.",
+        "presenter": "Joyce Williams, Director, Small Business Center; Dena Owens, Manager, Small Business Center",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C 24-1967",
+        "title": "Office of Community Care Budget Review and Next Steps",
+        "description": "Review of the budget and next steps for the Office of Community Care.",
+        "presenter": "Jessica Galleshaw, Director, Community Care Services",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D 24-1861",
+        "title": "Human Right Commission- Follow-up, Engagement, Findings, and Feedback",
+        "description": "Discussion on the follow-up and findings from the Human Rights Commission.",
+        "presenter": "Dr. Lindsey Wilson, Director, Office of Equity and Inclusion; Chris Graves, Human Rights Officer, Office of Equity and Inclusion",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E 24-1964",
+        "title": "Consideration of 2025 State Legislative Program Priorities",
+        "description": "Discussion on the priorities for the 2025 State Legislative Program.",
+        "presenter": "Clifford Sparks, Manager-Legal, City Attorney’s Office",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F 24-1860",
+        "title": "Americans with Disabilities (ADA) Transition Plan Update",
+        "description": "Update on the ADA Transition Plan.",
+        "presenter": "Dr. Lindsey Wilson, Director, Office of Equity and Inclusion",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G 24-1968",
+        "title": "Upcoming Office of Community Care Agenda Item to Accept Additional Grant Funds from Texas Department of Criminal Justice (TDCJ)",
+        "description": "Discussion on accepting additional grant funds.",
+        "presenter": "Jessica Galleshaw, Director, Office of Community Care",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H 24-1862",
+        "title": "Workforce, Education, and Equity Committee Forecast",
+        "description": "Forecast for the Workforce, Education, and Equity Committee.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Workforce",
+      "Education",
+      "Equity",
+      "Budget Review",
+      "Community Care",
+      "Human Rights",
+      "Legislative Program",
+      "ADA Transition Plan",
+      "Grant Funds",
+      "Small Business Center",
+      "City Council",
+      "Dallas",
+      "Public Meeting",
+      "Virtual Attendance",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20145
+}

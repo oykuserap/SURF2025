@@ -1,0 +1,88 @@
+{
+  "agenda_number": 402,
+  "source_file": "Agenda_402.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 13, 2024",
+      "time": "12:00 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Veteran’s Affairs Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Mestas",
+      "presenters": [
+        "Sarah Kahn",
+        "Leah Williams",
+        "Rae Clay"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order, Pledge of Allegiance, and Roll Call",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Comments on Items III – VI",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Vote to Approve the May 9th, 2024 Meeting Minutes",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Presentation & Discussion with Housing Forward",
+        "description": "Housing Forward’s team will present on their work as it pertains to serving veterans and ending homelessness for veterans.",
+        "presenter": "Sarah Kahn, Leah Williams, Rae Clay",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Veteran Needs Assessment Subcommittee",
+        "description": "The commission will discuss and vote on the formation of a subcommittee to better facilitate the Veteran Needs Assessment.",
+        "presenter": null,
+        "action_required": "vote"
+      },
+      {
+        "item_number": "VI",
+        "title": "Announcements",
+        "description": "Chair Mestas met with a Ukrainian Military Delegation during the Memorial Day Weekend. Veteran Supporting Veterans Lunch at 12:00p.m. Tuesday, June 25.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Veteran’s Affairs",
+      "Housing Forward",
+      "homelessness",
+      "subcommittee",
+      "public comments",
+      "meeting minutes",
+      "veteran needs assessment",
+      "announcements",
+      "equitable meeting"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8959
+}

@@ -1,0 +1,99 @@
+{
+  "agenda_number": 620,
+  "source_file": "Agenda_620.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 20, 2023",
+      "time": "3:00 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Davis Garden TIF District Board of Directors",
+      "location": "Dallas City Hall, 6DN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Leslyn Blake, District Manager, Office of Economic Development",
+        "Haytham Hassan, Assistant Director/City Engineer, Department of Public Works",
+        "Horace Pizzarello, Senior Project Manager, Department of Public Works"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to order",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Public comments pertaining to agenda items 3 through 7",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Review and consideration of the Meeting Record of the September 20, 2023 Davis Garden TIF District Board Meeting",
+        "description": null,
+        "presenter": "Leslyn Blake, District Manager, Office of Economic Development",
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "4",
+        "title": "Review and consideration of the Davis Garden TIF District Annual Report for FY 2022-2023",
+        "description": null,
+        "presenter": "Leslyn Blake, District Manager, Office of Economic Development",
+        "action_required": "Approval and forward a recommendation of approval to City Council"
+      },
+      {
+        "item_number": "5",
+        "title": "Review and consideration of a regular meeting schedule for the Davis Garden TIF District Board of Directors for calendar year 2024",
+        "description": null,
+        "presenter": null,
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "6",
+        "title": "Receive informational update on the Rosemont Safe Routes to School Project",
+        "description": null,
+        "presenter": "Haytham Hassan, Assistant Director/City Engineer, Department of Public Works; Horace Pizzarello, Senior Project Manager, Department of Public Works",
+        "action_required": "None"
+      },
+      {
+        "item_number": "7",
+        "title": "Receive informational update on pedestrian improvements requested by the Davis Garden TIF District Board to be added to the West Davis St. Reconstruction Project",
+        "description": null,
+        "presenter": "Leslyn Blake, District Manager, Office of Economic Development",
+        "action_required": "None"
+      },
+      {
+        "item_number": "8",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Davis Garden TIF District",
+      "Board of Directors",
+      "Meeting Record",
+      "Annual Report",
+      "Regular Meeting Schedule",
+      "Rosemont Safe Routes to School Project",
+      "Pedestrian Improvements",
+      "City Council",
+      "Economic Development",
+      "Public Works",
+      "Dallas City Hall",
+      "Public Comments",
+      "Approval",
+      "Informational Update"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11997
+}

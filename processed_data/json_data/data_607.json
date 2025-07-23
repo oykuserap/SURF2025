@@ -1,0 +1,85 @@
+{
+  "agenda_number": 607,
+  "source_file": "Agenda_607.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 10, 2024",
+      "time": "5:30 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Environmental Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference (Webex)"
+    },
+    "attendees": {
+      "chair": "Kathryn Bazan",
+      "presenters": [
+        "Lori Trulson, Senior Environmental Coordinator, Office of Environmental Quality & Sustainability",
+        "Carlos Evans, Director, Office of Environmental Quality & Sustainability",
+        "Natalie Requenez, Environmental Justice Coordinator, Office of Environmental Quality & Sustainability"
+      ],
+      "participants": [
+        "Esther Villarreal, Vice Chair, District 6",
+        "Teresita Delgado, District 1",
+        "Andrew Siegel, District 10",
+        "Mark Wootton, District 2",
+        "Colleen Murray, District 11",
+        "Michael Cook, District 3",
+        "Barry Lachman, District 12",
+        "Tracy Wallace, District 5",
+        "Paula Day, District 14",
+        "Temeckia Derrough, District 7",
+        "Julie Hiromoto, District 15",
+        "Renee Roberson, District 8"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from the December 13, 2023 meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.a",
+        "title": "Environmental Due Diligence (EDD) & Municipal Setting Designation (MSD) Programs Overview",
+        "description": "Presentation on the EDD and MSD programs by Lori Trulson.",
+        "presenter": "Lori Trulson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V.b",
+        "title": "Updated CECAP Considerations for 2024 Bond Program",
+        "description": "Discussion on the integration of CECAP into the 2024 Bond Program.",
+        "presenter": "Carlos Evans, Natalie Requenez",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI.a",
+        "title": "Consideration of Approval of Environmental Commission FY23 Annual Report",
+        "description": "Review and approval of the annual report.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Environmental Commission",
+      "Dallas",
+      "Environmental Due Diligence",
+      "Municipal Setting Designation",
+      "CECAP",
+      "Bond Program",
+      "Sustainability",
+      "Public Health",
+      "Environmental Justice",
+      "Community Engagement",
+      "Climate Action",
+      "Equity",
+      "Air Quality",
+      "Green Infrastructure",
+      "Public Participation"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 109991
+}

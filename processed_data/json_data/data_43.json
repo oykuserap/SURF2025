@@ -1,0 +1,82 @@
+{
+  "agenda_number": 43,
+  "source_file": "Agenda_43.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 4, 2025",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Workforce, Education, and Equity Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Narvaez",
+      "presenters": [
+        "Nina Arias",
+        "Rae Weston",
+        "Laura Dizien",
+        "Christina Da Silva",
+        "Tamara Leak",
+        "Rosa Fleming",
+        "Emily Liu",
+        "Cynthia Rogers-Ellickson",
+        "Daisy Fast",
+        "Richard Ericson"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the February 10, 2025, Workforce, Education, and Equity (WEE) Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Upskilling Pilot Program: Security Officer Career Ladder Updates",
+        "description": "Updates on the upskilling pilot program for security officers.",
+        "presenter": "Nina Arias",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Closing Disparities: Department Progress Measures Updates Growing Portfolio",
+        "description": "Updates on progress measures from various departments aimed at closing disparities.",
+        "presenter": "Christina Da Silva",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Office of Communications and Customer Service Experience/311 (CCX/311) Reaching Our Diverse Communities",
+        "description": "Discussion on reaching diverse communities through the Office of Communications and Customer Service.",
+        "presenter": "Daisy Fast",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Workforce, Education, and Equity Committee Forecast",
+        "description": "Forecast for the Workforce, Education, and Equity Committee.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Workforce",
+      "Education",
+      "Equity",
+      "Committee",
+      "Meeting Minutes",
+      "Upskilling",
+      "Disparities",
+      "Communications",
+      "Customer Service",
+      "Diverse Communities",
+      "Forecast"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20573
+}

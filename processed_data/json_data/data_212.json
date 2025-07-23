@@ -1,0 +1,83 @@
+{
+  "agenda_number": 212,
+  "source_file": "Agenda_212.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 5, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Workforce, Education, and Equity Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Carolyn King Arnold",
+      "presenters": [
+        "Jessica Galleshaw",
+        "Holly Holt",
+        "Dannita Williams",
+        "Marjorie Murat",
+        "Kyle Francis Ph.D"
+      ],
+      "participants": [
+        "Liz Cedillo-Pereira",
+        "Dr. Lindsey Wilson",
+        "Nina Arias",
+        "Sonya Batts",
+        "Heather Wood",
+        "Laura Dizien",
+        "Martine Elyse Philippe",
+        "John D. Jenkins",
+        "Carlos Evans"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the October 15, 2024 Workforce, Education, and Equity Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Overview of Out of School Time Landscape and Early Childhood Care Landscape and Update on Related Projects",
+        "description": "Presentation on the current landscape of out-of-school time and early childhood care, including updates on related projects.",
+        "presenter": "Jessica Galleshaw",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Workforce, Education, and Equity Committee Forecast",
+        "description": "Discussion of the upcoming forecast for the committee.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Workforce",
+      "Education",
+      "Equity",
+      "Childcare",
+      "Out-of-School Time",
+      "Community Care",
+      "Dallas Afterschool",
+      "Early Childhood",
+      "Financial Assistance",
+      "Public Meeting",
+      "Committee Meeting",
+      "City Council",
+      "Public Participation",
+      "Social Services",
+      "Youth Programs"
+    ],
+    "financial_items": [
+      {
+        "description": "Microgrants distributed to Out-of-School-Time providers and Early Childhood providers.",
+        "amount": "$410,000",
+        "type": "grant"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 88305
+}

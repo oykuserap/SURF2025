@@ -1,0 +1,105 @@
+{
+  "agenda_number": 431,
+  "source_file": "Agenda_431.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 8, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the April 24, 2024 City Council Meeting",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "An ordinance amending Ordinance No. 32554",
+        "description": "Amending the ordinance for transfers and appropriation adjustments for FY 2023-24.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Authorize preliminary adoption of the FY 2024-25 HUD Consolidated Plan Budget",
+        "description": "Preliminary adoption of the HUD budget for various programs.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Authorize a Second Amendment to the concession contract with CBC SSP America DAL, LLC",
+        "description": "Amendment for food and beverage concessions services at Dallas Love Field Airport.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Authorize a Fourth Amendment to the concession contract with Dickey’s Love Field JV, LLC",
+        "description": "Amendment for food and beverage concessions services at Dallas Love Field Airport.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "29",
+        "title": "Consideration of appointments to boards and commissions",
+        "description": "Evaluation and duties of board and commission members.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "30",
+        "title": "Authorize Convention and Event Services to provide a year-to-year subsidy",
+        "description": "Subsidy for Fair Park First to facilitate agreement with a professional sports team.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "meeting",
+      "agenda",
+      "ordinance",
+      "budget",
+      "concessions",
+      "HUD",
+      "public hearing",
+      "appointments",
+      "subsidy",
+      "financial adjustments",
+      "food services",
+      "community development",
+      "public works",
+      "zoning"
+    ],
+    "financial_items": [
+      {
+        "description": "Transfers and appropriation adjustments for FY 2023-24",
+        "amount": "$5,545,369,523",
+        "type": "budget"
+      },
+      {
+        "description": "FY 2024-25 HUD Consolidated Plan Budget",
+        "amount": "$32,857,691",
+        "type": "funding"
+      },
+      {
+        "description": "Estimated Revenue from food and beverage concessions at Dallas Love Field Airport",
+        "amount": "$1,854,000",
+        "type": "revenue"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 55774
+}

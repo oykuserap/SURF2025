@@ -1,0 +1,139 @@
+{
+  "agenda_number": 234,
+  "source_file": "Agenda_234.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 21, 2024",
+      "time": "6:30 P.M.",
+      "type": "Advisory Board Meeting",
+      "organization": "Martin Luther King, Jr. Community Center Advisory Board",
+      "location": "Martin Luther King, Jr. Community Center, Activity Room A, 2922 MLK Jr. Blvd. Bldg. A, Dallas, TX 75215; Online via WebEx"
+    },
+    "attendees": {
+      "chair": "Mrs. Clara Brown-Trimble",
+      "presenters": [
+        "Mrs. Clara Brown-Trimble",
+        "Mrs. LaRhonda Bacon",
+        "Ms. Candace Wicks",
+        "Dr. Jamel Slaughter",
+        "Ms. Pamela R. Jones"
+      ],
+      "participants": [
+        "MLK Advisory Board Member",
+        "Public Speakers"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order/Welcome",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Invocation/Opening Statement",
+        "description": "",
+        "presenter": "MLK Advisory Board Member",
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Advisory Board Member & City Staff Roll Call",
+        "description": "",
+        "presenter": "Mrs. LaRhonda Bacon",
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Public Comments",
+        "description": "",
+        "presenter": "Public Speakers",
+        "action_required": null
+      },
+      {
+        "item_number": "5",
+        "title": "Approval of September 16, 2024, Minutes",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Update: 2024 Advisory Board Annual Report to the CSO",
+        "description": "(Due Feb. 1)",
+        "presenter": "Ms. Candace Wicks",
+        "action_required": null
+      },
+      {
+        "item_number": "7",
+        "title": "Discussion: Trailblazer Award Recipient",
+        "description": "",
+        "presenter": "Dr. Jamel Slaughter",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "8",
+        "title": "Update: MLK Gala venue, Renaissance Dallas",
+        "description": "",
+        "presenter": "Ms. Pamela R. Jones",
+        "action_required": null
+      },
+      {
+        "item_number": "9",
+        "title": "Update: 2025 MLK Week Advisory Board Sponsorship Packet",
+        "description": "",
+        "presenter": "Dr. Jamel Slaughter",
+        "action_required": null
+      },
+      {
+        "item_number": "10",
+        "title": "Update: 2025 MLK Celebration Week",
+        "description": "(1.10-1.18)",
+        "presenter": "Dr. Jamel Slaughter",
+        "action_required": null
+      },
+      {
+        "item_number": "11",
+        "title": "MLK Center Manager Update",
+        "description": "",
+        "presenter": "Ms. Pamela R. Jones",
+        "action_required": null
+      },
+      {
+        "item_number": "12",
+        "title": "Announcement",
+        "description": "All board members must attend in-person the next board meeting on Monday, November 18, 2024.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "13",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Martin Luther King Jr.",
+      "Advisory Board",
+      "Public Comments",
+      "Approval of Minutes",
+      "Trailblazer Award",
+      "MLK Gala",
+      "Sponsorship Packet",
+      "Celebration Week",
+      "Center Manager Update",
+      "Community Events",
+      "Public Participation",
+      "In-Person Meeting",
+      "WebEx",
+      "Dallas"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 6521
+}

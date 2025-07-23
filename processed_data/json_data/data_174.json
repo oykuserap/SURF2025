@@ -1,0 +1,65 @@
+{
+  "agenda_number": 174,
+  "source_file": "Agenda_174.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 2, 2024",
+      "time": "4:00 P.M.",
+      "type": "Council Ad Hoc Committee Meeting",
+      "organization": "City Council Ad Hoc Committee on Professional Sports Recruitment and Retention",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Gracey",
+      "presenters": [
+        "Monica Paul",
+        "Rosa Fleming",
+        "Brett Wilkinson"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes of the June 24, 2024 Special Called Meeting of the Council Ad Hoc Committee on Professional Sports Recruitment and Retention",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "FIFA World Cup 2026 Planning Update",
+        "description": "Update on planning for the FIFA World Cup 2026",
+        "presenter": "Monica Paul",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Upcoming Agenda Item: Proposed FIFA World Cup 2026 International Broadcast Center Overview and Staff Recommendations",
+        "description": "Overview and staff recommendations regarding the proposed International Broadcast Center for FIFA World Cup 2026",
+        "presenter": "Rosa Fleming, Brett Wilkinson",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "City Council",
+      "Ad Hoc Committee",
+      "Professional Sports",
+      "Recruitment",
+      "Retention",
+      "FIFA World Cup 2026",
+      "Planning Update",
+      "International Broadcast Center",
+      "Public Affairs",
+      "Convention Services",
+      "Meeting Minutes",
+      "Executive Session",
+      "City Hall",
+      "Video Conference"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18871
+}

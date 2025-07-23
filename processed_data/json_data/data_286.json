@@ -1,0 +1,54 @@
+{
+  "agenda_number": 286,
+  "source_file": "Agenda_286.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 10, 2024",
+      "time": "9:30:00 A.M.",
+      "type": "Special Called Meeting",
+      "organization": "Civil Service Board",
+      "location": "Dallas City Hall, Room #1 C- South and Videoconference"
+    },
+    "attendees": {
+      "chair": "Jarred D. Davis, MS, Sr. CAAP",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approve minutes from the August 6, 2024, Regular Civil Service Board Meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Briefing and Discussion Item(s)",
+        "description": "Discussion on FY 25 Departmental Priorities, Sworn Promotional Forecast, Civil Services Rules Revision Update, and Department Updates and Announcements.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Civil Service Board",
+      "Dallas",
+      "Special Called Meeting",
+      "Public Speakers",
+      "Approval of Minutes",
+      "Departmental Priorities",
+      "Promotional Forecast",
+      "Civil Services Rules",
+      "Department Updates",
+      "Executive Session",
+      "Accommodations",
+      "Videoconference",
+      "Public Participation",
+      "Meeting Location",
+      "Handgun Prohibition"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8528
+}

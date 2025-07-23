@@ -1,0 +1,63 @@
+{
+  "agenda_number": 387,
+  "source_file": "Agenda_387.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 3, 2024",
+      "time": "3:00 PM",
+      "type": "Ad Hoc Committee Meeting",
+      "organization": "Dallas City Council",
+      "location": "Dallas City Hall, Council Chambers and via video conference"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [],
+      "participants": [
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Johnson",
+        "Schultz",
+        "Blackmon"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes of the March 7, 2024, and April 2, 2024, meetings of the Ad Hoc Committee on Administrative Affairs.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "CLOSED SESSION",
+        "title": "Attorney Briefing",
+        "description": "Legal issues related to severance payment to former city manager T. C. Broadnax.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "Ad Hoc Committee",
+      "Administrative Affairs",
+      "meeting minutes",
+      "closed session",
+      "legal issues",
+      "severance payment",
+      "T. C. Broadnax",
+      "video conference",
+      "public attendance"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18413
+}

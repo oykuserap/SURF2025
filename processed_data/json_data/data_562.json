@@ -1,0 +1,63 @@
+{
+  "agenda_number": 562,
+  "source_file": "Agenda_562.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 8, 2024",
+      "time": "3:15 PM",
+      "type": "Ad Hoc Committee Meeting",
+      "organization": "City Council Ad Hoc Committee on Pensions",
+      "location": "City Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Cheiron"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the January 11, 2024 Ad Hoc on Committee on Pensions Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Dallas Police and Fire Pension System: Independent Actuarial Analysis and Recommendations",
+        "description": "Preliminary Recommendations Based on 2023 Actuarial Valuation Prepared by the Pension Review Board’s Independent Actuary.",
+        "presenter": "Cheiron",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Dallas Police and Fire Pension System: Overview of Investment Policy, Oversight, and Performance",
+        "description": "Overview of the investment policy and its performance.",
+        "presenter": "Cheiron",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Pensions",
+      "City Council",
+      "Ad Hoc Committee",
+      "Meeting Minutes",
+      "Actuarial Analysis",
+      "Investment Policy",
+      "Public Safety",
+      "Fire Pension",
+      "Police Pension",
+      "Financial Oversight",
+      "Recommendations",
+      "Performance",
+      "Executive Session",
+      "City Hall"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18423
+}

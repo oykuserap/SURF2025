@@ -1,0 +1,100 @@
+{
+  "agenda_number": 253,
+  "source_file": "Agenda_253.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 7, 2024",
+      "time": "1:00 PM",
+      "type": "Economic Development Committee Meeting",
+      "organization": "Dallas City Council",
+      "location": "Council Chambers, 6th Floor, City Hall and via videoconference"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Jason Morado",
+        "Kevin Spath",
+        "Emily Liu"
+      ],
+      "participants": [
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Willis",
+        "Blackmon",
+        "Schultz"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the September 3, 2024, Economic Development Committee Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "2024 Survey of Dallas business owners",
+        "description": "Presentation on the survey results conducted by ETC Institute.",
+        "presenter": "Jason Morado",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Upcoming Agenda Item: The East Dock Redevelopment Project",
+        "description": "Discussion on the redevelopment project at East Clarendon Drive and South Ewing Avenue.",
+        "presenter": "Kevin Spath",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Upcoming Agenda Item: Recommended Nominees to Fill Two Vacancies",
+        "description": "Discussion on nominees for the Dallas Economic Development Corporation Board of Directors.",
+        "presenter": "Kevin Spath",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Self-Certification Program Update",
+        "description": "Update on the Self-Certification Program by the Planning & Development Department.",
+        "presenter": "Emily Liu",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Oversize Motor Vehicle Regulation Updates",
+        "description": "Updates regarding regulations on oversize motor vehicles.",
+        "presenter": "Emily Liu",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Economic Development",
+      "Dallas City Council",
+      "Business Survey",
+      "Redevelopment Project",
+      "Board of Directors",
+      "Self-Certification",
+      "Motor Vehicle Regulations",
+      "Community Research",
+      "Planning and Development",
+      "Executive Session",
+      "Public Participation",
+      "City Hall",
+      "Videoconference",
+      "Public Affairs",
+      "Outreach"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 19466
+}

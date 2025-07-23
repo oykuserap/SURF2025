@@ -1,0 +1,143 @@
+{
+  "agenda_number": 690,
+  "source_file": "Agenda_690.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 7, 2023",
+      "time": "12:00 PM",
+      "type": "Special Meeting",
+      "organization": "City of Dallas Public Facility Corporation Board of Directors",
+      "location": "Dallas City Hall, Council Briefing Room 6ES and Videoconference"
+    },
+    "attendees": {
+      "chair": "Keith Pomykal",
+      "presenters": [
+        "Aaron Eaquinto",
+        "Albert Gonzalez",
+        "Jim Plummer",
+        "Tim Nelson",
+        "Sam McDaniel"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Roll Call",
+        "description": "",
+        "presenter": "Sam McDaniel",
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Public Testimony",
+        "description": "public comment(s) on items 4 - 12",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Approval of Minutes",
+        "description": "Discussion and approval of the minutes of August 22, 2023 Board Meeting",
+        "presenter": "Keith Pomykal",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Santa Fe Trail Term Sheet",
+        "description": "Discussion and approval of a resolution authorizing the negotiation and execution of a Term Sheet for Santa Fe Trail at Haskell in partnership with Larkspur Capital, LP to be located at 400 Ash Lane, Dallas, TX",
+        "presenter": "Aaron Eaquinto/Albert Gonzalez, HOU Staff; Jim Plummer, Bracewell; Tim Nelson, Hilltop Securities",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "The Riviera Apartments Financing",
+        "description": "Discussion and approval of a resolution authorizing the negotiation and execution of a Term Sheet and inducing the proposed financing of up to $55,000,000 of tax-exempt bonds for The Riviera Apartments in partnership with Savoy and AIDS Services of Dallas to be located at 11700 Audelia Rd., Dallas, TX",
+        "presenter": "Aaron Eaquinto/Albert Gonzalez, HOU Staff; Jim Plummer, Bracewell; Tim Nelson, Hilltop Securities",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Banyan Flats Transaction",
+        "description": "Discussion and approval of a resolution approving the transaction for Banyan Flats located at 2020 N Beckley Ave, Dallas TX; including the execution of all documentation necessary to carry out the transactions; authorizing the purchase of the land for the projects; and other matters in connection therewith",
+        "presenter": "Aaron Eaquinto/Albert Gonzalez, HOU Staff; Jim Plummer, Bracewell; Tim Nelson, Hilltop Securities",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Maple Highline Transaction",
+        "description": "Discussion and approval of a resolution approving the transaction for Maple Highline located at 5908 Maple Ave., Dallas TX; including the execution of all documentation necessary to carry out the transactions; authorizing the purchase of the land for the projects; and other matters in connection therewith",
+        "presenter": "Aaron Eaquinto/Albert Gonzalez, HOU Staff; Jim Plummer, Bracewell; Tim Nelson, Hilltop Securities",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "Bishop 8 Transaction",
+        "description": "Discussion and approval of a resolution approving the transaction for Bishop 8 located at 505 & 510 W. 8 St., Dallas TX; including the execution of all documentation necessary to carry out the transactions; authorizing the purchase of the land for the projects and authorizing the Dallas Public Facility Corporation to serve as the general contractor; and other matters in connection therewith",
+        "presenter": "Aaron Eaquinto/Albert Gonzalez, HOU Staff; Jim Plummer, Bracewell; Tim Nelson, Hilltop Securities",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Coombs Creek Alta Vista Transaction",
+        "description": "Discussion and approval of a resolution approving the transaction for Coombs Creek Alta Vista located at 3400 W Illinois Ave, Dallas TX; including the execution of all documentation necessary to carry out the transactions; authorizing the purchase of the land for the projects and authorizing the Dallas Public Facility Corporation to serve as the general contractor; and other matters in connection therewith",
+        "presenter": "Aaron Eaquinto/Albert Gonzalez, HOU Staff; Jim Plummer, Bracewell; Tim Nelson, Hilltop Securities",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "11",
+        "title": "Dallas PFC Treasurer’s Report",
+        "description": "Review and discussion of Dallas PFC Treasurer’s Report",
+        "presenter": "Albert Gonzalez",
+        "action_required": null
+      },
+      {
+        "item_number": "12",
+        "title": "Dallas PFC Pipeline Report",
+        "description": "Review and discussion of Dallas PFC Pipeline Report",
+        "presenter": "Albert Gonzalez",
+        "action_required": null
+      },
+      {
+        "item_number": "13",
+        "title": "Adjourn",
+        "description": "",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Public Facility Corporation",
+      "Board of Directors",
+      "Special Meeting",
+      "Term Sheet",
+      "Santa Fe Trail",
+      "The Riviera Apartments",
+      "Banyan Flats",
+      "Maple Highline",
+      "Bishop 8",
+      "Coombs Creek Alta Vista",
+      "Treasurer’s Report",
+      "Pipeline Report",
+      "tax-exempt bonds",
+      "real estate"
+    ],
+    "financial_items": [
+      {
+        "description": "Financing of tax-exempt bonds for The Riviera Apartments",
+        "amount": "$55,000,000",
+        "type": "financing"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12889
+}

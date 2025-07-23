@@ -1,0 +1,134 @@
+{
+  "agenda_number": 548,
+  "source_file": "Agenda_548.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 20, 2024",
+      "time": "1:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Transportation and Infrastructure Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Narvaez",
+      "presenters": [
+        "Ghassan Khankarli, Ph.D., P.E.",
+        "Ali Hatefi"
+      ],
+      "participants": [
+        "Atkins",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Blackmon",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Schultz",
+        "Willis",
+        "Johnson"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "A 24-628",
+        "title": "Approval of January 16, 2023 Transportation and Infrastructure Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B 24-629",
+        "title": "Vision Zero Plan: Council Briefing Preview",
+        "description": "Briefing on the Vision Zero Plan.",
+        "presenter": "Ghassan Khankarli, Ph.D., P.E.",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C 24-630",
+        "title": "Oncor Streetlighting Maintenance - LED Replacement Authorization",
+        "description": "Authorization for LED replacement of streetlights.",
+        "presenter": "Ghassan Khankarli, Ph.D., P.E.",
+        "action_required": "authorize"
+      },
+      {
+        "item_number": "D 24-631",
+        "title": "TxDOT Multiple Use Agreement for the DART Victory Station Pedestrian Crossing",
+        "description": "Agreement for pedestrian crossing at DART Victory Station.",
+        "presenter": "Ghassan Khankarli, Ph.D., P.E.",
+        "action_required": "authorize"
+      },
+      {
+        "item_number": "E 24-632",
+        "title": "Monthly Update of Public Works Program Performance - January 2024",
+        "description": "Update on the performance of public works programs.",
+        "presenter": "Ali Hatefi",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Transportation",
+      "Infrastructure",
+      "Dallas",
+      "City Council",
+      "Public Works",
+      "LED Replacement",
+      "Vision Zero",
+      "DART",
+      "Pedestrian Safety",
+      "Streetlighting",
+      "Committee Meeting",
+      "January Minutes",
+      "Funding",
+      "Construction",
+      "Public Safety"
+    ],
+    "financial_items": [
+      {
+        "description": "Five-year master agreement for airfield lighting fixtures",
+        "amount": "$932,500.00",
+        "type": "budget"
+      },
+      {
+        "description": "Sale of unwanted City-owned land",
+        "amount": "$13,344.00",
+        "type": "revenue"
+      },
+      {
+        "description": "Abandonment of storm sewer easements",
+        "amount": "$7,800.00",
+        "type": "revenue"
+      },
+      {
+        "description": "Construction services contract for Five Mile Infrastructure Improvements",
+        "amount": "$11,564,976.75",
+        "type": "expenditure"
+      },
+      {
+        "description": "Construction services contract for Streetscape/Urban Design",
+        "amount": "$2,642,465.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Increase in construction services contract for alley pavement",
+        "amount": "$243,003.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Payment to Dallas Area Rapid Transit for streetcar operation",
+        "amount": "$1,887,492.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Supplemental Agreement for construction management services",
+        "amount": "$5,507,000.00",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 28900
+}

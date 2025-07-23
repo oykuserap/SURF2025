@@ -1,0 +1,112 @@
+{
+  "agenda_number": 516,
+  "source_file": "Agenda_516.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 7, 2024",
+      "time": "12:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Dallas Area Partnership to End and Prevent Homelessness Local Government Corporation",
+      "location": "Dallas City Hall, 6ES, Council Briefing Room, 1500 Marilla St., Dallas TX 75201 or join by WebEx"
+    },
+    "attendees": {
+      "chair": "Cara Mendelsohn",
+      "presenters": [
+        "Dr. Fred Cerise",
+        "Ashley Marshall",
+        "Dr. Theresa Daniel"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call Meeting to Order and Roll Call",
+        "description": "Declare A Quorum Present, Declare Legal Notice Posted and Meeting Duly Called",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "2",
+        "title": "Public Comment",
+        "description": "Public comment with a 2-minute limit per speaker",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Approval of Minutes – February 1, 2024",
+        "description": "Approval of the minutes from the previous meeting",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Presentation: Parkland (Homeless Outreach Medical Services)",
+        "description": "Presentation by Dr. Fred Cerise regarding homeless outreach medical services",
+        "presenter": "Dr. Fred Cerise",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "5",
+        "title": "Homelessness in Dallas ISD",
+        "description": "Discussion on homelessness in the Dallas Independent School District",
+        "presenter": "Ashley Marshall",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "6",
+        "title": "Revision/Draft Distribution: Articles of Incorporation / Bylaws",
+        "description": "Discussion on the revision and draft distribution of Articles of Incorporation and Bylaws",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "7",
+        "title": "Committee Report: System Performance",
+        "description": "Report on system performance by Dr. Theresa Daniel",
+        "presenter": "Dr. Theresa Daniel",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "8",
+        "title": "Proposed Items for Next/Future Meetings",
+        "description": "Discussion on proposed items for future meetings",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "9",
+        "title": "Announcements of Upcoming Events and Meetings",
+        "description": "Announcements regarding upcoming events and meetings",
+        "presenter": "Dallas Area Partnership to End and Prevent Homelessness Local Government Corporation",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "10",
+        "title": "Adjournment",
+        "description": "Formal adjournment of the meeting",
+        "presenter": null,
+        "action_required": "adjourn"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Homelessness",
+      "Public Comment",
+      "Approval of Minutes",
+      "Parkland",
+      "Homeless Outreach",
+      "Dallas ISD",
+      "Articles of Incorporation",
+      "Bylaws",
+      "System Performance",
+      "Future Meetings",
+      "Announcements",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 7513
+}

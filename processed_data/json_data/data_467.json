@@ -1,0 +1,126 @@
+{
+  "agenda_number": 467,
+  "source_file": "Agenda_467.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 15, 2024",
+      "time": "1:00 PM",
+      "type": "Special Called Joint Meeting",
+      "organization": "Transportation and Infrastructure Committee/DART Board",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Nadine Lee, President & CEO, Dallas Area Rapid Transit",
+        "Rodney Schlosser, DART Board of Directors City of Dallas",
+        "Robert Perez, Assistant City Manager, City of Dallas",
+        "Ali Hatefi, Director, Department of Public Works",
+        "Ghassan Khankarli, Ph.D., P.E., Director, Department of Transportation"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A 24-1309",
+        "title": "Approval of March 26, 2024 Transportation and Infrastructure Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B 24-1310",
+        "title": "DART Operations Update",
+        "description": "Update on the operations of the Dallas Area Rapid Transit.",
+        "presenter": "Nadine Lee",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C 24-1342",
+        "title": "DART Service Area Population & Sales Tax Trend",
+        "description": "Presentation on the population and sales tax trends in the DART service area.",
+        "presenter": "Rodney Schlosser",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D 24-1338",
+        "title": "DART/City of Dallas Joint Initiatives Updates",
+        "description": "Updates on joint initiatives between DART and the City of Dallas.",
+        "presenter": "Robert Perez",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E 24-1319",
+        "title": "Infrastructure Fee Consideration Updates",
+        "description": "Updates regarding infrastructure fee considerations.",
+        "presenter": "Ali Hatefi",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F 24-1320",
+        "title": "Monthly Update of Public Works Program Performance - March 2024",
+        "description": "Monthly performance update for the Public Works program.",
+        "presenter": "Ali Hatefi",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G 24-1321",
+        "title": "Interagency Report",
+        "description": "Report from the Department of Transportation.",
+        "presenter": "Ghassan Khankarli",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Transportation",
+      "Infrastructure",
+      "DART",
+      "Public Works",
+      "City Council",
+      "Meeting Minutes",
+      "Operations Update",
+      "Service Area",
+      "Sales Tax",
+      "Joint Initiatives",
+      "Infrastructure Fee",
+      "Performance Update",
+      "Interagency Report",
+      "Construction",
+      "Funding"
+    ],
+    "financial_items": [
+      {
+        "description": "Supplemental Agreement No. 2 for construction phase services for Lemmon Avenue Streetscape Enhancements Project",
+        "amount": "$250,000.00",
+        "type": "budget"
+      },
+      {
+        "description": "Supplemental Agreement No. 1 for soil testing and increased reimbursable expenses for Dallas Airport System Signage",
+        "amount": "$17,040.00",
+        "type": "budget"
+      },
+      {
+        "description": "Supplemental Agreement No. 7 for maintenance and repairs to Parking Garages A and B at Dallas Love Field",
+        "amount": "$214,453.00",
+        "type": "budget"
+      },
+      {
+        "description": "Settlement for condemnation suit regarding wastewater easement acquisition",
+        "amount": "$320,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Payment to Texas Department of Transportation for traffic signals construction cost overruns",
+        "amount": "$1,564,423.25",
+        "type": "expenditure"
+      },
+      {
+        "description": "Increase in construction services contract for new pump station at Elm Fork Water Treatment Plant",
+        "amount": "$2,726,813.26",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 32846
+}

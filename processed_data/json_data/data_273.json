@@ -1,0 +1,187 @@
+{
+  "agenda_number": 273,
+  "source_file": "Agenda_273.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 18, 2024",
+      "time": "9:00 AM",
+      "type": "Council Briefing",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the September 4, 2024 City Council Meeting",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Consideration of appointments to boards and commissions",
+        "description": "Evaluation and duties of board and commission members (List of nominees is available in the City Secretary's Office)",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Public hearing on property tax rate",
+        "description": "A public hearing to receive comments on a $0.7047 per $100 assessed valuation property tax rate for the 2024-25 fiscal year.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "4",
+        "title": "Final reading and adoption of the appropriation ordinance",
+        "description": "Appropriating funds for the FY 2024-25 City of Dallas Operating, Capital, and Grant & Trust Budgets - Not to exceed $5,263,461,468.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Setting the tax rate",
+        "description": "An ordinance setting the tax rate at $0.7047 per $100 assessed valuation.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Ratifying the increase in total property tax revenues",
+        "description": "A resolution ratifying the increase in total property tax revenues reflected in the FY 2024-25 budget.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Amending various chapters of the Dallas City Code",
+        "description": "An ordinance amending multiple chapters of the Dallas City Code regarding fees and regulations.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Amending various sections of the Dallas City Code",
+        "description": "An ordinance amending various sections of the Dallas City Code regarding departmental changes.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "Authorize position changes and salary schedules",
+        "description": "Authorize position changes and approval of Civilian and Uniform salary schedules for fiscal year 2024-25.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Amending Chapter 34, Personnel Rules",
+        "description": "An ordinance amending Chapter 34 of the City Council Code by removing holiday pay for temporary employees.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "11",
+        "title": "Approval of health coverage plans",
+        "description": "Authorize approval of the proposed health coverage plans and 5% premium rates increase for all health benefit plans.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "12",
+        "title": "Attorney Briefings",
+        "description": "Seeking the advice of the City Attorney regarding various legal matters.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "13",
+        "title": "Real Estate Deliberations",
+        "description": "Deliberate the purchase, exchange, lease, or value of real property.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "City Council",
+      "Budget Workshop",
+      "Property Tax Rate",
+      "Appropriation Ordinance",
+      "Salary Schedules",
+      "Health Coverage Plans",
+      "Public Hearings",
+      "Legislative Priorities",
+      "Dallas City Code",
+      "Real Estate",
+      "Closed Session",
+      "Executive Session",
+      "Public Participation",
+      "Community Engagement",
+      "City Services"
+    ],
+    "financial_items": [
+      {
+        "description": "FY 2024-25 City of Dallas Operating, Capital, and Grant & Trust Budgets",
+        "amount": "$5,263,461,468",
+        "type": "budget"
+      },
+      {
+        "description": "Estimated Levy for tax rate",
+        "amount": "$1,516,146,891",
+        "type": "tax revenue"
+      },
+      {
+        "description": "Estimated Revenue from property tax increase",
+        "amount": "$57,459,121",
+        "type": "tax revenue"
+      },
+      {
+        "description": "General Fund Revenue from various fees",
+        "amount": "$2,824,827",
+        "type": "revenue"
+      },
+      {
+        "description": "Dallas Water Utilities Fund Revenue",
+        "amount": "$25,730,825",
+        "type": "revenue"
+      },
+      {
+        "description": "Stormwater Drainage Management Fund Revenue",
+        "amount": "$5,758,142",
+        "type": "revenue"
+      },
+      {
+        "description": "Sanitation Operation Fund Revenue",
+        "amount": "$10,401,652",
+        "type": "revenue"
+      },
+      {
+        "description": "Environmental Clean-up Special Revenue Fund Revenue",
+        "amount": "$10,500,000",
+        "type": "revenue"
+      },
+      {
+        "description": "9-1-1 Systems Operations Fund Revenue",
+        "amount": "$2,389,498",
+        "type": "revenue"
+      },
+      {
+        "description": "Employee Benefits Fund for health coverage",
+        "amount": "$142,134,754",
+        "type": "funding"
+      },
+      {
+        "description": "City Employee/Retiree Contributions",
+        "amount": "$74,110,124",
+        "type": "revenue"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 39521
+}

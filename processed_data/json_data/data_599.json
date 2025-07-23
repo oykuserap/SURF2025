@@ -1,0 +1,148 @@
+{
+  "agenda_number": 599,
+  "source_file": "Agenda_599.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 16, 2024",
+      "time": "1:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Transportation and Infrastructure Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Narvaez",
+      "presenters": [
+        "Robert Perez",
+        "Majed Al-Ghafry",
+        "Michael Morris",
+        "Rosa Fleming",
+        "Ghassan Khankarli, Ph.D., P.E.",
+        "Patrick Carreno",
+        "John O’Connor",
+        "Sarah Standifer",
+        "Ali Hatefi",
+        "Ghassan Khankarli, Ph.D., P.E."
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A 24-179",
+        "title": "Approval of December 5, 2023 Transportation and Infrastructure Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B 24-226",
+        "title": "Approval of December 5, 2023 Special Called Transportation and Infrastructure Committee Meeting Minutes",
+        "description": "Approval of the minutes from the special called meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "C 24-180",
+        "title": "Downtown Transportation Hub and Highspeed Rail Vision",
+        "description": "Briefing on the vision for the Downtown Transportation Hub and Highspeed Rail.",
+        "presenter": "Robert Perez, Assistant City Manager, City of Dallas",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D 24-181",
+        "title": "Terminal Area Master Plan Update",
+        "description": "Update on the Terminal Area Master Plan.",
+        "presenter": "Patrick Carreno, Director, Department of Aviation",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E 24-182",
+        "title": "Dallas Water Commons Contract Update",
+        "description": "Update on the Dallas Water Commons contract.",
+        "presenter": "John O’Connor, Assistant Director, Department of Parks & Recreation",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F 24-184",
+        "title": "Monthly Update of Public Works Program Performance - December 2023",
+        "description": "Monthly performance update for the Public Works program.",
+        "presenter": "Ali Hatefi, Director, Department of Public Works",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G 24-185",
+        "title": "Interagency Transportation Report",
+        "description": "Report on interagency transportation activities.",
+        "presenter": "Ghassan Khankarli, Ph.D., P.E., Director, Department of Transportation",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H 24-186",
+        "title": "Committee Forecast",
+        "description": "Forecast for upcoming committee activities.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Transportation",
+      "Infrastructure",
+      "Dallas",
+      "Committee Meeting",
+      "Public Works",
+      "Highspeed Rail",
+      "Water Utilities",
+      "Contract Update",
+      "Performance Update",
+      "Interagency Report",
+      "Master Plan",
+      "Construction",
+      "Funding",
+      "City Council",
+      "Meeting Minutes"
+    ],
+    "financial_items": [
+      {
+        "description": "Construction services contract for the construction of the Frankford Road Project",
+        "amount": "$4,742,007.00",
+        "type": "budget"
+      },
+      {
+        "description": "Ordinance abandoning a portion of a wastewater easement",
+        "amount": "$7,800.00",
+        "type": "revenue"
+      },
+      {
+        "description": "Ordinance granting a private license for the use of land",
+        "amount": "$100.00",
+        "type": "revenue"
+      },
+      {
+        "description": "Construction services contract for the 2024 Annual Street Resurfacing Contract",
+        "amount": "$85,160,474.50",
+        "type": "budget"
+      },
+      {
+        "description": "Increase in construction services contract for additional paving and drainage improvements",
+        "amount": "$916,946.00",
+        "type": "budget"
+      },
+      {
+        "description": "Increase in construction services contract for additional storm drainage improvements",
+        "amount": "$213,656.24",
+        "type": "budget"
+      },
+      {
+        "description": "Acquisition of land for the Dallas Floodway Extension Project",
+        "amount": "$2,125,079.20",
+        "type": "expenditure"
+      },
+      {
+        "description": "Professional services contracts for construction materials testing services",
+        "amount": "$812,760.00",
+        "type": "budget"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 29193
+}
