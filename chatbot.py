@@ -10,6 +10,9 @@ from pathlib import Path
 import json
 import time
 from datetime import datetime
+import re
+import csv
+import os
 
 from config import OPENAI_API_KEY, OPENAI_MODEL, EMBEDDING_MODEL, VECTOR_DB_DIR, OUTPUT_DIR
 from utils import setup_logging
@@ -22,7 +25,7 @@ class AgendaChatbot:
     def __init__(self):
         self.client = OpenAI(api_key=OPENAI_API_KEY)
         self.chroma_client = chromadb.PersistentClient(path=str(VECTOR_DB_DIR))
-        
+
         # Load collections
         try:
             self.summaries_collection = self.chroma_client.get_collection("agenda_summaries")
@@ -107,6 +110,17 @@ class AgendaChatbot:
         except Exception as e:
             logger.error(f"Error searching structured data: {e}")
             return []
+
+    def _parse_meeting_type_from_query(self, query: str) -> Optional[str]:
+        """Heuristic: extract '<Something> Committee' before the word 'meeting' if present."""
+        import re
+        m = re.search(r"([A-Za-z&\-\s]+Committee)", query, re.IGNORECASE)
+        if m:
+            return m.group(1).strip()
+        # Also try specific known keyword
+        if "transportation" in query.lower():
+            return "Transportation"
+        return None
 
     def get_detailed_agenda_data(self, agenda_number: int) -> Optional[Dict[str, Any]]:
         """Get detailed structured data for a specific agenda."""
@@ -197,28 +211,28 @@ Please provide an appropriate response based on the available information.
     def process_query(self, query: str) -> Dict[str, Any]:
         """Process a user query and return response with sources and timing."""
         start_time = time.time()
-        
+
         # Search both collections
         search_start = time.time()
         summary_results = self.search_summaries(query, n_results=5)
         json_results = self.search_structured_data(query, n_results=5)
         search_time = time.time() - search_start
-        
+
         # Create context
         context_start = time.time()
         context = self.create_context_from_results(summary_results, json_results)
         context_time = time.time() - context_start
-        
+
         # Generate response
         response_start = time.time()
         response = self.generate_response(query, context)
         response_time = time.time() - response_start
-        
+
         total_time = time.time() - start_time
-        
+
         # Extract source files from results
         source_files = self.extract_source_files(summary_results, json_results)
-        
+
         return {
             "response": response,
             "summary_results": summary_results,
@@ -293,6 +307,100 @@ Please provide an appropriate response based on the available information.
         
         return source_list
 
+def _sanitize_markdown_response(text: str) -> str:
+    """Fix common Markdown issues in LLM output:
+    - Convert snake_case word groups used as sentence text into spaced words
+    - Preserve filenames like Agenda_448.txt (escape underscores instead)
+    - Escape remaining underscores so Markdown doesn't treat them as italics
+
+    Heuristics:
+    - If a token has underscores and no dot and no digits, replace '_' with space
+    - Otherwise, escape underscores so they render literally
+    """
+    if not text:
+        return text
+
+    def fix_token(token: str) -> str:
+        if "_" not in token:
+            return token
+        # Preserve filenames or tokens with digits/periods by escaping underscores
+        if any(ch.isdigit() for ch in token) or "." in token:
+            return token.replace("_", r"\_")
+        # Otherwise convert underscores to spaces
+        return token.replace("_", " ")
+
+    # Process token-by-token to avoid breaking Markdown lists/links
+    parts = re.split(r"(\s+)", text)
+    parts = [fix_token(p) if not p.isspace() else p for p in parts]
+    fixed = "".join(parts)
+    # As a final safeguard, escape any remaining underscores
+    fixed = fixed.replace("_", r"\_")
+    return fixed
+
+# -------------------------------
+# Persistent logging utilities
+# -------------------------------
+LOGS_DIR = OUTPUT_DIR / "chat_logs"
+RECENT_QUERIES_FILE = LOGS_DIR / "recent_queries.json"
+CHAT_LOG_JSONL = LOGS_DIR / "chat_history.jsonl"
+CHAT_LOG_CSV = LOGS_DIR / "chat_history.csv"
+
+def _ensure_logs_dir() -> None:
+    try:
+        LOGS_DIR.mkdir(parents=True, exist_ok=True)
+    except Exception as e:
+        logger.error(f"Unable to create logs directory: {e}")
+
+def load_recent_queries_from_disk(limit: int = 10) -> list:
+    _ensure_logs_dir()
+    if RECENT_QUERIES_FILE.exists():
+        try:
+            with open(RECENT_QUERIES_FILE, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                if isinstance(data, list):
+                    return data[:limit]
+        except Exception as e:
+            logger.warning(f"Failed to read recent queries: {e}")
+    return []
+
+def save_recent_queries_to_disk(queries: list) -> None:
+    _ensure_logs_dir()
+    try:
+        with open(RECENT_QUERIES_FILE, "w", encoding="utf-8") as f:
+            json.dump(queries, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        logger.warning(f"Failed to write recent queries: {e}")
+
+def append_chat_log(record: dict) -> None:
+    """Append a chat record to JSONL and CSV.
+    Expected record keys: timestamp, query, response (plus optional timings/sources)
+    """
+    _ensure_logs_dir()
+    # JSONL
+    try:
+        with open(CHAT_LOG_JSONL, "a", encoding="utf-8") as f:
+            f.write(json.dumps(record, ensure_ascii=False) + "\n")
+    except Exception as e:
+        logger.warning(f"Failed to append to JSONL log: {e}")
+    # CSV
+    try:
+        file_exists = os.path.exists(CHAT_LOG_CSV)
+        with open(CHAT_LOG_CSV, "a", encoding="utf-8", newline="") as f:
+            writer = csv.DictWriter(
+                f,
+                fieldnames=["timestamp", "query", "response"],
+                extrasaction="ignore",
+            )
+            if not file_exists:
+                writer.writeheader()
+            writer.writerow({
+                "timestamp": record.get("timestamp", ""),
+                "query": record.get("query", ""),
+                "response": record.get("response", ""),
+            })
+    except Exception as e:
+        logger.warning(f"Failed to append to CSV log: {e}")
+
 def main():
     """Main Streamlit app for the chatbot."""
     st.set_page_config(
@@ -326,81 +434,27 @@ def main():
         
         col1, col2 = st.columns(2)
         with col1:
-            st.metric("📄 Summary Documents", stats["summaries"])
+            st.metric("Summary Documents", stats["summaries"])
         with col2:
-            st.metric("📊 Structured Data", stats["structured_data"])
+            st.metric("Structured Data", stats["structured_data"])
     except:
         pass
     
     # Chat interface
     st.markdown("---")
     
-    # Example queries
-    with st.expander("💡 Example Questions by Category"):
-        st.markdown("### 📅 Meeting Logistics - Timing & Scheduling")
-        st.markdown("""
-        - What meetings were held in March 2025?
-        - Which committees met most frequently this quarter?
-        """)
-        
-        st.markdown("### 📋 Meeting Content Questions - Summarization & Topics")
-        st.markdown("""
-        - What transportation projects were discussed recently?
-        - Summarize the main topics from the last city council meeting
-        """)
-        
-        st.markdown("### 📊 Summarize Themes Across Meetings - Trend Analysis")
-        st.markdown("""
-        - What are the recurring themes in landmark commission meetings?
-        - How have zoning discussions evolved over the past month?
-        """)
-        
-        st.markdown("### 💰 Finances and Budget")
-        st.markdown("""
-        - Tell me about TIF district funding decisions
-        - What budget approvals were discussed in recent meetings?
-        """)
-        
-        st.markdown("### 🏙️ City Locations")
-        st.markdown("""
-        - What development projects are planned for downtown Dallas?
-        - Which neighborhoods were mentioned in recent planning meetings?
-        """)
-    
     # Chat history in main area
     if 'chat_history' not in st.session_state:
         st.session_state.chat_history = []
 
-    # Always show the input field
-    user_query = st.text_input(
-        "Ask a question about Dallas city agendas:",
-        placeholder="e.g., What transportation projects were discussed recently?",
-        key="user_input"
-    )
-
-    # Add a clear chat button
-    col1, col2 = st.columns([1, 4])
-    with col1:
-        if st.button("🗑️ Clear Chat History"):
-            st.session_state.chat_history = []
-            st.rerun()
-
-    if user_query:
-        with st.spinner("🔍 Searching agenda database..."):
-            result = chatbot.process_query(user_query)
-        # Add to chat history (most recent last)
-        st.session_state.chat_history.append({
-            'query': user_query,
-            'result': result
-        })
-        # Note: Input field will naturally clear after processing
-
-    # Display chat history (all Q&A)
+    # Display chat history using chat-style bubbles
     for chat in st.session_state.chat_history:
-        st.markdown("---")
-        st.markdown(f"**🧑 You:** {chat['query']}")
-        st.markdown("### 🤖 Response")
-        st.markdown(chat['result']['response'])
+        # User bubble
+        with st.chat_message("user", avatar="👤"):
+            st.markdown(chat['query'])
+        # Assistant bubble
+        with st.chat_message("assistant", avatar="🏛️"):
+            st.markdown(_sanitize_markdown_response(chat['result']['response']))
         timing = chat['result']['timing']
         col1, col2, col3, col4 = st.columns(4)
         with col1:
@@ -410,14 +464,14 @@ def main():
         with col3:
             st.metric("📝 Context", f"{timing['context_time']}s")
         with col4:
-            st.metric("🤖 Response", f"{timing['response_time']}s")
+            st.metric("Response", f"{timing['response_time']}s")
         st.caption(f"Query processed at {chat['result']['timestamp']}")
 
         # Display detailed source information
         if chat['result']["source_files"]:
             st.markdown("### 📚 Sources & Original Files")
             for i, source in enumerate(chat['result']["source_files"][:5], 1):
-                with st.expander(f"� **{source['source_file']}** (Agenda {source['agenda_number']})"):
+                with st.expander(f"📄 **{source['source_file']}** (Agenda {source['agenda_number']})"):
                     col1, col2 = st.columns(2)
                     with col1:
                         st.markdown("**File Information:**")
@@ -436,9 +490,30 @@ def main():
                         if source['similarity_structured'] is not None:
                             st.write(f"• **Data Match:** {source['similarity_structured']:.3f}")
                         st.write(f"• **Found In:** {', '.join(source['found_in'])}")
-                        agenda_path = f"Agendas_COR/{source['source_file']}"
-                        if Path(agenda_path).exists():
-                            st.markdown(f"📁 [View Original File](#{source['source_file']})")
+                        agenda_path = Path("Agendas_COR") / source["source_file"]
+                        if agenda_path.exists():
+                            # Show a short preview and allow download of the original file
+                            try:
+                                preview_text = agenda_path.read_text(encoding="utf-8", errors="replace")
+                            except Exception:
+                                preview_text = ""
+                            if preview_text:
+                                st.markdown("**Preview (first 1,500 chars):**")
+                                st.text(preview_text[:1500] + ("..." if len(preview_text) > 1500 else ""))
+
+                            # Download button for the original file
+                            try:
+                                file_bytes = agenda_path.read_bytes()
+                                st.download_button(
+                                    label="📥 Download Original",
+                                    data=file_bytes,
+                                    file_name=source["source_file"],
+                                    mime="text/plain"
+                                )
+                            except Exception:
+                                st.caption("Unable to load file for download.")
+                        else:
+                            st.caption("Original file not found on disk.")
 
         # Expandable detailed search results
         with st.expander("🔍 Detailed Search Results"):
@@ -458,22 +533,132 @@ def main():
                     st.markdown(f"{i}. **{meta.get('source_file')}** - {meta.get('meeting_type')} on {meta.get('meeting_date')} - Similarity: {similarity}")
                     with st.expander(f"Structured data from {meta.get('source_file')}"):
                         st.text(res["document"])
+
+    # Bottom input area: stays at the bottom like a chat app
+    bottom_col1, bottom_col2 = st.columns([1, 5])
+    with bottom_col1:
+        if st.button("🗑️ Clear Chat History"):
+            st.session_state.chat_history = []
+            st.rerun()
+    with bottom_col2:
+        user_query = st.chat_input(
+            "Ask a question about Dallas city agendas:",
+            key="user_input"
+        )
+        if user_query:
+            with st.spinner("🔍 Searching agenda database..."):
+                result = chatbot.process_query(user_query)
+            # Save in-memory history
+            st.session_state.chat_history.append({'query': user_query, 'result': result})
+            # Persist chat log (JSONL & CSV)
+            append_chat_log({
+                'timestamp': result.get('timestamp', ''),
+                'query': user_query,
+                'response': result.get('response', ''),
+                'timing': result.get('timing', {}),
+                'sources': result.get('source_files', []),
+            })
+            # Update query history when a new query is submitted
+            if user_query not in [q['query'] for q in st.session_state.query_history]:
+                st.session_state.query_history.insert(0, {
+                    'query': user_query,
+                    'timestamp': result.get('timestamp', ''),
+                    'total_time': result.get('timing', {}).get('total_time', 0)
+                })
+                st.session_state.query_history = st.session_state.query_history[:10]
+                # Persist recent queries list
+                save_recent_queries_to_disk(st.session_state.query_history)
+            st.rerun()
     
     # Sidebar with additional info
     with st.sidebar:
-        st.markdown("### ℹ️ About")
+        st.markdown("### About")
         st.markdown("""
         This chatbot helps you explore Dallas city government meeting agendas using AI-powered search.
         
         **Features:**
-        - 🔍 Semantic search across agendas
-        - 📊 Structured data extraction
-        - 🤖 AI-powered responses
-        - 📚 Source citations with original files
-        - ⏱️ Response timing metrics
+        - Semantic search across agendas
+        - Structured data extraction
+        - AI-powered responses
+        - Source citations with original files
+        - Response timing metrics
         """)
-        
-        st.markdown("### 🛠️ System Status")
+
+        st.markdown("### Example Questions")
+        with st.expander("Example Questions"):
+            with st.expander("By meeting/date"):
+                st.markdown("""
+                - What were the main topics in the Transportation & Infrastructure Committee on March 25, 2025?
+                - Summarize key decisions from City Council on 2025-04-10.
+                - Which committees met in March 2025 and what did they cover?
+                """)
+
+            with st.expander("Budget and finance"):
+                st.markdown("""
+                - What budget items were approved in the last two council meetings?
+                - Which TIF projects were discussed recently and what funding amounts were proposed?
+                - Were any contracts over $500,000 approved this month?
+                """)
+
+            with st.expander("Transportation and infrastructure"):
+                st.markdown("""
+                - What transportation projects downtown were discussed in the last 60 days?
+                - Any updates on bike lanes, sidewalks, or Vision Zero initiatives this quarter?
+                - What was decided about road resurfacing or traffic signal upgrades?
+                """)
+
+            with st.expander("Development and zoning"):
+                st.markdown("""
+                - Which zoning cases were heard last week and what were the outcomes?
+                - What major developments were proposed for Deep Ellum or Oak Cliff recently?
+                - Any PUD or SUP applications discussed this month?
+                """)
+
+            with st.expander("Neighborhood and location"):
+                st.markdown("""
+                - Which neighborhoods were mentioned in recent planning meetings and why?
+                - What city-owned properties in District 2 were on recent agendas?
+                """)
+
+            with st.expander("Policy and outcomes"):
+                st.markdown("""
+                - What votes were taken on short-term rental regulation in the last 90 days?
+                - Were there any changes to procurement or ethics policies?
+                """)
+
+            with st.expander("Grants and funding"):
+                st.markdown("""
+                - What grants were applied for or awarded in the last two months?
+                - Any federal/state funding tied to transportation or housing in recent meetings?
+                """)
+
+            with st.expander("Public input and stakeholders"):
+                st.markdown("""
+                - What public comments or stakeholder concerns were recorded for Agenda 13?
+                - Which organizations presented or were cited in recent committee meetings?
+                """)
+
+            with st.expander("Follow-ups and actions"):
+                st.markdown("""
+                - What items were deferred, and when are they scheduled next?
+                - What action items were assigned, and to which departments?
+                """)
+
+            with st.expander("Cross-meeting trends"):
+                st.markdown("""
+                - What recurring themes appeared across agendas in June–August 2025?
+                - How have downtown development topics changed over the last quarter?
+                """)
+
+            with st.expander("Quick facts"):
+                st.markdown("""
+                - When and where was the last Landmark Commission meeting held?
+                - Which committee has met most frequently this quarter?
+                """)
+
+            st.caption("If you know details, include them in the question for higher precision: Meeting type, exact date or month/year, neighborhood or district, keywords (TIF, zoning, RFP, grant, contract amount).")
+
+        st.markdown("### System Status")
         if chatbot.summaries_collection and chatbot.json_collection:
             st.success("✅ Vector database loaded")
             try:
@@ -481,45 +666,38 @@ def main():
                     "summaries": chatbot.summaries_collection.count(),
                     "structured_data": chatbot.json_collection.count()
                 }
-                st.write(f"📄 {stats['summaries']} summary documents")
-                st.write(f"📊 {stats['structured_data']} structured documents")
+                st.write(f"{stats['summaries']} summary documents")
+                st.write(f"{stats['structured_data']} structured documents")
             except:
                 pass
         else:
             st.error("❌ Vector database not available")
-        
-        # Query History
+
+        # Query History (display-only; initialize from disk)
         if 'query_history' not in st.session_state:
-            st.session_state.query_history = []
-        
-        if user_query and user_query not in [q['query'] for q in st.session_state.query_history]:
-            st.session_state.query_history.insert(0, {
-                'query': user_query,
-                'timestamp': result.get('timestamp', ''),
-                'total_time': result.get('timing', {}).get('total_time', 0)
-            })
-            # Keep only last 10 queries
-            st.session_state.query_history = st.session_state.query_history[:10]
-        
+            st.session_state.query_history = load_recent_queries_from_disk(limit=10)
+
         if st.session_state.query_history:
-            st.markdown("### 📈 Recent Queries")
-            for i, query_info in enumerate(st.session_state.query_history[:5]):
-                with st.expander(f"Query {i+1} ({query_info.get('total_time', 0)}s)"):
-                    st.write(f"**Q:** {query_info['query']}")
-                    st.caption(f"Asked at {query_info.get('timestamp', 'Unknown')}")
-        
+            st.markdown("### Recent Queries")
+            with st.expander("Recent Queries"):
+                for i, query_info in enumerate(st.session_state.query_history[:5]):
+                    with st.expander(f"Query {i+1}"):
+                        st.write(f"**Q:** {query_info['query']}")
+                        st.caption(f"Asked at {query_info.get('timestamp', 'Unknown')}")
+
         # Performance Tips
-        st.markdown("### 💡 Performance Tips")
+        st.markdown("### Performance Tips")
         st.markdown("""
         - **Specific queries** get better results
         - **Date ranges** help narrow search
         - **Organization names** improve accuracy
         - **Keywords** like 'budget', 'TIF', 'transportation' work well
         """)
-        
+
         # Clear history button
-        if st.button("🗑️ Clear Query History"):
+        if st.button("Clear Query History"):
             st.session_state.query_history = []
+            save_recent_queries_to_disk([])
             st.rerun()
 
 if __name__ == "__main__":

@@ -1,0 +1,27 @@
+[
+  {
+    "query": "Which neighborhoods were mentioned in the most recent planning meeting and why?",
+    "timestamp": "2025-09-09 10:08:05",
+    "total_time": 4.18
+  },
+  {
+    "query": "What public comments or stakeholder concerns were recorded for Agenda 73?",
+    "timestamp": "2025-09-09 09:55:50",
+    "total_time": 3.57
+  },
+  {
+    "query": "What public comments or stakeholder concerns were recorded for Agenda 13?",
+    "timestamp": "2025-09-09 09:55:27",
+    "total_time": 2.91
+  },
+  {
+    "query": "When and where was the last Landmark Commission meeting held?\n",
+    "timestamp": "2025-09-09 09:53:05",
+    "total_time": 3.2
+  },
+  {
+    "query": "* Which TIF projects were discussed recently and what funding amounts were proposed?\n",
+    "timestamp": "2025-09-09 09:35:32",
+    "total_time": 5.39
+  }
+]

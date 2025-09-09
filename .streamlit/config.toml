@@ -1,0 +1,8 @@
+# Streamlit theme for Dallas-inspired colors
+# Minimal, global styling without code changes
+[theme]
+primaryColor = "#0B8C3A"            # Green accents (buttons, sliders, checkboxes)
+backgroundColor = "#E8F4FB"         # Light blue main background
+secondaryBackgroundColor = "#FFFFFF" # Panels/expander/sidebar background (clean white)
+textColor = "#0F2A3D"               # Dark teal text for good contrast
+font = "sans serif"
