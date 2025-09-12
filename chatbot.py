@@ -34,6 +34,44 @@ class AgendaChatbot:
             logger.error(f"Error loading collections: {e}")
             self.summaries_collection = None
             self.json_collection = None
+        # Preload agenda date mapping for recency ranking
+        self.agenda_date_map = {}
+        if self.json_collection:
+            try:
+                all_meta = self.json_collection.get(include=["metadatas", "ids"])  # type: ignore
+                for meta in all_meta.get("metadatas", []):
+                    if not meta:
+                        continue
+                    agenda_num = meta.get("agenda_number")
+                    meeting_date = meta.get("meeting_date")
+                    parsed = self._parse_date(meeting_date)
+                    if agenda_num and parsed:
+                        # store as date object
+                        self.agenda_date_map[str(agenda_num)] = parsed
+            except Exception as e:
+                logger.warning(f"Could not preload agenda dates: {e}")
+
+    # -------------------------------
+    # Date parsing & recency helpers
+    # -------------------------------
+    def _parse_date(self, date_str: Optional[str]):
+        if not date_str or not isinstance(date_str, str):
+            return None
+        import datetime, re
+        ds = date_str.strip()
+        ds = re.sub(r"(\d+)(st|nd|rd|th)", r"\1", ds)  # remove ordinals
+        fmts = ["%B %d, %Y", "%b %d, %Y", "%Y-%m-%d"]
+        for f in fmts:
+            try:
+                return datetime.datetime.strptime(ds, f).date()
+            except Exception:
+                pass
+        return None
+
+    def _query_requests_recency(self, query: str) -> bool:
+        q = query.lower()
+        triggers = ["recent", "latest", "last", "past", "newest", "most recent"]
+        return any(t in q for t in triggers)
 
     def generate_query_embedding(self, query: str) -> List[float]:
         """Generate embedding for user query."""
@@ -134,51 +172,142 @@ class AgendaChatbot:
         
         return None
 
-    def create_context_from_results(self, summary_results: List[Dict], json_results: List[Dict]) -> str:
+    def create_context_from_results(self, summary_results: List[Dict], json_results: List[Dict], recency_mode: bool = False) -> str:
         """Create context string from search results."""
-        context_parts = []
-        
-        # Add summary results
+        context_parts: List[str] = []
+
+        # Always attempt to enrich and sort by date (most recent first) for better temporal awareness
+        def date_key(res):
+            meta = res.get("metadata", {})
+            ag = meta.get("agenda_number")
+            d = self.agenda_date_map.get(str(ag)) or self._parse_date(meta.get("meeting_date"))
+            # Return ordinal (int) so all keys are comparable. Use -1 for missing dates.
+            try:
+                return d.toordinal() if d else -1
+            except Exception:
+                return -1
+
+        # Enrich summary results with meeting_date if available from structured map
+        for r in summary_results:
+            meta = r.get("metadata", {})
+            ag = meta.get("agenda_number")
+            if ag and str(ag) in self.agenda_date_map and "meeting_date" not in meta:
+                meta["meeting_date"] = self.agenda_date_map[str(ag)].isoformat()
+
+        # Sort by date (newest first) if we have dates; otherwise original similarity order preserved
+        try:
+            json_results.sort(key=date_key, reverse=True)
+            summary_results.sort(key=date_key, reverse=True)
+        except Exception:
+            pass
+
+        # Add summary results section
         if summary_results:
             context_parts.append("RELEVANT AGENDA SUMMARIES:")
             for i, result in enumerate(summary_results[:3], 1):
-                metadata = result["metadata"]
-                document = result["document"]
+                metadata = result.get("metadata", {})
+                document = result.get("document", "")
                 context_parts.append(f"\n{i}. Agenda {metadata.get('agenda_number', 'Unknown')} ({metadata.get('source_file', 'Unknown')}):")
                 context_parts.append(f"   {document}")
-        
-        # Add structured data results
+
+        # Add structured data section
         if json_results:
             context_parts.append("\n\nRELEVANT STRUCTURED DATA:")
             for i, result in enumerate(json_results[:3], 1):
-                metadata = result["metadata"]
-                document = result["document"]
-                context_parts.append(f"\n{i}. Agenda {metadata.get('agenda_number', 'Unknown')}:")
+                metadata = result.get("metadata", {})
+                document = result.get("document", "")
+                context_parts.append(f"\n{i}. Agenda {metadata.get('agenda_number', 'Unknown')}: ")
                 context_parts.append(f"   Meeting: {metadata.get('meeting_type', 'Unknown')} on {metadata.get('meeting_date', 'Unknown')}")
                 context_parts.append(f"   Organization: {metadata.get('organization', 'Unknown')}")
                 context_parts.append(f"   Data: {document}")
-        
+
         return "\n".join(context_parts)
+
+    # -------------------------------
+    # Explicit agenda/date helpers
+    # -------------------------------
+    def extract_agenda_numbers(self, query: str) -> List[int]:
+        """Extract explicit agenda numbers mentioned in the user query.
+        Matches patterns like 'Agenda 150' or 'agenda 12'. Returns unique ints.
+        """
+        nums = set()
+        for m in re.finditer(r"agenda\s+(\d{1,4})", query, re.IGNORECASE):
+            try:
+                nums.add(int(m.group(1)))
+            except ValueError:
+                continue
+        return sorted(nums)
+
+    def load_agenda_artifacts(self, agenda_number: int) -> Dict[str, Any]:
+        """Load summary / structured data / raw file for a given agenda number if present.
+        Returns dict with keys: summary_text, structured_text, metadata.
+        """
+        summary_file = OUTPUT_DIR / "summaries" / f"summary_{agenda_number}.json"
+        json_file = OUTPUT_DIR / "json_data" / f"data_{agenda_number}.json"
+        raw_file = Path("Agendas_COR") / f"Agenda_{agenda_number}.txt"
+        summary_text = None
+        structured_text = None
+        metadata: Dict[str, Any] = {"agenda_number": str(agenda_number), "source_file": f"Agenda_{agenda_number}.txt"}
+        try:
+            if summary_file.exists():
+                with open(summary_file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    summary_text = data.get("summary")
+                    metadata["type"] = "summary"
+        except Exception:
+            pass
+        try:
+            if json_file.exists():
+                with open(json_file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    extracted = data.get("extracted_data", {})
+                    meeting_info = extracted.get("meeting_info", {})
+                    metadata.update({
+                        "meeting_date": meeting_info.get("date"),
+                        "meeting_type": meeting_info.get("type"),
+                        "organization": meeting_info.get("organization"),
+                        "type": "structured_data"
+                    })
+                    # Build concise structured text snippet similar to embedding text assembly
+                    parts = []
+                    if meeting_info:
+                        parts.append(f"Meeting: {meeting_info.get('type')} on {meeting_info.get('date')} ({meeting_info.get('organization')})")
+                    agenda_items = extracted.get("agenda_items", [])
+                    if agenda_items:
+                        parts.append("Items: " + "; ".join([f"{i.get('item_number')}: {i.get('title')}" for i in agenda_items[:5]]))
+                    keywords = extracted.get("keywords", [])
+                    if keywords:
+                        parts.append("Keywords: " + ", ".join(keywords[:10]))
+                    structured_text = " | ".join(parts)
+        except Exception:
+            pass
+        # Fallback to raw text snippet if neither summary nor structured available
+        if not summary_text and not structured_text and raw_file.exists():
+            try:
+                raw = raw_file.read_text(encoding='utf-8', errors='replace')
+                summary_text = raw[:1200]
+            except Exception:
+                pass
+        return {"summary_text": summary_text, "structured_text": structured_text, "metadata": metadata}
 
     def generate_response(self, query: str, context: str) -> str:
         """Generate response using OpenAI with context."""
         try:
-            system_prompt = """You are an AI assistant specializing in Dallas city government meeting agendas. 
-            You help users find and understand information from city council meetings, committee meetings, and board meetings.
-            
-            Based on the provided context from agenda summaries and structured data, provide accurate and helpful responses.
-            If the information isn't available in the context, say so clearly.
-            
-            RESPONSE STYLE GUIDELINES:
-            - For simple, direct questions (like dates, names, basic facts): Provide concise, focused answers
-            - For complex analysis or multiple topics: Provide detailed explanations
-            - Always be clear and direct - avoid unnecessary elaboration for straightforward queries
-            
-            IMPORTANT: When referencing information, always mention the specific agenda number and source file name 
-            (e.g., "According to Agenda 10 (Agenda_10.txt)..." or "As shown in Agenda 150 (Agenda_150.txt)...").
-            This helps users trace back to the original documents.
-            
-            Focus on being helpful, accurate, and appropriately concise while citing specific agenda numbers and file names when referencing information."""
+            system_prompt = """You are an AI assistant specializing in Dallas city government meeting agendas.
+            You help users find and understand information from city council meetings, commission meetings, and committee meetings.
+
+            CORE RULES:
+            1. If the user explicitly references an agenda number (e.g. 'Agenda 150', 'agenda 12') you MUST look for that exact agenda in the provided context. If it's not present in context but the filename pattern exists (Agenda_<number>.txt) you should state that it exists in the source corpus but was not included in retrieved context and avoid inventing details.
+            2. If the user references a specific date (e.g. 'on March 25, 2025' or an ISO date '2025-03-25'), prioritize meetings on that date in your answer. If no meeting for that date appears in context, say that the date was not found in retrieved records.
+            3. NEVER fabricate agenda content. If a requested agenda/date is missing from context, respond with a clear statement that it was not retrieved and suggest re-indexing or confirming embeddings.
+            4. Always cite agenda number and file (e.g., "According to Agenda 150 (Agenda_150.txt)...").
+
+            RESPONSE STYLE:
+            - Simple factual question: brief, direct answer with citation.
+            - Multi-part / analytical: structured bullets or short sections.
+            - Always distinguish confirmed facts (from context) from missing data.
+
+            If nothing in context answers the question: clearly say so and do NOT speculate."""
             
             user_prompt = f"""
 User Question: {query}
@@ -212,15 +341,41 @@ Please provide an appropriate response based on the available information.
         """Process a user query and return response with sources and timing."""
         start_time = time.time()
 
+        # Extract explicit agendas before search
+        explicit_agendas = self.extract_agenda_numbers(query)
+        recency_mode = self._query_requests_recency(query)
+
         # Search both collections
         search_start = time.time()
         summary_results = self.search_summaries(query, n_results=5)
         json_results = self.search_structured_data(query, n_results=5)
         search_time = time.time() - search_start
 
+        # Inject explicitly requested agendas if missing from retrieved results
+        if explicit_agendas:
+            present_agendas = {r['metadata'].get('agenda_number') for r in summary_results} | {r['metadata'].get('agenda_number') for r in json_results}
+            for num in explicit_agendas:
+                if str(num) not in present_agendas and num not in present_agendas:
+                    artifacts = self.load_agenda_artifacts(num)
+                    meta_base = artifacts['metadata']
+                    # Add summary if available
+                    if artifacts['summary_text']:
+                        summary_results.append({
+                            'document': artifacts['summary_text'],
+                            'metadata': {**meta_base, 'injected': True, 'source': 'explicit_agenda'},
+                            'distance': 0.4  # heuristic
+                        })
+                    # Add structured if available
+                    if artifacts['structured_text']:
+                        json_results.append({
+                            'document': artifacts['structured_text'],
+                            'metadata': {**meta_base, 'injected': True, 'source': 'explicit_agenda'},
+                            'distance': 0.4
+                        })
+
         # Create context
         context_start = time.time()
-        context = self.create_context_from_results(summary_results, json_results)
+        context = self.create_context_from_results(summary_results, json_results, recency_mode=recency_mode)
         context_time = time.time() - context_start
 
         # Generate response
@@ -232,6 +387,17 @@ Please provide an appropriate response based on the available information.
 
         # Extract source files from results
         source_files = self.extract_source_files(summary_results, json_results)
+
+        # If recency_mode, reorder source_files by meeting_date (desc) while preserving existing order fallback
+        if recency_mode:
+            def src_key(s):
+                ag = s.get("agenda_number")
+                d = self.agenda_date_map.get(str(ag)) or self._parse_date(s.get("meeting_date"))
+                try:
+                    return d.toordinal() if d else -1
+                except Exception:
+                    return -1
+            source_files.sort(key=src_key, reverse=True)
 
         return {
             "response": response,

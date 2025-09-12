@@ -1,27 +1,52 @@
 [
   {
-    "query": "Which neighborhoods were mentioned in the most recent planning meeting and why?",
-    "timestamp": "2025-09-09 10:08:05",
-    "total_time": 4.18
+    "query": "Which committees met in March 2025 and what did they cover?\n",
+    "timestamp": "2025-09-12 13:42:33",
+    "total_time": 6.54
   },
   {
-    "query": "What public comments or stakeholder concerns were recorded for Agenda 73?",
-    "timestamp": "2025-09-09 09:55:50",
-    "total_time": 3.57
+    "query": "What budget items were approved in the last two council meetings?",
+    "timestamp": "2025-09-12 13:41:14",
+    "total_time": 9.19
   },
   {
-    "query": "What public comments or stakeholder concerns were recorded for Agenda 13?",
-    "timestamp": "2025-09-09 09:55:27",
-    "total_time": 2.91
+    "query": "what meetings were held in March 2025",
+    "timestamp": "2025-09-12 09:08:02",
+    "total_time": 5.06
   },
   {
-    "query": "When and where was the last Landmark Commission meeting held?\n",
-    "timestamp": "2025-09-09 09:53:05",
-    "total_time": 3.2
+    "query": "what are the five most recent meetings?",
+    "timestamp": "2025-09-12 09:07:17",
+    "total_time": 9.74
   },
   {
-    "query": "* Which TIF projects were discussed recently and what funding amounts were proposed?\n",
-    "timestamp": "2025-09-09 09:35:32",
-    "total_time": 5.39
+    "query": "Were any mid-year budget amendments approved in the past 10 agendas?",
+    "timestamp": "2025-09-11 08:40:02",
+    "total_time": 6.45
+  },
+  {
+    "query": "Which departments received increases over 10% vs prior year",
+    "timestamp": "2025-09-11 08:39:31",
+    "total_time": 2.66
+  },
+  {
+    "query": "What topics dominated the five most recent committee meetings?",
+    "timestamp": "2025-09-11 08:35:20",
+    "total_time": 10.53
+  },
+  {
+    "query": "what were the dates of the 5 most recent meetings",
+    "timestamp": "2025-09-11 08:22:48",
+    "total_time": 9.73
+  },
+  {
+    "query": "What topics dominated the five most recent committee meetings?\n",
+    "timestamp": "2025-09-11 08:20:42",
+    "total_time": 15.81
+  },
+  {
+    "query": "what recurring themes were mentioned in meetings from july 2024-december 2024",
+    "timestamp": "2025-09-11 08:19:30",
+    "total_time": 9.75
   }
 ]
