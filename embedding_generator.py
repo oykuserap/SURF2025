@@ -9,7 +9,7 @@ from openai import OpenAI
 import chromadb
 import uuid
 
-from config import OPENAI_API_KEY, EMBEDDING_MODEL, OUTPUT_DIR, VECTOR_DB_DIR
+from config import OPENAI_API_KEY, EMBEDDING_MODEL, OUTPUT_DIR, VECTOR_DB_DIR, BOND_DIR
 from utils import setup_logging, load_json
 
 logger = setup_logging()
@@ -30,6 +30,12 @@ class EmbeddingGenerator:
         self.json_collection = self.chroma_client.get_or_create_collection(
             name="agenda_structured_data",
             metadata={"description": "Embeddings of structured agenda data"}
+        )
+        
+        # Bond documents collection
+        self.bond_collection = self.chroma_client.get_or_create_collection(
+            name="bond_documents",
+            metadata={"description": "Embeddings of bond-related documents"}
         )
         
     def generate_embedding(self, text: str) -> List[float]:
@@ -350,35 +356,50 @@ class EmbeddingGenerator:
             "json_collection": {
                 "count": self.json_collection.count(),
                 "name": self.json_collection.name
+            },
+            "bond_collection": {
+                "count": self.bond_collection.count(),
+                "name": self.bond_collection.name
             }
         }
 
     def get_processed_files(self) -> Dict[str, List[str]]:
         """Get lists of already processed files to avoid reprocessing."""
-        processed_summaries = []
-        processed_json = []
-        
+        processed_summaries: List[str] = []
+        processed_json: List[str] = []
+        processed_bonds: List[str] = []
+
         try:
             # Get processed summaries
             summary_results = self.summaries_collection.get()
             for metadata in summary_results['metadatas']:
                 if metadata and 'source_file' in metadata:
                     processed_summaries.append(metadata['source_file'])
-        except:
+        except Exception:
             pass
-        
+
         try:
             # Get processed JSON data
             json_results = self.json_collection.get()
             for metadata in json_results['metadatas']:
                 if metadata and 'source_file' in metadata:
                     processed_json.append(metadata['source_file'])
-        except:
+        except Exception:
             pass
-        
+
+        try:
+            # Get processed bond documents
+            bond_results = self.bond_collection.get()
+            for metadata in bond_results['metadatas']:
+                if metadata and 'source_file' in metadata:
+                    processed_bonds.append(metadata['source_file'])
+        except Exception:
+            pass
+
         return {
             "summaries": processed_summaries,
-            "json_data": processed_json
+            "json_data": processed_json,
+            "bond_docs": processed_bonds
         }
 
     def filter_unprocessed_files(self, files: List[Path], file_type: str) -> List[Path]:
@@ -403,6 +424,69 @@ class EmbeddingGenerator:
         
         return unprocessed
 
+    # -------------------------------
+    # Bond documents processing
+    # -------------------------------
+    def prepare_bond_text(self, file_path: Path) -> str:
+        try:
+            return file_path.read_text(encoding="utf-8", errors="replace")
+        except Exception:
+            return ""
+
+    def process_bond_file(self, file_path: Path) -> bool:
+        try:
+            print(f"📄 Processing bond doc: {file_path.name}...")
+            text = self.prepare_bond_text(file_path)
+            if not text.strip():
+                print("   ⚠️ Empty file or unreadable")
+                return False
+            # Trim very long docs to a sane size for embeddings (e.g., first 6000 chars)
+            snippet = text[:6000]
+            embedding = self.generate_embedding(snippet)
+            if not embedding:
+                print("   ❌ Failed to generate embedding")
+                return False
+            metadata = {
+                "source_file": file_path.name,
+                "type": "bond_document",
+            }
+            doc_id = f"bond_{file_path.name}"
+            self.bond_collection.add(
+                documents=[snippet],
+                embeddings=[embedding],
+                metadatas=[metadata],
+                ids=[doc_id]
+            )
+            print("   💾 Saved to vector database")
+            return True
+        except Exception as e:
+            print(f"   ❌ Error processing {file_path.name}: {e}")
+            return False
+
+    def process_bond_documents(self) -> Dict[str, int]:
+        bond_dir = BOND_DIR
+        bond_files = sorted(list(bond_dir.glob("*.txt"))) if bond_dir.exists() else []
+        if not bond_files:
+            print("No bond documents found.")
+            return {"successful": 0, "failed": 0}
+        # Filter out already processed
+        processed = set(self.get_processed_files().get("bond_docs", []))
+        to_process = [p for p in bond_files if p.name not in processed]
+        print(f"🔎 Found {len(bond_files)} bond files | {len(bond_files)-len(to_process)} already processed | {len(to_process)} new")
+        successful = 0
+        failed = 0
+        for f in to_process:
+            if self.process_bond_file(f):
+                successful += 1
+            else:
+                failed += 1
+        print(f"🎉 Bond docs processed: ✅ {successful} | ❌ {failed}")
+        try:
+            self.bond_collection.persist()
+        except Exception:
+            pass
+        return {"successful": successful, "failed": failed}
+
 def main():
     """Main function to run embedding generation."""
     generator = EmbeddingGenerator()
@@ -422,10 +506,16 @@ def main():
     print(f"   ❌ Failed: {json_results['failed']}")
     
     # Show collection stats
-    print("\n3. Vector Database Statistics:")
+    print("\n3. Processing bond documents...")
+    bond_results = generator.process_bond_documents()
+    print(f"   ✅ Successful: {bond_results['successful']}")
+    print(f"   ❌ Failed: {bond_results['failed']}")
+
+    print("\n4. Vector Database Statistics:")
     stats = generator.get_collection_stats()
     print(f"   📄 Summaries: {stats['summaries_collection']['count']} documents")
     print(f"   📊 Structured Data: {stats['json_collection']['count']} documents")
+    print(f"   🏛️ Bond Docs: {stats['bond_collection']['count']} documents")
     
     print(f"\nEmbedding generation complete!")
     print(f"Vector database stored in: {VECTOR_DB_DIR}")

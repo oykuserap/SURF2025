@@ -30,10 +30,16 @@ class AgendaChatbot:
         try:
             self.summaries_collection = self.chroma_client.get_collection("agenda_summaries")
             self.json_collection = self.chroma_client.get_collection("agenda_structured_data")
+            # Optional: bond collection
+            try:
+                self.bond_collection = self.chroma_client.get_collection("bond_documents")
+            except Exception:
+                self.bond_collection = None
         except Exception as e:
             logger.error(f"Error loading collections: {e}")
             self.summaries_collection = None
             self.json_collection = None
+            self.bond_collection = None
         # Preload agenda date mapping for recency ranking
         self.agenda_date_map = {}
         if self.json_collection:
@@ -160,6 +166,35 @@ class AgendaChatbot:
             return "Transportation"
         return None
 
+    def search_bond_documents(self, query: str, n_results: int = 5) -> List[Dict[str, Any]]:
+        """Search bond documents."""
+        if not getattr(self, 'bond_collection', None):
+            return []
+        try:
+            query_embedding = self.generate_query_embedding(query)
+            if not query_embedding:
+                return []
+            results = self.bond_collection.query(
+                query_embeddings=[query_embedding],
+                n_results=n_results,
+                include=["documents", "metadatas", "distances"]
+            )
+            return [
+                {
+                    "document": doc,
+                    "metadata": meta,
+                    "distance": dist
+                }
+                for doc, meta, dist in zip(
+                    results["documents"][0],
+                    results["metadatas"][0],
+                    results["distances"][0]
+                )
+            ]
+        except Exception as e:
+            logger.error(f"Error searching bond documents: {e}")
+            return []
+
     def get_detailed_agenda_data(self, agenda_number: int) -> Optional[Dict[str, Any]]:
         """Get detailed structured data for a specific agenda."""
         try:
@@ -222,6 +257,18 @@ class AgendaChatbot:
                 context_parts.append(f"   Data: {document}")
 
         return "\n".join(context_parts)
+
+    def create_bond_context(self, bond_results: List[Dict]) -> str:
+        parts: List[str] = []
+        if not bond_results:
+            return "No bond documents matched."
+        parts.append("RELEVANT BOND DOCUMENTS:")
+        for i, result in enumerate(bond_results[:5], 1):
+            meta = result.get("metadata", {})
+            doc = result.get("document", "")
+            parts.append(f"\n{i}. {meta.get('source_file', 'Unknown')}")
+            parts.append(doc[:800] + ("..." if len(doc) > 800 else ""))
+        return "\n".join(parts)
 
     # -------------------------------
     # Explicit agenda/date helpers
@@ -345,7 +392,7 @@ Please provide an appropriate response based on the available information.
         explicit_agendas = self.extract_agenda_numbers(query)
         recency_mode = self._query_requests_recency(query)
 
-        # Search both collections
+    # Search both collections
         search_start = time.time()
         summary_results = self.search_summaries(query, n_results=5)
         json_results = self.search_structured_data(query, n_results=5)
@@ -411,6 +458,23 @@ Please provide an appropriate response based on the available information.
                 "context_time": round(context_time, 2),
                 "response_time": round(response_time, 2)
             },
+            "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        }
+
+    def process_bond_query(self, query: str) -> Dict[str, Any]:
+        start = time.time()
+        results = self.search_bond_documents(query, n_results=8)
+        ctx = self.create_bond_context(results)
+        # Use LLM for summarization if available, else return context
+        if results:
+            answer = self.generate_response(query, ctx)
+        else:
+            answer = "No matching bond documents found."
+        return {
+            "response": answer,
+            "bond_results": results,
+            "context": ctx,
+            "timing": {"total_time": round(time.time() - start, 2)},
             "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         }
 
@@ -576,7 +640,8 @@ def main():
     )
     
     st.title("🏛️ Dallas City Agenda Chatbot")
-    st.markdown("Ask questions about Dallas city government meeting agendas and get informed answers!")
+    st.markdown("Ask questions about Dallas city government meeting agendas and get informed answers!"
+    " But remember, I only have the meeting summaries and structured data available until the end of March 2025 :) ")
     
     # Initialize chatbot
     if 'chatbot' not in st.session_state:
@@ -606,99 +671,70 @@ def main():
     except:
         pass
     
-    # Chat interface
+    # Chat interface with tabs
     st.markdown("---")
+    tabs = st.tabs(["All Agendas", "Bond Docs"])
     
-    # Chat history in main area
-    if 'chat_history' not in st.session_state:
-        st.session_state.chat_history = []
+    # All Agendas tab
+    with tabs[0]:
+        # Optional include bonds in general search
+        include_bonds = st.checkbox("Include bond documents in search", value=False)
 
-    # Display chat history using chat-style bubbles
-    for chat in st.session_state.chat_history:
-        # User bubble
-        with st.chat_message("user", avatar="👤"):
-            st.markdown(chat['query'])
-        # Assistant bubble
-        with st.chat_message("assistant", avatar="🏛️"):
-            st.markdown(_sanitize_markdown_response(chat['result']['response']))
-        timing = chat['result']['timing']
-        col1, col2, col3, col4 = st.columns(4)
-        with col1:
-            st.metric("⏱️ Total Time", f"{timing['total_time']}s")
-        with col2:
-            st.metric("🔍 Search", f"{timing['search_time']}s")
-        with col3:
-            st.metric("📝 Context", f"{timing['context_time']}s")
-        with col4:
-            st.metric("Response", f"{timing['response_time']}s")
-        st.caption(f"Query processed at {chat['result']['timestamp']}")
+        # Chat history in main area
+        if 'chat_history' not in st.session_state:
+            st.session_state.chat_history = []
 
-        # Display detailed source information
-        if chat['result']["source_files"]:
-            st.markdown("### 📚 Sources & Original Files")
-            for i, source in enumerate(chat['result']["source_files"][:5], 1):
-                with st.expander(f"📄 **{source['source_file']}** (Agenda {source['agenda_number']})"):
-                    col1, col2 = st.columns(2)
-                    with col1:
-                        st.markdown("**File Information:**")
+        # Display chat history
+        for chat in st.session_state.chat_history:
+            with st.chat_message("user", avatar="👤"):
+                st.markdown(chat['query'])
+            with st.chat_message("assistant", avatar="🏛️"):
+                st.markdown(_sanitize_markdown_response(chat['result']['response']))
+            timing = chat['result']['timing']
+            col1, col2, col3, col4 = st.columns(4)
+            with col1: st.metric("⏱️ Total Time", f"{timing['total_time']}s")
+            with col2: st.metric("🔍 Search", f"{timing['search_time']}s")
+            with col3: st.metric("📝 Context", f"{timing['context_time']}s")
+            with col4: st.metric("Response", f"{timing['response_time']}s")
+            st.caption(f"Query processed at {chat['result']['timestamp']}")
+
+            # Sources
+            if chat['result']["source_files"]:
+                st.markdown("### 📚 Sources & Original Files")
+                for i, source in enumerate(chat['result']["source_files"][:5], 1):
+                    with st.expander(f"📄 **{source['source_file']}** (Agenda {source.get('agenda_number','-')})"):
                         st.write(f"• **Original File:** `{source['source_file']}`")
-                        st.write(f"• **Agenda Number:** {source['agenda_number']}")
-                        if source.get('meeting_date'):
-                            st.write(f"• **Meeting Date:** {source['meeting_date']}")
-                        if source.get('meeting_type'):
-                            st.write(f"• **Meeting Type:** {source['meeting_type']}")
-                        if source.get('organization'):
-                            st.write(f"• **Organization:** {source['organization']}")
-                    with col2:
-                        st.markdown("**Relevance Scores:**")
-                        if source['similarity_summary'] is not None:
-                            st.write(f"• **Summary Match:** {source['similarity_summary']:.3f}")
-                        if source['similarity_structured'] is not None:
-                            st.write(f"• **Data Match:** {source['similarity_structured']:.3f}")
-                        st.write(f"• **Found In:** {', '.join(source['found_in'])}")
-                        agenda_path = Path("Agendas_COR") / source["source_file"]
-                        if agenda_path.exists():
-                            # Show a short preview and allow download of the original file
-                            try:
-                                preview_text = agenda_path.read_text(encoding="utf-8", errors="replace")
-                            except Exception:
-                                preview_text = ""
-                            if preview_text:
-                                st.markdown("**Preview (first 1,500 chars):**")
-                                st.text(preview_text[:1500] + ("..." if len(preview_text) > 1500 else ""))
 
-                            # Download button for the original file
-                            try:
-                                file_bytes = agenda_path.read_bytes()
-                                st.download_button(
-                                    label="📥 Download Original",
-                                    data=file_bytes,
-                                    file_name=source["source_file"],
-                                    mime="text/plain"
-                                )
-                            except Exception:
-                                st.caption("Unable to load file for download.")
-                        else:
-                            st.caption("Original file not found on disk.")
+        # Input
+        user_query = st.chat_input("Ask about agendas (optionally include bonds):")
+        if user_query:
+            with st.spinner("🔎 Searching..."):
+                result = chatbot.process_query(user_query)
+                # Optionally augment context with bonds
+                if include_bonds:
+                    bond_hits = chatbot.search_bond_documents(user_query, n_results=3)
+                    bond_ctx = chatbot.create_bond_context(bond_hits)
+                    # Regenerate with bond context appended
+                    augmented = chatbot.generate_response(user_query, result['context'] + "\n\n" + bond_ctx)
+                    result['response'] = augmented
+            st.session_state.chat_history.append({'query': user_query, 'result': result})
+            st.rerun()
 
-        # Expandable detailed search results
-        with st.expander("🔍 Detailed Search Results"):
-            if chat['result']["summary_results"]:
-                st.markdown("**Summary Search Results:**")
-                for i, res in enumerate(chat['result']["summary_results"], 1):
-                    meta = res["metadata"]
-                    similarity = round(1 - res['distance'], 3) if res['distance'] is not None else 0.0
-                    st.markdown(f"{i}. **{meta.get('source_file')}** (Agenda {meta.get('agenda_number')}) - Similarity: {similarity}")
-                    with st.expander(f"Preview of {meta.get('source_file')}"):
-                        st.text(res["document"][:500] + "..." if len(res["document"]) > 500 else res["document"])
-            if chat['result']["json_results"]:
-                st.markdown("**Structured Data Results:**")
-                for i, res in enumerate(chat['result']["json_results"], 1):
-                    meta = res["metadata"]
-                    similarity = round(1 - res['distance'], 3) if res['distance'] is not None else 0.0
-                    st.markdown(f"{i}. **{meta.get('source_file')}** - {meta.get('meeting_type')} on {meta.get('meeting_date')} - Similarity: {similarity}")
-                    with st.expander(f"Structured data from {meta.get('source_file')}"):
-                        st.text(res["document"])
+    # Bond Docs tab
+    with tabs[1]:
+        if 'bond_history' not in st.session_state:
+            st.session_state.bond_history = []
+        for chat in st.session_state.bond_history:
+            with st.chat_message("user", avatar="👤"):
+                st.markdown(chat['query'])
+            with st.chat_message("assistant", avatar="🏛️"):
+                st.markdown(_sanitize_markdown_response(chat['result']['response']))
+        bond_query = st.chat_input("Search bond documents only:", key="bond_input")
+        if bond_query:
+            with st.spinner("🔎 Searching bond documents..."):
+                result = chatbot.process_bond_query(bond_query)
+            st.session_state.bond_history.append({'query': bond_query, 'result': result})
+            st.rerun()
 
     # Bottom input area: stays at the bottom like a chat app
     bottom_col1, bottom_col2 = st.columns([1, 5])

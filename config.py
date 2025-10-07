@@ -16,6 +16,7 @@ BASE_DIR = Path(__file__).parent
 AGENDAS_DIR = BASE_DIR / "Agendas_COR"
 OUTPUT_DIR = BASE_DIR / "processed_data"
 VECTOR_DB_DIR = BASE_DIR / "vector_db"
+BOND_DIR = BASE_DIR / "bond_data"
 
 # Processing Configuration
 BATCH_SIZE = 5  # Number of files to process at once

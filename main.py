@@ -130,12 +130,16 @@ class AgendaPipeline:
             # Generate JSON embeddings
             json_results = self.embedding_generator.process_all_json_data()
             
+            # Generate bond document embeddings
+            bond_results = self.embedding_generator.process_bond_documents()
+            
             # Get stats
             stats = self.embedding_generator.get_collection_stats()
             
             logger.info(f"Embeddings generation complete:")
             logger.info(f"  Summaries: {summary_results['successful']} successful, {summary_results['failed']} failed")
             logger.info(f"  JSON data: {json_results['successful']} successful, {json_results['failed']} failed")
+            logger.info(f"  Bond docs: {bond_results['successful']} successful, {bond_results['failed']} failed")
             logger.info(f"  Total documents in vector DB: {stats['summaries_collection']['count'] + stats['json_collection']['count']}")
             
             if summary_results['successful'] == 0 and json_results['successful'] == 0:
@@ -257,7 +261,7 @@ class AgendaPipeline:
                 from embedding_generator import EmbeddingGenerator
                 generator = EmbeddingGenerator()
                 stats = generator.get_collection_stats()
-                print(f"🔍 Vector DB: {stats['summaries_collection']['count']} summaries, {stats['json_collection']['count']} structured docs")
+                print(f"🔍 Vector DB: {stats['summaries_collection']['count']} summaries, {stats['json_collection']['count']} structured docs, {stats['bond_collection']['count']} bond docs")
             except:
                 print("🔍 Vector DB: Present but cannot read stats")
         else:
