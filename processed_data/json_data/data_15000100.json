@@ -1,0 +1,75 @@
+{
+  "agenda_identifier": "agenda_15000100_budget_01",
+  "agenda_number": 15000100,
+  "source_file": "agenda_15000100_budget_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 4, 2024",
+      "time": "1:00 PM",
+      "type": "Ad Hoc Judicial Nominating Committee Meeting",
+      "organization": "City Council Ad Hoc Judicial Nominating Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Paul E. Ridley",
+      "presenters": [
+        "Matthew McDougal",
+        "Paul E. Ridley"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the May 26, 2022 Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Judicial Nominating Commission Recommendation to Consider a 3% Increase for Municipal Judges",
+        "description": "Discussion on the recommendation for a 3% salary increase for municipal judges.",
+        "presenter": "Matthew McDougal",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Judicial Nominating Commission Recommendations of Full-time Municipal Judge including the Administrative Judge and Associate Judge Positions",
+        "description": "Recommendations for the selection of judges.",
+        "presenter": "Matthew McDougal",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Consider Judicial Nominating Commission Recommendation to Consider a 3% Increase for the Municipal Judges",
+        "description": "Consideration of the recommendation for a salary increase.",
+        "presenter": "Paul E. Ridley",
+        "action_required": "consider"
+      },
+      {
+        "item_number": "D",
+        "title": "Consider Judicial Nominating Commission Recommendations for Selection of Full-time Municipal Judge including the Administrative Judge and Associate Judge Positions",
+        "description": "Consideration of recommendations for judge positions.",
+        "presenter": "Paul E. Ridley",
+        "action_required": "consider"
+      }
+    ],
+    "keywords": [
+      "Judicial Nominating Committee",
+      "Municipal Judges",
+      "Salary Increase",
+      "Full-time Municipal Judge",
+      "Administrative Judge",
+      "Associate Judge",
+      "Recommendations",
+      "City Council",
+      "Dallas",
+      "Meeting Minutes",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 19126
+}

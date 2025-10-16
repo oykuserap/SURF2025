@@ -72,9 +72,26 @@ def load_json(file_path: Path) -> Dict[str, Any]:
 
 def get_agenda_files(agendas_dir: Path) -> List[Path]:
     """Get all agenda text files."""
-    return sorted(list(agendas_dir.glob("Agenda_*.txt")))
+    return sorted(list(agendas_dir.glob("agenda_*.txt")))
 
 def extract_agenda_number(file_path: Path) -> int:
-    """Extract agenda number from filename."""
+    """Extract agenda number from filename (legacy support)."""
+    # Try new format first: agenda_YYYYMMDD_type.txt
+    match = re.search(r'agenda_(\d{8})_.*\.txt', file_path.name)
+    if match:
+        return int(match.group(1))
+    
+    # Fall back to old format: Agenda_123.txt
     match = re.search(r'Agenda_(\d+)\.txt', file_path.name)
     return int(match.group(1)) if match else 0
+
+def extract_agenda_identifier(file_path: Path) -> str:
+    """Extract agenda identifier for use in processed file naming."""
+    # For new format: agenda_20240903_hearing.txt -> agenda_20240903_hearing
+    # For old format: Agenda_123.txt -> agenda_123
+    stem = file_path.stem
+    if stem.startswith('agenda_'):
+        return stem
+    elif stem.startswith('Agenda_'):
+        return f"agenda_{stem[7:]}"  # Convert Agenda_123 to agenda_123
+    return stem

@@ -1,0 +1,71 @@
+{
+  "agenda_identifier": "agenda_20221001_planning",
+  "agenda_number": 20221001,
+  "source_file": "agenda_20221001_planning.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 1, 2023",
+      "time": null,
+      "type": "Special Called Meeting",
+      "organization": "Mall Area Redevelopment TIF District Board of Directors",
+      "location": "1500 Marilla Street, 6DN Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": [
+        "Oscar Joyner",
+        "Mahesh Gehani",
+        "Kiyundra Jones",
+        "Rick Perdue",
+        "Mike Sims",
+        "Amy Monier"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Mall Area Redevelopment TIF District Annual Report FY 2022-2023",
+        "description": "Presentation of the annual report detailing the activities, accomplishments, and financial status of the Mall Area Redevelopment TIF District for the fiscal year 2022-2023.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Mall Area Redevelopment",
+      "TIF District",
+      "Annual Report",
+      "Economic Development",
+      "Public Infrastructure",
+      "Mixed-Income Housing",
+      "Dallas",
+      "Redevelopment",
+      "Funding",
+      "City Council",
+      "Community Engagement",
+      "Urban Planning",
+      "Tax Increment Financing",
+      "Public Investment",
+      "Real Estate Development"
+    ],
+    "financial_items": [
+      {
+        "description": "Total Revenue from Tax Increment Fund",
+        "amount": "$1,092,679",
+        "type": "revenue"
+      },
+      {
+        "description": "Total Expenditures from Tax Increment Fund",
+        "amount": "$236,798",
+        "type": "expenditure"
+      },
+      {
+        "description": "Economic development incentive agreement with Randall’s Food & Drugs LP",
+        "amount": "$5,800,000",
+        "type": "grant"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 78245
+}

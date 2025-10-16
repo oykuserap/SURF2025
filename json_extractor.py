@@ -9,7 +9,7 @@ from openai import OpenAI
 import json
 
 from config import OPENAI_API_KEY, OPENAI_MODEL, AGENDAS_DIR, OUTPUT_DIR
-from utils import setup_logging, clean_text, save_json, get_agenda_files, extract_agenda_number, extract_meeting_date, extract_meeting_type
+from utils import setup_logging, clean_text, save_json, get_agenda_files, extract_agenda_number, extract_agenda_identifier, extract_meeting_date, extract_meeting_type
 
 logger = setup_logging()
 
@@ -184,8 +184,10 @@ JSON RESPONSE:
             extracted_data = self.extract_structured_data(content)
             
             # Add metadata
-            agenda_number = extract_agenda_number(file_path)
+            agenda_identifier = extract_agenda_identifier(file_path)
+            agenda_number = extract_agenda_number(file_path)  # Keep for compatibility
             output_data = {
+                "agenda_identifier": agenda_identifier,
                 "agenda_number": agenda_number,
                 "source_file": file_path.name,
                 "extracted_data": extracted_data,
@@ -194,7 +196,7 @@ JSON RESPONSE:
             }
             
             # Save JSON data
-            output_file = self.output_dir / f"data_{agenda_number}.json"
+            output_file = self.output_dir / f"data_{agenda_identifier}.json"
             save_json(output_data, output_file)
             
             logger.info(f"Data extracted and saved for {file_path.name}")
@@ -205,7 +207,7 @@ JSON RESPONSE:
             return {"error": str(e), "file": file_path.name}
 
     def get_already_processed_files(self) -> set:
-        """Get set of agenda numbers that have already been processed."""
+        """Get set of agenda identifiers that have already been processed."""
         processed = set()
         
         # Check existing JSON data files
@@ -213,8 +215,13 @@ JSON RESPONSE:
             try:
                 with open(json_file, 'r') as f:
                     data = json.load(f)
-                    if "error" not in data and data.get("agenda_number"):
-                        processed.add(data["agenda_number"])
+                    if "error" not in data:
+                        # Try new identifier format first
+                        if data.get("agenda_identifier"):
+                            processed.add(data["agenda_identifier"])
+                        # Fall back to old agenda_number format
+                        elif data.get("agenda_number"):
+                            processed.add(f"agenda_{data['agenda_number']}")
             except:
                 continue
                 
@@ -229,8 +236,8 @@ JSON RESPONSE:
         agenda_files = []
         
         for file_path in all_agenda_files:
-            agenda_number = extract_agenda_number(file_path)
-            if agenda_number not in already_processed:
+            agenda_identifier = extract_agenda_identifier(file_path)
+            if agenda_identifier not in already_processed:
                 agenda_files.append(file_path)
         
         if limit:

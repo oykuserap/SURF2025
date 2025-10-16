@@ -478,6 +478,66 @@ Please provide an appropriate response based on the available information.
             "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         }
 
+    def generate_clarifying_questions(self, query: str) -> List[str]:
+        """Generate up to 3 clarifying questions to better understand user intent."""
+        try:
+            prompt = f"""
+You are analyzing a user query about Dallas City agendas and bond documents. 
+Generate 0-3 clarifying questions that would help provide a more accurate and useful response.
+
+User Query: "{query}"
+
+Consider these aspects:
+- Time period (specific dates, years, recent vs historical)
+- Document type (agendas vs bond documents vs both)
+- Specific departments or topics
+- Level of detail needed (summary vs detailed)
+- Specific action items vs general information
+
+Only ask questions if the query is genuinely ambiguous or would benefit from clarification.
+If the query is already clear and specific, return an empty list.
+
+Return ONLY a JSON array of question strings, maximum 3 questions.
+Example: ["What time period are you interested in?", "Are you looking for approved or proposed items?"]
+
+If no clarification needed, return: []
+"""
+
+            response = self.client.chat.completions.create(
+                model=OPENAI_MODEL,
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=200,
+                temperature=0.3
+            )
+            
+            content = response.choices[0].message.content.strip()
+            
+            # Parse JSON response
+            import json
+            try:
+                questions = json.loads(content)
+                if isinstance(questions, list) and len(questions) <= 3:
+                    return [q for q in questions if isinstance(q, str) and q.strip()]
+            except json.JSONDecodeError:
+                pass
+            
+            return []
+            
+        except Exception as e:
+            logger.error(f"Error generating clarifying questions: {e}")
+            return []
+
+    def process_query_with_clarification(self, query: str, clarifications: List[str] = None) -> Dict[str, Any]:
+        """Process query with optional clarifications from user."""
+        # Combine original query with clarifications
+        enhanced_query = query
+        if clarifications:
+            clarification_text = " ".join([f"Additional context: {c}" for c in clarifications if c.strip()])
+            enhanced_query = f"{query} {clarification_text}"
+        
+        # Use the enhanced query for search and response
+        return self.process_query(enhanced_query)
+
     def extract_source_files(self, summary_results: List[Dict], json_results: List[Dict]) -> List[Dict[str, Any]]:
         """Extract and deduplicate source file information from search results."""
         sources = {}
@@ -673,16 +733,26 @@ def main():
     
     # Chat interface with tabs
     st.markdown("---")
-    tabs = st.tabs(["All Agendas", "Bond Docs"])
-    
-    # All Agendas tab
+    tabs = st.tabs(["Dallas City Agendas", "Bond Documents"])
+
+    # Dallas City Agendas tab
     with tabs[0]:
+        st.markdown("### 🏛️ Search Dallas City Agendas")
+        
         # Optional include bonds in general search
-        include_bonds = st.checkbox("Include bond documents in search", value=False)
+        include_bonds = st.checkbox("Include bond documents in search results", value=False)
 
         # Chat history in main area
         if 'chat_history' not in st.session_state:
             st.session_state.chat_history = []
+            
+        # Clarifying questions state
+        if 'pending_query' not in st.session_state:
+            st.session_state.pending_query = None
+        if 'clarifying_questions' not in st.session_state:
+            st.session_state.clarifying_questions = []
+        if 'clarifications' not in st.session_state:
+            st.session_state.clarifications = []
 
         # Display chat history
         for chat in st.session_state.chat_history:
@@ -705,72 +775,185 @@ def main():
                     with st.expander(f"📄 **{source['source_file']}** (Agenda {source.get('agenda_number','-')})"):
                         st.write(f"• **Original File:** `{source['source_file']}`")
 
-        # Input
-        user_query = st.chat_input("Ask about agendas (optionally include bonds):")
-        if user_query:
-            with st.spinner("🔎 Searching..."):
-                result = chatbot.process_query(user_query)
-                # Optionally augment context with bonds
-                if include_bonds:
-                    bond_hits = chatbot.search_bond_documents(user_query, n_results=3)
-                    bond_ctx = chatbot.create_bond_context(bond_hits)
-                    # Regenerate with bond context appended
-                    augmented = chatbot.generate_response(user_query, result['context'] + "\n\n" + bond_ctx)
-                    result['response'] = augmented
-            st.session_state.chat_history.append({'query': user_query, 'result': result})
-            st.rerun()
+        # Show clarifying questions if any
+        if st.session_state.clarifying_questions:
+            st.markdown("### 🤔 I'd like to clarify a few things to give you a better answer:")
+            
+            clarifications = []
+            for i, question in enumerate(st.session_state.clarifying_questions):
+                st.markdown(f"**{i+1}. {question}**")
+                
+                # Create text input for each question
+                answer = st.text_input(
+                    f"Your answer:",
+                    key=f"clarification_{i}",
+                    placeholder="Type your answer or leave blank to skip..."
+                )
+                if answer.strip():
+                    clarifications.append(answer.strip())
+            
+            col1, col2 = st.columns(2)
+            with col1:
+                if st.button("🚀 Search with clarifications", type="primary"):
+                    # Process with clarifications
+                    with st.spinner("🔎 Searching with your clarifications..."):
+                        result = chatbot.process_query_with_clarification(
+                            st.session_state.pending_query, 
+                            clarifications
+                        )
+                        # Optionally augment with bonds
+                        if include_bonds:
+                            bond_hits = chatbot.search_bond_documents(st.session_state.pending_query, n_results=3)
+                            bond_ctx = chatbot.create_bond_context(bond_hits)
+                            augmented = chatbot.generate_response(st.session_state.pending_query, result['context'] + "\n\n" + bond_ctx)
+                            result['response'] = augmented
+                    
+                    # Add to chat history
+                    display_query = st.session_state.pending_query
+                    if clarifications:
+                        display_query += f" (with clarifications: {'; '.join(clarifications)})"
+                    
+                    st.session_state.chat_history.append({'query': display_query, 'result': result})
+                    
+                    # Clear clarifying questions state
+                    st.session_state.pending_query = None
+                    st.session_state.clarifying_questions = []
+                    st.session_state.clarifications = []
+                    st.rerun()
+                    
+            with col2:
+                if st.button("⏭️ Skip clarifications"):
+                    # Process without clarifications
+                    with st.spinner("🔎 Searching..."):
+                        result = chatbot.process_query(st.session_state.pending_query)
+                        if include_bonds:
+                            bond_hits = chatbot.search_bond_documents(st.session_state.pending_query, n_results=3)
+                            bond_ctx = chatbot.create_bond_context(bond_hits)
+                            augmented = chatbot.generate_response(st.session_state.pending_query, result['context'] + "\n\n" + bond_ctx)
+                            result['response'] = augmented
+                    
+                    st.session_state.chat_history.append({'query': st.session_state.pending_query, 'result': result})
+                    
+                    # Clear state
+                    st.session_state.pending_query = None
+                    st.session_state.clarifying_questions = []
+                    st.session_state.clarifications = []
+                    st.rerun()
 
-    # Bond Docs tab
+        # Input (only show if no pending clarifications)
+        if not st.session_state.clarifying_questions:
+            user_query = st.chat_input("Ask a question about Dallas city agendas:", key="agenda_input")
+            if user_query:
+                # Generate clarifying questions first
+                clarifying_questions = chatbot.generate_clarifying_questions(user_query)
+                
+                if clarifying_questions:
+                    # Store the query and questions for clarification
+                    st.session_state.pending_query = user_query
+                    st.session_state.clarifying_questions = clarifying_questions
+                    st.rerun()
+                else:
+                    # No clarification needed, process directly
+                    with st.spinner("🔎 Searching..."):
+                        result = chatbot.process_query(user_query)
+                        # Optionally augment context with bonds
+                        if include_bonds:
+                            bond_hits = chatbot.search_bond_documents(user_query, n_results=3)
+                            bond_ctx = chatbot.create_bond_context(bond_hits)
+                            # Regenerate with bond context appended
+                            augmented = chatbot.generate_response(user_query, result['context'] + "\n\n" + bond_ctx)
+                            result['response'] = augmented
+                    st.session_state.chat_history.append({'query': user_query, 'result': result})
+                    st.rerun()
+
+    # Bond Documents tab
     with tabs[1]:
+        st.markdown("### 🏛️ Search Bond Documents")
+        
         if 'bond_history' not in st.session_state:
             st.session_state.bond_history = []
+            
+        # Bond-specific clarifying questions state
+        if 'bond_pending_query' not in st.session_state:
+            st.session_state.bond_pending_query = None
+        if 'bond_clarifying_questions' not in st.session_state:
+            st.session_state.bond_clarifying_questions = []
+            
         for chat in st.session_state.bond_history:
             with st.chat_message("user", avatar="👤"):
                 st.markdown(chat['query'])
             with st.chat_message("assistant", avatar="🏛️"):
                 st.markdown(_sanitize_markdown_response(chat['result']['response']))
-        bond_query = st.chat_input("Search bond documents only:", key="bond_input")
-        if bond_query:
-            with st.spinner("🔎 Searching bond documents..."):
-                result = chatbot.process_bond_query(bond_query)
-            st.session_state.bond_history.append({'query': bond_query, 'result': result})
-            st.rerun()
-
-    # Bottom input area: stays at the bottom like a chat app
-    bottom_col1, bottom_col2 = st.columns([1, 5])
-    with bottom_col1:
-        if st.button("🗑️ Clear Chat History"):
-            st.session_state.chat_history = []
-            st.rerun()
-    with bottom_col2:
-        user_query = st.chat_input(
-            "Ask a question about Dallas city agendas:",
-            key="user_input"
-        )
-        if user_query:
-            with st.spinner("🔍 Searching agenda database..."):
-                result = chatbot.process_query(user_query)
-            # Save in-memory history
-            st.session_state.chat_history.append({'query': user_query, 'result': result})
-            # Persist chat log (JSONL & CSV)
-            append_chat_log({
-                'timestamp': result.get('timestamp', ''),
-                'query': user_query,
-                'response': result.get('response', ''),
-                'timing': result.get('timing', {}),
-                'sources': result.get('source_files', []),
-            })
-            # Update query history when a new query is submitted
-            if user_query not in [q['query'] for q in st.session_state.query_history]:
-                st.session_state.query_history.insert(0, {
-                    'query': user_query,
-                    'timestamp': result.get('timestamp', ''),
-                    'total_time': result.get('timing', {}).get('total_time', 0)
-                })
-                st.session_state.query_history = st.session_state.query_history[:10]
-                # Persist recent queries list
-                save_recent_queries_to_disk(st.session_state.query_history)
-            st.rerun()
+                
+        # Show bond clarifying questions if any
+        if st.session_state.bond_clarifying_questions:
+            st.markdown("### 🤔 I'd like to clarify a few things about your bond document search:")
+            
+            bond_clarifications = []
+            for i, question in enumerate(st.session_state.bond_clarifying_questions):
+                st.markdown(f"**{i+1}. {question}**")
+                
+                answer = st.text_input(
+                    f"Your answer:",
+                    key=f"bond_clarification_{i}",
+                    placeholder="Type your answer or leave blank to skip..."
+                )
+                if answer.strip():
+                    bond_clarifications.append(answer.strip())
+            
+            col1, col2 = st.columns(2)
+            with col1:
+                if st.button("🚀 Search bonds with clarifications", type="primary"):
+                    with st.spinner("🔎 Searching bond documents..."):
+                        # Enhance query with clarifications
+                        enhanced_query = st.session_state.bond_pending_query
+                        if bond_clarifications:
+                            clarification_text = " ".join([f"Additional context: {c}" for c in bond_clarifications if c.strip()])
+                            enhanced_query = f"{st.session_state.bond_pending_query} {clarification_text}"
+                        
+                        result = chatbot.process_bond_query(enhanced_query)
+                    
+                    # Add to bond history
+                    display_query = st.session_state.bond_pending_query
+                    if bond_clarifications:
+                        display_query += f" (with clarifications: {'; '.join(bond_clarifications)})"
+                    
+                    st.session_state.bond_history.append({'query': display_query, 'result': result})
+                    
+                    # Clear state
+                    st.session_state.bond_pending_query = None
+                    st.session_state.bond_clarifying_questions = []
+                    st.rerun()
+                    
+            with col2:
+                if st.button("⏭️ Skip clarifications", key="bond_skip"):
+                    with st.spinner("🔎 Searching bond documents..."):
+                        result = chatbot.process_bond_query(st.session_state.bond_pending_query)
+                    
+                    st.session_state.bond_history.append({'query': st.session_state.bond_pending_query, 'result': result})
+                    
+                    # Clear state
+                    st.session_state.bond_pending_query = None
+                    st.session_state.bond_clarifying_questions = []
+                    st.rerun()
+        
+        # Bond input (only show if no pending clarifications)
+        if not st.session_state.bond_clarifying_questions:
+            bond_query = st.chat_input("Ask a question about bond documents:", key="bond_input")
+            if bond_query:
+                # Generate clarifying questions for bond search
+                clarifying_questions = chatbot.generate_clarifying_questions(f"Bond documents: {bond_query}")
+                
+                if clarifying_questions:
+                    st.session_state.bond_pending_query = bond_query
+                    st.session_state.bond_clarifying_questions = clarifying_questions
+                    st.rerun()
+                else:
+                    # No clarification needed, process directly
+                    with st.spinner("🔎 Searching bond documents..."):
+                        result = chatbot.process_bond_query(bond_query)
+                    st.session_state.bond_history.append({'query': bond_query, 'result': result})
+                    st.rerun()
     
     # Sidebar with additional info
     with st.sidebar:
