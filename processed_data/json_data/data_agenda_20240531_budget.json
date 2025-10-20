@@ -1,0 +1,50 @@
+{
+  "agenda_identifier": "agenda_20240531_budget",
+  "agenda_number": 20240531,
+  "source_file": "agenda_20240531_budget.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": null,
+      "time": "9:00 a.m.",
+      "type": "Regular Meeting",
+      "organization": "Dallas City Council",
+      "location": "City Hall, 1500 Marilla, 6th floor"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": [
+        "Atkins (C)",
+        "1DUYDH] (VC)",
+        "$UQROG",
+        "%D]DOGXD",
+        "5LGOH\\",
+        "6WHZDUW",
+        ":HVW",
+        "Bazaldua (C)",
+        "5HVHQGH]",
+        "Mendelsohn (C)",
+        "Schultz (C)",
+        "Moreno",
+        "6FKXOW]",
+        "1DUYDH]"
+      ]
+    },
+    "agenda_items": [],
+    "keywords": [
+      "Dallas City Council",
+      "Regular Meeting",
+      "City Hall",
+      "Economic Development",
+      "Public Safety",
+      "Housing Solutions",
+      "Transportation",
+      "Workforce Education",
+      "Administrative Affairs",
+      "Professional Sports Recruitment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 17730
+}

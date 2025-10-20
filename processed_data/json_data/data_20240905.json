@@ -1,0 +1,174 @@
+{
+  "agenda_identifier": "agenda_20240905_regular",
+  "agenda_number": 20240905,
+  "source_file": "agenda_20240905_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 5, 2024",
+      "time": "10:00 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Park and Recreation Board",
+      "location": "Dallas City Hall, 6FN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Arun Agarwal",
+      "presenters": [
+        "Rachael Berry",
+        "Steve Baker"
+      ],
+      "participants": [
+        "Barbara Sneary",
+        "Karl Hartford"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the Chair.",
+        "presenter": "Arun Agarwal",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "SPECIAL RECOGNITION",
+        "description": "Special recognition of Barbara Sneary for her 27 years of service and dedication to the City of Dallas and Park & Recreation Board. Special recognition of Karl Hartford for his 23 years of service and dedication to the City of Dallas and Park & Recreation Board.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes from the meeting held on August 15, 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.1",
+        "title": "Reverchon Park – Alcohol Permit",
+        "description": "Authorize issuing an alcohol permit to Jodi Jordan, to serve alcohol at the Katy 5K event to be held at Reverchon park.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.2",
+        "title": "Reverchon Park – Alcohol Permit",
+        "description": "Authorize issuing an alcohol permit to Tanisha Maddox, to serve alcohol at the Leukemia & Lymphoma Society Light the Night event.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.3",
+        "title": "Norbuck Park – Alcohol Permit",
+        "description": "Authorize issuing an alcohol permit to Michael Baker, to serve alcohol at the Dallas Running Club Half Marathon event.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.4",
+        "title": "Flag Pole Hill Park – Alcohol Permit",
+        "description": "Authorize issuing an alcohol permit to Brad McCutcheon, to serve alcohol at the Dallas Oktoberfest event.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.5",
+        "title": "Flag Pole Hill Park – Alcohol Permit",
+        "description": "Authorize issuing an alcohol permit to Marcus Grunewald, to serve alcohol at the BMW of Dallas Fun Run.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.6",
+        "title": "Prism Center – Alcohol Permit",
+        "description": "Authorize an alcohol permit to 4Oak Events, to serve alcohol at the Night Market.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.7",
+        "title": "Flag Pole Hill Park – Public Hearing",
+        "description": "Authorize a public hearing to be held on October 23, 2024, regarding the proposed use of a portion of parkland.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI.8",
+        "title": "Cotton Bowl – Supplemental Agreement",
+        "description": "Authorize Supplemental Agreement No. 2 to the construction manager at risk agreement with JE Dunn-Russell for additional construction services.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VIII.11",
+        "title": "Dallas Arboretum & Botanical Society – Pricing Model",
+        "description": "Authorize a variable pricing model and a Credit Card Recovery Fee at the Dallas Arboretum and Botanical Society.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IX.12",
+        "title": "Budget Development Update",
+        "description": "Update on the budget development process.",
+        "presenter": "Rachael Berry",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Park and Recreation",
+      "meeting",
+      "alcohol permit",
+      "public hearing",
+      "budget development",
+      "recognition",
+      "Cotton Bowl",
+      "Dallas Arboretum",
+      "events",
+      "community",
+      "service",
+      "revenue",
+      "funding",
+      "construction"
+    ],
+    "financial_items": [
+      {
+        "description": "Estimated Revenue from Katy 5K event",
+        "amount": "$250",
+        "type": "revenue"
+      },
+      {
+        "description": "Estimated Revenue from Leukemia & Lymphoma Society Light the Night event",
+        "amount": "$250",
+        "type": "revenue"
+      },
+      {
+        "description": "Estimated Revenue from Dallas Running Club Half Marathon event",
+        "amount": "$250",
+        "type": "revenue"
+      },
+      {
+        "description": "Estimated Revenue from Dallas Oktoberfest event",
+        "amount": "$250",
+        "type": "revenue"
+      },
+      {
+        "description": "Estimated Revenue from BMW of Dallas Fun Run",
+        "amount": "$250",
+        "type": "revenue"
+      },
+      {
+        "description": "Revenue from public hearing on parkland use",
+        "amount": "$639.00",
+        "type": "capital gifts"
+      },
+      {
+        "description": "Construction services for Cotton Bowl Renovation",
+        "amount": "$65,015,823.00",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 15628
+}

@@ -1,0 +1,79 @@
+{
+  "agenda_identifier": "agenda_20240827_council",
+  "agenda_number": 20240827,
+  "source_file": "agenda_20240827_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 27, 2024",
+      "time": "2:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Commission on Disabilities",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "John Kalkanli",
+      "presenters": [
+        "Jennifer Alexander",
+        "Hoyt Fuller"
+      ],
+      "participants": [
+        "Christina Puga",
+        "Gay Revi",
+        "Starlet Ramirez",
+        "Rod Hooker",
+        "Christopher Bellew",
+        "Beverly White"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of the June 25, 2024, Commission on Disabilities Meeting minutes",
+        "presenter": "Chairman John Kalkanli",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Chairman Report",
+        "description": "Chairman John Kalkanli will review the ADA Anniversary Celebration on July 26, 2024, at City Hall and discuss the launch of Human Rights Dallas on July 27, 2024.",
+        "presenter": "Chairman John Kalkanli",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Special Education Services in Public Schools",
+        "description": "Presentation on Special Education Services in Public Schools by Deputy Commissioner of Special Populations and Student Supports of the Texas Education Agency.",
+        "presenter": "Jennifer Alexander",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IX",
+        "title": "Autonomous Transportation Solutions Offered by Mozee Inc.",
+        "description": "Presentation on Autonomous Transportation Solutions Offered by Mozee Inc. by Co-Founder/Chief Customer Officer Hoyt Fuller.",
+        "presenter": "Hoyt Fuller",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Commission on Disabilities",
+      "ADA Anniversary",
+      "Human Rights Dallas",
+      "Special Education",
+      "Public Schools",
+      "Autonomous Transportation",
+      "Mozee Inc.",
+      "Dallas City Hall",
+      "Inclusion",
+      "Equity",
+      "Disability Rights",
+      "Public Comment",
+      "Meeting Minutes",
+      "Commissioners' Reports",
+      "Public Participation"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 61784
+}

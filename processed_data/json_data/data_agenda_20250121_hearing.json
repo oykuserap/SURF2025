@@ -1,0 +1,90 @@
+{
+  "agenda_identifier": "agenda_20250121_hearing",
+  "agenda_number": 20250121,
+  "source_file": "agenda_20250121_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 21, 2025",
+      "time": "10:30 A.M. and 1:00 P.M.",
+      "type": "Briefing and Public Hearing",
+      "organization": "Board of Adjustment (Panel A)",
+      "location": "Dallas City Hall, Council Briefing 6ES and Videoconference"
+    },
+    "attendees": {
+      "chair": "David A. Neumann",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Panel A Minutes",
+        "description": "Approval of Panel A Minutes – December 9, 2024",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Application for Special Exception",
+        "description": "Application of Mohanad Albadri for a special exception to enlarge a nonconforming use.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Application for Variance",
+        "description": "Application of Sudduha Sham for a variance to the front-yard setback regulations.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "4",
+        "title": "Application for Special Exception and Variance",
+        "description": "Application of Monica Hernandez for a special exception to the single-family use regulations and for a variance to the maximum height regulations.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "5",
+        "title": "Application for Special Exception",
+        "description": "Application of Richard Powell for a special exception to the fence height regulations.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "6",
+        "title": "Application for Variance",
+        "description": "Application of Daniel Le for a variance to the maximum height requirements.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "7",
+        "title": "Application for Variance",
+        "description": "Application of Tracy Jordan for a variance to the maximum building height regulations.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Board of Adjustment",
+      "Public Hearing",
+      "Variance",
+      "Special Exception",
+      "Dallas City Hall",
+      "Meeting",
+      "Agenda",
+      "Approval",
+      "Height Regulations",
+      "Setback Regulations",
+      "Nonconforming Use",
+      "Fence Height",
+      "Individual Cases",
+      "Holdover Items",
+      "Panel A"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 15849
+}

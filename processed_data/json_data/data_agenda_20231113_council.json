@@ -1,0 +1,36 @@
+{
+  "agenda_identifier": "agenda_20231113_council",
+  "agenda_number": 20231113,
+  "source_file": "agenda_20231113_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 13, 2023",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Workforce, Education, and Equity Committee",
+      "location": "COUNCIL CHAMBERS, CITY HALL"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "Workforce",
+      "Education",
+      "Equity",
+      "Committee",
+      "Dallas",
+      "Cancelled",
+      "Meeting",
+      "City Hall",
+      "Public Notice",
+      "Next Meeting",
+      "December 11, 2023"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 1912
+}

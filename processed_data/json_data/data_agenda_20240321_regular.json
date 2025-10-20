@@ -1,0 +1,64 @@
+{
+  "agenda_identifier": "agenda_20240321_regular",
+  "agenda_number": 20240321,
+  "source_file": "agenda_20240321_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 21, 2024",
+      "time": "4:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Arts and Culture Advisory Commission",
+      "location": "Dallas City Hall, 6FN - Park and Recreation Board Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "David Small",
+      "presenters": [
+        "David Small",
+        "Niloo Jalilvand",
+        "Ryan Blizter",
+        "Martine Philippe"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the February 15, 2024, Arts and Culture Advisory Commission meeting minutes",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Recommendation in support of the FY 2024-25 Community Artist Program Guidelines",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Recommendation in support of the ArtsActivate 2025 Guidelines",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Arts and Culture",
+      "Commission",
+      "Dallas City Hall",
+      "Community Artist Program",
+      "ArtsActivate 2025",
+      "Public Speakers",
+      "Executive Session",
+      "Cultural Spotlight",
+      "Pegasus Media Project",
+      "Director's Update",
+      "Bond",
+      "Dallas Arts Month"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10139
+}

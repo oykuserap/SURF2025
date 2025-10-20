@@ -1,0 +1,62 @@
+{
+  "agenda_identifier": "agenda_20240725_special",
+  "agenda_number": 20240725,
+  "source_file": "agenda_20240725_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "July 25, 2024",
+      "time": "10:00 A.M.",
+      "type": "Special Called Meeting",
+      "organization": "Dallas Park and Recreation Board",
+      "location": "Dallas City Hall, 6FN Conference Room & Videoconference"
+    },
+    "attendees": {
+      "chair": "Arun Agarwal",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the chair.",
+        "presenter": "Arun Agarwal",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Budget Development Workshop",
+        "description": "Discussion on the development of the budget.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "III",
+        "title": "Adjournment",
+        "description": "Closing of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Park and Recreation",
+      "Special Called Meeting",
+      "Budget Development",
+      "City Hall",
+      "Videoconference",
+      "Arun Agarwal",
+      "Meeting Access",
+      "Executive Session",
+      "Public Participation",
+      "Accommodations",
+      "Texas Open Meetings Act",
+      "Financial Information",
+      "Security Personnel",
+      "Economic Development"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 7177
+}

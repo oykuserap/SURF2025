@@ -1,0 +1,97 @@
+{
+  "agenda_identifier": "agenda_20250127_regular",
+  "agenda_number": 20250127,
+  "source_file": "agenda_20250127_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 27, 2025",
+      "time": "6:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "MLK Advisory Board",
+      "location": "Dr. Martin Luther King, Jr. Community Center, Activity Room A, Dallas, Texas; Online via WebEx"
+    },
+    "attendees": {
+      "chair": "Mrs. Clara Brown-Trimble",
+      "presenters": [
+        "Mrs. Clara Brown-Trimble",
+        "Mrs. LaRhonda Bacon",
+        "Ms. Candace Wicks",
+        "Ms. Pamela R. Jones"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order/Welcome",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Invocation/Opening Statement",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Advisory Board Member & City Staff Roll Call",
+        "description": "",
+        "presenter": "Mrs. LaRhonda Bacon",
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Public Comments",
+        "description": "Public speakers are invited to comment on agenda items for up to 3 minutes each.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "5",
+        "title": "Approval of December 16, 2024, Minutes",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Discussion & Vote: 2024 MLK Advisory Board Annual Report",
+        "description": "Board members will vote for submission of the 2024 Annual Report.",
+        "presenter": "Ms. Candace Wicks",
+        "action_required": "vote"
+      },
+      {
+        "item_number": "7",
+        "title": "MLK Center Manager Update",
+        "description": "Updates on various programs and services at the MLK Jr. Community Center.",
+        "presenter": "Ms. Pamela R. Jones",
+        "action_required": null
+      },
+      {
+        "item_number": "8",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "MLK Advisory Board",
+      "Community Center",
+      "Public Comments",
+      "Annual Report",
+      "Volunteer Opportunities",
+      "Legal Aid",
+      "Winter Warm-Up",
+      "Taste of Soul",
+      "Dallas",
+      "Meeting Minutes"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 5891
+}

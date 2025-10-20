@@ -1,0 +1,101 @@
+{
+  "agenda_identifier": "agenda_20240916_budget",
+  "agenda_number": 20240916,
+  "source_file": "agenda_20240916_budget.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 16, 2024",
+      "time": "1:00 PM",
+      "type": "Council Committee Meeting",
+      "organization": "Transportation and Infrastructure Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Narvaez",
+      "presenters": [
+        "Patrick Carreno",
+        "Carrie Rogers",
+        "Emily Liu",
+        "Gray Parker",
+        "James Baker III",
+        "Paul Tomme",
+        "Ghassan Khankarli"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A 24-2900",
+        "title": "Approval of the June 17, 2024 Transportation and Infrastructure Committee Meeting",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B 24-2902",
+        "title": "Dallas Love Field Master Plan Progress Update",
+        "description": "Update on the progress of the Dallas Love Field Master Plan.",
+        "presenter": "Patrick Carreno",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C 24-2901",
+        "title": "Consideration of 2025 Transportation & Infrastructure Legislative Priorities",
+        "description": "Discussion on the legislative priorities for 2025.",
+        "presenter": "Carrie Rogers",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D 24-2906",
+        "title": "Digital Kiosks within City Rights-of-Way Update",
+        "description": "Update on the implementation of digital kiosks in city rights-of-way.",
+        "presenter": "Emily Liu, Gray Parker",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E 24-2904",
+        "title": "Approval Amendments to Chapter 3, Article III, Chapter 8, and Appendix 1 of the DFW International Airport’s Code of Rules and Regulations",
+        "description": "Consideration of amendments to the airport's code of rules and regulations.",
+        "presenter": "James Baker III, Paul Tomme",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "F 24-2905",
+        "title": "Proposed FY 25 Transportation & Public Works Quarterly Report- Format",
+        "description": "Discussion on the format of the quarterly report for FY 25.",
+        "presenter": "Ghassan Khankarli",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G 24-2908",
+        "title": "Forecast",
+        "description": "Presentation of the forecast related to transportation and infrastructure.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H 24-2951",
+        "title": "September 25, 2024, Upcoming City Council Transportation & Infrastructure Draft Agenda",
+        "description": "Preview of the upcoming draft agenda for the next meeting.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Transportation",
+      "Infrastructure",
+      "Dallas Love Field",
+      "Legislative Priorities",
+      "Digital Kiosks",
+      "Airport Regulations",
+      "Quarterly Report",
+      "Forecast",
+      "City Council",
+      "Committee Meeting",
+      "Public Works"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20047
+}

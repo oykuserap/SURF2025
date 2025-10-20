@@ -1,0 +1,85 @@
+{
+  "agenda_identifier": "agenda_20240401_budget_01",
+  "agenda_number": 20240401,
+  "source_file": "agenda_20240401_budget_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 1, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Parks, Trails, and the Environment Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; Virtual attendance available"
+    },
+    "attendees": {
+      "chair": "Moreno",
+      "presenters": [
+        "Lori Trulson",
+        "Sabina Carr",
+        "Kevin Mondy",
+        "M. Elizabeth (Liz) Cedillo-Pereira",
+        "Kathryn Bazan"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the March 4, 2024 Parks, Trails, and Environment Committee Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Municipal Setting Designation (MSD) and Environmental Due Diligence (EDD) Program Overview",
+        "description": "Overview of the MSD and EDD programs.",
+        "presenter": "Lori Trulson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Reflections and Looking Ahead Park Board Annual Update",
+        "description": "Annual update from the Park Board.",
+        "presenter": "Sabina Carr",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Keep Dallas Beautiful",
+        "description": "Presentation on the Keep Dallas Beautiful initiative.",
+        "presenter": "Kevin Mondy",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Water Conservation Memorandum of Understanding (MOU) with Tarrant Regional Water District",
+        "description": "Discussion on the MOU regarding water conservation.",
+        "presenter": "M. Elizabeth (Liz) Cedillo-Pereira",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Environmental Commission Update",
+        "description": "Update from the Environmental Commission.",
+        "presenter": "Kathryn Bazan",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Parks",
+      "Trails",
+      "Environment",
+      "Municipal Setting Designation",
+      "Environmental Due Diligence",
+      "Water Conservation",
+      "Keep Dallas Beautiful",
+      "Park Board",
+      "Environmental Commission",
+      "City Council",
+      "Dallas"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 24773
+}

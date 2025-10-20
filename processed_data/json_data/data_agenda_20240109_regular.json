@@ -1,0 +1,95 @@
+{
+  "agenda_identifier": "agenda_20240109_regular",
+  "agenda_number": 20240109,
+  "source_file": "agenda_20240109_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 9, 2024",
+      "time": "12:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Dallas Housing Finance Corporation",
+      "location": "Dallas City Hall, L1FN Auditorium and Videoconference"
+    },
+    "attendees": {
+      "chair": "Marcy Helfand",
+      "presenters": [
+        "Aaron Eaquinto",
+        "George Rodriguez",
+        "Tim Nelson"
+      ],
+      "participants": [
+        "Jaclyn Schroeder"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of the minutes for the December 12, 2023 City of Dallas Housing Finance Corporation Meeting",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": "Marcy Helfand",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Consider and Adopt an Inducement Resolution",
+        "description": "Declaring intent to issue bonds for a loan to LIH Paradise Gardens Preservation, LP to provide financing for a multifamily residential rental development for persons of low and moderate income (Paradise Gardens Apartments) located at 1500 N Garrett Avenue in an aggregate principal amount not to exceed $18,000,000.00.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss and adopt"
+      },
+      {
+        "item_number": "VI",
+        "title": "Review and discussion of the Corporation’s 2023 Annual Report",
+        "description": "Discussion regarding the annual report of the Corporation.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Review and discussion of Dallas HFC Treasurer’s report for eleven months ending November 30, 2023",
+        "description": "Discussion of the Treasurer's report.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Review and discussion of the Corporation’s pipeline report as of December 31, 2023",
+        "description": "Discussion regarding the pipeline report.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IX",
+        "title": "Update from Staffing Task Force meeting held January 3, 2024",
+        "description": "Update on the Staffing Task Force meeting.",
+        "presenter": "Marcy Helfand",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas Housing Finance Corporation",
+      "meeting",
+      "bonds",
+      "financing",
+      "multifamily residential",
+      "low income",
+      "annual report",
+      "Treasurer’s report",
+      "pipeline report",
+      "Staffing Task Force",
+      "public comments",
+      "minutes approval",
+      "inducement resolution",
+      "Dallas City Hall",
+      "videoconference"
+    ],
+    "financial_items": [
+      {
+        "description": "Inducement Resolution for financing for Paradise Gardens Apartments",
+        "amount": "$18,000,000.00",
+        "type": "funding"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9861
+}

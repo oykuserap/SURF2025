@@ -1,0 +1,115 @@
+{
+  "agenda_identifier": "agenda_20231211_youth",
+  "agenda_number": 20231211,
+  "source_file": "agenda_20231211_youth.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 11th, 2023",
+      "time": "6:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Youth Commission",
+      "location": "Dallas City Hall, 6ES and Videoconference"
+    },
+    "attendees": {
+      "chair": "Commissioner Mercado-Cruz",
+      "presenters": [
+        "Taylor Moody",
+        "Commissioner Nelson",
+        "Commissioner Jennings",
+        "Commissioner Tamfu",
+        "Commissioner Okon",
+        "Commissioner Hernandez",
+        "Commissioner Hawkins",
+        "Commissioner Hawthorne"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Commissioner Mercado-Cruz",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Approval of Minutes",
+        "description": "(November 2023)",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "III",
+        "title": "External Presentation",
+        "description": "City of Dallas Website Redesign",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IV",
+        "title": "Welcoming Communities Session Discussion",
+        "description": "",
+        "presenter": "Taylor Moody",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "NCL Partnership & Civic Engagement Survey",
+        "description": "",
+        "presenter": "Commissioner Mercado-Cruz",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Youth Democracy Reform Committee Proposal",
+        "description": "",
+        "presenter": "Commissioner Nelson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Reports of Special Committees",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "Unfinished Business/General Orders",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Announcements",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Youth Commission",
+      "Regular Meeting",
+      "Website Redesign",
+      "Civic Engagement",
+      "Youth Democracy",
+      "Community",
+      "Reports",
+      "Unfinished Business",
+      "Announcements",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8192
+}

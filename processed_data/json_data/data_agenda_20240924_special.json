@@ -1,0 +1,148 @@
+{
+  "agenda_identifier": "agenda_20240924_special",
+  "agenda_number": 20240924,
+  "source_file": "agenda_20240924_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 24, 2024",
+      "time": "12:00 PM",
+      "type": "Special Meeting",
+      "organization": "City of Dallas Public Facility Corporation",
+      "location": "Dallas City Hall, Auditorium L1FN and Videoconference, 1500 Marilla Street, Dallas, TX 75201"
+    },
+    "attendees": {
+      "chair": "Keith Pomykal",
+      "presenters": [
+        "Keith Pomykal",
+        "Samuel McDaniel",
+        "Sam McDaniel",
+        "Jake Brown",
+        "Jim Plummer",
+        "Braxton Parsons",
+        "Baron Eliason",
+        "Ken Montgomery",
+        "Kevin Winters"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Roll Call",
+        "description": "",
+        "presenter": "Samuel McDaniel",
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Public Testimony",
+        "description": "public comment(s) on items 4-13",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Discussion and approval of the minutes",
+        "description": "Discussion and approval of the minutes of August 27, 2024, Board Meeting",
+        "presenter": "Keith Pomykal",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Ethics Disclosures",
+        "description": "Board members should disclose any relationship a member may have with the projects to be considered on this agenda.",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      },
+      {
+        "item_number": "6",
+        "title": "Discussion regarding demolition and resolution",
+        "description": "Discussion regarding the demolition of the facility at 9999 Technology Blvd and Resolution authorizing the Park at Northpoint Apartments transaction.",
+        "presenter": "Sam McDaniel; Jake Brown",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "7",
+        "title": "Discussion and approval of a resolution for Burnett Lofts",
+        "description": "Discussion and approval of a resolution authorizing the negotiation and execution of a Term Sheet for the Burnett Lofts.",
+        "presenter": "Sam McDaniel; Jim Plummer; Braxton Parsons",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Creation of a subcommittee",
+        "description": "Discussion and approval of the creation of a subcommittee with the purpose of hiring staff.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "Ethics Presentation",
+        "description": "Presentation regarding board and commission ethics regulations.",
+        "presenter": "Baron Eliason",
+        "action_required": null
+      },
+      {
+        "item_number": "10",
+        "title": "Discussion regarding proposed changes to the DPFC Bylaws",
+        "description": "",
+        "presenter": "Ken Montgomery",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "11",
+        "title": "Discussion and review of Dallas PFC Website Report",
+        "description": "",
+        "presenter": "Sam McDaniel; Kevin Winters",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "12",
+        "title": "Discussion regarding Texas Attorney General training",
+        "description": "Discussion regarding Texas Attorney General Texas Public Information Act and Open Meetings Act online training.",
+        "presenter": "Sam McDaniel",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "13",
+        "title": "Discussion and review of Dallas PFC Pipeline Report",
+        "description": "",
+        "presenter": "Sam McDaniel",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "14",
+        "title": "Adjourn",
+        "description": "",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Public Facility Corporation",
+      "Board Meeting",
+      "Ethics Disclosures",
+      "Burnett Lofts",
+      "Northpoint Apartments",
+      "Demolition",
+      "Subcommittee",
+      "Bylaws",
+      "Public Testimony",
+      "Pipeline Report",
+      "Website Report",
+      "Texas Attorney General",
+      "Open Meetings Act"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9910
+}

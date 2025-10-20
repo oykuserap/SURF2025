@@ -1,0 +1,112 @@
+{
+  "agenda_identifier": "agenda_20250401_special",
+  "agenda_number": 20250401,
+  "source_file": "agenda_20250401_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 1, 2025",
+      "time": "1:00 p.m.",
+      "type": "Special Called Meeting",
+      "organization": "Downtown Dallas Development Authority",
+      "location": "Dallas City Hall, 6DN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Joseph Pitchford",
+      "presenters": [
+        "Tamara L. Leak"
+      ],
+      "participants": [
+        "Billy Prewitt"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call meeting to order and declare a quorum is established.",
+        "description": "",
+        "presenter": "Joseph Pitchford",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Motion for Chair to preside over the Special Called Meeting.",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Introduction of meeting participants.",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Public comments pertaining to agenda items 5 through 6.",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "5",
+        "title": "Review and consider the Meeting Record of the January 16, 2025 special called joint meeting.",
+        "description": "Presenter: Tamara L. Leak, Assistant Director (I), Office of Economic Development. Board(s): Downtown Connection TIF District and DDDA.",
+        "presenter": "Tamara L. Leak",
+        "action_required": "Approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Review and consider an amendment of the Downtown Connection TIF District Project Plan.",
+        "description": "Add a provision for a directed sale of an approximately 1.09 acre property and reprogram $6,980,602 from the budget to support the relocation and development of a new Fire Station No. 18.",
+        "presenter": "Tamara L. Leak",
+        "action_required": "Approve and Forward a Recommendation of Approval to the City Council"
+      },
+      {
+        "item_number": "7",
+        "title": "Review and consider a development agreement with Tango North RF, LLC.",
+        "description": "In an amount not to exceed $29,399,487 for the Fire Station No. 18 Relocation Project.",
+        "presenter": "Tamara L. Leak",
+        "action_required": "Approve and Forward a Recommendation of Approval to the City Council"
+      },
+      {
+        "item_number": "8",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": "Joseph Pitchford",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Downtown Connection TIF District",
+      "Dallas City Hall",
+      "Special Called Meeting",
+      "Public Safety Building",
+      "Fire Station No. 18",
+      "Development Agreement",
+      "TIF Subsidy",
+      "Economic Development",
+      "Meeting Record",
+      "Amendment",
+      "Reinvestment Zone Financing Plan",
+      "Public Comments",
+      "Quorum",
+      "Participants",
+      "Auxiliary Aid"
+    ],
+    "financial_items": [
+      {
+        "description": "Reprogramming of funds from the budget to support the relocation and development of a new Fire Station No. 18.",
+        "amount": "$6,980,602",
+        "type": "budget"
+      },
+      {
+        "description": "Development agreement for the Fire Station No. 18 Relocation Project.",
+        "amount": "$29,399,487",
+        "type": "TIF Subsidy"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 15293
+}

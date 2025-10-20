@@ -1,0 +1,103 @@
+{
+  "agenda_identifier": "agenda_20240415_regular",
+  "agenda_number": 20240415,
+  "source_file": "agenda_20240415_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 15, 2024",
+      "time": "6:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Dr. Martin Luther King, Jr. Community Center Advisory Board",
+      "location": "Martin Luther King, Jr. Community Center, Dallas, TX and online via WebEx"
+    },
+    "attendees": {
+      "chair": "Mrs. Clara Brown-Trimble",
+      "presenters": [
+        "Dr. Jamel Slaughter",
+        "Mrs. LaRhonda Bacon"
+      ],
+      "participants": [
+        "Public Speakers",
+        "MLK Advisory Board Member"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order/Welcome",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Invocation/Opening Statement",
+        "description": "",
+        "presenter": "MLK Advisory Board Member",
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Advisory Board Member & City Staff Roll Call",
+        "description": "",
+        "presenter": "Mrs. LaRhonda Bacon",
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Public Comments",
+        "description": "",
+        "presenter": "Public Speakers",
+        "action_required": null
+      },
+      {
+        "item_number": "5",
+        "title": "Approval of March 18, 2024, Minutes",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Discussion & Vote: 2025 MLK Celebration Planning",
+        "description": "Discussion on color schemes, themes, and keynote speaker nominations for the 2025 MLK Celebration.",
+        "presenter": "Dr. Jamel Slaughter",
+        "action_required": "discuss and vote"
+      },
+      {
+        "item_number": "7",
+        "title": "2024 MLK Center Manager Update",
+        "description": "Updates on fresh produce distribution, volunteer opportunities, and upcoming events.",
+        "presenter": "Mrs. LaRhonda Bacon",
+        "action_required": null
+      },
+      {
+        "item_number": "8",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "MLK Advisory Board",
+      "Community Center",
+      "Public Comments",
+      "Celebration Planning",
+      "Keynote Speaker",
+      "Nominations",
+      "Volunteer Opportunities",
+      "Events",
+      "Fresh Produce Distribution",
+      "Legal Aid",
+      "AIDS Walk",
+      "Spring Egg-stravaganza",
+      "Remembrance Ceremony",
+      "Volunteer Appreciation",
+      "Cinco de Mayo"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 6720
+}

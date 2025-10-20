@@ -1,0 +1,118 @@
+{
+  "agenda_identifier": "agenda_20240123_council",
+  "agenda_number": 20240123,
+  "source_file": "agenda_20240123_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 23, 2024",
+      "time": "6:30 PM",
+      "type": "Regular Meeting",
+      "organization": "Charter Review Commission",
+      "location": "Council Chambers, 6th Floor, City Hall and via video conference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of January 11, 2024 Charter Review Commission Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Submitted Amendments Recommended for Exclusion",
+        "description": "Consideration of amendments recommended for exclusion.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Delete section allowing urban conservation programs",
+        "description": "Delete the section allowing the city council to provide urban conservation, rehabilitation, and redevelopment programs.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Rename Zoning Commission",
+        "description": "Rename the Zoning Commission to the City Plan and Zoning Commission and adjust membership requirements.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Amend process for appointing plan commission members",
+        "description": "Amend the process for appointing the chair and members of the plan commission.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Allow boards and commissions to elect vice chairs",
+        "description": "Allow city boards and commissions to elect their own vice chairs.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Remove Thoroughfare Plan requirement",
+        "description": "Remove the requirement to have a Thoroughfare Plan.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Amend language for City Secretary's hiring ability",
+        "description": "Amend language to allow the City Secretary to hire all staff within their office.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Delete requirement for assistant city attorneys",
+        "description": "Delete the requirement that all assistant city attorneys shall devote their entire time to the service of the city.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Delete provisions for opening and inspection of bids",
+        "description": "Delete provisions pertaining to the procedures for the opening and public inspection of bids.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "Abolish Mayor Pro Tem and Deputy Mayor Pro Tem positions",
+        "description": "Abolish or amend the appointment process of the Mayor Pro Tem and Deputy Mayor Pro Tem positions.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Charter Review",
+      "Commission",
+      "Amendments",
+      "Zoning",
+      "City Secretary",
+      "Urban Conservation",
+      "Vice Chairs",
+      "Thoroughfare Plan",
+      "Assistant City Attorneys",
+      "Bids",
+      "Mayor Pro Tem",
+      "Executive Session",
+      "Public Participation",
+      "City Council",
+      "Dallas"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8796
+}

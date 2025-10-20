@@ -1,0 +1,24 @@
+{
+  "agenda_identifier": "agenda_20241027_regular",
+  "agenda_number": 20241027,
+  "source_file": "agenda_20241027_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": null,
+      "time": null,
+      "type": null,
+      "organization": null,
+      "location": "Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 1577
+}

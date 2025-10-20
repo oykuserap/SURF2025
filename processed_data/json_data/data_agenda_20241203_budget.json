@@ -1,0 +1,138 @@
+{
+  "agenda_identifier": "agenda_20241203_budget",
+  "agenda_number": 20241203,
+  "source_file": "agenda_20241203_budget.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 3, 2024",
+      "time": "1:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Transportation and Infrastructure Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Narvaez",
+      "presenters": [
+        "Patrick Carreno",
+        "Sarah Standifer",
+        "Ghassan Khankarli, Ph.D., P.E."
+      ],
+      "participants": [
+        "Atkins",
+        "Mendelsohn",
+        "Moreno",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Arnold",
+        "Bazaldua",
+        "Blackmon",
+        "Resendez",
+        "Willis",
+        "Gracey",
+        "Schultz",
+        "Johnson"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "A 24-3681",
+        "title": "Approval of the October 21, 2024 Transportation and Infrastructure Committee Meeting",
+        "description": "Minutes",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B 24-3682",
+        "title": "Dallas Love Field Master Plan and Capital Improvement Program Update",
+        "description": "Update as of November 1, 2024 and Proposed Next Steps",
+        "presenter": "Patrick Carreno",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C 24-3716",
+        "title": "2024 Long Range Water Supply Plan Update",
+        "description": "December 11, 2024 City Council Agenda Item #24-3184",
+        "presenter": "Sarah Standifer",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D 24-3708",
+        "title": "Dallas City Council Agenda Item #24-3561, US Army Corps of Engineers Dallas Floodway Project Partnership Agreement",
+        "description": "Memorandum",
+        "presenter": "Sarah Standifer",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E 24-3717",
+        "title": "Information on the planned launch of Personal Delivery Devices - Avride",
+        "description": "Memorandum",
+        "presenter": "Ghassan Khankarli, Ph.D., P.E.",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F 24-3710",
+        "title": "Committee Forecast",
+        "description": null,
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Transportation",
+      "Infrastructure",
+      "Dallas",
+      "Water Supply",
+      "Floodway Project",
+      "Public Works",
+      "Aviation",
+      "Capital Improvement",
+      "City Council",
+      "Meeting Minutes",
+      "Personal Delivery Devices",
+      "Master Plan",
+      "Budget",
+      "Grant",
+      "Construction"
+    ],
+    "financial_items": [
+      {
+        "description": "Increase in appropriations for the Project Partnership Agreement with the U.S. Army Corps of Engineers",
+        "amount": "$90,090,000",
+        "type": "budget"
+      },
+      {
+        "description": "Acquisition of a drainage easement for the Sanford Avenue Storm Drainage Relief System Project",
+        "amount": "$95,649.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Increase in construction services contract for wastewater interceptor installation",
+        "amount": "$7,557,510.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Increase in construction services contract for improvements at water meter vaults",
+        "amount": "$303,585.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Acceptance of FY 2025 grant for Routine Airport Maintenance Program Project at Dallas Executive Airport",
+        "amount": "$100,000.00",
+        "type": "grant"
+      },
+      {
+        "description": "Acceptance of FY 2025 grant for Routine Airport Maintenance Program Project at Dallas CBD Vertiport Airport",
+        "amount": "$100,000.00",
+        "type": "grant"
+      },
+      {
+        "description": "Architectural services contract for consulting services within the Dallas Airport System",
+        "amount": "$250,000.00",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 38621
+}

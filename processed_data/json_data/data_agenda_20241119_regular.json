@@ -1,0 +1,86 @@
+{
+  "agenda_identifier": "agenda_20241119_regular",
+  "agenda_number": 20241119,
+  "source_file": "agenda_20241119_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 19, 2024",
+      "time": "5:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "City Secretary",
+      "location": "Central Library, 1515 Young St. Dallas, TX 75201, Board Room, 2nd floor, Video Conference Link: https://dallascityhall.webex.com/dallascityhall/j.php?MTID=m6712c8915c86e6dae46c128c7947a519"
+    },
+    "attendees": {
+      "chair": "Temporary Chair",
+      "presenters": [
+        "Melissa Dease",
+        "Heather Lowe"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": null,
+        "presenter": "Temporary Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Minutes from October 29, 2024",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Reports of Officers, Boards, Standing Committees",
+        "description": "Chair’s Report including Annual Report goals review and Propositions S and U impact on libraries",
+        "presenter": "Temporary Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Staff Reports/Briefings",
+        "description": "Strategic Partnerships/partnership manual and Director’s Report",
+        "presenter": "Melissa Dease, Heather Lowe",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Regular Meeting",
+      "City Secretary",
+      "Public Speakers",
+      "Approval of Minutes",
+      "Reports of Officers",
+      "Chair’s Report",
+      "Strategic Partnerships",
+      "Director’s Report",
+      "Adjournment",
+      "Propositions S and U",
+      "Annual Report",
+      "Library",
+      "Executive Session",
+      "Accommodations"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8968
+}

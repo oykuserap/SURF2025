@@ -1,0 +1,115 @@
+{
+  "agenda_identifier": "agenda_20240909_budget",
+  "agenda_number": 20240909,
+  "source_file": "agenda_20240909_budget.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 9, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Dallas City Council Workforce, Education, and Equity Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": "Carolyn King Arnold",
+      "presenters": [
+        "Dr. Lindsey Wilson, Director, Office of Equity and Inclusion",
+        "Jessica Galleshaw, Director, Office of Community Care",
+        "Nina Arias, Director, Department of Human Resources",
+        "Sonya Batts, Manager, Department of Human Resources",
+        "Heather Wood, Training Manager, Department of Human Resources",
+        "Laura Dizien, Senior Training Specialist, Department of Human Resources",
+        "Christopher Graves, Human Rights Officer, Office of Equity and Inclusion",
+        "Holly Holt, Assistant Director, Office of Community Care"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "Approval of the August 12, 2024 Workforce, Education, and Equity Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B",
+        "title": "Reintroduction of the Workforce, Education, and Equity Committee Goals, Scope, and Action Plans and Next Steps",
+        "description": "Discussion on the goals and action plans for the committee.",
+        "presenter": "Dr. Lindsey Wilson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Upskilling Pilot Program September 2024 Update and Next Steps",
+        "description": "Update on the Upskilling Pilot Program and its impact.",
+        "presenter": "Nina Arias",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Office of Equity and Inclusion - Update on Workshop for Possible Creation of Human Rights Task Force",
+        "description": "Update on the progress of the human rights workshop.",
+        "presenter": "Christopher Graves",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Dallas Youth Commission Update on Youth Civic Awareness Week, August 2024",
+        "description": "Report on the activities of the Youth Commission during Civic Awareness Week.",
+        "presenter": "Jessica Galleshaw",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Upcoming Office of Community Care Agenda Items for Early Childhood and Out of School Time Services Program Contracts",
+        "description": "Discussion on upcoming contracts for childcare services.",
+        "presenter": "Jessica Galleshaw",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Update on the Procurement for American Rescue Plan Act Redevelopment Funds Garden Box Kits",
+        "description": "Update on the procurement process for garden box kits.",
+        "presenter": "Jessica Galleshaw",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Workforce",
+      "Education",
+      "Equity",
+      "Community Care",
+      "Human Rights",
+      "Youth Commission",
+      "Civic Engagement",
+      "Childcare Services",
+      "Upskilling",
+      "Diversity",
+      "Inclusion",
+      "Public Safety",
+      "Social Services",
+      "Housing",
+      "Health"
+    ],
+    "financial_items": [
+      {
+        "description": "Funding for Early Childhood and Out-of-School Time Services Program Contracts",
+        "amount": "$550,000.00",
+        "type": "budget"
+      },
+      {
+        "description": "Funding for Vogel Alcove to provide childcare services for homeless children",
+        "amount": "$150,000.00",
+        "type": "budget"
+      },
+      {
+        "description": "Funding for Open Arms, Inc. to provide childcare services for special needs children",
+        "amount": "$150,000.00",
+        "type": "budget"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 332500
+}

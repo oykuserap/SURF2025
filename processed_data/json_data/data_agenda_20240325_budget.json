@@ -1,0 +1,99 @@
+{
+  "agenda_identifier": "agenda_20240325_budget",
+  "agenda_number": 20240325,
+  "source_file": "agenda_20240325_budget.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 25, 2024",
+      "time": "1:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Government Performance and Financial Management Committee",
+      "location": "Council Briefing Room, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "John Mirkin",
+        "Sabrina Dugan",
+        "Sara Dempsey",
+        "Jeff Wada",
+        "Bart Bevers",
+        "Jenny Kerzman"
+      ],
+      "participants": [
+        "Development Services",
+        "City Manager’s Office",
+        "Budget & Management Services",
+        "Small Business Center",
+        "City Controller’s Office",
+        "Office of the City Auditor"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the February 26, 2024 Government Performance and Financial Management Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Impact of AI in Local Government Permit Review",
+        "description": "Discussion on the impact of AI technology in local government permit review processes.",
+        "presenter": "John Mirkin, Sabrina Dugan",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "2023 External Audit Presentation and Discussion",
+        "description": "Presentation and discussion regarding the external audit for the year 2023.",
+        "presenter": "Sara Dempsey, Jeff Wada",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Inspector General Division Update",
+        "description": "Update from the Inspector General regarding ongoing investigations and activities.",
+        "presenter": "Bart Bevers",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Annual Investment Policy Review",
+        "description": "Review of the annual investment policy by the Assistant Director of Treasury.",
+        "presenter": "Jenny Kerzman",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Development Services - Monthly Performance Update & Process Map Improvements",
+        "description": "Monthly performance update and discussion on process map improvements.",
+        "presenter": "Development Services",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Review of City Real Estate for Development and Redevelopment Opportunities",
+        "description": "Discussion on potential development and redevelopment opportunities for city real estate.",
+        "presenter": "City Manager’s Office",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Government Performance",
+      "Financial Management",
+      "AI Impact",
+      "External Audit",
+      "Inspector General",
+      "Investment Policy",
+      "Development Services",
+      "City Real Estate",
+      "Performance Update",
+      "Redevelopment Opportunities"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 22964
+}

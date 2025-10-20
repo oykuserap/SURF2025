@@ -1,0 +1,87 @@
+{
+  "agenda_identifier": "agenda_20250206_hearing",
+  "agenda_number": 20250206,
+  "source_file": "agenda_20250206_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 6, 2025",
+      "time": "9:00 AM - 12:30 PM",
+      "type": "Regular Meeting",
+      "organization": "City Plan Commission",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Michael Woods",
+        "Karl A. Crawley",
+        "Rob Baldwin",
+        "Andrew Ruegg",
+        "Cherrell Caldwell",
+        "Jami Russell",
+        "Lori Levy",
+        "Audra Buckley",
+        "Martin Bate",
+        "LeQuan Clinton"
+      ],
+      "participants": [
+        "Yolanda Hernandez",
+        "Marcus Watson",
+        "Sarah May",
+        "Hema Sharma"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Zoning Case - Consent",
+        "description": "An application for an amendment to Planned Development District No. 655, on the southwest corner of Potters House Way and Truth Drive.",
+        "presenter": "Michael Woods",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Zoning Case - Specific Use Permit",
+        "description": "An application for the sale of alcoholic beverages in conjunction with a general merchandise or food store greater than 3,500 square feet.",
+        "presenter": "Karl A. Crawley",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Zoning Case - Specific Use Permit",
+        "description": "An application for a commercial amusement (inside) on property zoned Planned Development District No. 619.",
+        "presenter": "Rob Baldwin",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "39",
+        "title": "Landmark Appeal",
+        "description": "An appeal of the Landmark Commission’s decision of denial without prejudice to replace eighteen (18) of the historic wood windows on the main structure with vinyl units.",
+        "presenter": "Marcus Watson",
+        "action_required": "deny without prejudice"
+      },
+      {
+        "item_number": "Other Matters",
+        "title": "Consideration of Appointments to CPC Committees",
+        "description": "Discussion regarding appointments to various committees.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "City Plan Commission",
+      "Zoning Cases",
+      "Specific Use Permit",
+      "Public Hearing",
+      "Landmark Appeal",
+      "Dallas",
+      "Planning and Development",
+      "Community Retail District",
+      "Public Testimony",
+      "Committee Appointments"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 59922
+}

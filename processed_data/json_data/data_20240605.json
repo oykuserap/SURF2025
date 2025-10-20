@@ -1,0 +1,71 @@
+{
+  "agenda_identifier": "agenda_20240605_council",
+  "agenda_number": 20240605,
+  "source_file": "agenda_20240605_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 5, 2024",
+      "time": "9:00 AM",
+      "type": "Council Briefing Meeting",
+      "organization": "Dallas City Council",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the May 15, 2024 City Council Meeting",
+        "description": null,
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Consideration of appointments to boards and commissions",
+        "description": "Evaluation and duties of board and commission members (List of nominees is available in the City Secretary's Office)",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Casting of lots to identify the recommended vendor",
+        "description": "Resulting from tie bids between Marco Holdings I, LLC dba Bumper to Bumper and Southwest International Truck, Inc. on lines 9-1, 9-2, and 15-1 in response to bid BG24-00023860 for a three-year master agreement for the purchase of aftermarket automotive parts for the use of the City’s fleet",
+        "presenter": "Office of Procurement Services",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Discussion of Recommended Amendments to the 2024 Charter Review Commission’s Final Report",
+        "description": "Submitted Councilmember-Proposed Charter Amendments",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Consideration of the 2025 Federal Legislative Priorities",
+        "description": null,
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "Council Briefing",
+      "appointments",
+      "boards and commissions",
+      "casting of lots",
+      "vendor selection",
+      "automotive parts",
+      "Charter Review",
+      "legislative priorities",
+      "executive session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 21300
+}

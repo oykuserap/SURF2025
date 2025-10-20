@@ -1,0 +1,99 @@
+{
+  "agenda_identifier": "agenda_20241121_hearing",
+  "agenda_number": 20241121,
+  "source_file": "agenda_20241121_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 21, 2024",
+      "time": "9:00 AM - 12:30 PM",
+      "type": "Regular Meeting",
+      "organization": "City Plan Commission",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Michael Wade",
+        "James Armstrong III",
+        "Stephanie Behring",
+        "Tasfia Zahin",
+        "Rob Baldwin",
+        "Liliana Garza",
+        "Ron Rahmatian",
+        "Sheila Zamanian",
+        "Connor Roberts",
+        "Thomas M. Gaubert",
+        "Steven Uetrecht",
+        "Niraj Puri",
+        "Angela Hunt",
+        "Suman Atteti",
+        "Hector Valdez",
+        "Penny Ihemelu",
+        "Jessica Howell",
+        "Big Outdoor Texas, LLC"
+      ],
+      "participants": [
+        "Planning & Development Department",
+        "Department of Planning and Development",
+        "Public Affairs and Outreach"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes of the October 10, 2024 City Plan Commission Hearing, the October 24, 2024 City Plan Commission Hearing, and the November 7, 2024 City Plan Commission Hearing.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Development Plans",
+        "description": "Application for a development plan on property zoned Tract 13A - MF-2(A) within Planned Development District No. 508.",
+        "presenter": "James Armstrong III",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Zoning Cases - Consent",
+        "description": "Various applications for zoning cases requiring approval.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "19",
+        "title": "Special Provision Sign District",
+        "description": "Application to create a new subdistrict, Lawyers Building, within the West End Historic Sign District.",
+        "presenter": "Big Outdoor Texas, LLC",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "20",
+        "title": "Authorized Hearings - Zoning Case",
+        "description": "City Plan Commission authorized hearing seeking a recommendation regarding a proposal to change the zoning classification.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "City Plan Commission",
+      "Zoning",
+      "Development Plans",
+      "Public Hearing",
+      "Approval of Minutes",
+      "Special Provision Sign District",
+      "Zoning Cases",
+      "Subdivision",
+      "Residential Replats",
+      "Building Line Removal",
+      "Public Testimony",
+      "Planning and Development",
+      "Dallas",
+      "City Hall",
+      "Videoconference"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 57151
+}

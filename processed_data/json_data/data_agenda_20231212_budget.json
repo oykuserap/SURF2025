@@ -1,0 +1,167 @@
+{
+  "agenda_identifier": "agenda_20231212_budget",
+  "agenda_number": 20231212,
+  "source_file": "agenda_20231212_budget.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 12, 2023",
+      "time": "1:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Government Performance and Financial Management Committee",
+      "location": "Council Chambers, 6th Floor at City Hall, Dallas, TX"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Bill Zielinski"
+      ],
+      "participants": [
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Blackmon",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Schultz",
+        "Johnson",
+        "Willis"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the November 14, 2023 Government Performance and Financial Management Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Citywide Technical Debt Overview",
+        "description": "Overview of the city's technical debt.",
+        "presenter": "Bill Zielinski",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Development Services - Monthly Performance Update & Process Map Improvements",
+        "description": "Monthly performance update and improvements in the development services process.",
+        "presenter": "Development Services",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Review of City Real Estate for Development and Redevelopment Opportunities",
+        "description": "Discussion on potential development and redevelopment opportunities for city real estate.",
+        "presenter": "City Manager’s Office",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Status Update of Proposed Private Game Club Land Use",
+        "description": "Update on the proposed land use for a private game club.",
+        "presenter": "Planning and Urban Design and City Attorney’s Office",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Discussion Regarding the Mayor’s State of the City",
+        "description": "Discussion on the upcoming State of the City address by the Mayor.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "GPFM Two-Month Forecast",
+        "description": "Forecast for the Government Performance and Financial Management Committee for the next two months.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Technology Accountability Report Information as of November 30, 2023",
+        "description": "Report on technology accountability as of the end of November 2023.",
+        "presenter": "Information & Technology Services",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Office of the City Auditor Monthly Update on Internal Audit Reports Released Between November 4, 2023 and December 1, 2023",
+        "description": "Monthly update from the City Auditor on internal audit reports.",
+        "presenter": "Office of the City Auditor",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Quarterly Investment Report as of September 30, 2023",
+        "description": "Quarterly report on city investments.",
+        "presenter": "City Controller’s Office",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "Boards and Commissions Audit Update",
+        "description": "Update on the audit of boards and commissions.",
+        "presenter": "Mayor and City Council Office",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "K",
+        "title": "2025 Legislative Priorities",
+        "description": "Discussion on the legislative priorities for 2025.",
+        "presenter": "Office of Government Affairs",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "L",
+        "title": "Office of Procurement Services: Authorize Supplemental Agreement No. 13",
+        "description": "Authorize a supplemental agreement to increase the service contract with Workday, Inc.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "M",
+        "title": "Park & Recreation Department: Authorize a twenty-four month annual funding agreement",
+        "description": "Authorize funding agreement with the Dallas Arboretum and Botanical Society, Inc.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Government Performance",
+      "Financial Management",
+      "City Council",
+      "Technical Debt",
+      "Development Services",
+      "Real Estate",
+      "Private Game Club",
+      "State of the City",
+      "Technology Accountability",
+      "Internal Audit",
+      "Investment Report",
+      "Legislative Priorities",
+      "Procurement Services",
+      "Funding Agreement",
+      "Dallas Arboretum"
+    ],
+    "financial_items": [
+      {
+        "description": "Supplemental Agreement No. 13 to increase the service contract with Workday, Inc.",
+        "amount": "$4,952,024.05",
+        "type": "expenditure"
+      },
+      {
+        "description": "Funding agreement with the Dallas Arboretum and Botanical Society, Inc.",
+        "amount": "$848,786.00",
+        "type": "funding"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 22360
+}

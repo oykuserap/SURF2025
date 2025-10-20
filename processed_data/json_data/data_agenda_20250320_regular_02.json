@@ -1,0 +1,67 @@
+{
+  "agenda_identifier": "agenda_20250320_regular_02",
+  "agenda_number": 20250320,
+  "source_file": "agenda_20250320_regular_02.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 20, 2025",
+      "time": "4:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Arts and Culture Advisory Commission",
+      "location": "Dallas City Hall, 6FN - Park and Recreation Board Room and Videoconference, 1500 Marilla Street"
+    },
+    "attendees": {
+      "chair": "David Small",
+      "presenters": [
+        "David Small",
+        "Mary Pat Higgins",
+        "Martine Philippe",
+        "Glenn Ayars"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the February 20, 2025, Arts and Culture Advisory Commission meeting minutes",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Recommendation in support of artist finalist, Anaisa Franco, Singing Hills Rec Center Public Art, CD8",
+        "description": "",
+        "presenter": null,
+        "action_required": "recommend"
+      },
+      {
+        "item_number": "3",
+        "title": "Recommendation in support of the FY 2025-26 Community Artist Program (CAP) and CAP Guidelines",
+        "description": "",
+        "presenter": null,
+        "action_required": "recommend"
+      }
+    ],
+    "keywords": [
+      "Arts and Culture",
+      "Dallas",
+      "Commission",
+      "Public Art",
+      "Community Artist Program",
+      "Minutes Approval",
+      "Cultural Spotlight",
+      "Dallas Museum of Art",
+      "Executive Session",
+      "Public Speakers",
+      "Inclusivity",
+      "Accessibility",
+      "Meeting Guidelines",
+      "Recommendations",
+      "Chair's Report"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11253
+}

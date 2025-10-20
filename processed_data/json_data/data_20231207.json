@@ -1,0 +1,177 @@
+{
+  "agenda_identifier": "agenda_20231207_regular",
+  "agenda_number": 20231207,
+  "source_file": "agenda_20231207_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 7, 2023",
+      "time": "10:00 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Park and Recreation Board",
+      "location": "Dallas City Hall, 6FN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Arun Agarwal",
+      "presenters": [
+        "M. Renee Johnson",
+        "Chief Rick Watson",
+        "Chief David Pughes",
+        "Ryan O’Connor",
+        "Rachael Berry",
+        "Christina Turner-Noteware"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Arun Agarwal",
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "SPECIAL INTRODUCTION – New Dallas Arboretum President",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes – October 26 & November 2, 2023",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "QUARTERLY SAFETY UPDATE",
+        "description": "Update on Safety in the Park System",
+        "presenter": "M. Renee Johnson, Chief Rick Watson, Chief David Pughes",
+        "action_required": null
+      },
+      {
+        "item_number": "VI.2",
+        "title": "Bachman Lake",
+        "description": "Authorize a Capital Improvement Program Funding Agreement with Dallas County for a feasibility study to examine possible alignments for a proposed multi-use trail to connect Bachman Lake to the Campion Trail in the City of Irving",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI.3",
+        "title": "Fair Park",
+        "description": "Authorize an application for the Department of the Interior’s (DOI) National Parks Service Save America’s Treasures grant program for the Tower Building Mural Restorations project",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VII.4",
+        "title": "Fair Park",
+        "description": "Authorize the naming of the Children’s Playground at the new 18-acre Community Park as the Rees-Jones Playground.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VII.5",
+        "title": "Fair Park",
+        "description": "Authorize an application for the National Endowment for the Humanities Sustaining Cultural Heritage Collections Grant Program for the preservation of select cultural documents, artifacts, and film at the Hall of State",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VII.6",
+        "title": "Fair Park",
+        "description": "Authorize a Construction Manager at Risk Agreement for pre-construction and construction services for the Cotton Bowl Renovation, Rehabilitation and Addition Project",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VIII.7",
+        "title": "Park System Economic Value Update",
+        "description": "",
+        "presenter": "Ryan O’Connor",
+        "action_required": null
+      },
+      {
+        "item_number": "VIII.8",
+        "title": "State Fair of Texas Wrap Up",
+        "description": "",
+        "presenter": "Ryan O’Connor",
+        "action_required": null
+      },
+      {
+        "item_number": "VIII.9",
+        "title": "National Cricket League Tournament",
+        "description": "",
+        "presenter": "Ryan O’Connor",
+        "action_required": null
+      },
+      {
+        "item_number": "IX.10",
+        "title": "Budget Update",
+        "description": "",
+        "presenter": "Rachael Berry",
+        "action_required": null
+      },
+      {
+        "item_number": "X.11",
+        "title": "2024 Bond Program: Update on Priority Project Lists",
+        "description": "",
+        "presenter": "Christina Turner-Noteware",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Park and Recreation Board",
+      "Regular Meeting",
+      "Bachman Lake",
+      "Fair Park",
+      "Safety Update",
+      "Capital Improvement Program",
+      "Grant Application",
+      "Children’s Playground",
+      "Cotton Bowl Renovation",
+      "Budget Update",
+      "2024 Bond Program",
+      "Public Speakers",
+      "Dallas Arboretum",
+      "Economic Value",
+      "National Cricket League"
+    ],
+    "financial_items": [
+      {
+        "description": "Funding Agreement for feasibility study to connect Bachman Lake to Campion Trail",
+        "amount": "$150,000.00",
+        "type": "funding"
+      },
+      {
+        "description": "Application for DOI’s Save America’s Treasures grant program for Tower Building Mural Restorations",
+        "amount": "$750,000.00",
+        "type": "grant"
+      },
+      {
+        "description": "Application for NEH Sustaining Cultural Heritage Collections Grant Program",
+        "amount": "$350,000.00",
+        "type": "grant"
+      },
+      {
+        "description": "Construction Manager at Risk Agreement for Cotton Bowl Renovation",
+        "amount": "$145,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Total project construction budget for Cotton Bowl Renovation",
+        "amount": "$110,000,000.00",
+        "type": "budget"
+      },
+      {
+        "description": "Establishment of appropriations in Fair Park Facilities Venue Project Fund",
+        "amount": "$32,145,000.00",
+        "type": "budget"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 13399
+}

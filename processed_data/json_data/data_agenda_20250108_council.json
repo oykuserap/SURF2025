@@ -1,0 +1,131 @@
+{
+  "agenda_identifier": "agenda_20250108_council",
+  "agenda_number": 20250108,
+  "source_file": "agenda_20250108_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 8, 2025",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "City Attorney's Office",
+        "Dallas Police Department",
+        "Department of Aviation",
+        "Department of Facilities and Real Estate Management",
+        "Department of Information and Technology Services",
+        "Department of Transportation and Public Works",
+        "Office of Equity and Inclusion",
+        "Office of Government Affairs",
+        "Office of Procurement Services",
+        "Park & Recreation Department"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the December 11, 2024 City Council Meeting",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Authorize settlement of the lawsuit styled, David Walters, et al. v. City of Dallas",
+        "description": "Not to exceed $600,000.00 - Financing: Liability Reserve Fund",
+        "presenter": "City Attorney's Office",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Authorize settlement of the lawsuit styled, Donna Jean Berry v. Precious Yusha Mangum and City of Dallas",
+        "description": "Not to exceed $55,000.00 - Financing: Liability Reserve Fund",
+        "presenter": "City Attorney's Office",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Authorize a three-year master agreement for the purchase of protective gas masks",
+        "description": "Estimated amount not to exceed $520,725.15 - Financing: 2023 Homeland Security-Urban Area Security Initiative Fund and General Fund",
+        "presenter": "Dallas Police Department",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Authorize a three-year sole source services agreement for an open-source intelligence solution",
+        "description": "Not to exceed $299,999.58 - Financing: FY 2024 BJA OJP Byrne Discretionary Grant Program Fund",
+        "presenter": "Dallas Police Department",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Authorize an amendment to Resolution No. 24-0842 for an Interlocal Agreement with TxDOT",
+        "description": "Modify the City’s estimated share of the project costs from $1,234,600.00 to $1,321,500.00 - Amount of $1,321,500.00 - Financing: Aviation Construction Fund",
+        "presenter": "Department of Aviation",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "40",
+        "title": "Authorize a one-year policy for excess workers’ compensation insurance",
+        "description": "Not to exceed $750,000.00 - Financing: Workers’ Compensation Fund",
+        "presenter": "Office of Risk Management",
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "meeting",
+      "settlement",
+      "lawsuit",
+      "protective gear",
+      "interlocal agreement",
+      "workers' compensation",
+      "budget",
+      "funding",
+      "public hearing",
+      "zoning",
+      "economic development",
+      "community development",
+      "incentive policy"
+    ],
+    "financial_items": [
+      {
+        "description": "Settlement of the lawsuit styled, David Walters, et al. v. City of Dallas",
+        "amount": "$600,000.00",
+        "type": "settlement"
+      },
+      {
+        "description": "Settlement of the lawsuit styled, Donna Jean Berry v. Precious Yusha Mangum and City of Dallas",
+        "amount": "$55,000.00",
+        "type": "settlement"
+      },
+      {
+        "description": "Purchase of protective gas masks for the Dallas Police Department",
+        "amount": "$520,725.15",
+        "type": "purchase"
+      },
+      {
+        "description": "Sole source services agreement for an open-source intelligence solution",
+        "amount": "$299,999.58",
+        "type": "services"
+      },
+      {
+        "description": "Amendment to Resolution No. 24-0842 for TxDOT project costs",
+        "amount": "$1,321,500.00",
+        "type": "amendment"
+      },
+      {
+        "description": "Excess workers’ compensation insurance policy",
+        "amount": "$750,000.00",
+        "type": "insurance"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 84970
+}

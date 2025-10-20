@@ -1,0 +1,90 @@
+{
+  "agenda_identifier": "agenda_20240919_hearing",
+  "agenda_number": 20240919,
+  "source_file": "agenda_20240919_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 19, 2024",
+      "time": "9:00 AM - 12:30 PM",
+      "type": "City Plan Commission Meeting",
+      "organization": "City Plan Commission",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes of the June 17, 2024 Special Called City Plan Commission ForwardDallas Meeting, the July 25, 2024 City Plan Commission Hearing, the August 8, 2024 City Plan Commission Hearing, the August 22, 2024 City Plan Commission Hearing, and the September 5, 2024 City Plan Commission Hearing.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Zoning Cases - Consent",
+        "description": "Various zoning cases requiring approval.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Zoning Cases - Under Advisement",
+        "description": "Zoning cases that are under advisement from previous meetings.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "15",
+        "title": "Zoning Cases - Individual",
+        "description": "Individual zoning cases requiring approval.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "17",
+        "title": "Development Code Amendments - Under Advisement",
+        "description": "Consideration of amending Chapters 51 and 51A of the Dallas Development Code.",
+        "presenter": "Andrea Gilles, AICP",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "18",
+        "title": "Special Provision Sign District - Under Advisement",
+        "description": "Application to create 'The Frontier Subdistrict' within the Downtown Special Provision Sign District.",
+        "presenter": "Oscar Aguilera",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "26",
+        "title": "Landmark Appeal",
+        "description": "An appeal of the Landmark Commission’s decision of denial without prejudice to replace existing slate shingle roof.",
+        "presenter": "Christina Mankowski",
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "City Plan Commission",
+      "Zoning",
+      "Development Code",
+      "Public Hearing",
+      "Approval of Minutes",
+      "Landmark Appeal",
+      "Special Provision Sign District",
+      "Zoning Cases",
+      "Consent",
+      "Under Advisement",
+      "Individual Cases",
+      "Public Testimony",
+      "Committee Appointments",
+      "Dallas City Hall",
+      "Videoconference"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 43529
+}

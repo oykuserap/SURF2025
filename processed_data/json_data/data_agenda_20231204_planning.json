@@ -1,0 +1,76 @@
+{
+  "agenda_identifier": "agenda_20231204_planning",
+  "agenda_number": 20231204,
+  "source_file": "agenda_20231204_planning.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 4, 2023",
+      "time": "2:00 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Design District TIF District Board of Directors",
+      "location": "6DN Conference Room/Videoconference, Dallas City Hall - 1500 Marilla Street, Dallas TX 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Public comments",
+        "description": "Public comments pertaining to agenda items #2, #3, and #4.",
+        "presenter": null,
+        "action_required": "Discuss"
+      },
+      {
+        "item_number": "2",
+        "title": "Review and consideration of the Meeting Record",
+        "description": "Review and consideration of the Meeting Record from the September 11, 2023 meeting of the Design District TIF District Board of Directors.",
+        "presenter": null,
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "3",
+        "title": "Review and consideration of the Annual Report",
+        "description": "Review and consideration of the Design District TIF District Annual Report for FY 2022-2023.",
+        "presenter": null,
+        "action_required": "Approval and forward a recommendation of approval to City Council"
+      },
+      {
+        "item_number": "4",
+        "title": "Review and consideration of a regular meeting schedule",
+        "description": "Review and consideration of a regular meeting schedule for the Design District TIF District Board of Directors during calendar year 2024.",
+        "presenter": null,
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "5",
+        "title": "Adjournment",
+        "description": "Adjournment of the meeting.",
+        "presenter": null,
+        "action_required": "None"
+      }
+    ],
+    "keywords": [
+      "Design District",
+      "TIF District",
+      "Board of Directors",
+      "Meeting Record",
+      "Annual Report",
+      "FY 2022-2023",
+      "Regular Meeting Schedule",
+      "Public Comments",
+      "Approval",
+      "City Council",
+      "Dallas",
+      "Videoconference",
+      "Economic Development",
+      "Public Health Protocols",
+      "Accommodations"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 7387
+}

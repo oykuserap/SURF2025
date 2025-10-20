@@ -1,0 +1,87 @@
+{
+  "agenda_identifier": "agenda_20240401_hearing",
+  "agenda_number": 20240401,
+  "source_file": "agenda_20240401_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 1, 2024",
+      "time": "10:00 A.M. and 1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Landmark Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Evelyn Montgomery",
+      "presenters": [
+        "Christina Mankowski",
+        "Marcus Watson",
+        "Rhonda Dunn",
+        "Jennifer Duncan",
+        "Aaron Trecartin",
+        "Jessica Gonzales",
+        "Philip Kingston"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the chair.",
+        "presenter": "Evelyn Montgomery",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "Opportunity for public comments.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes from the March 4, 2024, regular meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Staff Report/Briefings",
+        "description": "Review of Landmark Commission Orientation and Handbook, update on HR&A report and City Council timeline and approval, discussion of the Ad Hoc Code Amendment Committee recommendations.",
+        "presenter": "HP Staff",
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Briefing Items",
+        "description": "Discussion of consent items, courtesy review items, and other discussion items.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Adjournment",
+        "description": "Closing of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Landmark Commission",
+      "Historic Preservation",
+      "Certificate of Appropriateness",
+      "Public Hearing",
+      "Executive Session",
+      "Consent Items",
+      "Discussion Items",
+      "Public Speakers",
+      "Minutes Approval",
+      "Staff Report"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 70292
+}

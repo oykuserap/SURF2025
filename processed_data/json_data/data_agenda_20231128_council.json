@@ -1,0 +1,123 @@
+{
+  "agenda_identifier": "agenda_20231128_council",
+  "agenda_number": 20231128,
+  "source_file": "agenda_20231128_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 28, 2023",
+      "time": "2:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Commission on Disabilities",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Christina Puga",
+      "presenters": [
+        "Alireza Hatefi, Director Office of Public Works",
+        "Chiamaka Nwaizu, Sr. Public Information Representative",
+        "Chanlor Akins, Fair Housing Administrator",
+        "Dr. Lisa Rainey, Equity Officer"
+      ],
+      "participants": [
+        "John Kalkanli, Vice Chair",
+        "Gay Revi, District 1",
+        "Nancy Immerman, District 11",
+        "Starlet Ramirez, District 6",
+        "Nicole Munoz Huschka, District 13",
+        "Beverly White, District 9",
+        "Shelley Draper Olsen, District 10"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Roll Call",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from October 24, 2023 meeting.",
+        "presenter": "Christina Puga",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Public Speakers",
+        "description": "Opportunity for public speakers to address the commission.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Officer Reports",
+        "description": "Reports from Chair and Vice Chair.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Commissioners’ Reports/Updates",
+        "description": "Reports by each Commissioner regarding events attended.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Sub-Committee’s Reports",
+        "description": "Update on possible handicap parking enforcement in Dallas.",
+        "presenter": "Commissioner Gay Revi",
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "Briefings",
+        "description": "Presentations on Public Works Infrastructure Improvements and Fair Housing Laws.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Announcements",
+        "description": "November Disability Awareness Months.",
+        "presenter": "Christina Puga",
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Commission on Disabilities",
+      "Public Works",
+      "Fair Housing",
+      "Infrastructure Improvements",
+      "Disability Awareness",
+      "Accessibility",
+      "Handicap Parking",
+      "Community Engagement",
+      "Equity",
+      "Veterans",
+      "Service Animals",
+      "Public Speakers",
+      "Commission Reports",
+      "Sub-Committee Reports"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 42749
+}

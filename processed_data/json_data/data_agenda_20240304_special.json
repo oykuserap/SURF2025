@@ -1,0 +1,46 @@
+{
+  "agenda_identifier": "agenda_20240304_special",
+  "agenda_number": 20240304,
+  "source_file": "agenda_20240304_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 4, 2024",
+      "time": "3:30 PM",
+      "type": "Special Called Joint Meeting",
+      "organization": "Economic Development Committee and Workforce, Education, and Equity Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; Virtual attendance available"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Andrea Gilles",
+        "Arturo del Castillo"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "Historic and Cultural Preservation Strategy - Introduction to the Draft",
+        "description": "Introduction to the Draft of the Historic and Cultural Preservation Strategy.",
+        "presenter": "Andrea Gilles, Assistant Director, Department of Planning and Urban Design; Arturo del Castillo, Chief Planner, Department of Planning and Urban Design",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Economic Development",
+      "Workforce",
+      "Education",
+      "Equity",
+      "Cultural Preservation",
+      "Planning",
+      "Urban Design",
+      "City Council",
+      "Special Called Meeting",
+      "Dallas"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 21126
+}

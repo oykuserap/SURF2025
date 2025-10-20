@@ -1,0 +1,76 @@
+{
+  "agenda_identifier": "agenda_20240411_council_01",
+  "agenda_number": 20240411,
+  "source_file": "agenda_20240411_council_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 11, 2024",
+      "time": "6:30 PM",
+      "type": "Regular Meeting",
+      "organization": "Charter Review Commission",
+      "location": "Council Chambers, 6th Floor, City Hall and via video conference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the April 2, 2024, Charter Review Commission Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Establish the Office of Inspector General",
+        "description": "Establish the Office of Inspector General in the city charter with the Inspector General being appointed by city council.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Final review of included amendments list",
+        "description": "Final review of included amendments list and approval of the commission’s final report to city council.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "C",
+        "title": "Items for inclusion in the Chair’s comments to city council",
+        "description": "Discussion of items to be included in the Chair’s comments to city council.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Charter Review Commission Communications and Outreach Summary",
+        "description": "Briefing on the communications and outreach summary.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Charter Review Commission",
+      "City Council",
+      "Inspector General",
+      "amendments",
+      "meeting minutes",
+      "communications",
+      "outreach",
+      "public speakers",
+      "executive session",
+      "financial information",
+      "real property",
+      "public officer",
+      "security personnel",
+      "economic development",
+      "negotiations"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 6892
+}

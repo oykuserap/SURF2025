@@ -1,0 +1,68 @@
+{
+  "agenda_identifier": "agenda_20240118_regular_01",
+  "agenda_number": 20240118,
+  "source_file": "agenda_20240118_regular_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 18, 2024",
+      "time": "4:30 P. M.",
+      "type": "Regular Meeting",
+      "organization": "Arts and Culture Advisory Commission",
+      "location": "Dallas City Hall, 6FN - Park and Recreation Board Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "David Small",
+      "presenters": [
+        "David Small",
+        "Evelio Flores",
+        "Martine Philippe",
+        "Jim Nugent",
+        "Augustine Jalomo"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the November 16, 2023, Arts and Culture Advisory Commission meeting minutes",
+        "description": "",
+        "presenter": "",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Approval of the Public Art Committee Nominations and Appointments",
+        "description": "voting item will be discussed after briefing item C",
+        "presenter": "",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Approval of the Annual Report final draft",
+        "description": "voting item will be discussed after briefing item E",
+        "presenter": "",
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Arts and Culture",
+      "Advisory Commission",
+      "Public Art",
+      "Nominations",
+      "Appointments",
+      "Annual Report",
+      "Briefing",
+      "Cultural Spotlight",
+      "Staffing Update",
+      "Committee Report",
+      "Public Speakers",
+      "Executive Session",
+      "Dallas City Hall",
+      "Meeting Minutes",
+      "Equitable Access"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10262
+}

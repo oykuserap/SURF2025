@@ -1,0 +1,80 @@
+{
+  "agenda_identifier": "agenda_20240201_hearing",
+  "agenda_number": 20240201,
+  "source_file": "agenda_20240201_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 1, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City Plan Commission",
+      "location": "Videoconference/Council Chambers, 6th Floor at City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Andreea Udrea",
+        "Lawrence Agu, III",
+        "Sarah May"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "FY2022-23 CPC Annual Report",
+        "description": "Briefing on the FY2022-23 CPC Annual Report.",
+        "presenter": "Andreea Udrea",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "2",
+        "title": "ForwardDallas Comprehensive Land Use Plan",
+        "description": "Briefing on the ForwardDallas Comprehensive Land Use Plan.",
+        "presenter": "Lawrence Agu, III",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Executive Session",
+        "description": "Closed Sessions Attorney Briefings regarding legal issues related to zoning cases and board of adjustment hearings.",
+        "presenter": "Sarah May",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "4",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes of the January 18, 2024 City Plan Commission Hearing.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "30",
+        "title": "Approval of FY2022-23 CPC Annual Report",
+        "description": "Consideration of the approval of the FY2022-23 CPC Annual Report.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "City Plan Commission",
+      "Dallas",
+      "videoconference",
+      "public hearing",
+      "zoning",
+      "land use",
+      "annual report",
+      "executive session",
+      "planning",
+      "urban design",
+      "community",
+      "development",
+      "amendments",
+      "public testimony",
+      "minutes approval"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 48312
+}

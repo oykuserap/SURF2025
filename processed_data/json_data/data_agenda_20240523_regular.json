@@ -1,0 +1,107 @@
+{
+  "agenda_identifier": "agenda_20240523_regular",
+  "agenda_number": 20240523,
+  "source_file": "agenda_20240523_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 23, 2024",
+      "time": "9:00 A.M.",
+      "type": "Special Called Meeting",
+      "organization": "Citizen Homelessness Commission (CHC)",
+      "location": "Fair Park Dallas - Briscoe Center, 1403 Washington Street – Dallas, Texas 75210, Videoconference"
+    },
+    "attendees": {
+      "chair": "Linda Garner",
+      "presenters": [
+        "Christine Crossley",
+        "Rae Clay",
+        "Mark Pollack",
+        "Dr. Marci Jackson",
+        "Stephen McFayden",
+        "Veronica Barboza",
+        "Shanee Weston",
+        "LeTitia Owens",
+        "Tramonica Brown"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call Meeting to Order and Roll Call",
+        "description": "Declare A Quorum Present and Declare Legal Notice Posted and Meeting Duly Called",
+        "presenter": "Linda Garner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "2",
+        "title": "Public Comments",
+        "description": "Limit 2 minutes per speaker",
+        "presenter": "Linda Garner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Opening Remarks & Introduction of Speakers",
+        "description": "Introduction of speakers by the Director of Office of Homeless Solutions",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "4",
+        "title": "Session One",
+        "description": "Includes multiple presentations on homelessness and related topics",
+        "presenter": "Rae Clay, Mark Pollack",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "5",
+        "title": "Lunch Recess",
+        "description": "Break for lunch",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "6",
+        "title": "Session Two",
+        "description": "Continued discussions on various topics related to homelessness",
+        "presenter": "Dr. Marci Jackson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "7",
+        "title": "Break and Networking",
+        "description": "Travel to Fair Park Multi-media Center",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "8",
+        "title": "Adjournment",
+        "description": "Closing remarks and adjournment of the meeting",
+        "presenter": "Linda Garner",
+        "action_required": "adjourn"
+      }
+    ],
+    "keywords": [
+      "Homelessness",
+      "Citizen Homelessness Commission",
+      "Public Comments",
+      "Opening Remarks",
+      "Session One",
+      "Session Two",
+      "Networking",
+      "Adjournment",
+      "Fair Park",
+      "Dallas",
+      "Community Impact",
+      "Advisory Committee",
+      "Expertise Journey",
+      "Parliamentary Procedure",
+      "Real-world Scenarios"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11699
+}

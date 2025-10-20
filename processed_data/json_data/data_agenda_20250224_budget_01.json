@@ -1,0 +1,83 @@
+{
+  "agenda_identifier": "agenda_20250224_budget_01",
+  "agenda_number": 20250224,
+  "source_file": "agenda_20250224_budget_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 24, 2025",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Housing and Homelessness Solutions Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX; Virtual via Webex"
+    },
+    "attendees": {
+      "chair": "Moreno",
+      "presenters": [
+        "James Armstrong III",
+        "Stephanie Champion",
+        "Christine Crossley",
+        "Darwin Wade",
+        "Cynthia Rogers-Ellickson",
+        "Jaclyn Schroeder"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the January 28, 2025, Housing & Homelessness Solutions Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "A Right to Stay - Dallas Neighborhood Anti-Displacement Toolkit",
+        "description": "Discussion on the toolkit for Dallas neighborhoods experiencing gentrification and displacement.",
+        "presenter": "James Armstrong III, President & CEO, Builders of Hope CDC; Stephanie Champion, Chief of Community Development & Policy, Builders of Hope CDC",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Office of Homeless Solutions and the Department of Housing and Community Development Properties Update",
+        "description": "Update on projects located at various addresses.",
+        "presenter": "Christine Crossley, Director, Office of Homeless Solutions; Darwin Wade, Assistant Director, Department of Housing & Community Development",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Upcoming Items on the March 26, 2025 City Council Agenda",
+        "description": "Authorize the Dallas Public Facility Corporation to acquire property and enter into a lease agreement for development.",
+        "presenter": "Cynthia Rogers-Ellickson, Director, Department of Housing & Community Development; Jaclyn Schroeder, Administrator (I), Department of Housing & Community Development",
+        "action_required": "authorize"
+      },
+      {
+        "item_number": "D",
+        "title": "Housing and Homelessness Solutions (HHS) Committee Forecast",
+        "description": "Briefing items to be placed on the HHS Committee agendas for upcoming months.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Housing",
+      "Homelessness",
+      "Dallas",
+      "Committee",
+      "Gentrification",
+      "Displacement",
+      "Public Facility Corporation",
+      "Development",
+      "Community Development",
+      "Policy",
+      "Executive Session",
+      "Meeting Minutes",
+      "Forecast",
+      "Projects",
+      "Update"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 21388
+}

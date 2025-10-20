@@ -1,0 +1,83 @@
+{
+  "agenda_identifier": "agenda_20240509_hearing",
+  "agenda_number": 20240509,
+  "source_file": "agenda_20240509_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 9th, 2024",
+      "time": "12:00 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Veteran’s Affairs Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Bryan Meyer",
+        "Rick Moore",
+        "Mike Meir",
+        "Al Rutherford"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order, Pledge of Allegiance, and Roll Call",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Comments on Items III – VI",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Vote to Approve the April 25th, 2024 Meeting Minutes",
+        "description": null,
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Presentation from Veteran’s Community Project & Discussion",
+        "description": "The following representatives with Veteran’s Community Project will present on their organization that serves veterans.",
+        "presenter": "Bryan Meyer",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Announcements",
+        "description": "The VAC 2023 Annual Report is uploaded to the website. Also, pictures have been uploaded onto the website for the veterans who had their picture taken during the luncheon.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Veteran’s Affairs",
+      "Dallas City Hall",
+      "meeting minutes",
+      "presentation",
+      "Veteran’s Community Project",
+      "public comments",
+      "announcements",
+      "equitable meeting",
+      "accessibility",
+      "community service"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8521
+}

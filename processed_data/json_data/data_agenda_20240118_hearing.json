@@ -1,0 +1,90 @@
+{
+  "agenda_identifier": "agenda_20240118_hearing",
+  "agenda_number": 20240118,
+  "source_file": "agenda_20240118_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 18, 2024",
+      "time": "9:00 AM - 12:30 PM",
+      "type": "Regular Meeting",
+      "organization": "City Plan Commission",
+      "location": "Videoconference/Room 6ES, 6th Floor at City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Andrea Gilles, Interim Director, Planning and Urban Design",
+        "Andreea Udrea, Assistant Director, Current Planning, Planning and Urban Design"
+      ],
+      "participants": [
+        "James Kuhlmann",
+        "Teaseia Blue",
+        "Joe LaCroix",
+        "Rob Baldwin",
+        "Connor Roberts",
+        "Liliana Garza",
+        "Giahanna Bridges",
+        "Martin Bate",
+        "LeQuan Clinton",
+        "Sef Okoth"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Update on the ForwardDallas Comprehensive Land Use Plan",
+        "description": "Presentation on the updates to the ForwardDallas Comprehensive Land Use Plan.",
+        "presenter": "Andrea Gilles",
+        "action_required": "Discuss"
+      },
+      {
+        "item_number": "2",
+        "title": "Review FY2022-23 CPC Annual Report",
+        "description": "Review of the annual report for the City Plan Commission for the fiscal year 2022-2023.",
+        "presenter": "Andreea Udrea",
+        "action_required": "Discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes from the December 7, 2023 City Plan Commission Hearing.",
+        "presenter": null,
+        "action_required": "Approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Executive Session",
+        "description": "The City Plan Commission may meet in closed session to seek the advice of its attorney about pending litigation.",
+        "presenter": null,
+        "action_required": "Discuss"
+      },
+      {
+        "item_number": "5",
+        "title": "Miscellaneous Items: Minor Amendments",
+        "description": "Consideration of minor amendments to existing development plans.",
+        "presenter": null,
+        "action_required": "Discuss"
+      }
+    ],
+    "keywords": [
+      "City Plan Commission",
+      "ForwardDallas",
+      "Annual Report",
+      "Executive Session",
+      "Minor Amendments",
+      "Zoning Cases",
+      "Public Hearings",
+      "Development Plans",
+      "Subdivision Docket",
+      "Thoroughfare Plan Amendments",
+      "Public Testimony",
+      "Approval of Minutes",
+      "Planning and Urban Design",
+      "Community Engagement",
+      "City Hall"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 76153
+}

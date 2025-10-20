@@ -1,0 +1,85 @@
+{
+  "agenda_identifier": "agenda_20240123_regular",
+  "agenda_number": 20240123,
+  "source_file": "agenda_20240123_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 23, 2024",
+      "time": "2:00 p.m.",
+      "type": "Regular Meeting",
+      "organization": "TOD TIF District Board of Directors",
+      "location": "Dallas City Hall, 6DN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Sue Hounsel, District Manager, Office of Economic Development",
+        "Angela Hardiman, District Manager, Office of Economic Development"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to order and introduction of meeting participants",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Public comments pertaining to agenda items 3 through 4",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Review and consideration of the Meeting Record of the December 5, 2023 TOD TIF District Board Meeting",
+        "description": "",
+        "presenter": "Sue Hounsel, District Manager, Office of Economic Development",
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "4",
+        "title": "Review and consideration of a development agreement with UCR Development Services LLC and/or its affiliates",
+        "description": "In an amount not to exceed $1,778,000, payable from current and future TOD TIF District funds, in consideration of the Lancaster-Corning Retail Development ('Project') on property currently addressed as 3011-3039 S. Lancaster Road.",
+        "presenter": "Angela Hardiman, District Manager, Office of Economic Development",
+        "action_required": "Approval and forward a recommendation of approval to City Council"
+      },
+      {
+        "item_number": "5",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "TOD TIF District",
+      "Dallas",
+      "meeting record",
+      "development agreement",
+      "UCR Development Services",
+      "Lancaster-Corning Retail Development",
+      "economic development",
+      "City Council",
+      "public comments",
+      "approval",
+      "funding",
+      "meeting participants",
+      "executive session",
+      "real property",
+      "financial information"
+    ],
+    "financial_items": [
+      {
+        "description": "Development agreement with UCR Development Services LLC",
+        "amount": "$1,778,000",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10351
+}

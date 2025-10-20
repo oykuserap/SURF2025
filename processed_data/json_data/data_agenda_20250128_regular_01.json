@@ -1,0 +1,61 @@
+{
+  "agenda_identifier": "agenda_20250128_regular_01",
+  "agenda_number": 20250128,
+  "source_file": "agenda_20250128_regular_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 28, 2025",
+      "time": "2:00 p.m.",
+      "type": "Board of Directors Meeting",
+      "organization": "City of Dallas, Tax Increment Financing Reinvestment Zone Number Seventeen",
+      "location": "Dallas City Hall, 6DN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Sue Hounsel, Senior Manager, Office of Economic Development",
+        "Angela Hardiman, District Manager, Office of Economic Development"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "3",
+        "title": "Review and consideration of the Meeting Record",
+        "description": "Review and consideration of the Meeting Record of the December 3, 2024 TOD TIF District Board Meeting.",
+        "presenter": "Sue Hounsel, Senior Manager, Office of Economic Development",
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "4",
+        "title": "Review and consideration of funding request",
+        "description": "Review and consideration of a request by the City’s Park and Recreation Department for an amount not to exceed $300,000 in TOD TIF District funding for design consultant services including but not limited to conceptual site plan development and planning for future Phase II improvements within Roland G. Parrish Park.",
+        "presenter": "Angela Hardiman, District Manager, Office of Economic Development",
+        "action_required": "Approval and forward a recommendation of approval to the City Council"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Tax Increment Financing",
+      "Reinvestment Zone",
+      "Board of Directors",
+      "Meeting Record",
+      "Funding Request",
+      "Park and Recreation",
+      "Design Consultant Services",
+      "Roland G. Parrish Park",
+      "Cedar Crest Sub-District",
+      "City Council",
+      "Economic Development"
+    ],
+    "financial_items": [
+      {
+        "description": "Funding for design consultant services for Roland G. Parrish Park",
+        "amount": "$300,000",
+        "type": "funding"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11900
+}

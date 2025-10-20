@@ -1,0 +1,68 @@
+{
+  "agenda_identifier": "agenda_20240206_special",
+  "agenda_number": 20240206,
+  "source_file": "agenda_20240206_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 6, 2024",
+      "time": "9:30:00 A.M.",
+      "type": "Special Called Meeting",
+      "organization": "Civil Service Board",
+      "location": "Dallas City Hall, Room #1 C- South and Videoconference"
+    },
+    "attendees": {
+      "chair": "Jarred D. Davis, MS",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approve minutes from the January 9, 2023, Special-Called Civil Service Board Meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Hearing Item",
+        "description": "Hear the rehire eligibility appeal hearing of Mr. Isaac Ruiz, a former employee in the Courts and Detention Service Department.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Briefing and Discussion Items",
+        "description": "Overview of Civil Services Rules Revision, Dallas Fire-Rescue Department, Civil Service 2024 Priorities, Civil Service Annual Report Review, Q1 Departmental Scorecard, Department Updates and Announcements.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Action Items",
+        "description": "2023 Civil Service Annual Report Adoption.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Civil Service Board",
+      "Dallas",
+      "Special Called Meeting",
+      "rehire eligibility",
+      "Isaac Ruiz",
+      "Civil Services Rules",
+      "Dallas Fire-Rescue",
+      "2024 Priorities",
+      "Annual Report",
+      "Q1 Scorecard",
+      "Department Updates",
+      "Public Speakers",
+      "Minutes Approval",
+      "Action Items"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8979
+}

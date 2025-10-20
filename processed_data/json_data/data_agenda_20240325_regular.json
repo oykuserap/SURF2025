@@ -1,0 +1,99 @@
+{
+  "agenda_identifier": "agenda_20240325_regular",
+  "agenda_number": 20240325,
+  "source_file": "agenda_20240325_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 25, 2024",
+      "time": "6:00 – 7:30 PM",
+      "type": "Regular Meeting",
+      "organization": "SDFPOF Board",
+      "location": "Dallas City Hall, Room # 6ES Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Leander Johnson",
+      "presenters": [
+        "Darren L. James"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Leander Johnson",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Approval of Minutes",
+        "description": "February 26, 2024, SDFPOF Advisory Board Meeting",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "III",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Discussion on Fair Park Projects",
+        "description": "",
+        "presenter": "Darren L. James",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Staff update – First 2024 SDFPOF NOFA Release",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Staff update - SDFPOF Budget Presentation",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Staff update - City Secretary’s Office Hold Over SDFPOF Advisory Board Members Not Yet Reappointed",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "SDFPOF",
+      "Dallas",
+      "Fair Park",
+      "Board Meeting",
+      "Public Speakers",
+      "Budget Presentation",
+      "NOFA Release",
+      "Advisory Board",
+      "Minutes Approval",
+      "Discussion",
+      "City Secretary",
+      "Equitable Access",
+      "Accommodations",
+      "Executive Session",
+      "Public Participation"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8404
+}

@@ -1,0 +1,76 @@
+{
+  "agenda_identifier": "agenda_20240618_council",
+  "agenda_number": 20240618,
+  "source_file": "agenda_20240618_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 18, 2024",
+      "time": "9:00 AM",
+      "type": "Council Briefing",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the June 5, 2024 City Council Meeting",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Consideration of appointments to boards and commissions",
+        "description": "Evaluation and duties of board and commission members (List of nominees is available in the City Secretary's Office)",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "A",
+        "title": "Discussion of the Mayor and City Councilmember Salaries Amendment",
+        "description": "In the 2024 Charter Review Commission’s Final Report and Submitted Councilmember-Proposed Charter Amendments",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Dallas Police and Fire Pension System (DPFPS) and Employee Retirement Fund (ERF)",
+        "description": "Funding Soundness Restoration Plan Update and Consideration of Recommendations",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Sanitation Refuse & Recycle Collection Route Safety & Efficiency",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "Council Briefing",
+      "June 18, 2024",
+      "appointments",
+      "boards and commissions",
+      "salaries amendment",
+      "pension system",
+      "funding soundness",
+      "sanitation",
+      "recycle collection",
+      "public meeting",
+      "videoconference",
+      "City Hall",
+      "open microphone",
+      "executive session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20941
+}

@@ -1,0 +1,103 @@
+{
+  "agenda_identifier": "agenda_20240307_planning",
+  "agenda_number": 20240307,
+  "source_file": "agenda_20240307_planning.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 7, 2024",
+      "time": "6:00 PM",
+      "type": "Monthly Meeting",
+      "organization": "Dallas Community Development Commission (CDC)",
+      "location": "City Hall, Conference Room 6ES / Video Conference"
+    },
+    "attendees": {
+      "chair": "Melanie Rubin",
+      "presenters": [
+        "Chan Williams",
+        "Colbey Walker"
+      ],
+      "participants": [
+        "Community Development Coordinator",
+        "Budget and Management Services (BMS)"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the chair.",
+        "presenter": "Melanie Rubin",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Roll Call",
+        "description": "Attendance check by the Community Development Coordinator.",
+        "presenter": "Community Development Coordinator",
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Approval of Monthly Minutes",
+        "description": "Approval of the minutes from the February 1, 2024 meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Community Development Division Report",
+        "description": "Report including updates regarding proposed committee meetings and agenda items.",
+        "presenter": "Budget & Management Services (BMS)",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Chair’s Report",
+        "description": "General greetings and acknowledgements, introduction of new commission members.",
+        "presenter": "Melanie Rubin",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Vice Chair’s Report",
+        "description": "General acknowledgements and consideration of 2024 CDC Community Development Week Community Tour Sites.",
+        "presenter": "Colbey Walker",
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Announcement",
+        "description": "Expressions of thanks, information about holiday schedules, and upcoming events.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Adjournment",
+        "description": "Closing of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Community Development",
+      "CDC",
+      "Monthly Meeting",
+      "Budget",
+      "Management Services",
+      "Chair Report",
+      "Vice Chair Report",
+      "Public Speakers",
+      "Consolidated Plan",
+      "HUD",
+      "Community Development Week",
+      "Announcements",
+      "Minutes Approval",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12290
+}

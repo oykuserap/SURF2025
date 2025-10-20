@@ -1,0 +1,105 @@
+{
+  "agenda_identifier": "agenda_20240108_committee",
+  "agenda_number": 20240108,
+  "source_file": "agenda_20240108_committee.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 8, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Dallas City Council Workforce, Education, and Equity Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Narvaez",
+      "presenters": [
+        "Dr. Lindsey Wilson",
+        "Jenny Kerzman",
+        "Candi Green",
+        "Coda Rayo-Garza",
+        "Jo Giudice",
+        "Liz Cedillo-Pereira",
+        "Carlos Evans",
+        "Jessica Galleshaw"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the December 11, 2023 Workforce, Education and Equity Committee Meeting Minutes",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Equity (Internal): Update Regarding the City’s Participation in the Municipal Bond Markets and Racial Equity Cohort Update and Next Steps",
+        "description": "",
+        "presenter": "Dr. Lindsey Wilson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Equity (Internal/External): 2023 Equity Indicators Report Update and Highlights",
+        "description": "",
+        "presenter": "Dr. Lindsey Wilson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Workforce (Internal): Dallas Public Library’s Role in Workforce Development",
+        "description": "",
+        "presenter": "Jo Giudice",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Equity (Internal): Update Regarding the Federal Fair Housing Act’s New Proposed Rule Requirements and Next Steps for the City’s Fair Housing Equity Plan",
+        "description": "",
+        "presenter": "Liz Cedillo-Pereira",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Equity (Internal): Brownfields Redevelopment Program Pilot Update",
+        "description": "",
+        "presenter": "Carlos Evans",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Workforce (Internal): Contract Renewal Authorization for Texas Department of Criminal Justice-funded Re-Entry Program",
+        "description": "",
+        "presenter": "Jessica Galleshaw",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Committee Forecast",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "City Council",
+      "Workforce",
+      "Education",
+      "Equity",
+      "Municipal Bond Markets",
+      "Racial Equity",
+      "Fair Housing",
+      "Brownfields Redevelopment",
+      "Workforce Development",
+      "Contract Renewal",
+      "Equity Indicators",
+      "Public Library",
+      "Community Care"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 19933
+}

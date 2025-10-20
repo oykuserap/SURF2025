@@ -1,0 +1,105 @@
+{
+  "agenda_identifier": "agenda_20241007_hearing",
+  "agenda_number": 20241007,
+  "source_file": "agenda_20241007_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 7, 2024",
+      "time": "9:00 A.M. and 1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Landmark Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Evelyn Montgomery",
+      "presenters": [
+        "Rhonda Dunn",
+        "Christina Paress",
+        "Marcus Watson"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Evelyn Montgomery",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of September 3, 2024, regular meeting minutes",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Staff Reports/Briefings",
+        "description": "Historic Preservation",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Briefing Items",
+        "description": "Certificate of Eligibility Items, Consent Items, Courtesy Review Items, Discussion Items",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Public Hearing",
+        "description": "Approval of the Landmark Commission meeting calendar for 2025-2026",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Landmark Commission",
+      "Historic Preservation",
+      "Certificate of Eligibility",
+      "Public Hearing",
+      "Dallas City Hall",
+      "Regular Meeting",
+      "Evelyn Montgomery",
+      "Minutes Approval",
+      "Consent Items",
+      "Discussion Items",
+      "Public Speakers",
+      "Staff Reports",
+      "Meeting Calendar",
+      "Accommodations",
+      "Videoconference"
+    ],
+    "financial_items": [
+      {
+        "description": "Approval of estimated expenditures for rehabilitation prior to issuance of Certificate of Eligibility",
+        "amount": "$113,850",
+        "type": "expenditure"
+      },
+      {
+        "description": "Approval of estimated expenditures for rehabilitation prior to issuance of Certificate of Eligibility",
+        "amount": "$324,836",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 118864
+}

@@ -1,0 +1,149 @@
+{
+  "agenda_identifier": "agenda_20231115_workshop",
+  "agenda_number": 20231115,
+  "source_file": "agenda_20231115_workshop.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 15, 2023",
+      "time": "6:00 PM",
+      "type": "Workshop",
+      "organization": "Dallas Housing Finance Corporation",
+      "location": "Canopy by Hilton Dallas Uptown, 2950 Cityplace W Blvd, Dallas, TX 75204 and Videoconference"
+    },
+    "attendees": {
+      "chair": "Marcy Helfand",
+      "presenters": [
+        "Catherine Cuellar",
+        "Dionne Roberts",
+        "Ryan Bowen",
+        "Marcy Helfand",
+        "Aaron Eaquinto",
+        "Ryan Garcia",
+        "David Ellis"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Welcome and Introductions",
+        "description": "Introduction by Catherine Cuellar, Director, Communications, Outreach, & Marketing Office",
+        "presenter": "Catherine Cuellar",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Introduction and Discussion of TDA Consulting",
+        "description": "Discussion led by Dionne Roberts, TDA President & Chief Executive Officer",
+        "presenter": "Dionne Roberts",
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Housing Finance Corporation Basics Refresher",
+        "description": "Overview of housing finance basics by Ryan Bowen, Corporation Counsel, Chapman and Cutler LLP",
+        "presenter": "Ryan Bowen",
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "City of Dallas Housing Finance Corporation Structure and Strategy",
+        "description": "Discussion on the structure and strategy of DHFC led by Marcy Helfand, Board President",
+        "presenter": "Marcy Helfand",
+        "action_required": null
+      },
+      {
+        "item_number": "IV.a",
+        "title": "Staffing Needs and Possible Task Force on Staffing",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV.b",
+        "title": "Internal Controls – Accounting/Budgeting",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV.c",
+        "title": "Investment Policy",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV.d",
+        "title": "DHFC Role in Housing in the City of Dallas",
+        "description": "Discussion led by Aaron Eaquinto, General Manager",
+        "presenter": "Aaron Eaquinto",
+        "action_required": null
+      },
+      {
+        "item_number": "IV.e",
+        "title": "Strategy for Future Developments",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV.e.1",
+        "title": "Application Revamp",
+        "description": "Discussion led by Marcy Helfand, Board President",
+        "presenter": "Marcy Helfand",
+        "action_required": null
+      },
+      {
+        "item_number": "IV.e.2",
+        "title": "Low-Income Housing Tax Credit (LIHTC)",
+        "description": "Discussion led by Ryan Garcia, Board Vice President",
+        "presenter": "Ryan Garcia",
+        "action_required": null
+      },
+      {
+        "item_number": "IV.e.3",
+        "title": "Board Priorities",
+        "description": "Discussion led by David Ellis, Director",
+        "presenter": "David Ellis",
+        "action_required": null
+      },
+      {
+        "item_number": "IV.f",
+        "title": "Operating Report Reviews and Budget Updates",
+        "description": "Discussion led by Aaron Eaquinto, General Manager",
+        "presenter": "Aaron Eaquinto",
+        "action_required": null
+      },
+      {
+        "item_number": "IV.g",
+        "title": "DHFC Website Status Update",
+        "description": "Update led by Aaron Eaquinto, General Manager",
+        "presenter": "Aaron Eaquinto",
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Adjourn",
+        "description": "Meeting adjourned by Marcy Helfand, President",
+        "presenter": "Marcy Helfand",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Housing Finance Corporation",
+      "Workshop",
+      "Housing Finance",
+      "TDA Consulting",
+      "Staffing Needs",
+      "Investment Policy",
+      "Low-Income Housing Tax Credit",
+      "Board Priorities",
+      "Budget Updates",
+      "Website Status"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9809
+}

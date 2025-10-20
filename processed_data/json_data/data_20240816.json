@@ -1,0 +1,36 @@
+{
+  "agenda_identifier": "agenda_20240816_regular",
+  "agenda_number": 20240816,
+  "source_file": "agenda_20240816_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 16, 2024",
+      "time": "10 a.m.",
+      "type": null,
+      "organization": "Trinity River Corridor Local Government Corporation",
+      "location": "Dallas City Hall, Room 6ES and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "Trinity River Corridor",
+      "Local Government Corporation",
+      "Dallas City Hall",
+      "Videoconference",
+      "Executive Session",
+      "Attorney Advice",
+      "Real Property",
+      "Public Officer",
+      "Security Personnel",
+      "Economic Development",
+      "Financial Information"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 4620
+}

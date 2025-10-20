@@ -1,0 +1,58 @@
+{
+  "agenda_identifier": "agenda_20240109_special",
+  "agenda_number": 20240109,
+  "source_file": "agenda_20240109_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 9, 2024",
+      "time": "9:30:00 A.M.",
+      "type": "Special Called Meeting",
+      "organization": "Civil Service Board",
+      "location": "Dallas City Hall, Room #1 C-South and Videoconference"
+    },
+    "attendees": {
+      "chair": "Jarred D. Davis, MS, Sr. CAAP",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approve minutes from the November 7, 2023, Regular Civil Service Board Meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Hearing Item",
+        "description": "Hear the rehire eligibility appeal hearing of Mr. Isaac Ruiz, a former employee in the Courts and Detention Service Department.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Briefing and Discussion Items",
+        "description": "Various topics including Civil Services Rules Revision Forecast, Sworn Service Promotional Forecast and Vendor Selection Process, Civil Service Annual Report Development, Civil Service 2022-23 Priorities and Outcomes, Department Updates and Announcements.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Civil Service Board",
+      "Dallas",
+      "Special Called Meeting",
+      "rehire eligibility",
+      "Isaac Ruiz",
+      "Civil Services Rules",
+      "Promotional Forecast",
+      "Annual Report",
+      "Department Updates",
+      "Public Speakers",
+      "Minutes Approval"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8836
+}

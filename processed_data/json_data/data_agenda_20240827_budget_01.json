@@ -1,0 +1,64 @@
+{
+  "agenda_identifier": "agenda_20240827_budget_01",
+  "agenda_number": 20240827,
+  "source_file": "agenda_20240827_budget_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 27, 2024",
+      "time": "1:00 PM",
+      "type": "Ad Hoc Committee Meeting",
+      "organization": "City Council Ad Hoc Committee on Legislative Affairs",
+      "location": "Council Chambers, 6th Floor, City Hall and via videoconference"
+    },
+    "attendees": {
+      "chair": "Mendelsohn",
+      "presenters": [
+        "Carrie Rogers",
+        "Jake Anderson",
+        "Alex Renteria",
+        "Linley Youderian",
+        "Clifford Sparks"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the May 28, 2024, Ad Hoc Committee on Legislative Affairs Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Consideration of Legislative Priorities for the 119th Congress",
+        "description": "Discussion on the legislative priorities for the upcoming Congress.",
+        "presenter": "Carrie Rogers",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Consideration of Legislative Priorities for the 89th Texas Legislature",
+        "description": "Discussion on the legislative priorities for the upcoming Texas Legislature.",
+        "presenter": "Carrie Rogers",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "City Council",
+      "Ad Hoc Committee",
+      "Legislative Affairs",
+      "Congress",
+      "Texas Legislature",
+      "Government Affairs",
+      "Public Meeting",
+      "Videoconference",
+      "Minutes Approval",
+      "Legislative Priorities"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18771
+}

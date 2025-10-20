@@ -1,0 +1,125 @@
+{
+  "agenda_identifier": "agenda_20241121_council",
+  "agenda_number": 20241121,
+  "source_file": "agenda_20241121_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 21, 2024",
+      "time": "1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Citizen Homelessness Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Linda Garner",
+      "presenters": [
+        "Christine Crossley",
+        "Sarah Kahn",
+        "Tim Grigsby",
+        "Marsha Williamson",
+        "James Hauck",
+        "Tramonica Brown",
+        "Wesley Keyes",
+        "Angela Klattenhoff"
+      ],
+      "participants": [
+        "Barry Dyson",
+        "Lisa Rand"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call Meeting to Order and Roll Call",
+        "description": "Declare A Quorum Present, Declare Legal Notice Posted and Meeting Duly Called",
+        "presenter": "Linda Garner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "II",
+        "title": "Public Comments",
+        "description": "Limit 2 minutes per speaker",
+        "presenter": "Linda Garner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from October 17, 2024",
+        "presenter": "Linda Garner",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Presentation: Homeless Response System Quarterly Report",
+        "description": "Presentation by Office of Homeless Solutions",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Presentation: Overview of Dallas 24 Hour Club",
+        "description": "Presentation by Dallas 24 Hour Club",
+        "presenter": "Tim Grigsby",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Briefing Memo: Office of Homeless Solutions",
+        "description": "Properties Update",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Task Force Update: Citizen Homelessness Commission",
+        "description": "Updates on various task forces",
+        "presenter": "Linda Garner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Discussion on District Specific Homelessness Concerns",
+        "description": "Discussion on observations and concerns",
+        "presenter": "Linda Garner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IX",
+        "title": "Proposed Items for Next/Future Meetings",
+        "description": "No discussion, debate, and/or vote",
+        "presenter": "Linda Garner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "X",
+        "title": "Announcement of Upcoming Meetings",
+        "description": "Announcement of future meetings",
+        "presenter": "Linda Garner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "XI",
+        "title": "Adjournment",
+        "description": "Closing of the meeting",
+        "presenter": "Linda Garner",
+        "action_required": "adjourn"
+      }
+    ],
+    "keywords": [
+      "Citizen Homelessness Commission",
+      "Dallas City Hall",
+      "Homeless Solutions",
+      "Public Comments",
+      "Quarterly Report",
+      "Dallas 24 Hour Club",
+      "Task Force Update",
+      "Homelessness Concerns",
+      "Future Meetings",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10414
+}

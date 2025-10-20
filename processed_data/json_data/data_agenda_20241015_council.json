@@ -1,0 +1,102 @@
+{
+  "agenda_identifier": "agenda_20241015_council",
+  "agenda_number": 20241015,
+  "source_file": "agenda_20241015_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 15, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Workforce, Education, and Equity Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; also available via video conference"
+    },
+    "attendees": {
+      "chair": "Carolyn King Arnold",
+      "presenters": [
+        "Dr. Lindsey Wilson, Director, Office of Equity and Inclusion",
+        "Jessica Galleshaw, Director, Office of Community Care and Empowerment",
+        "Nina Arias, Director, Human Resources",
+        "Liz Cedillo-Pereira, Assistant City Manager, City of Dallas",
+        "Holly Holt, Assistant Director, Office of Community Care and Empowerment",
+        "Christopher Graves, Human Rights Officer, Office of Equity and Inclusion"
+      ],
+      "participants": [
+        "Carlos Evans, Director, Environmental Quality and Sustainability",
+        "John D. Jenkins, Director, Parks and Recreation",
+        "Heather Lowe, Interim Director, Dallas Public Library",
+        "Martine Elyse Philippe, Director, Office of Arts and Culture"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the September 9, 2024, Workforce, Education, and Equity Committee Meeting Minutes",
+        "description": "Approval of minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Closing Disparities: Department Progress Measures Update - Vibrant Portfolio",
+        "description": "An update on the progress measures related to closing disparities across various departments.",
+        "presenter": "Dr. Lindsey Wilson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "October 2024 Upskilling Pilot Program Update and Next Steps",
+        "description": "Update on the Upskilling Pilot Program aimed at enhancing employee skills.",
+        "presenter": "Nina Arias",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "2024 Dallas Youth Survey and Dallas Youth Collaborative Update",
+        "description": "Update on the Dallas Youth Survey and collaborative efforts to engage youth.",
+        "presenter": "Liz Cedillo-Pereira",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Martin Luther King Jr. Parade Week Update",
+        "description": "Planning update for the upcoming Martin Luther King Jr. Celebration Week.",
+        "presenter": "Liz Cedillo-Pereira",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Human Rights Taskforce Workshop Update",
+        "description": "Update on the planning and focus areas for the Human Rights Workshop.",
+        "presenter": "Dr. Lindsey Wilson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Workforce, Education, and Equity Committee Forecast",
+        "description": "Forecast of upcoming agenda items for the committee.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Workforce",
+      "Education",
+      "Equity",
+      "Disparities",
+      "Youth Survey",
+      "Human Rights",
+      "Upskilling",
+      "Community Care",
+      "Martin Luther King Jr.",
+      "Collaboration",
+      "Public Engagement",
+      "Diversity",
+      "Inclusion",
+      "Economic Development",
+      "Civic Engagement"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 199578
+}

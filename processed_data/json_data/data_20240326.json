@@ -1,0 +1,55 @@
+{
+  "agenda_identifier": "agenda_20240326_special",
+  "agenda_number": 20240326,
+  "source_file": "agenda_20240326_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 26, 2024",
+      "time": "3:30 PM",
+      "type": "Special Called Joint Meeting",
+      "organization": "Council Ad Hoc Committee on Professional Sports Recruitment and Retention and Council Economic Development Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; Virtual attendance available"
+    },
+    "attendees": {
+      "chair": "Schultz",
+      "presenters": [
+        "Rosa Fleming, Director, Convention & Event Services",
+        "Craig Davis, President & CEO, Visit Dallas",
+        "Monica Paul, Executive Director, Visit Dallas - Dallas Sports Commission"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A 24-1139",
+        "title": "FIFA World Cup 2026 Update",
+        "description": "Update on the FIFA World Cup 2026 preparations and related events.",
+        "presenter": "Rosa Fleming, Director, Convention & Event Services",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "Closed Session",
+        "title": "Attorney Briefing",
+        "description": "Discuss or deliberate the commercial or financial information that the city has received from a business prospect ('Project X') and the offer of a financial or other incentive to such business prospect.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "City Council",
+      "Special Called Meeting",
+      "Professional Sports",
+      "Economic Development",
+      "FIFA World Cup 2026",
+      "Project X",
+      "Closed Session",
+      "Attorney Briefing",
+      "Incentives",
+      "Business Prospect"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 19135
+}

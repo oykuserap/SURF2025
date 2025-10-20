@@ -1,0 +1,120 @@
+{
+  "agenda_identifier": "agenda_20241216_regular_01",
+  "agenda_number": 20241216,
+  "source_file": "agenda_20241216_regular_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 16, 2024",
+      "time": "6:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "MLK Advisory Board",
+      "location": "Martin Luther King, Jr. Community Center and online via WebEx"
+    },
+    "attendees": {
+      "chair": "Mrs. Clara Brown-Trimble",
+      "presenters": [
+        "Mrs. Clara Brown-Trimble",
+        "Ms. Candace Wicks",
+        "Dr. Jamel Slaughter",
+        "Ms. Pamela R. Jones",
+        "Mrs. LaRhonda Bacon"
+      ],
+      "participants": [
+        "MLK Advisory Board Member",
+        "Public Speakers"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order/Welcome",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Invocation/Opening Statement",
+        "description": "",
+        "presenter": "MLK Advisory Board Member",
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Advisory Board Member & City Staff Roll Call",
+        "description": "",
+        "presenter": "Mrs. LaRhonda Bacon",
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Public Comments",
+        "description": "Public speakers are invited to comment on agenda items for up to 3 minutes each.",
+        "presenter": "Public Speakers",
+        "action_required": null
+      },
+      {
+        "item_number": "5",
+        "title": "Approval of November 18, 2024, Minutes",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Discussion: DRAFT 2024 Annual Report",
+        "description": "The board will review and provide feedback on the proposed structure, key highlights, and pending sections of the 2024 Annual Report.",
+        "presenter": "Ms. Candace Wicks",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "7",
+        "title": "Update: 2025 MLK Celebration Week",
+        "description": "Updates on various events related to the MLK Celebration Week.",
+        "presenter": "Dr. Jamel Slaughter, Ms. Pamela R. Jones",
+        "action_required": null
+      },
+      {
+        "item_number": "8",
+        "title": "Discussion & Vote: 2025 Gala Awards",
+        "description": "The board will discuss and vote on the following 2025 Gala Awards categories.",
+        "presenter": "Ms. Pamela R. Jones",
+        "action_required": "vote"
+      },
+      {
+        "item_number": "9",
+        "title": "MLK Center Manager Update",
+        "description": "Updates on various programs and events at the MLK Center.",
+        "presenter": "Ms. Pamela R. Jones",
+        "action_required": null
+      },
+      {
+        "item_number": "10",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "MLK Advisory Board",
+      "Community Center",
+      "Annual Report",
+      "Gala Awards",
+      "Public Comments",
+      "Celebration Week",
+      "Volunteer Opportunities",
+      "Community Service",
+      "Excellence Award",
+      "Humanitarian Award",
+      "Public Speakers",
+      "Minutes Approval",
+      "Updates",
+      "Invocation",
+      "Roll Call"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 6857
+}

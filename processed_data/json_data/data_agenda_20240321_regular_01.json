@@ -1,0 +1,153 @@
+{
+  "agenda_identifier": "agenda_20240321_regular_01",
+  "agenda_number": 20240321,
+  "source_file": "agenda_20240321_regular_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 21, 2024",
+      "time": "10:00 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Park and Recreation Board",
+      "location": "Dallas Arboretum & Botanical Garden, The Camp House, 8525 Garland Road, Dallas, TX 75218"
+    },
+    "attendees": {
+      "chair": "Arun Agarwal",
+      "presenters": [
+        "John Lawrence",
+        "Rachael Berry",
+        "Christina Turner-Noteware"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Arun Agarwal",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "SPECIAL RECOGNITION",
+        "description": "Special recognition of Trent Williams for his years of service and dedication to the City and Park and Recreation Department.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from March 7, 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "CONSENT AGENDA",
+        "description": "Various items related to construction contracts and funding.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "BRIEFINGS",
+        "description": "Updates from various departments.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "UPDATE",
+        "description": "Budget Update.",
+        "presenter": "Rachael Berry",
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "WORKSHOP",
+        "description": "2024 Bond Program: Final Proposed Bond Program List.",
+        "presenter": "Christina Turner-Noteware",
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "OTHER/NON-ACTION ITEMS",
+        "description": "Staff Announcements and upcoming events.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Next Park Board meeting",
+        "description": "Next meeting scheduled for April 4, 2024.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "XI",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Park and Recreation Board",
+      "Regular Meeting",
+      "construction contracts",
+      "budget update",
+      "public speakers",
+      "special recognition",
+      "2024 Bond Program",
+      "Dallas Arboretum",
+      "community services",
+      "equitable meeting",
+      "auxiliary aid",
+      "public participation",
+      "park improvements",
+      "safety audit",
+      "funding"
+    ],
+    "financial_items": [
+      {
+        "description": "Coombs Creek Trail construction services contract",
+        "amount": "$567,750.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Dallas Zoo construction materials testing and inspection services",
+        "amount": "$139,195.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Anita Nañez Martinez Recreation Center Building Envelope Repairs",
+        "amount": "$1,160,269.20",
+        "type": "expenditure"
+      },
+      {
+        "description": "Cotton Belt Trail easement acquisition",
+        "amount": "$17,500.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Glen Meadow Park Playground Renovation",
+        "amount": "$189,814.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Marcus Park playground equipment installation",
+        "amount": "$184,370.58",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12928
+}

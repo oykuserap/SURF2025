@@ -1,0 +1,83 @@
+{
+  "agenda_identifier": "agenda_20240611_special",
+  "agenda_number": 20240611,
+  "source_file": "agenda_20240611_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 11, 2024",
+      "time": "12:00 PM",
+      "type": "Special Meeting",
+      "organization": "City of Dallas Public Facility Corporation Board of Directors",
+      "location": "Dallas City Hall, City Hall Council Chambers and Videoconference, 1500 Marilla Street, Dallas, TX 75201"
+    },
+    "attendees": {
+      "chair": "Keith Pomykal",
+      "presenters": [
+        "Albert Gonzalez",
+        "Jim Plummer",
+        "Tim Nelson",
+        "Jake Brown"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Roll Call",
+        "description": "",
+        "presenter": "Albert Gonzalez",
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Public Testimony",
+        "description": "public comment(s) on items 4-5",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Discussion and approval of a resolution",
+        "description": "approving the transaction for The Cedars located at 2000 & 2220 S. Ervay St, Dallas, TX; including the execution of all documentation necessary to carry out the transactions; authorizing the purchase of the land for the projects and authorizing the Dallas Public Facility Corporation to serve as the general contractor; and other matters in connection therewith",
+        "presenter": "Albert Gonzalez, HOU Staff; Jim Plummer, Bracewell; Tim Nelson, Hilltop Securities",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Discussion regarding the Demolition of the facility",
+        "description": "at 9999 Technology Blvd.",
+        "presenter": "Albert Gonzalez, HOU Staff; Jake Brown, LDG",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "6",
+        "title": "Adjourn",
+        "description": "",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Public Facility Corporation",
+      "Special Meeting",
+      "The Cedars",
+      "Demolition",
+      "Real Estate",
+      "Public Testimony",
+      "Resolution",
+      "Approval",
+      "Urban Revitalization"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8089
+}

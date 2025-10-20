@@ -1,0 +1,89 @@
+{
+  "agenda_identifier": "agenda_20241203_regular_01",
+  "agenda_number": 20241203,
+  "source_file": "agenda_20241203_regular_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 3, 2024",
+      "time": "4:00 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Fort Worth Avenue TIF District Board of Directors",
+      "location": "Dallas City Hall, 6DN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Brian Teefey, Vice Chair",
+      "presenters": [
+        "Dorcy Clark, Senior Manager, Office of Economic Development"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call meeting to order and declare a quorum is established.",
+        "description": "",
+        "presenter": "Brian Teefey, Vice Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Introduction of meeting participants.",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Public comments pertaining to agenda items 4 through 6.",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Review and consider the Meeting Record of the December 5, 2023 meeting.",
+        "description": "Review and consider the Meeting Record of the December 5, 2023 meeting of the Fort Worth Avenue TIF District Board of Directors.",
+        "presenter": "Dorcy Clark, Senior Manager, Office of Economic Development",
+        "action_required": "Approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Review and consider the Fort Worth Avenue TIF District Annual Report for FY 2023-2024.",
+        "description": "Review and consider the Fort Worth Avenue TIF District Annual Report for FY 2023-2024.",
+        "presenter": "Dorcy Clark, Senior Manager, Office of Economic Development",
+        "action_required": "Approve and forward a recommendation of approval to City Council"
+      },
+      {
+        "item_number": "6",
+        "title": "Review and consider a quarterly meeting schedule for the Fort Worth Avenue TIF District Board of Directors for calendar year 2025.",
+        "description": "Review and consider a quarterly meeting schedule for the Fort Worth Avenue TIF District Board of Directors for calendar year 2025.",
+        "presenter": "Dorcy Clark, Senior Manager, Office of Economic Development",
+        "action_required": "Approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Adjournment.",
+        "description": "",
+        "presenter": "Brian Teefey, Vice Chair",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Fort Worth Avenue",
+      "TIF District",
+      "Board of Directors",
+      "Meeting Record",
+      "Annual Report",
+      "FY 2023-2024",
+      "Quarterly Meeting Schedule",
+      "Dallas City Hall",
+      "Public Comments",
+      "Economic Development",
+      "Approval",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11794
+}

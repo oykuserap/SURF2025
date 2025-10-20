@@ -1,0 +1,78 @@
+{
+  "agenda_identifier": "agenda_20250204_regular",
+  "agenda_number": 20250204,
+  "source_file": "agenda_20250204_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 4, 2025",
+      "time": "9:30 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Civil Service Board",
+      "location": "Dallas City Hall, Room #1 C- South and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approve minutes from the January 7, 2025, Regular Civil Service Board Meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.a",
+        "title": "Civil Service Rules Update",
+        "description": "Brief proposed Civil Service rule revision amending minimum requirements for trainee police officer.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V.b",
+        "title": "Trial Board Updates",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V.c",
+        "title": "Department Updates and Announcements",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V.d",
+        "title": "FY 24-25, Q1 Department Scorecard",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI.a",
+        "title": "Civil Service Board Annual Report",
+        "description": "Take action to approve the Civil Service Board Annual Report.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Civil Service",
+      "Board Meeting",
+      "Approval of Minutes",
+      "Rules Update",
+      "Trial Board",
+      "Department Updates",
+      "Scorecard",
+      "Annual Report",
+      "Dallas",
+      "Public Speakers"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8955
+}

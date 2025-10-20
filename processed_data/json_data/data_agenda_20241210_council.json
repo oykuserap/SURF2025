@@ -1,0 +1,164 @@
+{
+  "agenda_identifier": "agenda_20241210_council",
+  "agenda_number": 20241210,
+  "source_file": "agenda_20241210_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 10, 2024",
+      "time": "5:30 PM",
+      "type": "Regular Meeting",
+      "organization": "Community Police Oversight Board",
+      "location": "Dallas City Hall, 6ES Council Chambers"
+    },
+    "attendees": {
+      "chair": "John Mark Davidson",
+      "presenters": [
+        "Michele Andre",
+        "Gregory Huff",
+        "Siara Montoya Obasuyi",
+        "Michelle Breaux",
+        "Anthony Greer"
+      ],
+      "participants": [
+        "Aswad Smith",
+        "Jonathan E Maples",
+        "Walter Higgins",
+        "Loren Gilbert-Smith",
+        "Brian Bah",
+        "Derric Pegram",
+        "Chauncey Lander",
+        "Alison Grinter Allen",
+        "Arlene Steinfeld",
+        "Jennifer King",
+        "Deatra Wadsworth",
+        "David Kitner",
+        "Brandon Friedman"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call To Order & Roll Call",
+        "description": "Chairman John Mark Davidson calls the meeting to order and conducts roll call.",
+        "presenter": "John Mark Davidson",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Purpose of the CPOB",
+        "description": "Discussion on the purpose and objectives of the Community Police Oversight Board.",
+        "presenter": "John Mark Davidson",
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Public Comment / Open Microphone",
+        "description": "Opportunity for the public to comment, with a limit of three minutes per person.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Approval of Meeting Minutes",
+        "description": "Approval of minutes from previous meetings.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Introducing Jennifer King",
+        "description": "Introduction of Jennifer King, the new member of the CPOB for District 10.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Introduction of New OCPO Staff",
+        "description": "Introduction of new staff members including Michelle Breaux and Gregory Huff.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Consideration of Independent Review Request",
+        "description": "Discussion and vote on independent review requests for specific cases.",
+        "presenter": null,
+        "action_required": "vote"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Case Review",
+        "description": "Review of ongoing cases.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Case Update",
+        "description": "Updates on previously discussed cases.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Reports / Briefings",
+        "description": "Various reports and briefings including legislative updates.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "XI",
+        "title": "Monthly Activity Reports",
+        "description": "Presentation of monthly activity reports including arrest data.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "XII",
+        "title": "Upcoming Meeting and Events",
+        "description": "Discussion of upcoming meetings and events.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "XIII",
+        "title": "Public Comment/Open Microphone",
+        "description": "Second opportunity for public comments.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "XIV",
+        "title": "Board Members Comments",
+        "description": "Comments from board members.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "XV",
+        "title": "Adjournment",
+        "description": "Formal adjournment of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Community Police Oversight Board",
+      "Dallas",
+      "public comment",
+      "meeting minutes",
+      "Jennifer King",
+      "OCPO staff",
+      "independent review",
+      "case review",
+      "legislative updates",
+      "monthly activity reports",
+      "upcoming events",
+      "board comments",
+      "adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 266574
+}

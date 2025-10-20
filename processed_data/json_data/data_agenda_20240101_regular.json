@@ -1,0 +1,97 @@
+{
+  "agenda_identifier": "agenda_20240101_regular",
+  "agenda_number": 20240101,
+  "source_file": "agenda_20240101_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 15, 2024",
+      "time": "4:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Arts and Culture Advisory Commission",
+      "location": "Dallas City Hall, 6FN - Park and Recreation Board Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "David Small",
+      "presenters": [
+        "David Small",
+        "Morgan Vaughan",
+        "Martine Philippe",
+        "Glenn Ayars",
+        "Moinul Ahsan",
+        "Rhonda Ivery",
+        "Lynn Rushton Reed"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the June 20, 2024, Arts and Culture Advisory Commission meeting minutes.",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Recommendation of seventy-one (71) new panelists to the Office of Arts and Culture’s Funding Programs Review Panel",
+        "description": "",
+        "presenter": null,
+        "action_required": "recommend"
+      },
+      {
+        "item_number": "3",
+        "title": "Recommendation of the initiation of the Hi Line Trinity Train Design District Public Art Project",
+        "description": "located at 1930 Hi Line, Dallas, TX in Council District 6.",
+        "presenter": null,
+        "action_required": "recommend"
+      },
+      {
+        "item_number": "4",
+        "title": "Recommendation of the initiation of Kelly Spring Traffic Circle",
+        "description": "Council District 12.",
+        "presenter": null,
+        "action_required": "recommend"
+      },
+      {
+        "item_number": "5",
+        "title": "Recommendation of the initiation of Dallas Executive Airport Streetscape",
+        "description": "Council District 3.",
+        "presenter": null,
+        "action_required": "recommend"
+      },
+      {
+        "item_number": "6",
+        "title": "Recommendation of the artist, Peyton Harshfield, for the Tipton Park Public Art project",
+        "description": "Council District 6.",
+        "presenter": null,
+        "action_required": "recommend"
+      },
+      {
+        "item_number": "7",
+        "title": "Recommendation in support of Artist’s Design by Sujin Lim for Crockett Dog Park",
+        "description": "",
+        "presenter": null,
+        "action_required": "recommend"
+      }
+    ],
+    "keywords": [
+      "Arts and Culture",
+      "Public Art",
+      "Funding Programs",
+      "Community Artist Program",
+      "Budget Briefing",
+      "Cultural Spotlights",
+      "Dallas Executive Airport",
+      "Kelly Spring Traffic Circle",
+      "Hi Line Trinity Train",
+      "Crockett Dog Park",
+      "Commission Meeting",
+      "Panelists",
+      "Design District",
+      "Public Speakers"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12131
+}

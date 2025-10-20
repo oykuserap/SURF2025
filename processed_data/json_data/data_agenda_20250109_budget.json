@@ -1,0 +1,117 @@
+{
+  "agenda_identifier": "agenda_20250109_budget",
+  "agenda_number": 20250109,
+  "source_file": "agenda_20250109_budget.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 9, 2025",
+      "time": "6:00 P.M.",
+      "type": "Monthly Meeting",
+      "organization": "Community Development Commission (CDC)",
+      "location": "Dallas City Hall, Conference Room 6ES, and by Videoconference"
+    },
+    "attendees": {
+      "chair": "Melanie Rubin",
+      "presenters": [
+        "Chan Williams",
+        "Todd Howard",
+        "Zhen Barrientos"
+      ],
+      "participants": [
+        "Community Development Coordinator",
+        "Budget & Management Services (BMS)"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the Chair.",
+        "presenter": "Melanie Rubin",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Roll Call",
+        "description": "Attendance check by the Community Development Coordinator.",
+        "presenter": "Community Development Coordinator",
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of the December 5, 2025, Community Development Commission Meeting Minutes.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Community Development Division Report",
+        "description": "Overview of FY 2023-24 Community Development Commission Annual Report, Community Development Block Grant: Timely Expenditure of Funds, and the FY 2025-26 HUD Budget Development Process.",
+        "presenter": "Chan Williams",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Chair’s Report",
+        "description": "General greetings and acknowledgements to staff, commission members and other members of the public.",
+        "presenter": "Melanie Rubin",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Vice Chair’s Report",
+        "description": "General acknowledgements to staff, commission members and members of the public.",
+        "presenter": "Zhen Barrientos",
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "CDC Financial Monitoring/Performance Standards Committee Report",
+        "description": "Consider and approve the FY 2024-25 Community Development Block Grant (CDBG) Extensions and Reprogramming Funds Recommendations.",
+        "presenter": "Todd Howard",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "X",
+        "title": "Announcements",
+        "description": "Expressions of thanks, congratulations, or condolence; information about holiday schedules; honorary or salutary recognition of public officials.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "XI",
+        "title": "Adjournment",
+        "description": "Closing of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Community Development",
+      "Dallas",
+      "Monthly Meeting",
+      "Block Grant",
+      "HUD Budget",
+      "Financial Monitoring",
+      "Performance Standards",
+      "Chair's Report",
+      "Vice Chair's Report",
+      "Public Speakers",
+      "Approval of Minutes",
+      "Announcements",
+      "CDBG Extensions",
+      "Reprogramming Funds",
+      "Equitable Access"
+    ],
+    "financial_items": [
+      {
+        "description": "FY 2024-25 Community Development Block Grant (CDBG) Extensions and Reprogramming Funds Recommendations.",
+        "amount": null,
+        "type": "budget"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11824
+}

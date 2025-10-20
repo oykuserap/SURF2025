@@ -1,0 +1,35 @@
+{
+  "agenda_identifier": "agenda_20240621_regular",
+  "agenda_number": 20240621,
+  "source_file": "agenda_20240621_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 21, 2024",
+      "time": "10 a.m.",
+      "type": "Local Government Corporation Board Meeting",
+      "organization": "Dallas Local Government Corporation",
+      "location": "Dallas City Hall, Room 6ES and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "Dallas",
+      "Local Government Corporation",
+      "Board Meeting",
+      "Executive Session",
+      "Penal Code",
+      "Concealed Handgun",
+      "Open Meetings Act",
+      "Real Property",
+      "Public Officer",
+      "Economic Development"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 5570
+}

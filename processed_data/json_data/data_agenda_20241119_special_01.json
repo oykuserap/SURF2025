@@ -1,0 +1,58 @@
+{
+  "agenda_identifier": "agenda_20241119_special_01",
+  "agenda_number": 20241119,
+  "source_file": "agenda_20241119_special_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 19, 2024",
+      "time": "9:00 AM",
+      "type": "Special Called Meeting",
+      "organization": "City Council",
+      "location": "Council Chambers, 6th Floor, City Hall and via videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Mayor and City Council Office"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "24-3475",
+        "title": "Receive the report of the Ad Hoc City Council Canvassing Committee",
+        "description": "Adopt a resolution and order accepting the canvassing committee's report declaring the results of the November 5, 2024 special election held within the City of Dallas.",
+        "presenter": "Mayor and City Council Office",
+        "action_required": "adopt"
+      },
+      {
+        "item_number": "24-3571",
+        "title": "Adoption of a resolution appointing Interim Inspector General",
+        "description": "Appointment effective at the close of business on November 19, 2024, to serve until the City Council selects and appoints the Inspector General.",
+        "presenter": null,
+        "action_required": "adopt"
+      }
+    ],
+    "keywords": [
+      "City Council",
+      "Special Called Meeting",
+      "November 19, 2024",
+      "Canvassing Committee",
+      "election results",
+      "Interim Inspector General",
+      "resolution",
+      "adoption",
+      "videoconference",
+      "public attendance"
+    ],
+    "financial_items": [
+      {
+        "description": "Appointment of Interim Inspector General",
+        "amount": null,
+        "type": "General Fund"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 7319
+}

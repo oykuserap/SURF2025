@@ -1,0 +1,95 @@
+{
+  "agenda_identifier": "agenda_20231201_regular",
+  "agenda_number": 20231201,
+  "source_file": "agenda_20231201_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 1, 2023",
+      "time": "9:00 a.m.",
+      "type": "Regular Meeting",
+      "organization": "Skillman Corridor TIF District Board of Directors",
+      "location": "6CN Conference Room/Videoconference, Dallas City Hall - 1500 Marilla Street, Dallas TX 75201"
+    },
+    "attendees": {
+      "chair": "John Dean",
+      "presenters": [],
+      "participants": [
+        "Bill Boyd",
+        "Gregory Duval",
+        "Susan Morgan",
+        "Asheya Warren",
+        "Luis Tamayo",
+        "Chris Poteet",
+        "Dorcy Clark",
+        "Della Lowe",
+        "Councilmember Stewart",
+        "Abidur Khan",
+        "Cameron Anderson",
+        "Yessenia Ojeda",
+        "Kathryn Rush",
+        "Vicky Taylor",
+        "Danny Williams",
+        "Mark Bowers"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to order and introduction of meeting participants.",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Public comments pertaining to agenda items listed below.",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Review and consideration of the Meeting Record of the November 3, 2023 meeting.",
+        "description": "",
+        "presenter": null,
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "4",
+        "title": "Review and consideration of the Skillman Corridor TIF District Annual Report for FY 2022-2023.",
+        "description": "",
+        "presenter": null,
+        "action_required": "Approval and forward a recommendation of approval to City Council"
+      },
+      {
+        "item_number": "5",
+        "title": "Review and consideration of a regular meeting schedule for the Skillman Corridor TIF District Board of Directors during calendar year 2024.",
+        "description": "",
+        "presenter": null,
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "6",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Skillman Corridor",
+      "TIF District",
+      "Dallas",
+      "meeting",
+      "annual report",
+      "public comments",
+      "approval",
+      "regular meeting schedule",
+      "City Council",
+      "pandemic protocols"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 134036
+}

@@ -1,0 +1,71 @@
+{
+  "agenda_identifier": "agenda_20240328_special",
+  "agenda_number": 20240328,
+  "source_file": "agenda_20240328_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 28, 2024",
+      "time": "9:00 AM",
+      "type": "Special Called Meeting",
+      "organization": "City Plan Commission",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Lawrence Agu, III, AICP, Assoc AIA, Planning and Urban Design",
+        "Patrick Blaydes, Planning and Urban Design"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "24-1130",
+        "title": "Welcome",
+        "description": "",
+        "presenter": "Lawrence Agu, III, AICP, Assoc AIA, Planning and Urban Design",
+        "action_required": null
+      },
+      {
+        "item_number": "24-1134",
+        "title": "Draft Future Placetype Map updates, review, and recommendations",
+        "description": "Review and recommendations on the Draft Future Placetype Map.",
+        "presenter": "Lawrence Agu, III, AICP, Assoc AIA, Planning and Urban Design",
+        "action_required": null
+      },
+      {
+        "item_number": "24-1135",
+        "title": "Draft Future Placetype Descriptions review",
+        "description": "Review of Draft Future Placetype Descriptions.",
+        "presenter": "Lawrence Agu, III, AICP, Assoc AIA, Planning and Urban Design",
+        "action_required": null
+      },
+      {
+        "item_number": "24-1136",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "City Plan Commission",
+      "Dallas",
+      "Future Placetype Map",
+      "Planning and Urban Design",
+      "Recommendations",
+      "Draft Future Placetype Descriptions",
+      "Adjournment",
+      "Special Called Meeting",
+      "Council Chambers",
+      "Urban Planning",
+      "Texas",
+      "City Hall",
+      "Public Meeting",
+      "Agenda"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18545
+}

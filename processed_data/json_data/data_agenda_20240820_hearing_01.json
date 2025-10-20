@@ -1,0 +1,96 @@
+{
+  "agenda_identifier": "agenda_20240820_hearing_01",
+  "agenda_number": 20240820,
+  "source_file": "agenda_20240820_hearing_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 17, 2024",
+      "time": "10:30 A.M. for briefing and 1:00 P.M. for public hearing",
+      "type": "Regular Meeting",
+      "organization": "Dallas Board of Adjustment (Panel A)",
+      "location": "Dallas City Hall, Room 6EN Council Chambers and Videoconference"
+    },
+    "attendees": {
+      "chair": "David A. Neumann",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "David A. Neumann",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Staff Presentation/Briefing",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Public Hearing",
+        "description": "Board of Adjustment",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Public Testimony",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Miscellaneous Items",
+        "description": "Approval of Panel A Minutes, August 20, 2024",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Case Docket",
+        "description": "Uncontested Items, Holdover Items, Individual Items",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Board of Adjustment",
+      "Public Hearing",
+      "Variance",
+      "Setback Regulations",
+      "Fence Height",
+      "Tree Conservation",
+      "Fee Reimbursement",
+      "Public Testimony",
+      "Minutes Approval",
+      "Uncontested Items",
+      "Holdover Items",
+      "Individual Cases",
+      "Executive Session",
+      "Accommodations"
+    ],
+    "financial_items": [
+      {
+        "description": "Fee reimbursement for fees paid to appeal the decision of the administrative official.",
+        "amount": null,
+        "type": "fee reimbursement"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 15263
+}

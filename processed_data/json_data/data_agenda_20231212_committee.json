@@ -1,0 +1,104 @@
+{
+  "agenda_identifier": "agenda_20231212_committee",
+  "agenda_number": 20231212,
+  "source_file": "agenda_20231212_committee.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 12, 2023",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Housing and Homelessness Solutions Committee",
+      "location": "Council Chambers, 6th Floor at City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Moreno",
+      "presenters": [
+        "Christine Crossley",
+        "Thor Erickson",
+        "Cynthia Rogers-Ellickson",
+        "Darwin Wade"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A 23-3218",
+        "title": "Approval of the November 14, 2023 Housing and Homelessness Solutions Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B 23-3206",
+        "title": "Citizens Homelessness Commission - Roles & Responsibilities",
+        "description": "Briefing on the roles and responsibilities of the Citizens Homelessness Commission.",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C 23-3207",
+        "title": "Overview of Upcoming Agenda Item: Home Improvement & Preservation Program Amendment",
+        "description": "Overview of the upcoming amendment to the Home Improvement & Preservation Program.",
+        "presenter": "Thor Erickson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F 23-3210",
+        "title": "Dallas County 4150 Independence Road Subrecipient Agreement",
+        "description": "Authorize the acceptance of a $2,500,000.00 grant from the County’s allocated ARPA funds for supportive housing.",
+        "presenter": "Christine Crossley",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "K 23-3220",
+        "title": "Consulting Services for City-Owned Property",
+        "description": "Authorize the ratification of consulting services for the city-owned property at 2929 South Hampton Road.",
+        "presenter": "Christine Crossley",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "M 23-3221",
+        "title": "Acceptance of Grant from TDHCA",
+        "description": "Authorize the acceptance of a grant from TDHCA to provide services to the homeless.",
+        "presenter": "Christine Crossley",
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Housing",
+      "Homelessness",
+      "Committee Meeting",
+      "Dallas",
+      "Grant",
+      "Supportive Housing",
+      "Consulting Services",
+      "American Rescue Plan",
+      "Community Development",
+      "Neighborhood Revitalization",
+      "Public Hearing",
+      "Action Plan",
+      "Funding",
+      "Affordable Housing",
+      "City Council"
+    ],
+    "financial_items": [
+      {
+        "description": "Grant from the County’s allocated ARPA funds for supportive housing.",
+        "amount": "$2,500,000.00",
+        "type": "grant"
+      },
+      {
+        "description": "Consulting services for the city-owned property at 2929 South Hampton Road.",
+        "amount": "$144,333.00",
+        "type": "consulting"
+      },
+      {
+        "description": "Grant from TDHCA for services to the homeless.",
+        "amount": "$164,293.00",
+        "type": "grant"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 33622
+}

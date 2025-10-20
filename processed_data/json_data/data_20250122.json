@@ -1,0 +1,90 @@
+{
+  "agenda_identifier": "agenda_20250122_hearing",
+  "agenda_number": 20250122,
+  "source_file": "agenda_20250122_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 22, 2025",
+      "time": "10:30 A.M. and 1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Board of Adjustment (Panel B)",
+      "location": "Dallas City Hall, Room 6ES, Videoconference"
+    },
+    "attendees": {
+      "chair": "Cheri Gambow, Vice-Chair",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Cheri Gambow, Vice-Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Staff Presentation/Briefing",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Public Hearing",
+        "description": "Board of Adjustment",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Public Testimony",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Miscellaneous Items",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Case Docket",
+        "description": "Uncontested Items, Holdover Items, Individual Items",
+        "presenter": "Board of Adjustment",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Board of Adjustment",
+      "Public Hearing",
+      "Case Docket",
+      "Variance",
+      "Special Exception",
+      "Setback Regulations",
+      "Public Testimony",
+      "Miscellaneous Items",
+      "Meeting",
+      "January 2025",
+      "City Hall",
+      "Videoconference",
+      "Panel B",
+      "Accommodations"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 17645
+}

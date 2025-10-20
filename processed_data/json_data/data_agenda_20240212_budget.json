@@ -1,0 +1,93 @@
+{
+  "agenda_identifier": "agenda_20240212_budget",
+  "agenda_number": 20240212,
+  "source_file": "agenda_20240212_budget.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 12, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Dallas City Council Workforce, Education, and Equity Committee",
+      "location": "Council Chambers, 6th Floor, City Hall and via video conference"
+    },
+    "attendees": {
+      "chair": "Narvaez",
+      "presenters": [
+        "Thor Erickson",
+        "Genesis Gavino",
+        "Jessica Galleshaw",
+        "Taylor Moody",
+        "Christina da Silva",
+        "Chris Graves"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the January 8, 2024, Workforce, Education, and Equity Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Dallas Housing Policy 2033 Implementation Update",
+        "description": "Update on the implementation of the Dallas Housing Policy 2033.",
+        "presenter": "Thor Erickson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Update on Digital Navigators Program",
+        "description": "Discussion on high-speed internet access in Dallas.",
+        "presenter": "Genesis Gavino",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Period Access Dallas (PAD)/ American Rescue Plan (ARPA) Essential Necessities Cooperation Agreement with Staples",
+        "description": "Discussion on the cooperation agreement with Staples.",
+        "presenter": "Jessica Galleshaw",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "College Advisory Commission Update Regarding Appointments and Recruitment Efforts and Civic Analysis Project",
+        "description": "Update on appointments and recruitment efforts.",
+        "presenter": "Taylor Moody",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Update on a Proposed Human Rights Commission and Updates Concerning the Veteran Affairs Commission and Commission on Disabilities",
+        "description": "Updates regarding the proposed Human Rights Commission and other commissions.",
+        "presenter": "Christina da Silva, Chris Graves",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Committee Forecast",
+        "description": "Forecast of future committee activities.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Workforce",
+      "Education",
+      "Equity",
+      "Housing Policy",
+      "Digital Navigators",
+      "American Rescue Plan",
+      "Human Rights Commission",
+      "Veteran Affairs",
+      "Commission on Disabilities",
+      "Committee Forecast"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 19972
+}

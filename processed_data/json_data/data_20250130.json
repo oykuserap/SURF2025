@@ -1,0 +1,94 @@
+{
+  "agenda_identifier": "agenda_20250130_special_01",
+  "agenda_number": 20250130,
+  "source_file": "agenda_20250130_special_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 30, 2025",
+      "time": "1:00 p.m.",
+      "type": "Special Called Meeting",
+      "organization": "Cypress Waters TIF District Board of Directors",
+      "location": "Dallas City Hall, 6DN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Derek Sandler",
+      "presenters": [
+        "Tamara Leak"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to order and declare a quorum is established.",
+        "description": "",
+        "presenter": "Derek Sandler",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Introduction of meeting participants.",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Public comments pertaining to agenda items 5 through 7.",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Nominate and elect a Vice Chairperson.",
+        "description": "Recommended action: Nominate and elect a Vice Chairperson.",
+        "presenter": null,
+        "action_required": "Nominate and elect"
+      },
+      {
+        "item_number": "5",
+        "title": "Review and consider the Meeting Record for the January 25, 2024, meeting.",
+        "description": "",
+        "presenter": "Tamara Leak",
+        "action_required": "Approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Review and consider the Cypress Waters TIF District Annual Report for Fiscal Year 2023-2024.",
+        "description": "",
+        "presenter": "Tamara Leak",
+        "action_required": "Approve and forward a recommendation of approval to City Council"
+      },
+      {
+        "item_number": "7",
+        "title": "Review and consider a quarterly regular meeting schedule for Cypress Waters TIF District Board of Directors for calendar year 2025.",
+        "description": "",
+        "presenter": "Tamara Leak",
+        "action_required": "Approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Adjournment.",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Cypress Waters TIF District",
+      "Special Called Meeting",
+      "Dallas City Hall",
+      "Vice Chairperson",
+      "Meeting Record",
+      "Annual Report",
+      "Fiscal Year 2023-2024",
+      "Quarterly Meeting Schedule",
+      "Public Comments",
+      "Nomination"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11986
+}

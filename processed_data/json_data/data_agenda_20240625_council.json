@@ -1,0 +1,36 @@
+{
+  "agenda_identifier": "agenda_20240625_council",
+  "agenda_number": 20240625,
+  "source_file": "agenda_20240625_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 25, 2024",
+      "time": "12:00 PM",
+      "type": "Briefing Agenda",
+      "organization": "Dallas Public Facility Corporation, Dallas Public Finance Corporation",
+      "location": "1500 Marilla Street Council Chambers, 6th Floor, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "Dallas",
+      "Public Facility Corporation",
+      "Public Finance Corporation",
+      "executive session",
+      "litigation",
+      "real property",
+      "contract",
+      "employment",
+      "security",
+      "economic development",
+      "financial information"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 4087
+}

@@ -1,0 +1,73 @@
+{
+  "agenda_identifier": "agenda_20240215_regular",
+  "agenda_number": 20240215,
+  "source_file": "agenda_20240215_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 15, 2024",
+      "time": "4:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Arts and Culture Advisory Commission",
+      "location": "Dallas City Hall, 6FN - Park and Recreation Board Room and Videoconference, 1500 Marilla Street"
+    },
+    "attendees": {
+      "chair": "David Small",
+      "presenters": [
+        "David Small",
+        "Sylvana Alonzo",
+        "Martine Philippe"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the January 18, 2024, Arts and Culture Advisory Commission meeting minutes",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Approval of the remaining two (2) resident Public Art Committee Nominations and Appointments for a term ending September 30, 2024",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Recommendation in Support of Calcium Project as the lead artist for Watershed Floodgates Public Art Project located in Council District 7",
+        "description": "",
+        "presenter": null,
+        "action_required": "recommend"
+      },
+      {
+        "item_number": "4",
+        "title": "Recommendation in support of the FY 2024-25 Cultural Organizations Program Guidelines",
+        "description": "",
+        "presenter": null,
+        "action_required": "recommend"
+      }
+    ],
+    "keywords": [
+      "Arts and Culture",
+      "Public Art",
+      "Cultural Organizations",
+      "Commission Meeting",
+      "Nominations",
+      "Appointments",
+      "Calcium Project",
+      "Watershed Floodgates",
+      "Black History Month",
+      "Cultural Spotlight",
+      "Executive Session",
+      "Public Speakers",
+      "Dallas City Hall",
+      "Accommodations",
+      "Equity"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10375
+}

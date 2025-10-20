@@ -1,0 +1,83 @@
+{
+  "agenda_identifier": "agenda_20250402_council",
+  "agenda_number": 20250402,
+  "source_file": "agenda_20250402_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 2, 2025",
+      "time": "9:00 AM",
+      "type": "Council Briefing Meeting",
+      "organization": "Dallas City Council",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the March 5, 2025 City Council Meeting",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Consideration of appointments to boards and commissions",
+        "description": "Evaluation and duties of board and commission members (List of nominees is available in the City Secretary's Office)",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "A",
+        "title": "FIFA World Cup 2026 Update",
+        "description": "Presentation",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Dallas Police Department Law Enforcement Training Center at University of North Texas at Dallas",
+        "description": "Presentation",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Dallas Fire-Rescue’s Budget & Overtime Update",
+        "description": "Presentation",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Real Estate and Attorney Briefing",
+        "description": "Deliberate the purchase, exchange, lease, or value of real property located at 508 Young Street and seek the advice of the City Attorney.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "Council Briefing",
+      "FIFA World Cup 2026",
+      "Dallas Police Department",
+      "Law Enforcement Training Center",
+      "Dallas Fire-Rescue",
+      "Budget Update",
+      "Real Estate",
+      "Attorney Briefing",
+      "Boards and Commissions",
+      "Public Participation",
+      "Videoconference",
+      "City Hall",
+      "Closed Session",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 21601
+}

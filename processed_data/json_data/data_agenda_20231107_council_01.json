@@ -1,0 +1,80 @@
+{
+  "agenda_identifier": "agenda_20231107_council_01",
+  "agenda_number": 20231107,
+  "source_file": "agenda_20231107_council_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 7, 2023",
+      "time": "6:30 PM",
+      "type": "Regular Meeting",
+      "organization": "Charter Review Commission",
+      "location": "Council Chambers, 6th Floor, City Hall and via video conference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Bilierae Johnson, City Secretary",
+        "Jake Anderson, Manager, Office of Government Affairs",
+        "Carrie Rogers, Director, Office of Government Affairs",
+        "Anna Holmes, First City Attorney, City Attorney’s Office",
+        "Laura Morrison, First City Attorney, City Attorney’s Office"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of October 24, 2023 Charter Review Commission Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "City of Dallas Elections (Joint Agreement, Election Contract & Costs)",
+        "description": null,
+        "presenter": "Bilierae Johnson, City Secretary",
+        "action_required": null
+      },
+      {
+        "item_number": "B",
+        "title": "City Council Term Lengths and Limits",
+        "description": null,
+        "presenter": "Jake Anderson, Manager, Office of Government Affairs",
+        "action_required": null
+      },
+      {
+        "item_number": "C",
+        "title": "Charter Review Commission Discussion - Upcoming NCL and ICMA Presentations",
+        "description": null,
+        "presenter": "Carrie Rogers, Director, Office of Government Affairs",
+        "action_required": null
+      },
+      {
+        "item_number": "D",
+        "title": "Changing to the November Odd-Year Uniform Election Date",
+        "description": null,
+        "presenter": "Anna Holmes, First City Attorney, City Attorney’s Office; Laura Morrison, First City Attorney, City Attorney’s Office",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Charter Review Commission",
+      "City of Dallas",
+      "Elections",
+      "City Council",
+      "Term Lengths",
+      "Limits",
+      "NCL",
+      "ICMA",
+      "Uniform Election Date",
+      "Public Affairs",
+      "Video Conference",
+      "Minutes Approval",
+      "Government Affairs"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9041
+}

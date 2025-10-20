@@ -1,0 +1,76 @@
+{
+  "agenda_identifier": "agenda_20240822_budget",
+  "agenda_number": 20240822,
+  "source_file": "agenda_20240822_budget.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 22, 2024",
+      "time": "2:00 PM",
+      "type": "Ad Hoc Committee Meeting",
+      "organization": "City Council Ad Hoc Committee on Pensions",
+      "location": "City Council Chambers, Floor 6 at City Hall, and via video conference"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Jack Ireland"
+      ],
+      "participants": [
+        "Mendelsohn",
+        "Moreno",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Blackmon",
+        "Resendez",
+        "Schultz",
+        "Gracey",
+        "Arnold",
+        "Narvaez"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the June 6, 2024 Ad Hoc Committee on Pensions Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Monetization of City Assets Discussion",
+        "description": "Discussion led by the Chief Financial Officer regarding the monetization of city assets.",
+        "presenter": "Jack Ireland",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Investment Reports for Dallas Police and Fire Pension System (DPFPS) and Employees’ Retirement Fund (ERF)",
+        "description": "Presentation of investment reports for the DPFPS and ERF.",
+        "presenter": "Jack Ireland",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Pensions",
+      "City Council",
+      "Dallas",
+      "Investment Reports",
+      "Monetization",
+      "Assets",
+      "Financial Officer",
+      "Public Meeting",
+      "Ad Hoc Committee",
+      "Video Conference",
+      "City Hall",
+      "June Meeting Minutes",
+      "Discussion",
+      "Approval",
+      "Economic Development"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18637
+}

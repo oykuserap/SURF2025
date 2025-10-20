@@ -1,0 +1,112 @@
+{
+  "agenda_identifier": "agenda_20231107_council",
+  "agenda_number": 20231107,
+  "source_file": "agenda_20231107_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 7, 2023",
+      "time": "5:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Community Police Oversight Board",
+      "location": "Dallas City Hall, 6ES Council Chambers and Videoconference"
+    },
+    "attendees": {
+      "chair": "Jose Rivas",
+      "presenters": [
+        "Elaine Chandler",
+        "Kevin Williams",
+        "James Griffin",
+        "OCPO Interim Director Chandler",
+        "CPOB Vice Chairman Rivas",
+        "CPOB Chairman Enobakhare, Jr.",
+        "IAD Major Alanis"
+      ],
+      "participants": [
+        "Dr. Loren Gilbert-Smith",
+        "David Kitner",
+        "Judge Chauncey Lander",
+        "Ozzie Smith",
+        "Alison Grinter Allen",
+        "Jonathan E Maples",
+        "Alan Marshall",
+        "Walter Higgins",
+        "Arlene Steinfeld",
+        "Derric Pegram",
+        "Deatra Wadsworth",
+        "Brandon Friedman",
+        "John Mark Davidson"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes for the October 10, 2023 meeting and for the record amendment to September meeting minutes.",
+        "presenter": "Dr. Loren Gilbert-Smith",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "II",
+        "title": "Board Updates",
+        "description": "Nominees and Holdovers.",
+        "presenter": "Jose Rivas",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "III",
+        "title": "Action Items",
+        "description": "Discussion on various action items including Dynell Lane Investigation and recommendations to Chief Garcia.",
+        "presenter": "OCPO Interim Director Chandler",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IV",
+        "title": "Staff Reports/Briefings",
+        "description": "Reports on DPD Monthly Arrest Data and updates on various investigations.",
+        "presenter": "James Griffin",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Monthly Activity Report",
+        "description": "Updates on complaints received by OCPO for the month of October.",
+        "presenter": "James Griffin",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "UPDATE: Board Member Community Engagement",
+        "description": "Updates from board members on community engagement efforts.",
+        "presenter": "All",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Upcoming Meeting",
+        "description": "Announcement of the next meeting scheduled for December 12, 2023.",
+        "presenter": "Jose Rivas",
+        "action_required": "note"
+      }
+    ],
+    "keywords": [
+      "Community Police Oversight",
+      "Dallas City Hall",
+      "Board Updates",
+      "Action Items",
+      "Staff Reports",
+      "Monthly Activity Report",
+      "Community Engagement",
+      "DPD",
+      "Investigations",
+      "Public Comment",
+      "Meeting Minutes",
+      "Recommendations",
+      "Training Opportunities",
+      "Public Safety",
+      "Equitable Access"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 66580
+}

@@ -1,0 +1,99 @@
+{
+  "agenda_identifier": "agenda_20231116_council",
+  "agenda_number": 20231116,
+  "source_file": "agenda_20231116_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 16, 2023",
+      "time": "9:00 A.M.",
+      "type": "Retreat",
+      "organization": "Dallas Park and Recreation Board",
+      "location": "Arlington Hall at Turtle Creek Park, 3333 Turtle Creek Blvd, Dallas, Texas 75219"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Tiffany Divis"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Welcome & Brief History of Arlington Hall",
+        "description": "Introduction and overview of Arlington Hall by Tiffany Divis.",
+        "presenter": "Tiffany Divis",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "2",
+        "title": "Council District Summaries",
+        "description": "Discussion on challenges, successes, and tools for success.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Review of Board’s Previous Goals/Accomplishments FY 22-23",
+        "description": "Review of the goals and accomplishments from the previous fiscal year.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "4",
+        "title": "Establish New Board Priorities FY 23-24",
+        "description": "Discussion on new priorities including fees, revenue, cost recovery, new parks foundation, and stipend/management policy.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "5",
+        "title": "Maintenance Endowment",
+        "description": "Discussion on the maintenance endowment.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "6",
+        "title": "Future of Recreation",
+        "description": "Discussion on the future of recreation.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "7",
+        "title": "Recap 2017 Bond Program & 2024 Bond Program Implementation",
+        "description": "Recap of the 2017 bond program and discussion on the implementation of the 2024 bond program.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "8",
+        "title": "Wrap up/Next Steps",
+        "description": "Summary of the meeting and discussion of next steps.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas Park and Recreation Board",
+      "Arlington Hall",
+      "retreat",
+      "goals",
+      "accomplishments",
+      "priorities",
+      "maintenance endowment",
+      "recreation",
+      "bond program",
+      "next steps",
+      "challenges",
+      "successes",
+      "tools for success",
+      "fees",
+      "revenue"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 5749
+}

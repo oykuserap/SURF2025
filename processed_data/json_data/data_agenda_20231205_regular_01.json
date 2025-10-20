@@ -1,0 +1,91 @@
+{
+  "agenda_identifier": "agenda_20231205_regular_01",
+  "agenda_number": 20231205,
+  "source_file": "agenda_20231205_regular_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 5, 2023",
+      "time": "4:00 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Fort Worth Avenue TIF District Board of Directors",
+      "location": "Dallas City Hall, 6DN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Dorcy Clark"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to order and introduction of meeting participants.",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Public comments pertaining to agenda items 3 through 5.",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Review and consideration of the Meeting Record of the October 10, 2023 Fort Worth Avenue TIF District Board Meeting.",
+        "description": null,
+        "presenter": "Dorcy Clark",
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "4",
+        "title": "Review and consideration of the Fort Worth Avenue TIF District Annual Report for FY 2022-2023.",
+        "description": null,
+        "presenter": "Dorcy Clark",
+        "action_required": "Approval and forward a recommendation of approval to City Council"
+      },
+      {
+        "item_number": "5",
+        "title": "Review and consideration of a regular meeting schedule for the Fort Worth Avenue TIF District Board of Directors for calendar year 2024.",
+        "description": null,
+        "presenter": null,
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "6",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Fort Worth Avenue",
+      "TIF District",
+      "Board of Directors",
+      "Meeting Record",
+      "Annual Report",
+      "FY 2022-2023",
+      "Regular Meeting",
+      "Dallas City Hall",
+      "Economic Development",
+      "City Council"
+    ],
+    "financial_items": [
+      {
+        "description": "TIF Subsidy for Vista at Kessler/Stevens Development Project",
+        "amount": "$5,124,811",
+        "type": "TIF Subsidy"
+      },
+      {
+        "description": "Chapter 380 economic development grant agreement",
+        "amount": "$1,175,189",
+        "type": "Grant"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 116023
+}

@@ -1,0 +1,174 @@
+{
+  "agenda_identifier": "agenda_20241021_budget_01",
+  "agenda_number": 20241021,
+  "source_file": "agenda_20241021_budget_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 21, 2024",
+      "time": "1:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Transportation and Infrastructure Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Narvaez",
+      "presenters": [
+        "Ghassan Khankarli, Ph.D., P.E.",
+        "Kathryn Rush",
+        "Sarah Standifer",
+        "Paul Tomme",
+        "Asciatu Whiteside"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A 24-3233",
+        "title": "Approval of the September 16, 2024 Transportation and Infrastructure Committee Meeting",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B 24-3234",
+        "title": "Dallas Bike Plan 2025: Status Update",
+        "description": "Update on the status of the Dallas Bike Plan 2025.",
+        "presenter": "Ghassan Khankarli, Ph.D., P.E.",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C 24-3235",
+        "title": "Elm Fork Water Treatment Plant Water Quality Improvements Program",
+        "description": "Discussion on the water quality improvements program by the Construction Manager-at-Risk.",
+        "presenter": "Sarah Standifer",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D 24-3248",
+        "title": "Approval of Amendments to Chapter 6 of the DFW International Airport’s Code",
+        "description": "Amendments for the implementation and enforcement of a continuing wastewater pretreatment program.",
+        "presenter": "Paul Tomme",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "E 24-3236",
+        "title": "Transportation and Public Works Quarterly Report",
+        "description": "Quarterly report from the Department of Transportation & Public Works.",
+        "presenter": "Ghassan Khankarli, Ph.D., P.E.",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F 24-3238",
+        "title": "Interagency Transportation Report",
+        "description": "Report on interagency transportation matters.",
+        "presenter": "Ghassan Khankarli, Ph.D., P.E.",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H 24-3241",
+        "title": "Aviation: Authorize Supplemental Agreement No. 1",
+        "description": "Amend the scope of work for the de-icing facility at the airport.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "I 24-3242",
+        "title": "Transportation & Public Works: Authorize a professional engineering services contract",
+        "description": "Contract for traffic signal design services for five intersections.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "J 24-3244",
+        "title": "Transportation & Public Works: Authorize a construction services contract",
+        "description": "Contract for the Elam Road Safe Routes to School Pedestrian Improvements project.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "K 24-3245",
+        "title": "Transportation & Public Works: Authorize a construction services contract",
+        "description": "Contract for the Highland Road Noise Barrier and Landscaping Project.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "L 24-3247",
+        "title": "Transportation & Public Works: Authorize payment to the Dallas Area Rapid Transit",
+        "description": "Payment for operation and maintenance costs for the Dallas Streetcar System.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "M 24-3246",
+        "title": "Transportation & Public Works: Authorize a construction services contract",
+        "description": "Contract for the construction of new traffic signals at Lancaster Road and Wheatland Road.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "N 24-3243",
+        "title": "Transportation & Public Works: Authorize an Advance Funding Agreement",
+        "description": "Agreement for federal funding for a Category 10 project.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Transportation",
+      "Infrastructure",
+      "Dallas",
+      "Public Works",
+      "Engineering",
+      "Water Quality",
+      "Aviation",
+      "Streetcar",
+      "Pedestrian Improvements",
+      "Traffic Signals",
+      "Funding",
+      "Construction",
+      "Bicycle Plan",
+      "Quarterly Report",
+      "Wastewater"
+    ],
+    "financial_items": [
+      {
+        "description": "Supplemental Agreement No. 1 for de-icing facility at the airport",
+        "amount": "$3,409,841.93",
+        "type": "expenditure"
+      },
+      {
+        "description": "Professional engineering services contract for traffic signal design",
+        "amount": "$358,235.70",
+        "type": "expenditure"
+      },
+      {
+        "description": "Construction services contract for Elam Road Safe Routes to School",
+        "amount": "$3,326,138.89",
+        "type": "expenditure"
+      },
+      {
+        "description": "Construction services contract for Highland Road Noise Barrier",
+        "amount": "$149,250.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Payment to Dallas Area Rapid Transit for streetcar operation",
+        "amount": "$2,021,642.99",
+        "type": "expenditure"
+      },
+      {
+        "description": "Construction services contract for traffic signals at Lancaster Road",
+        "amount": "$593,400.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Advance Funding Agreement for federal funding for a Category 10 project",
+        "amount": "$10,476,100.00",
+        "type": "funding"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 27247
+}

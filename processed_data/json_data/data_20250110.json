@@ -1,0 +1,166 @@
+{
+  "agenda_identifier": "agenda_20250110_special",
+  "agenda_number": 20250110,
+  "source_file": "agenda_20250110_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 10, 2025",
+      "time": "2:00 PM",
+      "type": "Special Called Meeting",
+      "organization": "Public Safety Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Pollyana Ashford",
+        "Delridge Williams",
+        "Nathan Swyers",
+        "Yancey Nelson",
+        "Breanna Valentine",
+        "Patricia Mora",
+        "Dominique Artis",
+        "Justin Ball",
+        "David Pughes",
+        "Elizabeth Saab"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of December 9, 2024 Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Overview of Police and Fire Recruiting and Retention",
+        "description": "A briefing on the recruiting and retention strategies for police and fire departments.",
+        "presenter": "Pollyana Ashford, Major of Police, Dallas Police Department; Delridge Williams, Assistant Chief, Dallas Fire-Rescue Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Violent Crime Reduction Plan Update",
+        "description": "An update on the strategies and effectiveness of the violent crime reduction plan.",
+        "presenter": "Nathan Swyers, Major of Police, Violent Crime Division, Dallas Police Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Overview of Dallas Police Proposed Initiatives for Human Trafficking Awareness Month",
+        "description": "Discussion on initiatives proposed by the Dallas Police Department for human trafficking awareness.",
+        "presenter": "Yancey Nelson, Major of Police, Dallas Police Department; Breanna Valentine, Lieutenant of Police, Dallas Police Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Overview of Dallas Police Department Animal Cruelty Unit",
+        "description": "A briefing on the operations and initiatives of the Animal Cruelty Unit.",
+        "presenter": "Patricia Mora, Deputy Chief, Patrol East Group Dallas Police Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Public Safety Dashboards",
+        "description": "Presentation of public safety dashboards and metrics.",
+        "presenter": "Dominique Artis, Chief of Public Safety (I), City Manager’s Office",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Dallas Fire-Rescue Blood Transfusion Pilot Program Update",
+        "description": "Update on the pilot program for blood transfusions in Dallas Fire-Rescue.",
+        "presenter": "Justin Ball, Chief of Fire, Dallas Fire-Rescue Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Dallas Fire-Rescue Facility Construction Update",
+        "description": "Update on the construction of new facilities for Dallas Fire-Rescue.",
+        "presenter": "Justin Ball, Chief of Fire, Dallas Fire-Rescue Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Dallas Fire-Rescue Fleet Maintenance Update",
+        "description": "Update on the maintenance of the fleet for Dallas Fire-Rescue.",
+        "presenter": "Justin Ball, Chief of Fire (I), Dallas Fire-Rescue Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Marshal’s Homeless Action Responses Team Activity Report",
+        "description": "Report on the activities of the Marshal's Homeless Action Responses Team.",
+        "presenter": "David Pughes, City Marshal, Dallas Marshal’s Office",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "Statement Regarding Public Safety Priority and the November Election",
+        "description": "Discussion on public safety priorities in relation to the upcoming election.",
+        "presenter": "Dominique Artis, Chief of Public Safety (I), City Manager’s Office; Elizabeth Saab, Chief of Strategy, Engagement, and Alignment (I), City Manager’s Office",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "K",
+        "title": "Authorize acceptance of a grant from the U.S. Department of Justice",
+        "description": "Authorize the acceptance of a grant to support crime prevention and control activities.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "L",
+        "title": "Authorize a three-year cooperative purchasing agreement for web-based law enforcement data integration",
+        "description": "Authorize a purchasing agreement for a law enforcement data integration platform.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "M",
+        "title": "Authorize a three-year purchasing agreement for a web-based intelligence investigative platform",
+        "description": "Authorize a purchasing agreement for an intelligence investigative platform.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Public Safety",
+      "Dallas Police Department",
+      "Dallas Fire-Rescue",
+      "Crime Reduction",
+      "Human Trafficking",
+      "Animal Cruelty",
+      "Public Safety Dashboards",
+      "Grant Acceptance",
+      "Cooperative Purchasing",
+      "Intelligence Platform",
+      "Recruiting and Retention",
+      "Violent Crime",
+      "Facility Construction",
+      "Fleet Maintenance",
+      "Homeless Action"
+    ],
+    "financial_items": [
+      {
+        "description": "Grant from the U.S. Department of Justice to support crime prevention and control activities.",
+        "amount": "$1,020,731.00",
+        "type": "grant"
+      },
+      {
+        "description": "Cooperative purchasing agreement for web-based law enforcement data integration platform.",
+        "amount": "$2,700,000.00",
+        "type": "contract"
+      },
+      {
+        "description": "Purchasing agreement for web-based intelligence investigative platform.",
+        "amount": "$303,963.00",
+        "type": "contract"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 24381
+}

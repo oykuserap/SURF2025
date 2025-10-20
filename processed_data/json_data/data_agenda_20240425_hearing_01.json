@@ -1,0 +1,50 @@
+{
+  "agenda_identifier": "agenda_20240425_hearing_01",
+  "agenda_number": 20240425,
+  "source_file": "agenda_20240425_hearing_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 25, 2024",
+      "time": "6:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Judicial Nominating Commission",
+      "location": "1500 Marilla Street- 4EN Dallas, Tx 75201, City Hall (videoconference)"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of April 16, 2024 Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Interview of candidates for City of Dallas - Full-time Municipal Judges",
+        "description": "Interview candidates for the positions of Administrative Judge and Associate Judge, pursuant to Section 551.074 of the Texas Open Meetings Act.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Judicial Nominating Commission",
+      "Municipal Judges",
+      "Executive Session",
+      "City of Dallas",
+      "April 25, 2024",
+      "videoconference",
+      "minutes approval",
+      "interview candidates",
+      "Texas Open Meetings Act",
+      "City Hall"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 7773
+}

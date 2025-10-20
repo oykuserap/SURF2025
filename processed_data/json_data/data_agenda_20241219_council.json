@@ -1,0 +1,133 @@
+{
+  "agenda_identifier": "agenda_20241219_council",
+  "agenda_number": 20241219,
+  "source_file": "agenda_20241219_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 19, 2024",
+      "time": "1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Office of Homeless Solutions",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Linda Garner",
+      "presenters": [
+        "Christine Crossley",
+        "Darwin Wade",
+        "James Hauck",
+        "Tramonica Brown",
+        "Wesley Keyes",
+        "Angela Klattenhoff"
+      ],
+      "participants": [
+        "LeTitia Owens",
+        "Barry Dyson",
+        "Lisa Rand"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call Meeting to Order and Roll Call",
+        "description": "Declare A Quorum Present, Declare Legal Notice Posted and Meeting Duly Called",
+        "presenter": "Linda Garner",
+        "action_required": "none"
+      },
+      {
+        "item_number": "II",
+        "title": "Public Comments",
+        "description": "Limit 2 minutes per speaker",
+        "presenter": "Linda Garner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from November 21, 2024",
+        "presenter": "Linda Garner",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Briefing Memo: Properties Updates",
+        "description": "Updates on Property Development and Housing Initiatives",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Briefing Memo: Interim Housing Update",
+        "description": "Request for Information for Interim Housing and Services for Unsheltered Adults",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Review of Boards and Commissions: Chapter 8, Section 8-1.1",
+        "description": "Annual Report to the City Council and Discussion on Internal Deadline Submission for the Annual Report",
+        "presenter": "Linda Garner",
+        "action_required": "discuss and vote"
+      },
+      {
+        "item_number": "VII",
+        "title": "Task Force Update: Highlighting Ongoing Initiatives and Priorities",
+        "description": "Updates from various task force members",
+        "presenter": "Linda Garner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Discussion on District Specific Homelessness Concerns",
+        "description": "Observations: See One, Be One, Teach One Matrix",
+        "presenter": "Linda Garner and Commissioners",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IX",
+        "title": "Proposed Items for Next/Future Meetings",
+        "description": "No discussion, debate, and/or vote",
+        "presenter": "Linda Garner",
+        "action_required": "none"
+      },
+      {
+        "item_number": "X",
+        "title": "Special Acknowledgment",
+        "description": "Acknowledgment of contributions by Christine Crossley and LeTitia Owens",
+        "presenter": "Christine Crossley",
+        "action_required": "none"
+      },
+      {
+        "item_number": "XI",
+        "title": "Announcement of Upcoming Meetings",
+        "description": "Details of upcoming meetings",
+        "presenter": "Linda Garner",
+        "action_required": "none"
+      },
+      {
+        "item_number": "XII",
+        "title": "Adjournment",
+        "description": "Closing of the meeting",
+        "presenter": "Linda Garner",
+        "action_required": "none"
+      }
+    ],
+    "keywords": [
+      "Homeless Solutions",
+      "Dallas City Hall",
+      "Public Comments",
+      "Approval of Minutes",
+      "Property Development",
+      "Interim Housing",
+      "Annual Report",
+      "Task Force Update",
+      "District Specific Concerns",
+      "Future Meetings",
+      "Special Acknowledgment",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11191
+}

@@ -1,0 +1,118 @@
+{
+  "agenda_identifier": "agenda_20240208_council",
+  "agenda_number": 20240208,
+  "source_file": "agenda_20240208_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 8, 2024",
+      "time": "3:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Citizen Homelessness Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "LeTitia Owens",
+      "presenters": [
+        "Christine Crossley"
+      ],
+      "participants": [
+        "Matt Jacob",
+        "LeTitia Owens"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call Meeting to Order and Roll Call",
+        "description": "Declare A Quorum Present and Declare Legal Notice Posted and Meeting Duly Called",
+        "presenter": "LeTitia Owens, Vice Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Comments",
+        "description": "Limit 2 minutes per speaker",
+        "presenter": "LeTitia Owens, Vice Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes – January 11, 2024",
+        "presenter": "LeTitia Owens, Vice Chair",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Briefing Memo: Updated Timeline",
+        "description": "Updated Timeline 1950 Fort Worth Avenue",
+        "presenter": "Christine Crossley, Director",
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Office of Homeless Solutions Agenda / Contract Forecast",
+        "description": null,
+        "presenter": "Christine Crossley, Director",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Discussion: Identify Agencies and Programs Serving the Homeless Population",
+        "description": null,
+        "presenter": "LeTitia Owens, Vice Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Recommendation / Approval of 2023 Citizen Homelessness Annual Report",
+        "description": "Boards and Commissions, Chapter 8, Sec. 8-1.1.",
+        "presenter": "LeTitia Owens, Vice Chair",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VIII",
+        "title": "(CHC) Citizen Homelessness Retreat Update",
+        "description": null,
+        "presenter": "LeTitia Owens, Vice Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Proposed Items for Next/Future Meetings",
+        "description": "No discussion, debate, and/or vote",
+        "presenter": "LeTitia Owens, Vice Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Announcement of Upcoming Meetings",
+        "description": null,
+        "presenter": "LeTitia Owens, Vice Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "XI",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": "LeTitia Owens, Vice Chair",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Citizen Homelessness Commission",
+      "Dallas City Hall",
+      "Public Comments",
+      "Approval of Minutes",
+      "Updated Timeline",
+      "Office of Homeless Solutions",
+      "Homeless Population",
+      "Annual Report",
+      "Future Meetings",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11515
+}

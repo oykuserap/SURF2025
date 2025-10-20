@@ -1,0 +1,35 @@
+{
+  "agenda_identifier": "agenda_20240131_hearing",
+  "agenda_number": 20240131,
+  "source_file": "agenda_20240131_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": null,
+      "time": null,
+      "type": null,
+      "organization": "City Council",
+      "location": null
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "executive session",
+      "litigation",
+      "real property",
+      "contract",
+      "employment",
+      "evaluation",
+      "security",
+      "financial information",
+      "economic development",
+      "incentives"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 3137
+}

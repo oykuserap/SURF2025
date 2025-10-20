@@ -1,0 +1,172 @@
+{
+  "agenda_identifier": "agenda_20241022_regular",
+  "agenda_number": 20241022,
+  "source_file": "agenda_20241022_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 22, 2024",
+      "time": "12:00 PM",
+      "type": "Board of Directors Meeting",
+      "organization": "City of Dallas Public Facility Corporation",
+      "location": "J. Erik Jonsson Central Library, Sixth Floor Classroom B, and Videoconference"
+    },
+    "attendees": {
+      "chair": "Keith Pomykal",
+      "presenters": [
+        "Keith Pomykal",
+        "Samuel McDaniel",
+        "Sam McDaniel",
+        "Jake Brown",
+        "Swede Hanson",
+        "Jim Plummer",
+        "Braxton Parsons",
+        "Lisa D. Mares",
+        "Ken Montgomery",
+        "Alan Tallis",
+        "Kevin Winters"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Roll Call",
+        "description": "",
+        "presenter": "Samuel McDaniel",
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Public Testimony",
+        "description": "public comment(s) on items 4-16",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Discussion and approval of the minutes",
+        "description": "of September 24, 2024, Board Meeting",
+        "presenter": "Keith Pomykal",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Ethics Disclosures",
+        "description": "Board members should disclose any relationship a member may have with the projects to be considered on this agenda.",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      },
+      {
+        "item_number": "6",
+        "title": "Discussion regarding the demolition of the facility",
+        "description": "at 9999 Technology Blvd",
+        "presenter": "Sam McDaniel; Jake Brown",
+        "action_required": null
+      },
+      {
+        "item_number": "7",
+        "title": "Discussion and approval of a resolution",
+        "description": "authorizing the negotiation and execution of a Term Sheet for the Rivulet in partnership with Rivulet MF LandCo I, LLC",
+        "presenter": "Sam McDaniel; Swede Hanson; Jim Plummer; Braxton Parsons",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "TOMA Presentation",
+        "description": "Presentation regarding Texas Open Meetings Act",
+        "presenter": "Lisa D. Mares",
+        "action_required": null
+      },
+      {
+        "item_number": "9",
+        "title": "Discussion and approval of the 2024/2025 DPFC board meeting dates",
+        "description": "",
+        "presenter": "Sam McDaniel",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Discussion and approval of proposed bylaw changes",
+        "description": "to present at the upcoming Housing and Homeless Solutions Committee meeting on October 29, 2024",
+        "presenter": "Ken Montgomery",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "11",
+        "title": "Discussion and approval of authorizing the opening of a credit card account",
+        "description": "for the City of Dallas Public Facilities Corporation",
+        "presenter": "Sam McDaniel; Alan Tallis; Jim Plummer",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "12",
+        "title": "Discussion and approval of the DPFC staff hiring committee",
+        "description": "",
+        "presenter": "Sam McDaniel; Keith Pomykal",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "13",
+        "title": "Discussion regarding DPFC property monitoring procedures",
+        "description": "",
+        "presenter": "Sam McDaniel",
+        "action_required": null
+      },
+      {
+        "item_number": "14",
+        "title": "Discussion and review of Dallas DPFC Website Report",
+        "description": "",
+        "presenter": "Sam McDaniel; Kevin Winters",
+        "action_required": null
+      },
+      {
+        "item_number": "15",
+        "title": "Discussion and review of Dallas DPFC Pipeline Report",
+        "description": "",
+        "presenter": "Sam McDaniel",
+        "action_required": null
+      },
+      {
+        "item_number": "16",
+        "title": "Approval of Resolution confirming and ratifying the appointment of Sam McDaniel",
+        "description": "as the Assistant General Manager and other matters in connection therewith",
+        "presenter": "Sam McDaniel; Jim Plummer",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "17",
+        "title": "Adjourn",
+        "description": "",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Public Facility Corporation",
+      "Board of Directors",
+      "meeting",
+      "resolution",
+      "bylaw changes",
+      "credit card account",
+      "property monitoring",
+      "website report",
+      "pipeline report",
+      "Texas Open Meetings Act",
+      "public testimony",
+      "ethics disclosures",
+      "demolition",
+      "staff hiring committee"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10653
+}

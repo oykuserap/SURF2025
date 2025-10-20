@@ -1,0 +1,155 @@
+{
+  "agenda_identifier": "agenda_20240325_budget_01",
+  "agenda_number": 20240325,
+  "source_file": "agenda_20240325_budget_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 25, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Housing and Homelessness Solutions Committee",
+      "location": "Council Briefing Room, 6th Floor at City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Moreno",
+      "presenters": [
+        "Christine Crossley",
+        "Sarah Khan",
+        "Darwin Wade",
+        "Thor Erickson"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A1",
+        "title": "Approval of the January 18, 2024 Special Called Housing and Homelessness Solutions Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous special called meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A2",
+        "title": "Approval of the January 22, 2024 Housing and Homelessness Solutions Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Homeless Response System Quarterly Report",
+        "description": "Quarterly report on the homeless response system.",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "2929 South Hampton Road: Options and Next Steps",
+        "description": "Discussion on options and next steps for the property at 2929 South Hampton Road.",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Development Program Updates",
+        "description": "Updates on new construction, substantial rehabilitation, land transfer, and homeownership development requirements.",
+        "presenter": "Darwin Wade",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Office of Homeless Solutions and the Department of Housing & Neighborhood Revitalization Properties Updates",
+        "description": "Updates on various properties managed by the Office of Homeless Solutions.",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Department of Housing & Neighborhood Revitalization FY 2022-23 Performance Measures",
+        "description": "Review of performance measures for the fiscal year.",
+        "presenter": "Thor Erickson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Action item: Recommend for City Council Consideration of the Sale of one (1) Land Transfer Program Lot",
+        "description": "Recommendation for the sale of a land transfer program lot to a qualified developer.",
+        "presenter": "Darwin Wade",
+        "action_required": "recommend"
+      },
+      {
+        "item_number": "G",
+        "title": "Updates on the 1,000 Unit Challenge memorandum",
+        "description": "Updates on the mixed-income housing challenge.",
+        "presenter": "Darwin Wade",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Office of Homeless Solutions - Temporary and Alternate Housing Update",
+        "description": "Update on temporary and alternate housing solutions.",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "HHS Committee Forecast",
+        "description": "Forecast for upcoming items for the Housing and Homelessness Solutions Committee.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "Office of Procurement Services - Upcoming Agenda Item #25",
+        "description": "Authorize a one-year service contract for encampment clean-up.",
+        "presenter": "Christine Crossley",
+        "action_required": "authorize"
+      },
+      {
+        "item_number": "K",
+        "title": "Upcoming Agenda Item File # 24-763",
+        "description": "Public hearing on Substantial Amendment No. 3 to the FY 2023-24 Action Plan.",
+        "presenter": "Thor Erickson",
+        "action_required": "authorize"
+      },
+      {
+        "item_number": "L",
+        "title": "Upcoming Agenda Item File # 24-762",
+        "description": "Authorize an amendment to the Dallas Housing Resource Catalog.",
+        "presenter": "Thor Erickson",
+        "action_required": "authorize"
+      }
+    ],
+    "keywords": [
+      "Housing",
+      "Homelessness",
+      "Committee Meeting",
+      "Dallas",
+      "Development",
+      "Performance Measures",
+      "Land Transfer",
+      "Public Hearing",
+      "Encampment Clean-up",
+      "Temporary Housing",
+      "Community Development",
+      "CDBG Funds",
+      "Economic Development",
+      "Neighborhood Revitalization",
+      "Quarterly Report"
+    ],
+    "financial_items": [
+      {
+        "description": "Service contract for encampment clean-up for the Office of Homeless Solutions",
+        "amount": "$212,447.06",
+        "type": "expenditure"
+      },
+      {
+        "description": "Reprogram unspent prior year CDBG funds",
+        "amount": "$4,500,000.00",
+        "type": "funding"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 24851
+}

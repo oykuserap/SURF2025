@@ -1,0 +1,106 @@
+{
+  "agenda_identifier": "agenda_20250317_regular_01",
+  "agenda_number": 20250317,
+  "source_file": "agenda_20250317_regular_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 17, 2025",
+      "time": "12:00 P.M.",
+      "type": "Hybrid Meeting",
+      "organization": "City of Dallas",
+      "location": "Dallas City Hall, L1FN Auditorium; Video Conference Link: https://dallascityhall.webex.com/dallascityhall/j.php?MTID=med1cab3ffb6c13c23ec799b8ce196f7c"
+    },
+    "attendees": {
+      "chair": "J. Peter Kline",
+      "presenters": [
+        "Kimberly Knight, MSSW, Director of Caregiver Support Program, Senior Source",
+        "Chiffon Kinney, RN, CGN, CM, BAAS, Senior Registered Nurse, Parkland Health, Community Senior’s Care",
+        "Mirka Norman, Supervisor- Community Care Services",
+        "Tabitha Taylor, Age-Friendly Officer, Office of Community Care and Empowerment"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Call to order by the Chair.",
+        "presenter": "J. Peter Kline",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "Public speakers for items V-VII (2 minutes per speaker).",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes for the February 24, 2025 Senior Affairs Commission Meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Chair’s Report",
+        "description": "Reminder of Texas Open Meetings Act Requirements for Videoconference Meeting.",
+        "presenter": "J. Peter Kline",
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "New Business: Presentation from Senior Source",
+        "description": "An Introduction and Overview from Senior Source Caregiver Support Program. This presentation will explore the most pressing support needs of caregivers in our community, new initiatives, cultural factors, and how effective current systems are in addressing caregiver challenges.",
+        "presenter": "Kimberly Knight",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "New Business: Presentation from Parkland Center",
+        "description": "An Introduction and Overview from Parkland Center for Geriatric Care and Healthy Aging. The presentation will address key health challenges faced by older adults, including preventive measures, caregiver support needs, resource gaps, and the impact of social factors on the healthcare system.",
+        "presenter": "Chiffon Kinney",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Staff Reports/Briefings",
+        "description": "Presentation by the Office of Community Care and Empowerment (OCCE) Senior Services. OCCE will provide a monthly update on services provided, programs, and contracts targeting the older residents of Dallas.",
+        "presenter": "Mirka Norman and Tabitha Taylor",
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "Reports of officers, boards, and standing committees",
+        "description": "Senior Affairs Commissioners District updates by each Commissioner as needed.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Adjournment",
+        "description": "Adjournment of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Senior Affairs Commission",
+      "Caregiver Support",
+      "Public Speakers",
+      "Texas Open Meetings Act",
+      "Health Challenges",
+      "Community Care",
+      "Aging",
+      "Presentations",
+      "Updates",
+      "Commissioners",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10511
+}

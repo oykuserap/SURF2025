@@ -1,0 +1,100 @@
+{
+  "agenda_identifier": "agenda_20240805_hearing",
+  "agenda_number": 20240805,
+  "source_file": "agenda_20240805_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 5, 2024",
+      "time": "10:00 A.M. and 1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Landmark Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Evelyn Montgomery",
+      "presenters": [
+        "Rhonda Dunn",
+        "Christina Paress",
+        "Marcus Watson"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the chair.",
+        "presenter": "Evelyn Montgomery",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "Opportunity for public speakers to address the commission.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes from the July 1, 2024, regular meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Staff Reports/Briefings",
+        "description": "Reports and briefings from staff regarding historic preservation.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Briefing Items",
+        "description": "Updates on various historic preservation topics.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Public Hearing",
+        "description": "Public hearing on agenda items.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "Closing of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Landmark Commission",
+      "Historic Preservation",
+      "Certificate of Eligibility",
+      "Certificate of Appropriateness",
+      "Public Hearing",
+      "Dallas City Hall",
+      "Evelyn Montgomery",
+      "Rhonda Dunn",
+      "Christina Paress",
+      "Marcus Watson",
+      "Public Speakers",
+      "Minutes Approval",
+      "Staff Reports",
+      "Briefing Items",
+      "Adjournment"
+    ],
+    "financial_items": [
+      {
+        "description": "Approval of an estimated $100,000 in expenditures for rehabilitation prior to the issuance of the Certificate of Eligibility.",
+        "amount": "$100,000",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 64767
+}

@@ -1,0 +1,53 @@
+{
+  "agenda_identifier": "agenda_20240716_special",
+  "agenda_number": 20240716,
+  "source_file": "agenda_20240716_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "July 16, 2024",
+      "time": "2:00 P.M.",
+      "type": "Special Called Meeting",
+      "organization": "Commission on Disabilities",
+      "location": "J. Erik Jonsson Central Library, Stone Room (7th Floor) and Videoconference"
+    },
+    "attendees": {
+      "chair": "John Kalkanli",
+      "presenters": [
+        "Martha Arbuckle"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Self-Nomination for the Texas Governor’s Committee on People with Disabilities Martha Arbuckle Meritorious Service Award",
+        "description": "Discussion and Approval of Self-Nomination",
+        "presenter": "Martha Arbuckle",
+        "action_required": "discuss and approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Review and Approval of Self-Nomination Draft",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Commission on Disabilities",
+      "Martha Arbuckle",
+      "Texas Governor’s Committee",
+      "disability advocacy",
+      "self-nomination",
+      "public meeting",
+      "accessibility",
+      "equity",
+      "inclusion",
+      "transportation",
+      "autonomous vehicles"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 14354
+}

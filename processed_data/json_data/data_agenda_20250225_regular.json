@@ -1,0 +1,152 @@
+{
+  "agenda_identifier": "agenda_20250225_regular",
+  "agenda_number": 20250225,
+  "source_file": "agenda_20250225_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 25, 2025",
+      "time": null,
+      "type": "Special Called Meeting",
+      "organization": "Tx \n\n\n\n                                   Dallas Public Facility Corporation  \n\n                                         Board",
+      "location": "Dallas City Hall"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order - Keith Pomykal, Dallas Public Facility Corporation (DPFC) Board of Directors \n\n      ...",
+        "description": "Call to Order - Keith Pomykal, Dallas Public Facility Corporation (DPFC) Board of Directors \n\n            (Board) President",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "2",
+        "title": "Roll Call - Samuel McDaniel, Assistant General Manager",
+        "description": "Roll Call - Samuel McDaniel, Assistant General Manager",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "5",
+        "title": "Community Announcements",
+        "description": "Community Announcements",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "6",
+        "title": "Ethics Disclosures: DPFC Board members should disclose any relationship a member may \n\n            h...",
+        "description": "Ethics Disclosures: DPFC Board members should disclose any relationship a member may \n\n            have with the projects to be considered on this agenda or with any developer, participant \n\n            or  financial  beneficiary  of  the  projects  to  be  considered  on  this  agenda,  even  if  that \n\n            relationship  does not relate to  a  specific project the  DPFC Board  is  considering  -  Keith \n\n            Pomykal, DPFC Board President",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "12",
+        "title": "Monthly report of the DPFC Staff Hiring Committee  –  Victor Toledo, Board Staff Hiring  \n\n       Co...",
+        "description": "Monthly report of the DPFC Staff Hiring Committee  –  Victor Toledo, Board Staff Hiring  \n\n       Committee Chair",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "13",
+        "title": "DPFC-owned property annual reporting – Sam McDaniel, Assistant General Manager",
+        "description": "DPFC-owned property annual reporting – Sam McDaniel, Assistant General Manager",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "14",
+        "title": "DPFC-owned property monitoring procedures briefing and discussion  –  Sam McDaniel,  \n\n       Assist...",
+        "description": "DPFC-owned property monitoring procedures briefing and discussion  –  Sam McDaniel,  \n\n       Assistant General Manager ; Alan Tallis, Finance Committee Chair",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "15",
+        "title": "Discussion of the use of DPFC excess funds - Sam McDaniel, Assistant General Manager;  \n\n       Alan...",
+        "description": "Discussion of the use of DPFC excess funds - Sam McDaniel, Assistant General Manager;  \n\n       Alan Tallis, Finance Committee Chair",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "17",
+        "title": "DPFC Website briefing and discussion – Sam McDaniel, Assistant General Manager; Kevin  \n\n       Wint...",
+        "description": "DPFC Website briefing and discussion – Sam McDaniel, Assistant General Manager; Kevin  \n\n       Winters, Board Community Outreach Committee Chair",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "18",
+        "title": "DPFC pipeline report briefing and discussion - Sam McDaniel, Assistant General Manager",
+        "description": "DPFC pipeline report briefing and discussion - Sam McDaniel, Assistant General Manager",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "1",
+        "title": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or a...",
+        "description": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or any matter in  \n\n      which the duty of the attorney to the DPFC Board under the Texas Disciplinary Rules of Professional Conduct  \n\n      of the State Bar of Texas clearly conflicts with the Texas Open Meetings Act. [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "2",
+        "title": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open mee...",
+        "description": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open meeting would  \n\n      have a detrimental effect on the position of the  DPFC  in negotiations  with a third person. [Tex. Govt. Code  \n\n      §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "3",
+        "title": "deliberating  a negotiated contract for  a prospective gift  or donation to the  DPFC  if  deliberat...",
+        "description": "deliberating  a negotiated contract for  a prospective gift  or donation to the  DPFC  if  deliberation in an open  \n\n      meeting would have a detrimental effect on the position of the  city in negotiations with a third person. [Tex.  \n\n      Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "4",
+        "title": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal...",
+        "description": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal of a public  \n\n      officer  or  employee;  or  to  hear  a  complaint  or  charge  against  an  officer  or  employee  unless  the  officer  or  \n\n      employee  who  is  the  subject  of  the  deliberation  or  hearing  requests  a  public  hearing.  [Tex.  Govt.  Code  \n\n      §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "5",
+        "title": "deliberating the deployment, or specific occasions for implementation, of security  personnel or dev...",
+        "description": "deliberating the deployment, or specific occasions for implementation, of security  personnel or devices. [Tex.  \n\n      Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "6",
+        "title": "discussing or deliberating commercial or financial information that the  DPFC  has received  from a ...",
+        "description": "discussing or deliberating commercial or financial information that the  DPFC  has received  from a  business  \n\n      prospect that the  DPFC  seeks to have locate,  stay,  or expand in or near the  city and with which the city is  \n\n      conducting economic development negotiations; or deliberating the offer of a financial or other incentive to a  \n\n      business prospect. [Tex Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "7",
+        "title": "deliberating  security  assessments  or  deployments  relating  to  information  resources  technolo...",
+        "description": "deliberating  security  assessments  or  deployments  relating  to  information  resources  technology,  network  \n\n      security information, or the deployment or specific occasions for implementations of security personnel, critical  \n\n      infrastructure, or security devices. [Tex Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
+      }
+    ],
+    "keywords": [
+      "tif",
+      "budget",
+      "approval",
+      "public",
+      "development",
+      "resolution",
+      "contract"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12072
+}

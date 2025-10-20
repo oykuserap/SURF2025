@@ -1,0 +1,106 @@
+{
+  "agenda_identifier": "agenda_20241119_special",
+  "agenda_number": 20241119,
+  "source_file": "agenda_20241119_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 19, 2024",
+      "time": "11:00 a.m.",
+      "type": "Special Called Meeting",
+      "organization": "City Center TIF District Board of Directors",
+      "location": "Dallas City Hall, 6DN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Joseph Pitchford",
+      "presenters": [
+        "Dorcy Clark"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call meeting to order and declare a quorum is established.",
+        "description": "",
+        "presenter": "Joseph Pitchford",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Introduction of meeting participants.",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Public comments pertaining to agenda items 4 and 5.",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Review and consider the Meeting Record of the January 11, 2024 joint meeting.",
+        "description": "Review and consider the Meeting Record of the January 11, 2024 joint meeting of the City Center TIF District Board of Directors, the Downtown Connection TIF District Board of Directors, and the Downtown Dallas Development Authority Board of Directors.",
+        "presenter": "Dorcy Clark, Senior Manager, Office of Economic Development",
+        "action_required": "Approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Review and consider a development agreement with West End Lofts LP.",
+        "description": "Review and consider a development agreement with West End Lofts LP and/or its affiliates in an amount not to exceed $49,000,000 comprised of: (1) an amount not to exceed $7,357,605 in the form of a Chapter 380 economic development grant sourced from the City’s Public/Private Partnership Fund; (2) an amount not to exceed $13,366,719 in the form of a Chapter 380 economic development grant sourced from 2012 and 2024 City General Obligation Bond Funds; and (3) an amount not to exceed $28,275,676 payable from current and future City Center TIF District funds in consideration of the West End Lofts Project.",
+        "presenter": "Dorcy Clark, Senior Manager, Office of Economic Development",
+        "action_required": "Approve TIF Subsidy and forward a recommendation of approval of the TIF Subsidy to City Council"
+      },
+      {
+        "item_number": "6",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": "Joseph Pitchford",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "City Center TIF District",
+      "Dallas",
+      "Special Called Meeting",
+      "development agreement",
+      "West End Lofts",
+      "economic development grant",
+      "Public/Private Partnership Fund",
+      "General Obligation Bond Funds",
+      "TIF Subsidy",
+      "quorum",
+      "meeting record",
+      "public comments",
+      "City Council",
+      "mixed-use development",
+      "transit-oriented development"
+    ],
+    "financial_items": [
+      {
+        "description": "City Subsidy for West End Lofts Project",
+        "amount": "$49,000,000",
+        "type": "budget"
+      },
+      {
+        "description": "Chapter 380 economic development grant sourced from the City’s Public/Private Partnership Fund",
+        "amount": "$7,357,605",
+        "type": "funding"
+      },
+      {
+        "description": "Chapter 380 economic development grant sourced from 2012 and 2024 City General Obligation Bond Funds",
+        "amount": "$13,366,719",
+        "type": "funding"
+      },
+      {
+        "description": "TIF Subsidy payable from current and future City Center TIF District funds",
+        "amount": "$28,275,676",
+        "type": "funding"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12422
+}

@@ -1,0 +1,24 @@
+{
+  "agenda_identifier": "agenda_20240117_council",
+  "agenda_number": 20240117,
+  "source_file": "agenda_20240117_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 17, 2024",
+      "time": "9:00 AM",
+      "type": "Briefing",
+      "organization": "City Council",
+      "location": "COUNCIL CHAMBERS, CITY HALL"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 1497
+}

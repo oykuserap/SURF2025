@@ -1,0 +1,98 @@
+{
+  "agenda_identifier": "agenda_20241007_budget_01",
+  "agenda_number": 20241007,
+  "source_file": "agenda_20241007_budget_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 7, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Parks, Trails, and the Environment Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Moreno",
+      "presenters": [
+        "Chad West",
+        "Carlos Evans",
+        "Oppong Hemeng",
+        "Rabekha Siebert",
+        "Yaritza Torres Esinoza",
+        "Greg O’Dell",
+        "Mike Aheam",
+        "Stacey Church",
+        "Veletta Lill",
+        "Alyssa Arnold",
+        "Liz Cedillo-Pereira",
+        "Kathryn Bazan"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the September 3, 2024 Parks, Trails, and Environment Committee Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Recognition of Lake Cliff Response Team",
+        "description": "Recognition of the efforts of the Lake Cliff Response Team.",
+        "presenter": "Chad West",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "A",
+        "title": "Comprehensive Urban Agriculture Plan (CUAP) Brief - Year 1 Implementation",
+        "description": "Briefing on the implementation of the Comprehensive Urban Agriculture Plan.",
+        "presenter": "Carlos Evans",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "2024 Fair Park First Update",
+        "description": "Update on the Fair Park First initiatives.",
+        "presenter": "Greg O’Dell",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Upcoming Agenda Item - Brownfields Redevelopment Program (BRP) Revolving Loan Fund Grant Award",
+        "description": "Discussion on the upcoming agenda item regarding the BRP grant award.",
+        "presenter": "Liz Cedillo-Pereira",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Monthly Environmental Commission Update",
+        "description": "Update from the Environmental Commission.",
+        "presenter": "Kathryn Bazan",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Parks, Trails, and Environment Committee Forecast",
+        "description": "Forecast of upcoming items for the committee.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Parks",
+      "Trails",
+      "Environment",
+      "Urban Agriculture",
+      "Fair Park",
+      "Brownfields",
+      "Environmental Commission",
+      "Recognition",
+      "Committee Meeting",
+      "Dallas City Council"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 21913
+}

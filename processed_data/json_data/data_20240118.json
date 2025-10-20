@@ -1,0 +1,69 @@
+{
+  "agenda_identifier": "agenda_20240118_special",
+  "agenda_number": 20240118,
+  "source_file": "agenda_20240118_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 18, 2024",
+      "time": "6:00 PM",
+      "type": "Special Called Meeting",
+      "organization": "Housing and Homelessness Solutions Committee",
+      "location": "1500 Marilla Street, Council Chambers, 6th Floor, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "24-269",
+        "title": "Briefing on the Homelessness, Organizations, Policies, and Encampments (H.O.P.E.) report.",
+        "description": null,
+        "presenter": "Task Force",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "24-271",
+        "title": "Discussion of H.O.P.E report.",
+        "description": null,
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "24-274",
+        "title": "Closed Session Attorney Briefing (Sec. 551.071 T.O.M.A.)",
+        "description": "Seeking legal advice from the city attorney regarding the H.O.P.E. report.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "24-272",
+        "title": "Public comments on Agenda Item No. B.",
+        "description": "Speakers can register here: Closed Session Attorney Briefing (Sec. 551.071 T.O.M.A.) - Seeking advice from the city attorney regarding the H.O.P.E. report.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Homelessness",
+      "H.O.P.E.",
+      "report",
+      "Task Force",
+      "legal advice",
+      "public comments",
+      "executive session",
+      "Dallas",
+      "Housing",
+      "Committee",
+      "closed session",
+      "Texas Open Meetings Act",
+      "city attorney",
+      "encampments",
+      "policies"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 4986
+}

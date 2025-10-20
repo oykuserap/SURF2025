@@ -1,0 +1,94 @@
+{
+  "agenda_identifier": "agenda_20240903_hearing",
+  "agenda_number": 20240903,
+  "source_file": "agenda_20240903_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 3, 2024",
+      "time": "9:30 A.M. and 1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Landmark Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Evelyn Montgomery",
+      "presenters": [
+        "Christina Paress",
+        "Marcus Watson",
+        "Rhonda Dunn"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Evelyn Montgomery",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of August 5, 2024, regular meeting minutes",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Staff Reports/Briefings",
+        "description": "Historic Preservation",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Briefing Items",
+        "description": "Update on Designation Committee Activity, Consent Items, Courtesy Review Items, Discussion Items",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Public Hearing",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Landmark Commission",
+      "Historic Preservation",
+      "Certificate of Appropriateness",
+      "Public Hearing",
+      "Consent Items",
+      "Discussion Items",
+      "Dallas City Hall",
+      "Evelyn Montgomery",
+      "Christina Paress",
+      "Marcus Watson",
+      "Rhonda Dunn",
+      "Public Speakers",
+      "Minutes Approval",
+      "Designation Committee",
+      "Auxiliary Aid"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 88959
+}

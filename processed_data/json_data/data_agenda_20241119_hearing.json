@@ -1,0 +1,132 @@
+{
+  "agenda_identifier": "agenda_20241119_hearing",
+  "agenda_number": 20241119,
+  "source_file": "agenda_20241119_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 19, 2024",
+      "time": "10:30 A.M. and 1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Board of Adjustment (Panel A)",
+      "location": "Dallas City Hall, Council Chambers 6EN and Videoconference"
+    },
+    "attendees": {
+      "chair": "David A. Neumann",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "David A. Neumann",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Staff Presentation/Briefing",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Public Hearing",
+        "description": "Board of Adjustment",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Public Testimony",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Miscellaneous Items",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Case Docket",
+        "description": "Uncontested Items, Holdover Items, Individual Items",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "MISC",
+        "title": "Approval of Panel A Minutes",
+        "description": "Approval of minutes from October 22, 2024",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "MISC",
+        "title": "Approval of Full Board Meeting Minutes",
+        "description": "Approval of minutes from October 29, 2024",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "1",
+        "title": "BDA234-128(BT) 9410 Alva Court",
+        "description": "Application of Fenil Ghodadra for a special exception to the fence height regulations.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "2",
+        "title": "BDA234-129(CJ) 4640 N. Lindhurst Avenue",
+        "description": "Application of Alec Lang represented by Jeff Howard for a special exception to the fence height regulations.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "BDA234-111(BT) 6529 Victoria Avenue",
+        "description": "Application of Daniel Le to appeal the decision of the administrative official.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "4",
+        "title": "BDA234-118(CJ) 4336 Lively Lane",
+        "description": "Application of Larry Klinghoffer for a special exception to provide an additional electrical meter.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Board of Adjustment",
+      "Public Hearing",
+      "Case Docket",
+      "Fence Height Regulations",
+      "Special Exception",
+      "Public Testimony",
+      "Approval of Minutes",
+      "Dallas City Hall",
+      "Videoconference",
+      "Miscellaneous Items",
+      "Uncontested Items",
+      "Holdover Items",
+      "Individual Items",
+      "Executive Session",
+      "Accommodations"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 13829
+}

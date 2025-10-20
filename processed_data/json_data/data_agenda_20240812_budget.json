@@ -1,0 +1,146 @@
+{
+  "agenda_identifier": "agenda_20240812_budget",
+  "agenda_number": 20240812,
+  "source_file": "agenda_20240812_budget.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 12, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Workforce, Education, and Equity Committee",
+      "location": "Council Chambers, 6th Floor, City Hall and via video conference"
+    },
+    "attendees": {
+      "chair": "Jaynie Schultz",
+      "presenters": [
+        "David Pughes, City Marshal, City Marshal’s Office",
+        "Tameka Williams, Manager, City Marshal’s Office",
+        "Ghassan Khankarli, Ph.D., P.E., Director, Department of Transportation & Public Works",
+        "Jacob McCarroll, Program Administrator, Department of Transportation & Public Works",
+        "Don Spear, MBA, SHRM-SCP, Manager, Department of Transportation & Public Works",
+        "Carrie Rogers, Director, Office of Governmental Affairs",
+        "Jessica Galleshaw, Director, Office of Community Care",
+        "Holly Holt, Assistant Director, Office of Community Care"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "Approval of the June 10, 2024 Workforce, Education, and Equity Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B",
+        "title": "Update on the City’s School Crossing Guard Program",
+        "description": "Presentation on the current status and management of the school crossing guard program.",
+        "presenter": "David Pughes, City Marshal, City Marshal’s Office and Tameka Williams, Manager, City Marshal’s Office",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Update on Transportation & Public Works Department (TPW) Commercial Driver License (CDL) Program",
+        "description": "Overview of the TPW CDL Program and its impact.",
+        "presenter": "Ghassan Khankarli, Ph.D., P.E., Director, Department of Transportation & Public Works",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Workforce, Education and Equity Committee Proposed 2025 Legislative Priorities / Update",
+        "description": "Discussion on the proposed legislative priorities for 2025.",
+        "presenter": "Carrie Rogers, Director, Office of Governmental Affairs",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Upcoming Agenda Item from Office of Community Care for Housing Opportunities for Persons with AIDS (HOPWA) Program Second Renewal",
+        "description": "Consideration of contract renewals for HOPWA programs.",
+        "presenter": "Jessica Galleshaw, Director, Office of Community Care",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Upcoming Agenda Item from Office of Community Care to Accept Additional Grant Funds from Texas Department of Criminal Justice (TDJC) for FY25",
+        "description": "Discussion on acceptance of additional grant funds for re-entry services.",
+        "presenter": "Jessica Galleshaw, Director, Office of Community Care",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Upcoming Agenda Item from Office of Procurement Services and Office of Community Care for the Purchase of Garden Box Kits",
+        "description": "Consideration of a contract for garden box kits to address food insecurity.",
+        "presenter": "Jessica Galleshaw, Director, Office of Community Care",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Upcoming Agenda Item from Office of Community Care for an Interlocal Agreement with Dallas County to Provide Housing Assistance for Persons with HIV/AIDS",
+        "description": "Discussion on an interlocal agreement for housing assistance.",
+        "presenter": "Jessica Galleshaw, Director, Office of Community Care",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Upcoming Agenda Item from Office of Community to Accept a Grant from Texas Department of State Health Services for the Texas Lactation Support After-Hours Hotline",
+        "description": "Consideration of a grant for lactation support services.",
+        "presenter": "Jessica Galleshaw, Director, Office of Community Care",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "Workforce, Education, and Equity Committee Forecast",
+        "description": "Forecast of upcoming agenda items and discussions.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Workforce",
+      "Education",
+      "Equity",
+      "School Crossing Guard Program",
+      "Transportation",
+      "Public Works",
+      "Legislative Priorities",
+      "HOPWA",
+      "Community Care",
+      "Grant Funds",
+      "Food Insecurity",
+      "Housing Assistance",
+      "Lactation Support",
+      "Re-entry Services",
+      "CDL Program"
+    ],
+    "financial_items": [
+      {
+        "description": "HOPWA Program Second Renewal",
+        "amount": "$4,177,795.00",
+        "type": "funding"
+      },
+      {
+        "description": "Additional Grant Funds from TDJC for Re-entry Services",
+        "amount": "$250,000.00",
+        "type": "grant"
+      },
+      {
+        "description": "Purchase of Garden Box Kits",
+        "amount": "$200,000.00",
+        "type": "contract"
+      },
+      {
+        "description": "Interlocal Agreement with Dallas County for Housing Assistance",
+        "amount": "$2,824,600.00",
+        "type": "contract"
+      },
+      {
+        "description": "Texas Lactation Support After-Hours Hotline Grant",
+        "amount": "$400,000.00",
+        "type": "grant"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 144326
+}

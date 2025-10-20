@@ -1,0 +1,167 @@
+{
+  "agenda_identifier": "agenda_20250114_council",
+  "agenda_number": 20250114,
+  "source_file": "agenda_20250114_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 14, 2025",
+      "time": "5:30 PM",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas Community Police Oversight Board",
+      "location": "Dallas City Hall, 6EN Council Chambers"
+    },
+    "attendees": {
+      "chair": "John Mark Davidson",
+      "presenters": [
+        "Michele Andre",
+        "Waldir Guerrero",
+        "Gregory Huff",
+        "Siara Montoya Obasuyi",
+        "Alma Perez",
+        "Michael Igo",
+        "Bob Scales"
+      ],
+      "participants": [
+        "Aswad Smith",
+        "Jonathan E Maples",
+        "Walter Higgins",
+        "Loren Gilbert-Smith",
+        "Brian Bah",
+        "Derric Pegram",
+        "Chauncey Lander",
+        "Alison Grinter Allen",
+        "Jennifer King",
+        "Deatra Wadsworth",
+        "David Kitner",
+        "Brandon Friedman"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call To Order & Roll Call",
+        "description": "Chairman John Mark Davidson will call the meeting to order and conduct roll call.",
+        "presenter": "John Mark Davidson",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Purpose of the CPOB",
+        "description": "Chairman John Mark Davidson will explain the purpose of the Community Police Oversight Board.",
+        "presenter": "John Mark Davidson",
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Public Comment / Open Microphone",
+        "description": "Open microphone period for public comments, limited to three minutes per person.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Approval of Meeting Minutes",
+        "description": "Approval of the minutes from the December 10, 2024, CPOB Regular Meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Overview of Information and Technology Services",
+        "description": "Presentation on the information and technology services offered to CPOB members.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Introduction to CPOB",
+        "description": "Introduction of Dallas Police Department Interim Chief Michael Igo to the CPOB.",
+        "presenter": "Michael Igo",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Presentation on Racial Disparity in DPD Monthly Arrests",
+        "description": "Bob Scales will present on racial disparity issues in DPD monthly arrests by council district.",
+        "presenter": "Bob Scales",
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "OCPO Accountability and Transparency Dashboard Presentation",
+        "description": "Presentation on the Transparency & Accountability Dashboard developed by DBI.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Introduction of New OCPO Staff",
+        "description": "Introduction of new staff members Waldir Guerrero and Alma D. Perez.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Reports / Briefings",
+        "description": "Various reports including Director Report, Policy Analyst Report, and Special Investigator Report.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "XI",
+        "title": "Monthly Activity Reports",
+        "description": "Reports on DPD monthly arrests and external administrative complaints.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "XII",
+        "title": "Upcoming Meeting and Events",
+        "description": "Discussion of upcoming events including the Next Generation Action Network Gala and MLK Day Parade.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "XIII",
+        "title": "Public Comment/Open Microphone",
+        "description": "Second opportunity for public comments, limited to three minutes per person.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "XIV",
+        "title": "Board Members Comments",
+        "description": "Comments from board members.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "XV",
+        "title": "Adjournment",
+        "description": "Formal adjournment of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Community Police Oversight",
+      "Dallas Police Department",
+      "Public Comment",
+      "Meeting Minutes",
+      "Racial Disparity",
+      "Accountability",
+      "Transparency",
+      "Reports",
+      "Legislation",
+      "Community Engagement",
+      "Staff Introduction",
+      "Monthly Activity",
+      "Upcoming Events",
+      "Board Comments",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 21706
+}

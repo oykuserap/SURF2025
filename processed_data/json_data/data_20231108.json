@@ -1,0 +1,102 @@
+{
+  "agenda_identifier": "agenda_20231108_council_01",
+  "agenda_number": 20231108,
+  "source_file": "agenda_20231108_council_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 8, 2023",
+      "time": "5:30 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Environmental Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference (Webex)"
+    },
+    "attendees": {
+      "chair": "Kathryn Bazan",
+      "presenters": [
+        "ForwardDallas Project Team, Planning + Urban Design",
+        "Carlos Evans, Director, Office of Environmental Quality & Sustainability",
+        "Paul White II, Assistant Director (I), Office of Environmental Quality & Sustainability",
+        "Rosaerlinda Cisneros, Climate Coordinator, Office of Environmental Quality & Sustainability",
+        "Lori Trulson, Senior Environmental Coordinator, Office of Environmental Quality & Sustainability",
+        "Sheila Delgado, Assistant Director, Office of Environmental Quality & Sustainability"
+      ],
+      "participants": [
+        "Esther Villarreal, Vice Chair, District 6",
+        "Teresita Delgado, District 1",
+        "Andrew Siegel, District 10",
+        "Mark Wootton, District 2",
+        "Colleen Murray, District 11",
+        "Michael Cook, District 3",
+        "Barry Lachman, District 12",
+        "Tracy Wallace, District 5",
+        "Paula Day, District 14",
+        "Temeckia Derrough, District 7",
+        "Julie Hiromoto, District 15",
+        "Renee Roberson, District 8"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes from the meeting held on October 11, 2023.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.a",
+        "title": "ForwardDallas Comprehensive Land Use Plan Update: Environmental Justice Briefing + Workshop",
+        "description": "Briefing on the ForwardDallas Comprehensive Land Use Plan with a focus on Environmental Justice.",
+        "presenter": "ForwardDallas Project Team, Planning + Urban Design",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V.b",
+        "title": "Comprehensive Environmental & Climate Action Plan (CECAP) Annual Report",
+        "description": "Annual report on the Comprehensive Environmental & Climate Action Plan.",
+        "presenter": "Carlos Evans, Director, Office of Environmental Quality & Sustainability",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI.a",
+        "title": "Former Blue Star Site Remediation Update",
+        "description": "Update on the remediation efforts at the Former Blue Star Site.",
+        "presenter": "Carlos Evans, Director, Office of Environmental Quality & Sustainability",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI.b",
+        "title": "Dallas Environmental Education Initiative (EEI) – Interlocal Agreement",
+        "description": "Discussion on the interlocal agreement for the Dallas Environmental Education Initiative.",
+        "presenter": "Sheila Delgado, Assistant Director, Office of Environmental Quality & Sustainability",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII.a",
+        "title": "Office of Environmental Quality & Sustainability 2025 State and Federal Legislative Priorities",
+        "description": "Discussion on the legislative priorities for 2025.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Environmental Commission",
+      "Regular Meeting",
+      "ForwardDallas",
+      "Environmental Justice",
+      "Climate Action Plan",
+      "Remediation",
+      "Environmental Education",
+      "Legislative Priorities",
+      "Public Speakers",
+      "Minutes Approval",
+      "Subcommittee Updates",
+      "District Updates",
+      "Upcoming Meetings"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11818
+}

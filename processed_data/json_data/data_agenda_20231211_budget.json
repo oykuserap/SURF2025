@@ -1,0 +1,61 @@
+{
+  "agenda_identifier": "agenda_20231211_budget",
+  "agenda_number": 20231211,
+  "source_file": "agenda_20231211_budget.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 11, 2023",
+      "time": "3:01 PM",
+      "type": "Ad Hoc Committee Meeting",
+      "organization": "Ad Hoc Committee on Legislative Affairs",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; Virtual via Webex"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Casey Burgess",
+        "Carrie Rogers",
+        "Linley Youderian"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the September 28, 2023, Ad Hoc Committee on Legislative Affairs Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Update on status of code amendments based on the 88th Legislature",
+        "description": "Discussion on code sections suggested for revision or repeal.",
+        "presenter": "Casey Burgess",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Review of 2025 Legislative Priorities to date",
+        "description": "Review of the legislative priorities established so far for 2025.",
+        "presenter": "Carrie Rogers; Linley Youderian",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "City Council",
+      "Legislative Affairs",
+      "Code Amendments",
+      "Legislative Priorities",
+      "Executive Session",
+      "Public Meeting",
+      "Government Affairs",
+      "City Attorney",
+      "Economic Development"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18795
+}

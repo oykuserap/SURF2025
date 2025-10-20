@@ -1,0 +1,99 @@
+{
+  "agenda_identifier": "agenda_20240828_council",
+  "agenda_number": 20240828,
+  "source_file": "agenda_20240828_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 28, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes of the August 9, 2024 Retreat, August 13, 2024 Budget Workshop, August 14, 2024 City Council Meeting and August 14, 2024 Special Called Meeting",
+        "presenter": "City Attorney's Office",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Settlement Authorization",
+        "description": "Authorize settlement of the lawsuit styled Jose A. Teniente v. City of Dallas, Cause No. DC-22-13292 - Not to exceed $30,000.00 - Financing: Liability Reserve Fund",
+        "presenter": "City Attorney's Office",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Grant Acceptance",
+        "description": "Authorize the acceptance of a grant from the U.S. Department of Health and Human Services for Substance Abuse and Mental Health Services Administration (SAMHSA) for the South Dallas Drug Court Expansion project in the amount of $379,294.00.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Cooperative Purchasing Agreement",
+        "description": "Authorize a three-year cooperative purchasing agreement for web-based managed security system software, hosting, maintenance, and support.",
+        "presenter": "Department of Aviation",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Construction Services Contract",
+        "description": "Authorize a construction services contract to provide construction to demolish existing rooftop units and install new units.",
+        "presenter": "Department of Facilities and Real Estate Management",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "56",
+        "title": "Real Estate Deliberation",
+        "description": "Deliberate the purchase, exchange, lease, or value of real property located at 7800 Stemmons.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "City Council",
+      "Dallas",
+      "meeting",
+      "agenda",
+      "grant",
+      "settlement",
+      "construction",
+      "cooperative purchasing",
+      "real estate",
+      "public hearing"
+    ],
+    "financial_items": [
+      {
+        "description": "Settlement of the lawsuit styled Jose A. Teniente v. City of Dallas",
+        "amount": "$30,000.00",
+        "type": "settlement"
+      },
+      {
+        "description": "Grant from the U.S. Department of Health and Human Services for South Dallas Drug Court Expansion project",
+        "amount": "$379,294.00",
+        "type": "grant"
+      },
+      {
+        "description": "Cooperative purchasing agreement for managed security system software",
+        "amount": "$1,027,256.24",
+        "type": "contract"
+      },
+      {
+        "description": "Construction services contract for rooftop units installation",
+        "amount": "$7,199,214.61",
+        "type": "contract"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 145781
+}

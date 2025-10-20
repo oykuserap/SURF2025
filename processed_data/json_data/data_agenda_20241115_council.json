@@ -1,0 +1,116 @@
+{
+  "agenda_identifier": "agenda_20241115_council",
+  "agenda_number": 20241115,
+  "source_file": "agenda_20241115_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 15, 2024",
+      "time": "10 a.m. – 11:30 a.m.",
+      "type": "Board Meeting",
+      "organization": "Trinity River Corridor Local Government Corporation",
+      "location": "Dallas City Hall, City Council Briefing Room (6ES) and Videoconference WebEx"
+    },
+    "attendees": {
+      "chair": "Vincent T. Parker",
+      "presenters": [
+        "Sarah Standifer",
+        "Tony Moore"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Vincent T. Parker",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from September 20, 2024",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Dallas Floodway and Dallas Floodway Extension Project Status Update",
+        "description": "",
+        "presenter": "Sarah Standifer",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Nomination of 2025 Trinity River Corridor LGC Board Officers and Appointment of Work Groups",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Approval of Trinity River Corridor LGC 2025 Board Meeting Schedule",
+        "description": "Approval of attached meeting schedule",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VII",
+        "title": "Update on Harold Simmons Park",
+        "description": "",
+        "presenter": "Tony Moore",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Financial report",
+        "description": "",
+        "presenter": "Tony Moore",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IX",
+        "title": "Reports from LGC Work Groups",
+        "description": "Reports from various work groups",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Other Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "XI",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Trinity River Corridor",
+      "Dallas",
+      "Board Meeting",
+      "Floodway",
+      "Harold Simmons Park",
+      "Financial Report",
+      "Work Groups",
+      "Public Speakers",
+      "2025 Schedule",
+      "Nomination of Officers"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 7659
+}

@@ -1,0 +1,99 @@
+{
+  "agenda_identifier": "agenda_20240919_regular_01",
+  "agenda_number": 20240919,
+  "source_file": "agenda_20240919_regular_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 19, 2024",
+      "time": "10:00 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Park & Recreation Board",
+      "location": "Dallas City Hall, 6FN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Arun Agarwal",
+      "presenters": [
+        "M. Renee Johnson",
+        "Rachael Berry",
+        "Ryan O’Connor"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Trinity Strand Trail",
+        "description": "Authorize the location of a public art project on the Hi Line Trinity Trail, located at 1930 Hi Line.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Singing Hills Recreation Center",
+        "description": "Authorize the site location of a new public artwork at the Singing Hills Recreation Center located at 6805 Patrol Way.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Southern Gateway Park",
+        "description": "Authorize the naming of Halperin Park formerly known as Southern Gateway Park in exchange for a $23,000,000.00 donation.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Political Activities in Parks",
+        "description": "Discussion on political activities in parks.",
+        "presenter": "M. Renee Johnson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "5",
+        "title": "Fair Park First Annual Report",
+        "description": "Briefing on the Fair Park First Annual Report.",
+        "presenter": "Rachael Berry",
+        "action_required": "brief"
+      },
+      {
+        "item_number": "6",
+        "title": "Budget Development",
+        "description": "Update on budget development.",
+        "presenter": "Rachael Berry",
+        "action_required": "update"
+      },
+      {
+        "item_number": "7",
+        "title": "Fair Park First Update",
+        "description": "Update on Fair Park First.",
+        "presenter": "Ryan O’Connor",
+        "action_required": "update"
+      }
+    ],
+    "keywords": [
+      "Dallas Park & Recreation",
+      "Regular Meeting",
+      "Public Art",
+      "Trinity Strand Trail",
+      "Singing Hills Recreation Center",
+      "Southern Gateway Park",
+      "Political Activities",
+      "Fair Park",
+      "Budget Development",
+      "Community Engagement",
+      "Public Participation",
+      "Art Projects",
+      "City Council",
+      "Public Spaces"
+    ],
+    "financial_items": [
+      {
+        "description": "Donation for naming rights of Halperin Park",
+        "amount": "$23,000,000.00",
+        "type": "donation"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9454
+}

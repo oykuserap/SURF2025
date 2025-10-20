@@ -1,0 +1,9 @@
+{
+  "agenda_identifier": "agenda_20250320_hearing",
+  "agenda_number": 20250320,
+  "source_file": "agenda_20250320_hearing.txt",
+  "summary": "Error generating summary: Error code: 400 - {'error': {'message': \"This model's maximum context length is 128000 tokens. However, your messages resulted in 168817 tokens. Please reduce the length of the messages.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}",
+  "original_length": 1142731,
+  "summary_length": 304,
+  "processed_at": "270891.260109833"
+}

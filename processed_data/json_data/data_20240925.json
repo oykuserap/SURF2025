@@ -1,0 +1,157 @@
+{
+  "agenda_identifier": "agenda_20240925_council",
+  "agenda_number": 20240925,
+  "source_file": "agenda_20240925_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 25, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the September 11, 2024 City Council Meeting",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "An ordinance amending Ordinance No. 32554",
+        "description": "Authorizing certain transfers and appropriation adjustments for FY 2023-24 for the maintenance and operation of various departments and activities.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Authorize payment of the jury verdict",
+        "description": "Payment entered against the City in the lawsuit styled Terry Branch v. Willie Rettig, Lamar Lambert and City of Dallas.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Authorize settlement of the lawsuit",
+        "description": "Settlement of the lawsuit styled Mavel Tovar v. City of Dallas.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Authorize settlement of the lawsuit",
+        "description": "Settlement of the lawsuit styled Tenisha Leonard v. City of Dallas and Terrance Joseph Hopkins.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "A resolution authorizing the execution of the Second Amendment to Revolving Credit Agreement",
+        "description": "With State Street Bank and Trust Company in support of the City of Dallas, Texas Waterworks and Sewer System Commercial Paper Notes.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Authorize a one-year contract for maintenance and support",
+        "description": "For the GovQA Public Records Request Management Software.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Authorize a new seven-year concession contract",
+        "description": "For food and beverage concessions services at Dallas Love Field Airport.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "Authorize a new seven-year concession contract",
+        "description": "For food and beverage concessions services at Dallas Love Field Airport.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Authorize the purchase of eight Pre-Conditioned Air units",
+        "description": "From Northern Air Systems, Inc., sole source for Dallas Love Field.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "meeting",
+      "agenda",
+      "ordinance",
+      "settlement",
+      "lawsuit",
+      "concession contract",
+      "public records",
+      "food and beverage",
+      "budget adjustments",
+      "financial resolutions",
+      "public hearings",
+      "community services",
+      "housing",
+      "transportation"
+    ],
+    "financial_items": [
+      {
+        "description": "Transfers and appropriation adjustments for FY 2023-24",
+        "amount": "$5,729,829,795",
+        "type": "budget"
+      },
+      {
+        "description": "Payment for jury verdict in lawsuit",
+        "amount": "$60,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Settlement of lawsuit",
+        "amount": "$50,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Settlement of lawsuit",
+        "amount": "$63,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Resolution for credit agreement",
+        "amount": "$208,000",
+        "type": "financing"
+      },
+      {
+        "description": "Contract for maintenance and support of GovQA",
+        "amount": "$146,587.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Estimated revenue from food and beverage concessions",
+        "amount": "$197,384.00",
+        "type": "revenue"
+      },
+      {
+        "description": "Estimated revenue from food and beverage concessions",
+        "amount": "$225,000.00",
+        "type": "revenue"
+      },
+      {
+        "description": "Purchase of Pre-Conditioned Air units",
+        "amount": "$1,021,648.00",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 121632
+}

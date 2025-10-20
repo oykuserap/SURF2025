@@ -1,0 +1,154 @@
+{
+  "agenda_identifier": "agenda_20240125_regular",
+  "agenda_number": 20240125,
+  "source_file": "agenda_20240125_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 25, 2024",
+      "time": "10:00 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Park and Recreation Board",
+      "location": "Dallas City Hall, 6FN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Arun Agarwal",
+      "presenters": [
+        "Ryan O’Connor",
+        "Rachael Berry",
+        "Christina Turner-Noteware"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Arun Agarwal",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes – January 11, 2024",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.1",
+        "title": "Kiest Tennis Center",
+        "description": "Authorize the contract extension for up to twenty-four (24) months with Dallas Tennis Association to provide a full-service tennis program at the Kiest Tennis Center located at 2324 West Kiest Boulevard, Dallas Texas, 75224, for the period of January 30, 2024, through January 29, 2026.",
+        "presenter": null,
+        "action_required": "authorize"
+      },
+      {
+        "item_number": "IV.2",
+        "title": "Fair Park",
+        "description": "Authorize the naming of a large picnic area at the new 18-acre Community Park located at 1200 Second Avenue as the Perot Family Picnic Area. This is a 40-year naming opportunity which is in compliance with the Park Board Park Naming Policy.",
+        "presenter": null,
+        "action_required": "authorize"
+      },
+      {
+        "item_number": "IV.3",
+        "title": "Kiest Park",
+        "description": "Authorize the placement of a Texas State Historical Marker at Kiest Park, Kiest Memorial Garden located at 3080 South Hampton Road.",
+        "presenter": null,
+        "action_required": "authorize"
+      },
+      {
+        "item_number": "IV.4",
+        "title": "Land Acquisition",
+        "description": "Authorize acquisition from Texas Department of Housing and Community Affairs of approximately 1,026,976 square feet of land (23.58 acres) located at 12700 Kleberg Road for a proposed new park.",
+        "presenter": null,
+        "action_required": "authorize"
+      },
+      {
+        "item_number": "IV.5",
+        "title": "Northaven Trail",
+        "description": "Authorize the dedication plaque installed at Northaven Trail Bridge at 11222 North Central Expressway.",
+        "presenter": null,
+        "action_required": "authorize"
+      },
+      {
+        "item_number": "V",
+        "title": "Briefings",
+        "description": "Partnerships & Strategic Initiatives Impact",
+        "presenter": "Ryan O’Connor",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Update",
+        "description": "Budget Update",
+        "presenter": "Rachael Berry",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Workshop",
+        "description": "2024 Bond Program: Funding Strategies, Operation and Maintenance Costs and Looking to the Future",
+        "presenter": "Christina Turner-Noteware",
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "Other/Non-Action Items",
+        "description": "Staff Announcements – Upcoming Park and Recreation Department Events",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Next Park Board meeting",
+        "description": "10:00 am Thursday, February 8, 2024",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Park and Recreation Board",
+      "Regular Meeting",
+      "Kiest Tennis Center",
+      "Fair Park",
+      "Kiest Park",
+      "Land Acquisition",
+      "Northaven Trail",
+      "Budget Update",
+      "2024 Bond Program",
+      "Public Speakers",
+      "Approval of Minutes",
+      "Partnerships",
+      "Strategic Initiatives",
+      "Community Park",
+      "Historical Marker"
+    ],
+    "financial_items": [
+      {
+        "description": "No cost consideration to the City for naming and historical marker items.",
+        "amount": null,
+        "type": "budget"
+      },
+      {
+        "description": "Authorize acquisition of land for a proposed new park.",
+        "amount": null,
+        "type": "budget"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11321
+}

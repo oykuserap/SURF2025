@@ -1,0 +1,91 @@
+{
+  "agenda_identifier": "agenda_20240909_youth",
+  "agenda_number": 20240909,
+  "source_file": "agenda_20240909_youth.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 9th, 2024",
+      "time": "6:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Youth Commission",
+      "location": "Dallas City Hall, 6ES and Videoconference"
+    },
+    "attendees": {
+      "chair": "Commissioner Hawkins",
+      "presenters": [
+        "Commissioner Hawkins",
+        "Commission Nelson",
+        "Commission Moreno",
+        "Commission Tamfu",
+        "Commission Okon"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the chair.",
+        "presenter": "Commissioner Hawkins",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes from August 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "III",
+        "title": "City of Dallas Presentations",
+        "description": "Presentations by various commissioners.",
+        "presenter": "Commissioner Hawkins",
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Staff Reports/Briefings/Special Committees",
+        "description": "Updates from various committees.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Unfinished Business/General Orders",
+        "description": "Discussion of deadlines and tasks.",
+        "presenter": "Commissioner Tamfu",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Announcements",
+        "description": "General announcements.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "Closing of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Youth Commission",
+      "Regular Meeting",
+      "City of Dallas",
+      "Presentations",
+      "Staff Reports",
+      "Committees",
+      "Unfinished Business",
+      "Announcements",
+      "Adjournment",
+      "Community Engagement"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 7422
+}

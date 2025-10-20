@@ -1,0 +1,35 @@
+{
+  "agenda_identifier": "agenda_20240905_council",
+  "agenda_number": 20240905,
+  "source_file": "agenda_20240905_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 5, 2024",
+      "time": "12:00 PM",
+      "type": "Cancelled Meeting",
+      "organization": "Dallas Area Partnership to End and Prevent Homelessness Local Government Corporation",
+      "location": "Dallas City Hall, 6ES, Council Briefing Room 1500 Marilla St., Dallas TX 75201 or join by WebEx"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "Dallas",
+      "Homelessness",
+      "Local Government",
+      "Cancelled",
+      "Meeting",
+      "City Hall",
+      "WebEx",
+      "Partnership",
+      "Prevent",
+      "End"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 1321
+}

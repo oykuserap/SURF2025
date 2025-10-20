@@ -1,0 +1,70 @@
+{
+  "agenda_identifier": "agenda_20241030_council",
+  "agenda_number": 20241030,
+  "source_file": "agenda_20241030_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 30, 2024",
+      "time": "6:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Judicial Nominating Commission",
+      "location": "1500 Marilla Street, Council Chambers 6th Floor, Dallas, Texas; Virtual via Webex"
+    },
+    "attendees": {
+      "chair": "Matthew McDougal",
+      "presenters": [],
+      "participants": [
+        "Ellen Stafford",
+        "Erika Guerrero",
+        "Karen Gonzalez",
+        "Preston Robinson",
+        "Rodney Patten"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "24-3394",
+        "title": "Approval of the May 20, 2024 Minutes",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "24-3395",
+        "title": "Discuss the Vacant Full-Time Judge position for Dallas Municipal Court",
+        "description": "",
+        "presenter": "Matthew L. McDougal",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "24-3397",
+        "title": "Discuss the appointment of possible replacement or additional hire of an Associate Judge",
+        "description": "",
+        "presenter": "Matthew McDougal",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "24-3398",
+        "title": "Discuss the devising metrics for evaluating applicants",
+        "description": "Including requesting the Dallas Bar Association to expand its bar poll to cover Municipal Judges, and asking Representatives of both any relevant Criminal Bar Associations and the City Attorneys' Office for feedback on the judiciary.",
+        "presenter": "Matthew McDougal",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Judicial Nominating Commission",
+      "Dallas Municipal Court",
+      "Full-Time Judge",
+      "Associate Judge",
+      "Metrics for Evaluating Applicants",
+      "Dallas Bar Association",
+      "Criminal Bar Associations",
+      "City Attorneys' Office",
+      "Executive Session",
+      "Videoconference"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 15677
+}

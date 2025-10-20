@@ -1,0 +1,110 @@
+{
+  "agenda_identifier": "agenda_20240108_council",
+  "agenda_number": 20240108,
+  "source_file": "agenda_20240108_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 8, 2024",
+      "time": "5:30 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Environmental Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference (Webex)"
+    },
+    "attendees": {
+      "chair": "Kathryn Bazan",
+      "presenters": [
+        "M. Elizabeth Cedillo-Pereira",
+        "Carlos Evans",
+        "Ngozi Nwosu",
+        "Marissa Garza",
+        "Amany Abu Hijlih"
+      ],
+      "participants": [
+        "Esther Villarreal",
+        "Katherine Homan",
+        "Andrew Siegel",
+        "Mark Wootton",
+        "Colleen Murray",
+        "Michael Cook",
+        "Barry Lachman",
+        "Rebecca Posten",
+        "Tracy Wallace",
+        "Paula Day",
+        "Temeckia Derrough",
+        "Julie Hiromoto",
+        "Renee Roberson"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Announcements",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from the meeting on November 13, 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Briefing Memorandum and Demonstration",
+        "description": "The Office of Environmental Quality and Sustainability (OEQS) Brownfields Explorer Application.",
+        "presenter": "M. Elizabeth Cedillo-Pereira",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Voting Items",
+        "description": "Approval of 2025 Meeting Calendar.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Discussion Items",
+        "description": "Various discussion items including appointment of members to subcommittees and monthly updates.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Environmental Commission",
+      "Dallas",
+      "meeting",
+      "agenda",
+      "approval",
+      "minutes",
+      "briefing",
+      "demonstration",
+      "subcommittees",
+      "updates",
+      "calendar",
+      "discussion",
+      "adjournment",
+      "public participation",
+      "accessibility"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10762
+}

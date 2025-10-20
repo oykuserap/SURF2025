@@ -1,0 +1,64 @@
+{
+  "agenda_identifier": "agenda_20240403_council",
+  "agenda_number": 20240403,
+  "source_file": "agenda_20240403_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 3, 2024",
+      "time": "9:00 AM",
+      "type": "Council Briefing",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the March 6, 2024 City Council Meeting",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Consideration of appointments to boards and commissions",
+        "description": "Evaluation and duties of board and commission members (List of nominees is available in the City Secretary's Office)",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "A",
+        "title": "Vision Zero Update",
+        "description": "Presentation",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Historic and Cultural Preservation Strategy: Introduction to the Draft",
+        "description": "Presentation of the draft strategic plan",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "City Council",
+      "Dallas",
+      "Briefing",
+      "Minutes Approval",
+      "Appointments",
+      "Boards and Commissions",
+      "Vision Zero",
+      "Cultural Preservation",
+      "Legal Issues",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20717
+}

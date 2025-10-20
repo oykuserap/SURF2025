@@ -1,0 +1,77 @@
+{
+  "agenda_identifier": "agenda_20240416_regular",
+  "agenda_number": 20240416,
+  "source_file": "agenda_20240416_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 16, 2024",
+      "time": "12:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Dallas Housing Finance Corporation",
+      "location": "Dallas City Hall, L1FN Auditorium and Videoconference"
+    },
+    "attendees": {
+      "chair": "Marcy Helfand",
+      "presenters": [
+        "Aaron Eaquinto",
+        "Geoff Jewett",
+        "Stephen Clarke",
+        "Jaclyn Schroeder"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of the minutes for the February 13, 2024 City of Dallas Housing Finance Corporation Meeting",
+        "description": "",
+        "presenter": "Marcy Helfand",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Action Item: Resolutions for West Virginia Apartments",
+        "description": "Consider and adopt resolutions related to the financing, acquisition, and rehabilitation of West Virginia Apartments.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss and approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Review and discussion of DHFC Treasurer’s report",
+        "description": "Review of the financial report for the two-month period ending on February 29, 2024.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Review and discussion of the Corporation’s pipeline report",
+        "description": "Discussion of the Corporation’s pipeline report as of April 5, 2024.",
+        "presenter": "Aaron Eaquinto, Geoff Jewett, Stephen Clarke",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Staffing updates",
+        "description": "",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas Housing Finance Corporation",
+      "Regular Meeting",
+      "West Virginia Apartments",
+      "financing",
+      "rehabilitation",
+      "Treasurer’s report",
+      "pipeline report",
+      "staffing updates",
+      "resolution",
+      "MOU",
+      "limited liability company"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11277
+}

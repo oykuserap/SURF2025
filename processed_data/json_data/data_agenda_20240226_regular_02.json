@@ -1,0 +1,127 @@
+{
+  "agenda_identifier": "agenda_20240226_regular_02",
+  "agenda_number": 20240226,
+  "source_file": "agenda_20240226_regular_02.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 26, 2024",
+      "time": "6:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Dr. Martin Luther King, Jr. Community Center Advisory Board",
+      "location": "Martin Luther King, Jr. Community Center, Dallas, TX and online via WebEx"
+    },
+    "attendees": {
+      "chair": "Mrs. Clara Brown-Trimble",
+      "presenters": [
+        "Mrs. Clara Brown-Trimble",
+        "Ms. Candace Wicks",
+        "Dr. Jamel Slaughter",
+        "Mrs. LaRhonda Bacon",
+        "Ms. Pamela R. Jones"
+      ],
+      "participants": [
+        "MLK Advisory Board Member",
+        "Public Speakers"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order/Welcome",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Invocation/Opening Statement",
+        "description": "",
+        "presenter": "MLK Advisory Board Member",
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Advisory Board Member & City Staff Roll Call",
+        "description": "",
+        "presenter": "Mrs. LaRhonda Bacon",
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Public Comments",
+        "description": "",
+        "presenter": "Public Speakers",
+        "action_required": null
+      },
+      {
+        "item_number": "5",
+        "title": "Approval of January 22, 2024, Minutes",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Discussion & Vote: Letter to the Family of Dexter King",
+        "description": "",
+        "presenter": "Ms. Candace Wicks",
+        "action_required": "discuss and vote"
+      },
+      {
+        "item_number": "7",
+        "title": "Discussion: 2024 MLK Celebration Week Recap",
+        "description": "Recap of various events during the MLK Celebration Week.",
+        "presenter": "Dr. Jamel Slaughter",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "8",
+        "title": "Discussion: 2024 MLK Cultural Events",
+        "description": "Planning for upcoming cultural events.",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "9",
+        "title": "Discussion: 2025 MLK Celebration Planning",
+        "description": "Planning for the 2025 MLK Celebration.",
+        "presenter": "Dr. Jamel Slaughter",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "10",
+        "title": "2024 MLK Center Manager Update",
+        "description": "Updates on various programs and events.",
+        "presenter": "Ms. Pamela R. Jones",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "11",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "MLK Advisory Board",
+      "Dallas",
+      "Community Center",
+      "Celebration Week",
+      "Cultural Events",
+      "Public Comments",
+      "Minutes Approval",
+      "Planning",
+      "Updates",
+      "Events",
+      "Discussion",
+      "Vote",
+      "Chair",
+      "Vice Chair",
+      "Public Speakers"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 7685
+}

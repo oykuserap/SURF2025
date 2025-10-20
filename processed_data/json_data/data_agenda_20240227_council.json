@@ -1,0 +1,124 @@
+{
+  "agenda_identifier": "agenda_20240227_council",
+  "agenda_number": 20240227,
+  "source_file": "agenda_20240227_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 27, 2024",
+      "time": "2:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Commission on Disabilities",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "John Kalkanli",
+      "presenters": [
+        "John Kalkanli",
+        "Chris McGreal",
+        "Blake Lindsay",
+        "Veronica Barboza"
+      ],
+      "participants": [
+        "Christina Puga",
+        "Gay Revi",
+        "Beverly White",
+        "Rod Hooker",
+        "Christopher Bellew",
+        "Starlet Ramirez",
+        "Nicole Munoz Huschka"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Opening of the meeting.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Roll Call",
+        "description": "Attendance verification.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Review and approval of previous meeting minutes.",
+        "presenter": "John Kalkanli",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Public Speakers",
+        "description": "Opportunity for public comments.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Officer Reports",
+        "description": "Reports from the chair and vice chair.",
+        "presenter": "John Kalkanli",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Commissioners’ Reports",
+        "description": "Updates from various commissioners.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Sub-Committee’s Reports",
+        "description": "Reports from sub-committees on various topics.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "Briefings",
+        "description": "Presentation on transportation rights and legal services.",
+        "presenter": "Chris McGreal",
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Announcements",
+        "description": "General announcements.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Adjournment",
+        "description": "Closing of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Commission on Disabilities",
+      "Dallas City Hall",
+      "Public Speakers",
+      "Transportation Rights",
+      "Legal Services",
+      "Accessibility",
+      "Sub-Committee Reports",
+      "Officer Reports",
+      "Meeting Minutes",
+      "Public Participation",
+      "Equity & Inclusion",
+      "ADA",
+      "Disability Rights",
+      "Community Engagement",
+      "Public Awareness"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 33746
+}

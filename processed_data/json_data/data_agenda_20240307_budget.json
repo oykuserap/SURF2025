@@ -1,0 +1,71 @@
+{
+  "agenda_identifier": "agenda_20240307_budget",
+  "agenda_number": 20240307,
+  "source_file": "agenda_20240307_budget.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 7, 2024",
+      "time": "11:00 AM",
+      "type": "Ad Hoc Committee Meeting",
+      "organization": "Ad Hoc Committee on Administrative Affairs",
+      "location": "Dallas City Hall, 6ES, Council Briefing Room; Virtual"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Nina Arias",
+        "Danielle Thompson"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes of the February 26, 2024 meeting of the Ad Hoc Committee on Administrative Affairs.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "City Council Feedback on Survey Related to City Manager Recruitment",
+        "description": "Discussion on feedback regarding the survey related to the recruitment of a City Manager.",
+        "presenter": "Nina Arias",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Template for Employee Survey Related to City Manager Recruitment",
+        "description": "Discussion on the template for the employee survey related to City Manager recruitment.",
+        "presenter": "Nina Arias",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Timeline for City Manager Recruitment Consultant RFP",
+        "description": "Discussion on the timeline for the Request for Proposals for a City Manager recruitment consultant.",
+        "presenter": "Nina Arias and Danielle Thompson",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "City Council",
+      "Administrative Affairs",
+      "City Manager Recruitment",
+      "Employee Survey",
+      "Consultant RFP",
+      "Feedback",
+      "Minutes Approval",
+      "Human Resources",
+      "Procurement Services",
+      "Executive Session",
+      "Public Meeting",
+      "Virtual Attendance",
+      "City Hall"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18822
+}

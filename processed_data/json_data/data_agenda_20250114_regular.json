@@ -1,0 +1,97 @@
+{
+  "agenda_identifier": "agenda_20250114_regular",
+  "agenda_number": 20250114,
+  "source_file": "agenda_20250114_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 14, 2025",
+      "time": "12:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Dallas Housing Finance Corporation",
+      "location": "Dallas City Hall, L1FN Auditorium and Videoconference"
+    },
+    "attendees": {
+      "chair": "Marcy Helfand",
+      "presenters": [
+        "Aaron Eaquinto",
+        "George Rodriguez",
+        "Ryan Bowen",
+        "Tim Nelson"
+      ],
+      "participants": [
+        "Jaclyn Schroeder"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of the minutes for the December 10, 2024 City of Dallas Housing Finance Corporation Meeting",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": "Marcy Helfand",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Resolution for The Ridge at Loop 12",
+        "description": "A multifamily residential development to be located at 1100 North Walton Walker Boulevard, Dallas, Dallas County, Texas 75211.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss and adopt"
+      },
+      {
+        "item_number": "VI",
+        "title": "Resolution for Tenison Lofts",
+        "description": "A multifamily residential development to be located at 3602 Samuell Boulevard, Dallas, Dallas County, Texas 75223.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss and adopt"
+      },
+      {
+        "item_number": "VII",
+        "title": "Resolution for Paradise Gardens",
+        "description": "A multifamily residential development located at 1500 North Garrett Avenue, Dallas, Dallas County, Texas 75206.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss and adopt"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Resolution for Oak & Ellum",
+        "description": "A multifamily residential development located at 2627 Live Oak Street, Dallas, Dallas County, Texas 75204.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss and adopt"
+      },
+      {
+        "item_number": "IX",
+        "title": "Review and discussion of DHFC Treasurer’s report",
+        "description": "Review of the Treasurer’s report for the eleven-month period ending on November 30, 2024.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "X",
+        "title": "Review and discussion of the Corporation’s pipeline report",
+        "description": "Review of the Corporation’s pipeline report as of January 7, 2025.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas Housing Finance Corporation",
+      "Regular Meeting",
+      "multifamily residential development",
+      "The Ridge at Loop 12",
+      "Tenison Lofts",
+      "Paradise Gardens",
+      "Oak & Ellum",
+      "Treasurer’s report",
+      "pipeline report",
+      "resolution",
+      "approval",
+      "discussion",
+      "financing",
+      "construction",
+      "development"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 16949
+}

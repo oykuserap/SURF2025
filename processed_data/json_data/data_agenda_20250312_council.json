@@ -1,0 +1,24 @@
+{
+  "agenda_identifier": "agenda_20250312_council",
+  "agenda_number": 20250312,
+  "source_file": "agenda_20250312_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 12, 2025",
+      "time": null,
+      "type": "Meeting",
+      "organization": "City of Dallas",
+      "location": "Dallas City Hall"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 1617
+}

@@ -1,0 +1,71 @@
+{
+  "agenda_identifier": "agenda_20240417_council",
+  "agenda_number": 20240417,
+  "source_file": "agenda_20240417_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 17, 2024",
+      "time": "9:00 AM",
+      "type": "Council Briefing Meeting",
+      "organization": "City Council of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "City Manager"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes of the April 3, 2024 City Council Briefing Meeting",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Consideration of Appointments",
+        "description": "Consideration of appointments to boards and commissions and the evaluation and duties of board and commission members (List of nominees is available in the City Secretary's Office)",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "A",
+        "title": "Dallas Public Library: Library Strategic & Facilities Plan",
+        "description": "Briefing on the Library Strategic & Facilities Plan",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "City Manager’s Proposed FY 2024-25 HUD Consolidated Plan Budget Briefing",
+        "description": "Briefing on the City Manager’s Proposed FY 2024-25 HUD Consolidated Plan Budget",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "Briefing Meeting",
+      "HUD Consolidated Plan",
+      "Library Strategic Plan",
+      "Appointments",
+      "Boards and Commissions",
+      "Minutes Approval",
+      "Public Participation",
+      "Executive Session",
+      "City Hall",
+      "Videoconference",
+      "Public Access",
+      "City Secretary",
+      "Community Engagement",
+      "Rules of Courtesy"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20840
+}

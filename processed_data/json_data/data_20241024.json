@@ -1,0 +1,91 @@
+{
+  "agenda_identifier": "agenda_20241024_hearing",
+  "agenda_number": 20241024,
+  "source_file": "agenda_20241024_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 24, 2024",
+      "time": "9:00 AM - 12:30 PM",
+      "type": "Regular Meeting",
+      "organization": "City Plan Commission",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "LeQuan Clinton",
+        "Connor Roberts",
+        "Wilson Kerr",
+        "Giahanna Bridges",
+        "Michael V. Pepe",
+        "Andrea Gilles, AICP",
+        "Oscar Aguilera"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Zoning Cases - Consent",
+        "description": "Various zoning cases requiring approval.",
+        "presenter": "LeQuan Clinton",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Zoning Cases - Under Advisement",
+        "description": "Zoning cases that are under advisement from previous meetings.",
+        "presenter": "Giahanna Bridges",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Zoning Cases - Individual",
+        "description": "Individual zoning cases requiring separate consideration.",
+        "presenter": "Wilson Kerr",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Development Code Amendments - Under Advisement",
+        "description": "Consideration of amendments to the Dallas Development Code.",
+        "presenter": "Andrea Gilles, AICP",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "5",
+        "title": "Special Provision Sign District - Under Advisement",
+        "description": "Proposal for a new Special Provision Sign District.",
+        "presenter": "Oscar Aguilera",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "30",
+        "title": "2025 City Plan Commission Calendar",
+        "description": "Consideration of the calendar for the upcoming year.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "City Plan Commission",
+      "Zoning",
+      "Development Code",
+      "Public Hearing",
+      "Special Provision Sign District",
+      "Subdivision",
+      "Consent Items",
+      "Residential Replats",
+      "Street Name Change",
+      "Public Testimony",
+      "Approval of Minutes",
+      "Executive Session",
+      "Planning and Development",
+      "Dallas City Hall",
+      "Videoconference"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 48686
+}

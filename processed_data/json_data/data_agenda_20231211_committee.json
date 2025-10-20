@@ -1,0 +1,177 @@
+{
+  "agenda_identifier": "agenda_20231211_committee",
+  "agenda_number": 20231211,
+  "source_file": "agenda_20231211_committee.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 11, 2023",
+      "time": "1:00 PM",
+      "type": "Public Safety Committee Meeting",
+      "organization": "Dallas City Council",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "William H. Griffith",
+        "Delridge Williams",
+        "Greg Evans",
+        "Jason Scoggins",
+        "Kevin Oden",
+        "Eddie Garcia",
+        "Scott Clumpner",
+        "Tabitha Castillo",
+        "Robert Borse",
+        "Stephen Williams",
+        "Carrie Rogers",
+        "Jon Fortune",
+        "Dominique Artis",
+        "Jill Haning"
+      ],
+      "participants": [
+        "Mendelsohn",
+        "Moreno",
+        "Stewart",
+        "Bazaldua",
+        "Blackmon",
+        "Resendez",
+        "Gracey",
+        "Arnold",
+        "Willis"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "Approval of the November 13, 2023 Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B",
+        "title": "Public Safety Recruiting and Retention Update",
+        "description": "Update on the recruitment and retention strategies for public safety personnel.",
+        "presenter": "William H. Griffith",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Violent Crime Reduction Plan Update",
+        "description": "Update on the strategies and progress of the violent crime reduction plan.",
+        "presenter": "Jason Scoggins",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Dallas Police Department’s Commitment to Transparency and Continuous Improvement",
+        "description": "Presentation on the Dallas Police Department's initiatives for transparency and improvement.",
+        "presenter": "Eddie Garcia",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Single Role Paramedic/Welfare Critical Response Team Update",
+        "description": "Update on the Single Role Paramedic and Welfare Critical Response Team.",
+        "presenter": "Scott Clumpner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Dallas Fire-Rescue’s Proposed Changes to Promotional Standards",
+        "description": "Discussion on proposed changes to the promotional standards within Dallas Fire-Rescue.",
+        "presenter": "Robert Borse",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Memorials for Fallen First Responders Update",
+        "description": "Update on the memorials for fallen first responders.",
+        "presenter": "Robert Borse",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "2025 Proposed Legislative Priorities - Public Safety",
+        "description": "Discussion on the proposed legislative priorities for public safety in 2025.",
+        "presenter": "Carrie Rogers",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Public Safety",
+      "Dallas Police Department",
+      "Fire-Rescue",
+      "Violent Crime",
+      "Recruitment",
+      "Retention",
+      "Legislative Priorities",
+      "Transparency",
+      "Emergency Services",
+      "First Responders",
+      "Community Safety",
+      "Grant Funding",
+      "Public Affairs",
+      "Operational Standards"
+    ],
+    "financial_items": [
+      {
+        "description": "FY 2023 Homeland Security Grant Program funding for preparedness activities",
+        "amount": "$6,598,577.53",
+        "type": "grant"
+      },
+      {
+        "description": "First amendment to the FY 2022 Homeland Security Grant for additional funding",
+        "amount": "$156,246.26",
+        "type": "grant"
+      },
+      {
+        "description": "Cooperative purchasing agreement for Fire Rescue Department apparatus parts",
+        "amount": "$5,521,500",
+        "type": "purchase agreement"
+      },
+      {
+        "description": "Service price agreement for on-site alteration services",
+        "amount": "$1,188,096",
+        "type": "service agreement"
+      },
+      {
+        "description": "Service price agreement for helicopter parts and maintenance",
+        "amount": "$1,703,035.70",
+        "type": "service agreement"
+      },
+      {
+        "description": "Dallas Police Department Victim Services/21 Grant funding",
+        "amount": "$104,568.96",
+        "type": "grant"
+      },
+      {
+        "description": "COPS Technology and Equipment Program Grant for record management system upgrade",
+        "amount": "$935,000.00",
+        "type": "grant"
+      },
+      {
+        "description": "Rifle Resistant Body Armor Grant for Dallas Police Department",
+        "amount": "$961,684.00",
+        "type": "grant"
+      },
+      {
+        "description": "Sexual Assault Evidence Testing Grant for forensic analysis",
+        "amount": "$248,500.00",
+        "type": "grant"
+      },
+      {
+        "description": "State of Texas Internet Crimes Against Children Grant for funding detectives",
+        "amount": "$303,159.40",
+        "type": "grant"
+      },
+      {
+        "description": "Interlocal Agreement for forensic analysis services",
+        "amount": "$12,300,000.00",
+        "type": "service agreement"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 41522
+}

@@ -1,0 +1,157 @@
+{
+  "agenda_identifier": "agenda_20240318_regular",
+  "agenda_number": 20240318,
+  "source_file": "agenda_20240318_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 18, 2024",
+      "time": "6:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Martin Luther King, Jr. Community Center Advisory Board",
+      "location": "Martin Luther King, Jr. Community Center, Activity Room A, 2922 MLK Jr. Blvd. Bldg. A, Dallas, TX 75215; Online via WebEx"
+    },
+    "attendees": {
+      "chair": "Mrs. Clara Brown-Trimble",
+      "presenters": [
+        "Mrs. LaRhonda Bacon",
+        "Dr. Jamel Slaughter",
+        "Ms. Pamela R. Jones"
+      ],
+      "participants": [
+        "Public Speakers",
+        "MLK Advisory Board Member"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order/Welcome",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Invocation/Opening Statement",
+        "description": "",
+        "presenter": "MLK Advisory Board Member",
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Advisory Board Member & City Staff Roll Call",
+        "description": "",
+        "presenter": "Mrs. LaRhonda Bacon",
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Public Comments",
+        "description": "",
+        "presenter": "Public Speakers",
+        "action_required": null
+      },
+      {
+        "item_number": "5",
+        "title": "Approval of February 26, 2024, Minutes",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Discussion: 2024 Final MLK Celebration Budget",
+        "description": "",
+        "presenter": "TBD",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "7",
+        "title": "Discussion: 2025 MLK Celebration Planning",
+        "description": "Discussion on color schemes and themes for the 2025 MLK Celebration.",
+        "presenter": "Dr. Jamel Slaughter",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "8",
+        "title": "2024 MLK Center Manager Update",
+        "description": "Updates on fresh produce distribution, volunteer opportunities, and upcoming events.",
+        "presenter": "Ms. Pamela R. Jones",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "9",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "MLK Celebration",
+      "Budget",
+      "Planning",
+      "Public Comments",
+      "Roll Call",
+      "Minutes Approval",
+      "Events",
+      "Community Center",
+      "Advisory Board",
+      "Discussion",
+      "Updates",
+      "Themes",
+      "Color Schemes",
+      "Entertainment",
+      "Awards"
+    ],
+    "financial_items": [
+      {
+        "description": "Keynote Speaker Fees",
+        "amount": null,
+        "type": "expenditure"
+      },
+      {
+        "description": "Bernice King Fee",
+        "amount": "$30,000",
+        "type": "expenditure"
+      },
+      {
+        "description": "Naomi Tutu Fee",
+        "amount": "$15,000",
+        "type": "expenditure"
+      },
+      {
+        "description": "Deborah Archer Fee",
+        "amount": "$25,000",
+        "type": "expenditure"
+      },
+      {
+        "description": "Ilyasah Shabazz Fee",
+        "amount": "$20,000",
+        "type": "expenditure"
+      },
+      {
+        "description": "Dr. Mary Frances Berry Fee",
+        "amount": "$20,000",
+        "type": "expenditure"
+      },
+      {
+        "description": "Dr. Keisha N. Blain Fee",
+        "amount": "$20,000",
+        "type": "expenditure"
+      },
+      {
+        "description": "Tomiko Brown-Nagin Fee",
+        "amount": "$25,000",
+        "type": "expenditure"
+      },
+      {
+        "description": "Angela Davis Fee",
+        "amount": "$30,000",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9567
+}

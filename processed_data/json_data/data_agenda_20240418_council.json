@@ -1,0 +1,35 @@
+{
+  "agenda_identifier": "agenda_20240418_council",
+  "agenda_number": 20240418,
+  "source_file": "agenda_20240418_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 18, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Animal Advisory Commission",
+      "location": "1500 Marilla Street Council Chambers, 6th Floor, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "Animal Advisory Commission",
+      "executive session",
+      "litigation",
+      "real property",
+      "contract",
+      "employment",
+      "security",
+      "financial information",
+      "economic development",
+      "public officer"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 3500
+}

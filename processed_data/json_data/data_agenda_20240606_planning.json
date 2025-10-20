@@ -1,0 +1,124 @@
+{
+  "agenda_identifier": "agenda_20240606_planning",
+  "agenda_number": 20240606,
+  "source_file": "agenda_20240606_planning.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 6, 2024",
+      "time": "6:00 P.M.",
+      "type": "Monthly Meeting",
+      "organization": "Community Development Commission (CDC)",
+      "location": "Dallas City Hall, Conference Room 6ES, Videoconference"
+    },
+    "attendees": {
+      "chair": "Melanie Rubin",
+      "presenters": [
+        "Chan Williams",
+        "Holly Holt"
+      ],
+      "participants": [
+        "Community Development Coordinator",
+        "Budget & Management Services (BMS)"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the chair.",
+        "presenter": "Melanie Rubin",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Roll Call",
+        "description": "Attendance check by the Community Development Coordinator.",
+        "presenter": "Community Development Coordinator",
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Approval of Monthly Minutes – May 2, 2024",
+        "description": "Review and approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Community Development Division Report",
+        "description": "Report from the Budget & Management Services including updates and acknowledgements.",
+        "presenter": "Budget & Management Services (BMS)",
+        "action_required": null
+      },
+      {
+        "item_number": "V.1",
+        "title": "Staff Update on City Managers’ Proposed FY 2024-25 U.S Department of Housing and Urban Development (HUD) Consolidated Plan Budget",
+        "description": "Update on the proposed budget from the City Manager.",
+        "presenter": "Chan Williams",
+        "action_required": null
+      },
+      {
+        "item_number": "V.2",
+        "title": "Staff presentation on the potential impact of budget reductions in the FY 2024-25 Community Development Block Grant (CDBG), Public Services Category",
+        "description": "Discussion on the impact of budget cuts.",
+        "presenter": "Holly Holt",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Chair’s Report",
+        "description": "Report from the chair including acknowledgements and updates.",
+        "presenter": "Melanie Rubin",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Vice Chair’s Report",
+        "description": "Report from the vice chair including acknowledgements.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "Public Speakers",
+        "description": "Opportunity for public comments.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Announcement",
+        "description": "General announcements including upcoming events.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Adjournment",
+        "description": "Closing of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Community Development",
+      "Dallas City Hall",
+      "Monthly Meeting",
+      "Budget Management",
+      "HUD",
+      "CDBG",
+      "Public Services",
+      "Chair's Report",
+      "Vice Chair's Report",
+      "Public Speakers",
+      "Announcements",
+      "Adjournment",
+      "Meeting Minutes",
+      "Staff Update",
+      "Budget Reductions"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 13323
+}

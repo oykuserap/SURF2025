@@ -1,0 +1,171 @@
+{
+  "agenda_identifier": "agenda_20240227_regular",
+  "agenda_number": 20240227,
+  "source_file": "agenda_20240227_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 27, 2024",
+      "time": "12:00 PM",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas Public Facility Corporation Board of Directors",
+      "location": "Dallas City Hall, Auditorium L1FN and Videoconference, 1500 Marilla Street, Dallas, TX 75201"
+    },
+    "attendees": {
+      "chair": "Keith Pomykal",
+      "presenters": [
+        "Keith Pomykal",
+        "Albert Gonzalez"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Roll Call",
+        "description": "",
+        "presenter": "Albert Gonzalez",
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Public Testimony",
+        "description": "public comment(s) on items 4 - 17",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Approval of Minutes",
+        "description": "Discussion and approval of the minutes of December 5, 2023 Board Meeting",
+        "presenter": "Keith Pomykal",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Election of Board Secretary",
+        "description": "Election of Vacant Dallas PFC Board Secretary Position",
+        "presenter": "Keith Pomykal",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Appointment of General Manager",
+        "description": "Discussion and approval of a resolution authorizing the appointment of Albert Gonzalez, PFC Administrator, as the Corporation’s General Manager",
+        "presenter": "Keith Pomykal",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Directors and Officers Insurance",
+        "description": "Discussion and approval of Directors and Officers Insurance coverage for the Dallas Public Facility Corporation’s Board of Directors and Officers",
+        "presenter": "Keith Pomykal",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "2023 Annual Report",
+        "description": "Discussion and approval of 2023 Annual Report",
+        "presenter": "Albert Gonzalez",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "Website Design Services",
+        "description": "Discussion and approval of Cimone Key Creative Studio, LLC for website design and maintenance services",
+        "presenter": "Albert Gonzalez",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Audit Services",
+        "description": "Discussion and approval of Logan and Associates, P.C. for audit services",
+        "presenter": "Albert Gonzalez",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "11",
+        "title": "Home Improvement Program",
+        "description": "Review and discussion of instituting a Dallas Public Facility Corporation home improvement and preservation program",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      },
+      {
+        "item_number": "12",
+        "title": "Income Targets",
+        "description": "Review and discussion of the Dallas Public Facility Corporation Program’s household area median income targets",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      },
+      {
+        "item_number": "13",
+        "title": "Financial Contributions",
+        "description": "Review and discussion of Dallas Public Facility Corporation’s financial contributions",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      },
+      {
+        "item_number": "14",
+        "title": "Bylaws Review",
+        "description": "Review and discussion of the Dallas Public Facility Corporation’s Bylaws",
+        "presenter": "Albert Gonzalez",
+        "action_required": null
+      },
+      {
+        "item_number": "15",
+        "title": "Staff Hiring Updates",
+        "description": "Review and discussion of DPFC staff hiring updates",
+        "presenter": "Albert Gonzalez",
+        "action_required": null
+      },
+      {
+        "item_number": "16",
+        "title": "Treasurer’s Report",
+        "description": "Review and discussion of Dallas PFC Treasurer’s Report",
+        "presenter": "Albert Gonzalez",
+        "action_required": null
+      },
+      {
+        "item_number": "17",
+        "title": "Pipeline Report",
+        "description": "Review and discussion of Dallas PFC Pipeline Report",
+        "presenter": "Albert Gonzalez",
+        "action_required": null
+      },
+      {
+        "item_number": "18",
+        "title": "Adjourn",
+        "description": "",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Public Facility Corporation",
+      "Board of Directors",
+      "meeting",
+      "minutes",
+      "insurance",
+      "annual report",
+      "website design",
+      "audit services",
+      "home improvement",
+      "income targets",
+      "financial contributions",
+      "bylaws",
+      "staff hiring",
+      "treasurer's report",
+      "pipeline report"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9045
+}

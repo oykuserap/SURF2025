@@ -1,0 +1,101 @@
+{
+  "agenda_identifier": "agenda_20241010_planning",
+  "agenda_number": 20241010,
+  "source_file": "agenda_20241010_planning.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 10, 2024",
+      "time": "6:00 P.M.",
+      "type": "Monthly Meeting",
+      "organization": "Community Development Commission (CDC)",
+      "location": "Dallas City Hall, Conference Room 6ES, Videoconference"
+    },
+    "attendees": {
+      "chair": "Melanie Rubin",
+      "presenters": [
+        "Rosanne Mills",
+        "Chan Williams",
+        "Zhen Barrientos"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of the September 5, 2024, Community Development Commission Meeting Minutes",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "CDC Committee Report - Citizen Participation / Policy and Procedure (CPPP) Committee",
+        "description": "Update on the meeting outcomes of the CPPP Committee Meeting held on September 24, 2024",
+        "presenter": "Rosanne Mills",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Community Development Division Report",
+        "description": "This report may include general greetings and acknowledgements to staff, commission members and other members of the public; introduction of new commission members; additions/changes to committee assignments, scheduling of committee meetings and consideration of future agenda item.",
+        "presenter": "Budget & Management Services (BMS)",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Action Item: Consider and approve Meeting Dates for the FY 2024-25 Community Development Commission Monthly Calendar",
+        "description": "",
+        "presenter": "Office of Budget & Management Services",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Chair’s Report",
+        "description": "This report may include general greetings and acknowledgements to staff, commission members and other members of the public; introduction of new commission members; additions/changes to committee assignments, scheduling of committee meetings and consideration of future agenda item.",
+        "presenter": "Melanie Rubin",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IX",
+        "title": "Vice Chair’s Report",
+        "description": "This report includes general acknowledgements to staff, commission members and members of the public",
+        "presenter": "Zhen Barrientos",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "X",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "XI",
+        "title": "Announcement",
+        "description": "Announcements may include: Expressions of thanks, congratulations, or condolence; Information about holiday schedules; honorary or salutary recognition of public officials, employees, or citizens.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Community Development",
+      "Commission",
+      "Meeting Minutes",
+      "Citizen Participation",
+      "Policy and Procedure",
+      "Budget Management",
+      "Monthly Calendar",
+      "Chair Report",
+      "Vice Chair Report",
+      "Public Speakers",
+      "Announcements",
+      "Dallas City Hall",
+      "Videoconference",
+      "Accommodations",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 14099
+}

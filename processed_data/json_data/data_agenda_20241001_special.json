@@ -1,0 +1,83 @@
+{
+  "agenda_identifier": "agenda_20241001_special",
+  "agenda_number": 20241001,
+  "source_file": "agenda_20241001_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 1, 2024",
+      "time": "9:30 A.M.",
+      "type": "Special Called Meeting",
+      "organization": "Civil Service Board",
+      "location": "Dallas City Hall, Room #1 C- South and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approve minutes from the September 10, 2024, Special-called Civil Service Board Meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Hearing Item(s)",
+        "description": "Conduct the public hearing in conjunction with the proposed changes to the current Code of Rules and Regulations of the Civil Service Board.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V.a",
+        "title": "Civil Services Rules Revision Update",
+        "description": "Brief proposed Civil Service rule revision amending minimum requirements for trainee police officer.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V.b",
+        "title": "Trial Board Hearings Rotational Schedule",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V.c",
+        "title": "Department Updates and Announcements",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Action Item(s)",
+        "description": "Adopt the amended Code of Rules and Regulations of the Civil Service Board.",
+        "presenter": null,
+        "action_required": "adopt"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Civil Service Board",
+      "Special Called Meeting",
+      "Public Hearing",
+      "Code of Rules",
+      "Regulations",
+      "Minutes Approval",
+      "Trial Board Hearings",
+      "Department Updates",
+      "Civil Service Rules Revision",
+      "Action Items",
+      "Equitable Access",
+      "Accommodations",
+      "Videoconference",
+      "Public Participation"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8708
+}

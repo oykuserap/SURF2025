@@ -1,0 +1,24 @@
+{
+  "agenda_identifier": "agenda_20241106_council",
+  "agenda_number": 20241106,
+  "source_file": "agenda_20241106_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 6, 2024",
+      "time": "9:00 AM",
+      "type": "Briefing",
+      "organization": "City Council",
+      "location": "Council Chambers, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 1607
+}

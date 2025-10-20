@@ -1,0 +1,35 @@
+{
+  "agenda_identifier": "agenda_20240521_council",
+  "agenda_number": 20240521,
+  "source_file": "agenda_20240521_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 21, 2024",
+      "time": null,
+      "type": "Executive Session",
+      "organization": "City Council Housing and Homelessness Solutions Committee",
+      "location": "City of Dallas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "executive session",
+      "litigation",
+      "real property",
+      "contract",
+      "employment",
+      "security",
+      "financial information",
+      "economic development",
+      "business prospect",
+      "incentive"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 4982
+}

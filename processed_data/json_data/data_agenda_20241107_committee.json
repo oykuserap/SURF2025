@@ -1,0 +1,141 @@
+{
+  "agenda_identifier": "agenda_20241107_committee",
+  "agenda_number": 20241107,
+  "source_file": "agenda_20241107_committee.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 7, 2024",
+      "time": "2:10 PM",
+      "type": "Committee Meeting",
+      "organization": "Government Performance and Financial Management Committee",
+      "location": "Council Briefing Room, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Sara Dempsey",
+        "Cedric Secoundiata",
+        "Ariel Garcia",
+        "Jeannie Chen"
+      ],
+      "participants": [
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Blackmon",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Willis"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the October 22, 2024, Government Performance and Financial Management Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "2024 External Audit Planning Meeting",
+        "description": "Discussion on the planning for the 2024 external audit.",
+        "presenter": "Sara Dempsey",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Update on Short-Term Rentals (STR)",
+        "description": "Includes numbers of active STRs, hotel occupancy tax collections, and costs for city STR oversight.",
+        "presenter": "Cedric Secoundiata, Ariel Garcia",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Report of the Independent Auditor of the City of Dallas Police and Fire pension System",
+        "description": "Report as required by Texas Government Code Section 802.1012.",
+        "presenter": "Jeannie Chen",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Report on Progress of Family Gateway Property Repairs",
+        "description": "Update on the repairs as of October 2024.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Monthly Budget Accountability Report",
+        "description": "Report on the budget accountability.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Ratification Agenda Items for November 13, 2024, City Council Meeting",
+        "description": "Items related to HVAC parts, digital content resources for the library.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Proposing Appropriations for Memberships in Organizations",
+        "description": "Proposing appropriations for various organizations.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Proposing Amendment of Chapter 2-11.2 of the Dallas City Code",
+        "description": "Amendment to increase the threshold of administrative real property acquisitions.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "Overview of the FY 2024-25 Community Survey",
+        "description": "Discussion on the methodology and purpose of the upcoming survey.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "K",
+        "title": "Upcoming Authorizing Insurance",
+        "description": "Discussion on upcoming agenda items related to bonds.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "L",
+        "title": "Closed Session",
+        "description": "Deliberation on property purchases and legal advice.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Government Performance",
+      "Financial Management",
+      "Audit Planning",
+      "Short-Term Rentals",
+      "Budget Accountability",
+      "Family Gateway",
+      "City Council",
+      "Appropriations",
+      "Real Property Acquisitions",
+      "Community Survey",
+      "Insurance",
+      "Closed Session",
+      "Dallas"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 26679
+}

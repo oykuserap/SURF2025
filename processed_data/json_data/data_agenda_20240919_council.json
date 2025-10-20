@@ -1,0 +1,91 @@
+{
+  "agenda_identifier": "agenda_20240919_council",
+  "agenda_number": 20240919,
+  "source_file": "agenda_20240919_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 19, 2024",
+      "time": "9:00 A.M.",
+      "type": "Rescheduled Quarterly Meeting",
+      "organization": "Dallas Animal Advisory Commission",
+      "location": "Dallas City Hall, Council Briefing Room 6ES; Video Conference: https://dallascityhall.webex.com/dallascityhall/j.php?MTID=mcbf35b6ebb05e64d5eb7b166406cb6de"
+    },
+    "attendees": {
+      "chair": "Shelby Bobosky",
+      "presenters": [
+        "Nicola Talley",
+        "Joseph Kheir",
+        "Paul Ramon",
+        "Matthew Sapp"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Shelby Bobosky",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": "Shelby Bobosky",
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from April 18, 2024",
+        "presenter": "Shelby Bobosky",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "DAS Dashboard Presentation and Discussion",
+        "description": "",
+        "presenter": "Nicola Talley and Joseph Kheir",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Director’s Presentation and Discussion",
+        "description": "",
+        "presenter": "Paul Ramon",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "City Attorney Advisement",
+        "description": "Charter Election Political Activities Memorandum regarding Illegal Animal Vending vs. SEC. 7-4.5. Sale of Dogs and Cats",
+        "presenter": "Matthew Sapp",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": "Shelby Bobosky",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Animal Advisory Commission",
+      "meeting",
+      "public speakers",
+      "approval of minutes",
+      "DAS Dashboard",
+      "Director's presentation",
+      "City Attorney",
+      "illegal animal vending",
+      "charter election",
+      "adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9484
+}

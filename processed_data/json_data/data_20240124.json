@@ -1,0 +1,97 @@
+{
+  "agenda_identifier": "agenda_20240124_council",
+  "agenda_number": 20240124,
+  "source_file": "agenda_20240124_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 24, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the January 10, 2024 City Council Meeting",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Authorize extension for Community Development Block Grant (CDBG) Funds",
+        "description": "Authorize an extension through September 30, 2024 for CDBG funded projects that have not met the City’s twelve-month obligation or twenty-four-month expenditure requirement.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Authorize payment of judgment in the lawsuit styled - Trinity East Energy, LLC, v. City of Dallas",
+        "description": "Authorize payment of judgment in the lawsuit styled - Trinity East Energy, LLC, v. City of Dallas, Cause No. DC-14-01443.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "A resolution authorizing the preparation of plans and payment of potential future costs",
+        "description": "A resolution authorizing the preparation of plans and the payment of potential future costs and expenses for the issuances of General Obligation Refunding and Improvement Bonds.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Authorize a construction services contract for the 2024 Annual Street Resurfacing Contract",
+        "description": "Authorize a construction services contract for the 2024 Annual Street Resurfacing Contract.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "City Council",
+      "Dallas",
+      "CDBG",
+      "funding",
+      "construction",
+      "public hearing",
+      "zoning",
+      "budget",
+      "community services",
+      "homelessness",
+      "public safety",
+      "transportation",
+      "environment",
+      "urban development",
+      "legal matters"
+    ],
+    "financial_items": [
+      {
+        "description": "Community Development Block Grant (CDBG) Funds",
+        "amount": "503480",
+        "type": "budget"
+      },
+      {
+        "description": "Payment in the lawsuit styled - Trinity East Energy, LLC, v. City of Dallas",
+        "amount": "55000000",
+        "type": "expenditure"
+      },
+      {
+        "description": "General Obligation Refunding and Improvement Bonds",
+        "amount": "410000000",
+        "type": "budget"
+      },
+      {
+        "description": "Construction services contract for the 2024 Annual Street Resurfacing Contract",
+        "amount": "85160474.50",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 74018
+}

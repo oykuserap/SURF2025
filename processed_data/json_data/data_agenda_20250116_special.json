@@ -1,0 +1,60 @@
+{
+  "agenda_identifier": "agenda_20250116_special",
+  "agenda_number": 20250116,
+  "source_file": "agenda_20250116_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 16, 2025",
+      "time": "11:00 AM",
+      "type": "Special Called Meeting",
+      "organization": "City Plan Commission",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Tony Shidid",
+      "presenters": [
+        "Michael Wade"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Briefing Item",
+        "description": "Briefing on DCA190-002 Off-Street Parking & Loading Code Amendment: Consideration of amending Chapter 51 and 51A of the Dallas Development Code regarding minimum off-street parking and loading requirements, including establishing a Transportation Demand Management Plan and off-street parking design standards.",
+        "presenter": "Michael Wade",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "2",
+        "title": "Public Hearing",
+        "description": "Consideration of amending Chapters 51 and 51A of the Dallas City Code regarding off-street parking and loading requirements, including various sections related to zoning and parking regulations.",
+        "presenter": "Michael T. Wade",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Other Matters",
+        "description": "FY 2023-24 Annual Report",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "City Plan Commission",
+      "Special Called Meeting",
+      "Public Hearing",
+      "Off-Street Parking",
+      "Loading Code Amendment",
+      "Transportation Demand Management",
+      "Zoning",
+      "Annual Report",
+      "Development Code",
+      "Planning and Development"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 17324
+}

@@ -1,0 +1,79 @@
+{
+  "agenda_identifier": "agenda_20240514_council_01",
+  "agenda_number": 20240514,
+  "source_file": "agenda_20240514_council_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 14, 2024",
+      "time": "5:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Community Police Oversight Board",
+      "location": "Dallas City Hall, 6EN Council Chambers and Videoconference"
+    },
+    "attendees": {
+      "chair": "John Mark Davidson",
+      "presenters": [
+        "C. Clark",
+        "Siara Obasuyi",
+        "Deputy City Manager Kimberly Tolbert",
+        "Dallas Police Department Chief Eddie Garcia"
+      ],
+      "participants": [
+        "Tony Rodriguez",
+        "Sarah Cruz"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Approval of Minutes - April 9, 2024",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": "John Mark Davidson",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "II",
+        "title": "Action Items",
+        "description": "Review External Administrative Complaints.",
+        "presenter": "C. Clark",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "III",
+        "title": "Staff Reports/Briefings",
+        "description": "Various updates including hiring search for new director and reports on police misconduct.",
+        "presenter": "Various",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IV",
+        "title": "Monthly Activity Report",
+        "description": "Presentation of the monthly activity report by OCPO.",
+        "presenter": "C. Clark",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Upcoming Meeting",
+        "description": "Announcement of the next meeting date.",
+        "presenter": "John Mark Davidson",
+        "action_required": "inform"
+      }
+    ],
+    "keywords": [
+      "Community Police Oversight",
+      "Dallas Police Department",
+      "Administrative Complaints",
+      "Staff Reports",
+      "Monthly Activity Report",
+      "Senate Bill 4",
+      "Hiring Search",
+      "Public Comment",
+      "Outreach",
+      "Policy Review"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 193168
+}

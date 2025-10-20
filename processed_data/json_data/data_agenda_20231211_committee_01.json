@@ -1,0 +1,109 @@
+{
+  "agenda_identifier": "agenda_20231211_committee_01",
+  "agenda_number": 20231211,
+  "source_file": "agenda_20231211_committee_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 11, 2023",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Workforce, Education, and Equity Committee",
+      "location": "Council Chambers, 6th Floor at City Hall, Dallas, TX"
+    },
+    "attendees": {
+      "chair": "Narvaez",
+      "presenters": [
+        "Dr. Lindsey Wilson",
+        "Dr. Brita Andercheck",
+        "Joyce Williams",
+        "Dr. Dena Owens",
+        "Carrie Rogers",
+        "Linley Youderian",
+        "Jessica Galleshaw",
+        "Cruz Correa"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the October 10, 2023 Workforce, Education and Equity Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Equity (Internal): Racial Equity Plan (REP) Department Progress Measures Update",
+        "description": "Update on the Racial Equity Plan with a live demonstration.",
+        "presenter": "Dr. Lindsey Wilson, Dr. Brita Andercheck",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Workforce (Internal): Workforce Development and Training Update (Year to Date)",
+        "description": "Update on workforce development and training for the year.",
+        "presenter": "Joyce Williams, Dr. Dena Owens",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Workforce/Equity/Education (Internal): Summary of State Legislative WEE Priorities",
+        "description": "Summary of legislative priorities adopted in 2023 and consideration for 2025.",
+        "presenter": "Carrie Rogers, Linley Youderian",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Workforce/Equity (Internal): Financial Empowerment Center and VITA Update",
+        "description": "Update on the Financial Empowerment Center post March 2023 launch.",
+        "presenter": "Jessica Galleshaw, Cruz Correa",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Equity (Internal): Equity Indicators Report, Second Edition 2023 Update",
+        "description": "Update on the Equity Indicators Report.",
+        "presenter": "Dr. Lindsey Wilson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Equity (Internal): Upcoming Council Agenda Item Seeking Authorization for Supplemental Agreement No. 5",
+        "description": "Discussion on seeking authorization for a supplemental agreement for ADA transition plan.",
+        "presenter": "Dr. Lindsey Wilson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Equity (Internal): Upcoming Council Agenda Item to Authorize Youth Navigation Services Contract",
+        "description": "Discussion on authorizing a contract for youth navigation services.",
+        "presenter": "Jessica Galleshaw",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "WEE Committee Three-Month Forecast",
+        "description": "Forecast for the upcoming three months.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Workforce",
+      "Education",
+      "Equity",
+      "Racial Equity Plan",
+      "Workforce Development",
+      "Legislative Priorities",
+      "Financial Empowerment",
+      "Youth Navigation Services",
+      "ADA Transition Plan",
+      "Equity Indicators",
+      "Community Care"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 22775
+}

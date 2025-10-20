@@ -1,0 +1,57 @@
+{
+  "agenda_identifier": "agenda_20240507_regular",
+  "agenda_number": 20240507,
+  "source_file": "agenda_20240507_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 7, 2024",
+      "time": "9:30 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Civil Service Board",
+      "location": "Dallas City Hall, Room #1 C- South and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approve minutes from the April 2, 2024, Regular Civil Service Board Meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Hearing Item(s)",
+        "description": "Continue the rehire eligibility appeal hearing of Mr. David Okorafor, a former employee in the Dallas Water Department Utilities.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Briefing and Discussion Item(s)",
+        "description": "Updates on Civil Services Rules Revision, Department Updates and Announcements including Trial Board Hearings, Workday Implementation and Outstanding Needs, and Departmental Internal Audit Updates.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Civil Service Board",
+      "Regular Meeting",
+      "rehire eligibility",
+      "David Okorafor",
+      "Civil Services Rules",
+      "Department Updates",
+      "Trial Board Hearings",
+      "Workday Implementation",
+      "Internal Audit"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8619
+}

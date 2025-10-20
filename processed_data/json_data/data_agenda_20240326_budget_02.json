@@ -1,0 +1,147 @@
+{
+  "agenda_identifier": "agenda_20240326_budget_02",
+  "agenda_number": 20240326,
+  "source_file": "agenda_20240326_budget_02.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 26, 2024",
+      "time": "1:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Transportation and Infrastructure Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Council Member Narvaez",
+      "presenters": [
+        "Ghassan Khankarli, Ph.D., P.E.",
+        "Ali Hatefi",
+        "Sarah Standifer"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "Approval of February 20, 2024 Transportation and Infrastructure Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B",
+        "title": "DART Board Appointee Candidate Interviews",
+        "description": "Interviews for candidates to the DART Board.",
+        "presenter": "Council Member Narvaez",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Oncor Streetlight and Utility Pole Discussion",
+        "description": "Discussion regarding streetlight and utility pole issues.",
+        "presenter": "Ghassan Khankarli, Ph.D., P.E.",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Update of the Proposed Digital Kiosk Program",
+        "description": "Update on the digital kiosk program.",
+        "presenter": "Ali Hatefi",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Monthly Update of Public Works Program Performance - February 2024",
+        "description": "Monthly performance update from Public Works.",
+        "presenter": "Ali Hatefi",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Downtown Transportation Initiatives Study",
+        "description": "Discussion on transportation initiatives in downtown.",
+        "presenter": "Ghassan Khankarli, Ph.D., P.E.",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "2024 City of Dallas Drought Contingency Plan",
+        "description": "Discussion of the drought contingency plan.",
+        "presenter": "Sarah Standifer",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Discussion of Potential Boundary Adjustment with the Town of Addison",
+        "description": "Discussion regarding potential boundary adjustments.",
+        "presenter": "Ali Hatefi",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Transportation",
+      "Infrastructure",
+      "Dallas",
+      "DART",
+      "Public Works",
+      "Utility Poles",
+      "Digital Kiosk",
+      "Drought Contingency",
+      "Boundary Adjustment",
+      "City Council"
+    ],
+    "financial_items": [
+      {
+        "description": "Interlocal Agreement with the Texas Department of Transportation",
+        "amount": "$791,600.00",
+        "type": "budget"
+      },
+      {
+        "description": "Engineering services contract with Michael Baker International, Inc.",
+        "amount": "$569,812.40",
+        "type": "contract"
+      },
+      {
+        "description": "Supplemental Agreement No. 1 to the consultant services contract with Ricondo & Associates, Inc.",
+        "amount": "$2,926,600.00",
+        "type": "contract"
+      },
+      {
+        "description": "Concession contracts for transportation for hire services at Dallas Love Field Airport",
+        "amount": "$509,852.00",
+        "type": "revenue"
+      },
+      {
+        "description": "Ordinance abandoning a portion of a utility easement",
+        "amount": "$7,800.00",
+        "type": "revenue"
+      },
+      {
+        "description": "Acquisition for condemnation proceedings for Dolphin Road Project",
+        "amount": "$67,692.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Professional services contract for construction material testing services",
+        "amount": "$173,450.00",
+        "type": "contract"
+      },
+      {
+        "description": "Acquisition of land for Dallas Executive Airport",
+        "amount": "$244,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Lease agreement extension for Women, Infants and Children Clinic",
+        "amount": "$881,267.60",
+        "type": "expenditure"
+      },
+      {
+        "description": "Increase in purchase amount of a wastewater easement",
+        "amount": "$31,341.78",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 38144
+}

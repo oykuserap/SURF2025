@@ -1,0 +1,74 @@
+{
+  "agenda_identifier": "agenda_20240226_regular_01",
+  "agenda_number": 20240226,
+  "source_file": "agenda_20240226_regular_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 26, 2024",
+      "time": "2:00 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Oak Cliff Gateway TIF District Board of Directors",
+      "location": "Dallas City Hall, 6DN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Sue Hounsel, District Manager, Office of Economic Development",
+        "Thor Erickson, Assistant Director, Housing & Neighborhood Revitalization Department"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to order and introduction of meeting participants",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Public comments pertaining to agenda items 3 through 4",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Review and consideration of the Meeting Record of the December 11, 2023 Oak Cliff Gateway TIF District Board Meeting",
+        "description": "",
+        "presenter": "Sue Hounsel, District Manager, Office of Economic Development",
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "4",
+        "title": "Review and general discussion regarding implementation by the City’s Housing & Neighborhood Revitalization Department of the City’s new Housing Policy (DHP33), including Equity Strategy Target Areas",
+        "description": "",
+        "presenter": "Thor Erickson, Assistant Director, Housing & Neighborhood Revitalization Department",
+        "action_required": "Discussion"
+      },
+      {
+        "item_number": "5",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Oak Cliff Gateway",
+      "TIF District",
+      "Dallas",
+      "Housing Policy",
+      "Equity Strategy",
+      "Economic Development",
+      "Meeting Record",
+      "Public Comments",
+      "Neighborhood Revitalization",
+      "Board Meeting"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10272
+}

@@ -1,0 +1,107 @@
+{
+  "agenda_identifier": "agenda_20250210_budget",
+  "agenda_number": 20250210,
+  "source_file": "agenda_20250210_budget.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 10, 2025",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Workforce, Education, and Equity Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": "Carolyn King Arnold",
+      "presenters": [
+        "Lisa Sherrod",
+        "Jessica Galleshaw",
+        "Holly Holt",
+        "Christina Da Silva",
+        "Rosa Fleming",
+        "Emily Liu",
+        "Kevin Spath",
+        "Cynthia Rogers-Ellickson",
+        "Elizabeth Saab",
+        "Daisy Fast",
+        "Richard Ericson",
+        "Nina Arias",
+        "Carmel Fritz",
+        "Sonya Batts",
+        "Heather Wood",
+        "Laura Dizien"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the January 13, 2025, Workforce, Education, and Equity (WEE) Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "AT&T at Work in Dallas",
+        "description": "Presentation on AT&T's initiatives in Dallas.",
+        "presenter": "Lisa Sherrod",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "City of Dallas Digital Equity and Access Progress Updates",
+        "description": "Updates on digital equity initiatives.",
+        "presenter": "Jessica Galleshaw",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Closing Disparities: Department Progress Measures Updates Growing Portfolio",
+        "description": "Updates on progress measures related to closing disparities.",
+        "presenter": "Christina Da Silva",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Office of Communications and Customer Service Experience/311 (CCX/311) Reaching Our Diverse Communities",
+        "description": "Presentation on outreach strategies to diverse communities.",
+        "presenter": "Elizabeth Saab",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Upskilling Pilot Program: Security Officer Career Ladder Updates",
+        "description": "Updates on the security officer career ladder program.",
+        "presenter": "Nina Arias",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Workforce, Education, and Equity Committee Forecast",
+        "description": "Forecast of upcoming agenda items.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Workforce",
+      "Education",
+      "Equity",
+      "Digital Equity",
+      "Community Engagement",
+      "AT&T",
+      "Progress Measures",
+      "Upskilling",
+      "Security Officers",
+      "Diversity",
+      "Public Safety",
+      "Economic Development",
+      "Housing",
+      "Community Services",
+      "Access"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 219110
+}

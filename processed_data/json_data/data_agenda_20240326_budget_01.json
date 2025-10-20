@@ -1,0 +1,125 @@
+{
+  "agenda_identifier": "agenda_20240326_budget_01",
+  "agenda_number": 20240326,
+  "source_file": "agenda_20240326_budget_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 26, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Quality of Life, Arts, and Culture Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Mendelsohn",
+      "presenters": [
+        "Carrie Rogers",
+        "Kevin Oden",
+        "Devon Polk",
+        "Scott Clumpner",
+        "Rosa Fleming",
+        "Jaqulin Justice",
+        "Laura Flores",
+        "Martine Philippe",
+        "M. Elizabeth (Liz) Cedillo-Pereira"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes of the February 20, 2024 meeting of the Quality of Life, Arts and Culture Committee.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B",
+        "title": "Discussion of Mayor’s Memo",
+        "description": "Discussion of the Mayor’s Memo Regarding Community Input Into the Quality of Life, Arts, and Culture Policy Areas.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Opioid Strike Force & Interdepartmental Strategies Update",
+        "description": "Update on the Opioid Strike Force and interdepartmental strategies.",
+        "presenter": "Carrie Rogers, Kevin Oden, Devon Polk, Scott Clumpner",
+        "action_required": "briefing"
+      },
+      {
+        "item_number": "D",
+        "title": "Chapter 42A: High Impact Areas Survey Results and Recommendations",
+        "description": "Presentation of survey results and recommendations regarding high impact areas.",
+        "presenter": "Rosa Fleming, Jaqulin Justice, Laura Flores",
+        "action_required": "briefing"
+      },
+      {
+        "item_number": "E",
+        "title": "Dallas Arts Month",
+        "description": "Discussion on Dallas Arts Month.",
+        "presenter": "Martine Philippe",
+        "action_required": "briefing"
+      },
+      {
+        "item_number": "F",
+        "title": "FY 2024-25 Community Artist Program Guidelines",
+        "description": "Presentation of the guidelines for the Community Artist Program.",
+        "presenter": "M. Elizabeth (Liz) Cedillo-Pereira",
+        "action_required": "briefing"
+      },
+      {
+        "item_number": "G",
+        "title": "ArtsActivate 2025 Guidelines",
+        "description": "Presentation of the guidelines for ArtsActivate 2025.",
+        "presenter": "M. Elizabeth (Liz) Cedillo-Pereira",
+        "action_required": "briefing"
+      },
+      {
+        "item_number": "H",
+        "title": "Ordinance Amending Chapter 17",
+        "description": "An ordinance amending Chapter 17, 'Food Establishments,' of the Dallas City Code.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "I",
+        "title": "Service Price Agreement for Scrap Tires",
+        "description": "Authorize a three-year service price agreement for removal and disposal of scrap tires.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Quality of Life",
+      "Arts",
+      "Culture",
+      "Community Input",
+      "Opioid Strike Force",
+      "High Impact Areas",
+      "Dallas Arts Month",
+      "Community Artist Program",
+      "ArtsActivate 2025",
+      "Food Establishments",
+      "Scrap Tires",
+      "City Council",
+      "Dallas",
+      "Public Safety",
+      "Interdepartmental Strategies"
+    ],
+    "financial_items": [
+      {
+        "description": "Estimated amount for removal and disposal of scrap tires",
+        "amount": "$1,217,020",
+        "type": "expenditure"
+      },
+      {
+        "description": "Ordinance amending Chapter 17 with no cost consideration",
+        "amount": null,
+        "type": "budget"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20824
+}

@@ -1,0 +1,105 @@
+{
+  "agenda_identifier": "agenda_20240531_special",
+  "agenda_number": 20240531,
+  "source_file": "agenda_20240531_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 31, 2024",
+      "time": "10 a.m. – 11:30 a.m.",
+      "type": "Special Called Meeting",
+      "organization": "Trinity River Corridor Local Government Corporation",
+      "location": "Dallas City Hall, City Council Briefing Room (6ES) and Videoconference WebEx"
+    },
+    "attendees": {
+      "chair": "Vincent T. Parker",
+      "presenters": [
+        "Gary Kutac",
+        "Vincent T. Parker",
+        "Tony Moore"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the chair.",
+        "presenter": "Vincent T. Parker",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "Time allocated for public speakers to address the board.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes from the January 19, 2024 meeting.",
+        "presenter": "Gary Kutac",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Approval of 2023 Trinity River Corridor LGC Annual Report",
+        "description": "Presentation and approval of the annual report.",
+        "presenter": "Vincent T. Parker",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Review of 2023 Financial Report",
+        "description": "Review of the financial report for the year 2023.",
+        "presenter": "Trinity Park Conservancy",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Preliminary report to Transportation Committee",
+        "description": "Presentation of a preliminary report to the Transportation Committee.",
+        "presenter": "Tony Moore",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Reports from LGC Work Groups",
+        "description": "Reports from various work groups including Park Operations Excellence, Community Engagement, Park Design Advocacy, and Communications and Marketing.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "Other Public Speakers",
+        "description": "Additional time for public speakers.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Adjournment",
+        "description": "Closing of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Trinity River Corridor",
+      "Local Government Corporation",
+      "Dallas City Hall",
+      "Public Speakers",
+      "Approval of Minutes",
+      "Annual Report",
+      "Financial Report",
+      "Transportation Committee",
+      "Work Groups",
+      "Community Engagement",
+      "Park Operations",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 7500
+}

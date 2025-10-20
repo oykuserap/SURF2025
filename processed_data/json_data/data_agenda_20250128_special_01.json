@@ -1,0 +1,127 @@
+{
+  "agenda_identifier": "agenda_20250128_special_01",
+  "agenda_number": 20250128,
+  "source_file": "agenda_20250128_special_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 28, 2025",
+      "time": "9:00 AM",
+      "type": "Special Called Meeting",
+      "organization": "Housing and Homelessness Solutions Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Moreno",
+      "presenters": [
+        "Christine Crossley, Director, Office of Homeless Solutions",
+        "Brenda Snitzer, Executive Director, The Stewpot",
+        "Sarah Kahn, CEO, Housing Forward",
+        "Darwin Wade, Assistant Director, Department of Housing & Community Development",
+        "Thor Erickson, Assistant Director, Housing & Community Development",
+        "Cynthia Rogers-Ellickson, Director, Housing & Community Development",
+        "Lisa Mares, Section Chief - Economic and Community Development, City Attorney’s Office",
+        "Jaclyn Schroeder, Administrator (I), Housing & Community Development",
+        "Aaron Eaquinto, General Manager, Dallas Housing Finance Corporation"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the December 10, 2024, Housing & Homelessness Solutions Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "The Stewpot Acquisition of CitySquare Update and Overview",
+        "description": "Update and overview on the acquisition by The Stewpot.",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Street to Home Initiative - A Pathway Home Overview",
+        "description": "Overview of the Street to Home Initiative.",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Office of Homeless Solutions and the Department of Housing and Community Development Properties Update",
+        "description": "Update on various properties located at specified addresses.",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Department of Housing and Community Development Five Year Housing Production Needs",
+        "description": "Discussion on the five-year housing production needs.",
+        "presenter": "Thor Erickson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Discussion of the Recommended Changes to Policy, Operations, and Bylaws",
+        "description": "Discussion on recommended changes for the Dallas Housing Finance Corporation and the Dallas Public Facility Corporation.",
+        "presenter": "Cynthia Rogers-Ellickson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Response to Questions Posed on the Dallas Housing Policy 2033 Action Plans",
+        "description": "Response to questions from the previous meeting.",
+        "presenter": "Cynthia Rogers-Ellickson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Department of Housing & Community Development FY 2024-2025 Quarter One Performance Measures",
+        "description": "Discussion on performance measures for the first quarter.",
+        "presenter": "Thor Erickson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Upcoming Items on the February 12, 2025 City Council Agenda",
+        "description": "Discussion on upcoming items for the City Council agenda.",
+        "presenter": "Darwin Wade",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Upcoming Items on the February 26, 2025 City Council Agenda",
+        "description": "Discussion on upcoming items for the City Council agenda.",
+        "presenter": "Jaclyn Schroeder",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Housing",
+      "Homelessness",
+      "CitySquare",
+      "The Stewpot",
+      "Street to Home Initiative",
+      "Policy Changes",
+      "Performance Measures",
+      "Dallas Housing Finance Corporation",
+      "Community Development",
+      "Low Income Housing Tax Credits",
+      "Affordable Housing",
+      "Executive Session",
+      "City Council",
+      "Public Meeting",
+      "Texas Department of Housing"
+    ],
+    "financial_items": [
+      {
+        "description": "Line of credit for applications to the Texas Department of Housing and Community Affairs for Low Income Housing Tax Credits.",
+        "amount": "$500.00",
+        "type": "funding"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 24575
+}

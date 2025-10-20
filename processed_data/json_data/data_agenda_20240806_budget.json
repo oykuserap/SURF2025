@@ -1,0 +1,67 @@
+{
+  "agenda_identifier": "agenda_20240806_budget",
+  "agenda_number": 20240806,
+  "source_file": "agenda_20240806_budget.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 6, 2024",
+      "time": "9:00 a.m.",
+      "type": "Committee Meeting",
+      "organization": "City Council Government Performance and Financial Management Committee",
+      "location": "Council Briefing Room, 6th Floor at City Hall, and via video conference"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Donzell Gipson",
+        "City Attorney’s Office",
+        "Planning and Development Department"
+      ],
+      "participants": [
+        "Moreno",
+        "Mendelsohn",
+        "Schultz",
+        "Ligon",
+        "Davis",
+        "Narvaez",
+        "Gipson"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "City-Leased Properties & Budgetary Implications for the City",
+        "description": "Discussion on the implications of city-leased properties on the budget.",
+        "presenter": "Donzell Gipson, Assistant City Manager(I)",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Update on Proposed Private Game Club Land Use",
+        "description": "Discussion on budget implications and legal case regarding the proposed private game club.",
+        "presenter": "City Attorney’s Office & Planning and Development Department",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "City Council",
+      "Government Performance",
+      "Financial Management",
+      "Budget",
+      "City-Leased Properties",
+      "Private Game Club",
+      "Land Use",
+      "Legal Case",
+      "Public Safety",
+      "Economic Development",
+      "Housing",
+      "Homelessness Solutions",
+      "Transportation",
+      "Infrastructure",
+      "Education"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18665
+}

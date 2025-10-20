@@ -1,0 +1,120 @@
+{
+  "agenda_identifier": "agenda_20231218_regular",
+  "agenda_number": 20231218,
+  "source_file": "agenda_20231218_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 18, 2023",
+      "time": "6:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "MLK Advisory Board",
+      "location": "Martin Luther King, Jr. Community Center and online via WebEx"
+    },
+    "attendees": {
+      "chair": "Mrs. Clara Brown-Trimble",
+      "presenters": [
+        "Mr. Clinton Baker",
+        "Ms. Pamela R. Jones",
+        "Dr. Jamel Slaughter",
+        "Ms. Candace Wicks"
+      ],
+      "participants": [
+        "Mrs. LaRhonda Bacon",
+        "Public Speakers",
+        "MLK Advisory Board Member"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order/Welcome",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Invocation/Opening Statement",
+        "description": "",
+        "presenter": "MLK Advisory Board Member",
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Advisory Board Member & City Staff Roll Call",
+        "description": "",
+        "presenter": "Mrs. LaRhonda Bacon",
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Public Comments",
+        "description": "",
+        "presenter": "Public Speakers",
+        "action_required": null
+      },
+      {
+        "item_number": "5",
+        "title": "Approval of November 20, 2023, Minutes",
+        "description": "",
+        "presenter": "Mrs. Clara Brown-Trimble",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "2024 MLK Celebration Week Update",
+        "description": "Includes updates on various events related to the MLK Celebration Week.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "7",
+        "title": "Discussion & Vote: 2024 Community Awards",
+        "description": "Discussion and voting on various community awards.",
+        "presenter": "Ms. Pamela R. Jones",
+        "action_required": "discuss and vote"
+      },
+      {
+        "item_number": "8",
+        "title": "Discussion: DRAFT 2023 Annual Report due February 1",
+        "description": "",
+        "presenter": "Ms. Candace Wicks",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "9",
+        "title": "2023 MLK Center Manager Update",
+        "description": "Update on various programs and events at the MLK Center.",
+        "presenter": "Ms. Pamela R. Jones",
+        "action_required": null
+      },
+      {
+        "item_number": "10",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "MLK Advisory Board",
+      "Community Center",
+      "Public Comments",
+      "Community Awards",
+      "Annual Report",
+      "Celebration Week",
+      "Public Speakers",
+      "Minutes Approval",
+      "Updates",
+      "Events",
+      "Volunteer Opportunities",
+      "Legal Aid",
+      "Fitness Programs",
+      "Candle Lighting Ceremony",
+      "Scholarship"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 5385
+}

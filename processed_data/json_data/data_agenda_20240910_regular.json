@@ -1,0 +1,123 @@
+{
+  "agenda_identifier": "agenda_20240910_regular",
+  "agenda_number": 20240910,
+  "source_file": "agenda_20240910_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 10, 2024",
+      "time": "12:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Dallas Housing Finance Corporation",
+      "location": "Dallas City Hall, L1FN Auditorium and Videoconference"
+    },
+    "attendees": {
+      "chair": "Marcy Helfand",
+      "presenters": [
+        "Marcy Helfand",
+        "Aaron Eaquinto",
+        "George Rodriguez",
+        "Ryan Bowen",
+        "Tim Nelson"
+      ],
+      "participants": [
+        "Jaclyn Schroeder"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of the minutes for the August 27, 2024 Meeting",
+        "description": "Approval of the minutes for the previous meeting.",
+        "presenter": "Marcy Helfand",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Consider and approve qualifications and appointment of Aaron Eaquinto",
+        "description": "Consider and approve the qualifications and appointment of Aaron Eaquinto to the position of General Manager.",
+        "presenter": "Marcy Helfand",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VII",
+        "title": "Resolutions for Tenison Lofts",
+        "description": "Consider and adopt resolutions for the financing, acquisition, and construction of Tenison Lofts.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Resolution for Jefferson Innova",
+        "description": "Consider and adopt a resolution for the acquisition, financing, and operation of Jefferson Innova.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IX",
+        "title": "Resolution for Oak & Ellum",
+        "description": "Consider and adopt a resolution for the acquisition, financing, and operation of Oak & Ellum.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "X",
+        "title": "Inducement Resolution for The Legacy on Kiest",
+        "description": "Consider and adopt an inducement resolution declaring intent to issue bonds for a loan to LDG The Legacy on Kiest.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "XI",
+        "title": "Inducement Resolution for Palladium Buckner Station",
+        "description": "Consider and adopt an inducement resolution declaring intent to issue bonds for a loan to Palladium Buckner Station.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "XII",
+        "title": "Review and discussion of DHFC Treasurer’s report",
+        "description": "Review and discussion of the Treasurer’s report for the seven-month period ending on July 31, 2024.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "XIII",
+        "title": "Review and discussion of the Corporation’s pipeline report",
+        "description": "Review and discussion of the Corporation’s pipeline report as of September 3, 2024.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas Housing Finance Corporation",
+      "Regular Meeting",
+      "Aaron Eaquinto",
+      "Marcy Helfand",
+      "Tenison Lofts",
+      "Jefferson Innova",
+      "Oak & Ellum",
+      "Inducement Resolution",
+      "Palladium Buckner Station",
+      "Treasurer’s report",
+      "pipeline report",
+      "multifamily residential development",
+      "financing",
+      "acquisition",
+      "construction"
+    ],
+    "financial_items": [
+      {
+        "description": "Inducement Resolution declaring intent to issue bonds for The Legacy on Kiest",
+        "amount": "$30,000,000",
+        "type": "bond issuance"
+      },
+      {
+        "description": "Inducement Resolution declaring intent to issue bonds for Palladium Buckner Station",
+        "amount": "$50,000,000",
+        "type": "bond issuance"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 16499
+}

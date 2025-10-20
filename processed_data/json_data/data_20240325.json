@@ -1,0 +1,71 @@
+{
+  "agenda_identifier": "agenda_20240325_youth",
+  "agenda_number": 20240325,
+  "source_file": "agenda_20240325_youth.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 25th, 2024",
+      "time": "6:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Youth Commission",
+      "location": "Dallas City Hall, 6ES and Videoconference"
+    },
+    "attendees": {
+      "chair": "Commissioner Mercado-Cruz",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Commissioner Mercado-Cruz",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Approval of Minutes",
+        "description": "(February 2024)",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "III",
+        "title": "National Civic League Presentation and Discussion",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IV",
+        "title": "Announcements",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Youth Commission",
+      "Regular Meeting",
+      "Call to Order",
+      "Approval of Minutes",
+      "National Civic League",
+      "Discussion",
+      "Announcements",
+      "Adjournment",
+      "Dallas City Hall",
+      "Videoconference"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 6338
+}

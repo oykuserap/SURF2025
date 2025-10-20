@@ -1,0 +1,111 @@
+{
+  "agenda_identifier": "agenda_20240801_council",
+  "agenda_number": 20240801,
+  "source_file": "agenda_20240801_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 1, 2024",
+      "time": "12:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Dallas Area Partnership to End and Prevent Homelessness Local Government Corporation",
+      "location": "Dallas City Hall, 6ES, Council Briefing Room, 1500 Marilla St., Dallas TX 75201 or join by WebEx"
+    },
+    "attendees": {
+      "chair": "Cara Mendelsohn",
+      "presenters": [
+        "Ellen Magnis",
+        "Karen R. Hughes",
+        "Dr. Theresa Daniel"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call Meeting to Order and Roll Call",
+        "description": "Declare A Quorum Present, Declare Legal Notice Posted and Meeting Duly Called",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "2",
+        "title": "Public Comment",
+        "description": "Public comment with a 2-minute limit per speaker",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from April 4, 2024",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Panel Discussion: Family Homelessness",
+        "description": "Discussion on family homelessness with presentations",
+        "presenter": "Ellen Magnis, Karen R. Hughes",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "5",
+        "title": "Discussion: DAPEPH By-Laws",
+        "description": "Discussion on the by-laws of the organization",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "6",
+        "title": "Discussion: Annual Report",
+        "description": "Discussion on the annual report",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "7",
+        "title": "Committee Report: System Performance",
+        "description": "Report on system performance",
+        "presenter": "Dr. Theresa Daniel",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "8",
+        "title": "Proposed Items for Next/Future Meetings",
+        "description": "Discussion on proposed items for future meetings (no discussion, debate, and/or vote)",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "9",
+        "title": "Announcements of Upcoming Events and Meetings",
+        "description": "Announcements regarding upcoming events and meetings",
+        "presenter": "Citizen Homelessness Commission",
+        "action_required": "inform"
+      },
+      {
+        "item_number": "10",
+        "title": "Adjournment",
+        "description": "Closing of the meeting",
+        "presenter": null,
+        "action_required": "adjourn"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Homelessness",
+      "Partnership",
+      "Meeting",
+      "Public Comment",
+      "By-Laws",
+      "Annual Report",
+      "System Performance",
+      "Future Meetings",
+      "Events",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8125
+}

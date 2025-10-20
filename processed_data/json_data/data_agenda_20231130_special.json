@@ -1,0 +1,83 @@
+{
+  "agenda_identifier": "agenda_20231130_special",
+  "agenda_number": 20231130,
+  "source_file": "agenda_20231130_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 30, 2023",
+      "time": "2:00 p.m.",
+      "type": "Special Called Meeting",
+      "organization": "Grand Park South TIF District Board of Directors",
+      "location": "6DN Conference Room/Videoconference, Dallas City Hall - 1500 Marilla Street, Dallas TX 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to order and introduction of meeting participants",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Public comments pertaining to agenda items #3, #4, and #5",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Review and consideration of the Meeting Record from the May 15, 2023 meeting",
+        "description": "Review and consider the meeting record from the previous meeting.",
+        "presenter": null,
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "4",
+        "title": "Review and consideration of the Grand Park South TIF District Annual Report for FY 2022-2023",
+        "description": "Review and consider the annual report for the fiscal year.",
+        "presenter": null,
+        "action_required": "Approval and Recommendation of approval to City Council"
+      },
+      {
+        "item_number": "5",
+        "title": "Review and consideration of a regular meeting schedule for the Grand Park South TIF District Board of Directors during calendar year 2024",
+        "description": "Review and consider the meeting schedule for the upcoming year.",
+        "presenter": null,
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "6",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Grand Park South TIF District",
+      "Board of Directors",
+      "meeting record",
+      "annual report",
+      "FY 2022-2023",
+      "regular meeting schedule",
+      "public comments",
+      "approval",
+      "videoconference",
+      "Dallas City Hall",
+      "pandemic-related protocols",
+      "accessibility",
+      "executive session",
+      "financial information",
+      "security personnel"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 7782
+}

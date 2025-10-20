@@ -1,0 +1,90 @@
+{
+  "agenda_identifier": "agenda_20250113_youth",
+  "agenda_number": 20250113,
+  "source_file": "agenda_20250113_youth.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 13th, 2025",
+      "time": "6:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Youth Commission",
+      "location": "Dallas City Hall, Council Chambers and Videoconference"
+    },
+    "attendees": {
+      "chair": "Commissioner Tamfu",
+      "presenters": [
+        "Commissioner Tamfu",
+        "Commissioner Martinez",
+        "Commissioner Moreno",
+        "Commissioner Nelson",
+        "Commissioner Okon",
+        "Jacob Rayner"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the Vice Chair.",
+        "presenter": "Commissioner Tamfu",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Approval of Minutes",
+        "description": "Review and approval of the minutes from December 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "III",
+        "title": "Staff Reports/Briefings/Special Committees",
+        "description": "Updates on various events and activities.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Voting Items",
+        "description": "Items requiring a vote including the Annual Report and Chair Recommendation.",
+        "presenter": "Commissioner Tamfu",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Unfinished Business/General Orders",
+        "description": "Discussion of ongoing tasks and deadlines.",
+        "presenter": "Commissioner Okon",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Announcements",
+        "description": "General announcements.",
+        "presenter": "Jacob Rayner",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Youth Commission",
+      "Regular Meeting",
+      "Minutes Approval",
+      "Staff Reports",
+      "Voting Items",
+      "Annual Report",
+      "Chair Recommendation",
+      "Unfinished Business",
+      "General Orders",
+      "Announcements",
+      "Commissioner Tamfu",
+      "Commissioner Martinez",
+      "Commissioner Moreno",
+      "Commissioner Nelson",
+      "Commissioner Okon"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8475
+}

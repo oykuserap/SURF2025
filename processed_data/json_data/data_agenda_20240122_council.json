@@ -1,0 +1,35 @@
+{
+  "agenda_identifier": "agenda_20240122_council",
+  "agenda_number": 20240122,
+  "source_file": "agenda_20240122_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 22, 2024",
+      "time": "6:30 PM",
+      "type": "Regular Meeting",
+      "organization": "Martin Luther King Jr. Community Center Board",
+      "location": "City Council Chambers, 6th Floor, 1500 Marilla Street, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "executive session",
+      "litigation",
+      "real property",
+      "contract",
+      "employment",
+      "security",
+      "financial information",
+      "economic development",
+      "business prospect",
+      "incentive"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 3601
+}

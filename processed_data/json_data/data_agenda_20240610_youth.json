@@ -1,0 +1,73 @@
+{
+  "agenda_identifier": "agenda_20240610_youth",
+  "agenda_number": 20240610,
+  "source_file": "agenda_20240610_youth.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 10th, 2024",
+      "time": "5:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Youth Commission",
+      "location": "Dallas City Hall, Council Chambers and Videoconference"
+    },
+    "attendees": {
+      "chair": "Commissioner Mercado-Cruz",
+      "presenters": [
+        "Sunrise Youth"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Commissioner Mercado-Cruz",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Approval of Minutes",
+        "description": "(May 2024)",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "III",
+        "title": "Presentation",
+        "description": "Sunrise Youth",
+        "presenter": "Sunrise Youth",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IV",
+        "title": "Announcements",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Youth Commission",
+      "Regular Meeting",
+      "Call to Order",
+      "Approval of Minutes",
+      "Presentation",
+      "Sunrise Youth",
+      "Announcements",
+      "Adjournment",
+      "Dallas City Hall",
+      "Videoconference"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 6392
+}

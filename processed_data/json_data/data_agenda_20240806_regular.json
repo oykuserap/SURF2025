@@ -1,0 +1,71 @@
+{
+  "agenda_identifier": "agenda_20240806_regular",
+  "agenda_number": 20240806,
+  "source_file": "agenda_20240806_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 6, 2024",
+      "time": "9:30 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Civil Service Board",
+      "location": "Dallas City Hall, Room #1 C- South and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approve minutes from the June 4, 2024, Regular Civil Service Board Meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.a",
+        "title": "Civil Services Rules Revision Update",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IV.b",
+        "title": "Department Updates and Announcements",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Action Item(s)",
+        "description": "Take any necessary or appropriate action as result of Executive Session.",
+        "presenter": null,
+        "action_required": "take action"
+      },
+      {
+        "item_number": "EXECUTIVE SESSION",
+        "title": "Performance Evaluation",
+        "description": "Conduct the FY 23 annual performance evaluation of the Secretary to the Civil Service Board.",
+        "presenter": null,
+        "action_required": "conduct"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Civil Service Board",
+      "Regular Meeting",
+      "Approval of Minutes",
+      "Civil Services Rules",
+      "Department Updates",
+      "Executive Session",
+      "Performance Evaluation",
+      "Public Speakers",
+      "Action Items"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8859
+}

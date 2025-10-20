@@ -1,0 +1,157 @@
+{
+  "agenda_identifier": "agenda_20240626_council",
+  "agenda_number": 20240626,
+  "source_file": "agenda_20240626_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 26, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the June 12, 2024 City Council Meeting",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Authorize the ratification of a service contract for emergency repairs and modernization of the four elevators within the Hall Arts Garage",
+        "description": "K & M Elevator, LLC, lowest responsible bidder of three - Not to exceed $755,980.00 - Financing: Capital Construction Fund",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Authorize settlement of the lawsuit styled Juanita Rodriguez v. The City of Dallas",
+        "description": "Cause No. CC-23-00619-A - Not to exceed $35,000.00 - Financing: Liability Reserve Fund",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Authorize settlement of the lawsuit styled Jose Posada v. City of Dallas, Texas",
+        "description": "Cause No. CC-22-01655-A - Not to exceed $130,000.00 - Financing: Liability Reserve Fund",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Authorize the acceptance of a grant from the Texas Veterans Commission Fund for Veterans' Assistance",
+        "description": "In the amount of $50,000.00 for continuation of the South Oak Cliff Community Court - Not to exceed $50,000.00 - Financing: 2024-2025 TVC-Veteran Treatment Court Grant Fund",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "A resolution authorizing the selection of an underwriting syndicate for the issuance of bonds related to the Kay Bailey Hutchison Convention Center Dallas Venue Project",
+        "description": "Financing: No cost consideration to the City",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "A resolution authorizing the execution of the First Amendment to Revolving Credit Agreement with State Street Bank and Trust Company",
+        "description": "Not to exceed $278,000 - Financing: Dallas Water Utilities Fund (subject to annual appropriations)",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "An ordinance authorizing the issuance and sale of City of Dallas, Texas Drainage Utility System Revenue Bonds, Series 2024A",
+        "description": "In the amount of $14,175,000 to the Texas Water Development Board - Not to exceed $71,000 - Financing: Dallas Water Utilities Stormwater Drainage Management Fund",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "An ordinance authorizing the issuance and sale of City of Dallas, Texas Drainage Utility System Revenue Bonds, Series 2024B",
+        "description": "In the amount of $90,090,000 to the Texas Water Development Board - Not to exceed $250,000 - Financing: Dallas Water Utilities Stormwater Drainage Management Fund",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Authorize the acceptance of a loan from the Texas Water Development Board for low-cost financial assistance",
+        "description": "In an amount up to $14,175,000; acceptance of a grant from the Texas Water Development Board in an amount up to $2,500,712 - Financing: This action has no cost consideration to the City",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "City Council",
+      "Dallas",
+      "meeting",
+      "agenda",
+      "approval",
+      "settlement",
+      "grant",
+      "bonds",
+      "financial assistance",
+      "public hearing",
+      "zoning",
+      "construction",
+      "contracts",
+      "funding",
+      "expenditures"
+    ],
+    "financial_items": [
+      {
+        "description": "Service contract for emergency repairs and modernization of elevators",
+        "amount": "$755,980.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Settlement of lawsuit Juanita Rodriguez v. The City of Dallas",
+        "amount": "$35,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Settlement of lawsuit Jose Posada v. City of Dallas",
+        "amount": "$130,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Grant from Texas Veterans Commission Fund for Veterans' Assistance",
+        "amount": "$50,000.00",
+        "type": "funding"
+      },
+      {
+        "description": "First Amendment to Revolving Credit Agreement",
+        "amount": "$278,000",
+        "type": "expenditure"
+      },
+      {
+        "description": "Issuance and sale of Drainage Utility System Revenue Bonds, Series 2024A",
+        "amount": "$14,175,000",
+        "type": "funding"
+      },
+      {
+        "description": "Issuance and sale of Drainage Utility System Revenue Bonds, Series 2024B",
+        "amount": "$90,090,000",
+        "type": "funding"
+      },
+      {
+        "description": "Loan from Texas Water Development Board",
+        "amount": "$14,175,000",
+        "type": "funding"
+      },
+      {
+        "description": "Grant from Texas Water Development Board",
+        "amount": "$2,500,712",
+        "type": "funding"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 135154
+}

@@ -1,0 +1,112 @@
+{
+  "agenda_identifier": "agenda_81030103_regular",
+  "agenda_number": 81030103,
+  "source_file": "agenda_81030103_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 29, 2024",
+      "time": "6:00 – 7:30 PM",
+      "type": "Regular Meeting",
+      "organization": "South Dallas Fair Park Opportunity Fund Board",
+      "location": "Dallas City Hall, Room # 6ES Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Leander Johnson",
+      "presenters": [
+        "Stephen McFayden",
+        "Mario King"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Leander Johnson",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Approval of Minutes",
+        "description": "March 25, 2024, SDFPOF Advisory Board Meeting",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "III",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "How Sub-Committees Can Function in SDFPOF Advisory Board",
+        "description": "",
+        "presenter": "Stephen McFayden",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Staff Update – Small Business Center Loans Outreach Efforts",
+        "description": "",
+        "presenter": "Mario King",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Staff Update - Marketing Collateral for SDFPOF Economic Development Loans/Grants",
+        "description": "",
+        "presenter": "Mario King",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Discuss Date for SDFPOF Advisory Board Retreat",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Discuss Date for SDFPOF Advisory Board Tour",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IX",
+        "title": "Discuss standardizing the SDFPOF NOFA Release Dates",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "X",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "South Dallas Fair Park",
+      "Opportunity Fund",
+      "Regular Meeting",
+      "Dallas City Hall",
+      "Advisory Board",
+      "Public Speakers",
+      "Small Business Center",
+      "Economic Development",
+      "Loans",
+      "Grants",
+      "Retreat",
+      "Tour",
+      "NOFA Release Dates"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8726
+}

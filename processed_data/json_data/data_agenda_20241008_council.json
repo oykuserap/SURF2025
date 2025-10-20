@@ -1,0 +1,142 @@
+{
+  "agenda_identifier": "agenda_20241008_council",
+  "agenda_number": 20241008,
+  "source_file": "agenda_20241008_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 8, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Dallas City Council",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the September 25, 2024 City Council Meeting",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Authorize payment of annual membership fees",
+        "description": "Authorize payment of annual membership fees and continuation of arrangements for various organizations.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Authorize settlement of lawsuit",
+        "description": "Authorize settlement of the lawsuit styled Jacolby Douglas v. City of Dallas.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Authorize settlement of lawsuit",
+        "description": "Authorize settlement of the lawsuit styled Kerry Holmes and Zandra Holmes v. City of Dallas.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Authorize preparation of plans for bond issuances",
+        "description": "Authorize the preparation of plans and payment of potential future costs for bond issuances.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Authorize publication of Notice of Intention to Issue Certificates of Obligation",
+        "description": "Authorize the publication of Notice of Intention to Issue Certificates of Obligation.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Authorize preparation of plans for Waterworks and Sewer System Revenue Refunding Bonds",
+        "description": "Authorize the preparation of plans for issuance of Waterworks and Sewer System Revenue Refunding Bonds.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Authorize acceptance of grant for Auto Theft Taskforce",
+        "description": "Authorize acceptance of a grant from the Motor Vehicle Crime Prevention Authority for the FY 2025 Dallas Auto Theft Taskforce Grant.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "Authorize acceptance of grant for Victims of Crime Act",
+        "description": "Authorize acceptance of a grant from the U.S. Department of Justice for the FY 2025 Victims of Crime Act Victim Services DPD Grant.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Authorize acceptance of grant for Catalytic Converter Grant",
+        "description": "Authorize acceptance of a grant from the Motor Vehicle Crime Prevention Authority for the FY25 SB224 Catalytic Converter Grant.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "meeting",
+      "agenda",
+      "grants",
+      "lawsuit settlements",
+      "bond issuances",
+      "membership fees",
+      "public hearings",
+      "zoning",
+      "traffic improvements",
+      "budget",
+      "funding",
+      "community services",
+      "public safety",
+      "urban development"
+    ],
+    "financial_items": [
+      {
+        "description": "Payment of annual membership fees for various organizations",
+        "amount": "110000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Settlement of lawsuit Jacolby Douglas v. City of Dallas",
+        "amount": "79000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Settlement of lawsuit Kerry Holmes and Zandra Holmes v. City of Dallas",
+        "amount": "117500.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Grant from Motor Vehicle Crime Prevention Authority for Auto Theft Taskforce",
+        "amount": "1582029.00",
+        "type": "grant"
+      },
+      {
+        "description": "Grant from U.S. Department of Justice for Victims of Crime Act",
+        "amount": "95415.17",
+        "type": "grant"
+      },
+      {
+        "description": "Grant from Motor Vehicle Crime Prevention Authority for Catalytic Converter Grant",
+        "amount": "1295074.00",
+        "type": "grant"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 78923
+}

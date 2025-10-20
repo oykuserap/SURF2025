@@ -1,0 +1,102 @@
+{
+  "agenda_identifier": "agenda_20250303_hearing",
+  "agenda_number": 20250303,
+  "source_file": "agenda_20250303_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 3, 2025",
+      "time": "9:30 A.M. and 1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Landmark Commission",
+      "location": "Dallas City Hall, 6ES Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Evelyn Montgomery",
+      "presenters": [
+        "Historic Preservation Staff",
+        "Commissioner David Preziosi",
+        "Christina Paress",
+        "Marcus Watson",
+        "Rhonda Dunn"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Evelyn Montgomery",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "February 3, 2025, regular meeting minutes",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Staff Reports/Briefings",
+        "description": "Historic Preservation Staff",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Briefing Items",
+        "description": "Designation Committee Activity Update",
+        "presenter": "Commissioner David Preziosi",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Public Hearing",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Landmark Commission",
+      "Historic Preservation",
+      "Certificate of Eligibility",
+      "Certificate of Appropriateness",
+      "Public Hearing",
+      "Dallas City Hall",
+      "Designations",
+      "Historic District",
+      "Expenditures",
+      "Accommodations",
+      "Public Speakers",
+      "Minutes Approval",
+      "Staff Reports",
+      "Briefing Items",
+      "Adjournment"
+    ],
+    "financial_items": [
+      {
+        "description": "Approval of an estimated $131,400 in expenditures to be spent on rehabilitation prior to the issuance of the Certificate of Eligibility.",
+        "amount": "$131,400",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 117090
+}

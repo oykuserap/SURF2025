@@ -1,0 +1,167 @@
+{
+  "agenda_identifier": "agenda_20240513_committee",
+  "agenda_number": 20240513,
+  "source_file": "agenda_20240513_committee.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 13, 2024",
+      "time": "1:00 PM",
+      "type": "Public Safety Committee Meeting",
+      "organization": "City Council Public Safety Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Israel Herrera",
+        "Delridge Williams",
+        "Jason Scoggins",
+        "Kevin Oden",
+        "Stephen Williams",
+        "David Pughes",
+        "Scott Whitworth",
+        "Kristen Kubat",
+        "Eddie Garcia",
+        "Martin Riojas",
+        "Gregory Nelson",
+        "Osiris Marquez",
+        "Travis Houston",
+        "Jon Fortune",
+        "Dominique Artis",
+        "Robert Borse"
+      ],
+      "participants": [
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Willis",
+        "Schultz",
+        "Blackmon"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of April 9, 2024 Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Public Safety Recruiting and Retention Update",
+        "description": "Update on the recruiting and retention efforts for public safety personnel.",
+        "presenter": "Israel Herrera, Delridge Williams",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Violent Crime Reduction Plan Update",
+        "description": "Update on the strategies and progress of the violent crime reduction plan.",
+        "presenter": "Jason Scoggins, Kevin Oden",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Investigative Facial Recognition Technology Overview",
+        "description": "Overview of the facial recognition technology used in investigations.",
+        "presenter": "Stephen Williams",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Sobering Center Update",
+        "description": "Update on the operations and status of the Sobering Center.",
+        "presenter": "David Pughes, Scott Whitworth, Kristen Kubat",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "FY25 Budget Overviews",
+        "description": "Overview of the budget for FY25 related to public safety.",
+        "presenter": "Eddie Garcia, Martin Riojas, Gregory Nelson, Osiris Marquez, Travis Houston, Kevin Oden",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Public Safety Dashboards",
+        "description": "Presentation of public safety dashboards.",
+        "presenter": "Jon Fortune",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Follow Up Municipal Court Review of Non-Adjudicated Cases Update",
+        "description": "Update on the review of non-adjudicated cases in municipal court.",
+        "presenter": "Gregory Nelson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Dallas Fire-Rescue Facility Construction Update",
+        "description": "Update on the construction of Dallas Fire-Rescue facilities.",
+        "presenter": "Dominique Artis",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Dallas Fire-Rescue Fleet Maintenance Update",
+        "description": "Update on the maintenance of the Dallas Fire-Rescue fleet.",
+        "presenter": "Dominique Artis",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "First Responder Street Topper Update",
+        "description": "Update on the First Responder Street Topper initiative.",
+        "presenter": "Stephen Williams, Robert Borse",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "K",
+        "title": "Violence Intervention Program Update",
+        "description": "Update on the Violence Intervention Program.",
+        "presenter": "Kevin Oden",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Public Safety",
+      "Dallas Police Department",
+      "Dallas Fire-Rescue",
+      "Budget",
+      "Violent Crime",
+      "Recruiting",
+      "Retention",
+      "Facial Recognition",
+      "Sobering Center",
+      "Dashboards",
+      "Municipal Court",
+      "Fleet Maintenance",
+      "Violence Intervention",
+      "First Responder",
+      "Construction"
+    ],
+    "financial_items": [
+      {
+        "description": "Amendment to the contract with Dallas College for instructional services for police academy training",
+        "amount": "$415,000.00",
+        "type": "budget"
+      },
+      {
+        "description": "Service contract for maintenance, support, and licenses for an audio and video recording system for the Dallas Police Department",
+        "amount": "$148,584.60",
+        "type": "contract"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 23635
+}

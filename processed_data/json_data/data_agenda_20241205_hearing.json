@@ -1,0 +1,128 @@
+{
+  "agenda_identifier": "agenda_20241205_hearing",
+  "agenda_number": 20241205,
+  "source_file": "agenda_20241205_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 5, 2024",
+      "time": "8:00 AM - 12:30 PM",
+      "type": "Regular Meeting",
+      "organization": "City Plan Commission",
+      "location": "Room 6ES, 6th Floor, Dallas City Hall and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Seth Hawes, Airport Noise Monitoring Specialist, Department of Aviation",
+        "Lindsay Jackson, Senior Planner, Planning and Development Department",
+        "Patrick Blaydes, Chief Planner, Planning and Development Department"
+      ],
+      "participants": [
+        "Andrew Ruegg, Masterplan",
+        "Tasfia Zahin",
+        "Michael Pepe",
+        "LeQuan Clinton",
+        "Martin Bate",
+        "Rob Baldwin, Baldwin Associates",
+        "Sheila Zamanian",
+        "Giahanna Bridges",
+        "Jennifer Muñoz",
+        "Andreea Udrea",
+        "James Scott, Studio Mas Architects",
+        "Sharmila Shrestha"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes of the November 21, 2024 City Plan Commission Hearing.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Airport Land Use Compatibility",
+        "description": "Briefing on airport land use compatibility.",
+        "presenter": "Seth Hawes",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Overview and briefing on the South Dallas Fair Park Area Plan",
+        "description": "Discussion on the South Dallas Fair Park Area Plan.",
+        "presenter": "Lindsay Jackson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "4-13",
+        "title": "Zoning Cases - Consent",
+        "description": "Various zoning cases requiring approval.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "14-17",
+        "title": "Zoning Cases - Under Advisement",
+        "description": "Zoning cases that are currently under advisement.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "18-23",
+        "title": "Zoning Cases - Individual",
+        "description": "Individual zoning cases requiring discussion.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "24",
+        "title": "Authorized Hearings - Zoning Case",
+        "description": "Hearing for a historic overlay for the Bianchi House.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "25",
+        "title": "Development Code Amendments",
+        "description": "Consideration of amending Chapters 51 and 51A of the Dallas City Code.",
+        "presenter": "Michael T. Wade",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "26-42",
+        "title": "Subdivision Docket",
+        "description": "Various subdivision applications requiring approval.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "Other Matters",
+        "title": "Consideration of Appointments to CPC Committees",
+        "description": "Discussion on appointments to committees.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "City Plan Commission",
+      "Zoning",
+      "Subdivision",
+      "Public Hearing",
+      "Development Code",
+      "Airport Land Use",
+      "South Dallas Fair Park",
+      "Community Service",
+      "Historic Overlay",
+      "Public Testimony",
+      "Minutes Approval",
+      "Amendments",
+      "Consent Items",
+      "Individual Cases",
+      "Under Advisement"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 64450
+}

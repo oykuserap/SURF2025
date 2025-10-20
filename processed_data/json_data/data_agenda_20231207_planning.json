@@ -1,0 +1,116 @@
+{
+  "agenda_identifier": "agenda_20231207_planning",
+  "agenda_number": 20231207,
+  "source_file": "agenda_20231207_planning.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 7, 2023",
+      "time": "6:00 PM",
+      "type": "Monthly Meeting",
+      "organization": "Dallas Community Development Commission (CDC)",
+      "location": "City Hall, Conference Room 6ES / Video Conference"
+    },
+    "attendees": {
+      "chair": "Melanie Rubin",
+      "presenters": [
+        "Chan Williams",
+        "Christine Crossley",
+        "Wanda Moreland"
+      ],
+      "participants": [
+        "Colbey Walker",
+        "Community Development Coordinator"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the Chair.",
+        "presenter": "Melanie Rubin",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Roll Call",
+        "description": "Attendance check by the Community Development Coordinator.",
+        "presenter": "Community Development Coordinator",
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Approval of Monthly Minutes",
+        "description": "Approval of the minutes from the previous meeting on November 2, 2023.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Community Development Division Report",
+        "description": "Report including updates regarding proposed committee meetings, agenda items, and the Consolidated Plan.",
+        "presenter": "Budget & Management Services (BMS)",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V.1",
+        "title": "Overview of Community Development (CDBG) Grant",
+        "description": "Timely Fund Expenditures and the FY2023-24 DBG Extensions & Reprogramming Process.",
+        "presenter": "Chan Williams",
+        "action_required": null
+      },
+      {
+        "item_number": "V.2",
+        "title": "Staff Update on Proposed Substantial Amendment No.1",
+        "description": "Update on the FY 2023-24 Annual Action Plan (HOME ARPA Grant Reallocation).",
+        "presenter": "Christine Crossley & Wanda Moreland",
+        "action_required": "discuss and approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Chair’s Report",
+        "description": "General greetings and acknowledgements by the Chair.",
+        "presenter": "Melanie Rubin",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Vice Chair’s Report",
+        "description": "General acknowledgements by the Vice Chair.",
+        "presenter": "Colbey Walker",
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Announcement",
+        "description": "Expressions of thanks, information about upcoming events.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Adjournment",
+        "description": "Closing of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Community Development",
+      "CDC",
+      "Monthly Meeting",
+      "Budget Management Services",
+      "CDBG Grant",
+      "Annual Action Plan",
+      "Substantial Amendment",
+      "Public Speakers",
+      "Chair's Report",
+      "Vice Chair's Report",
+      "Announcements",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12804
+}

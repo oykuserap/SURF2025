@@ -1,0 +1,57 @@
+{
+  "agenda_identifier": "agenda_20240119_special",
+  "agenda_number": 20240119,
+  "source_file": "agenda_20240119_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 19, 2024",
+      "time": "2:00 PM",
+      "type": "Special Called Meeting",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; also available via videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Dallas Police and Fire Pension System and Employees’ Retirement Fund of the City of Dallas"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "Dallas Police and Fire Pension System and Employees’ Retirement Fund of the City of Dallas: Funding Soundness Update and Discussion",
+        "description": "Funding soundness update and discussion regarding the Dallas Police and Fire Pension System and Employees’ Retirement Fund.",
+        "presenter": "Dallas Police and Fire Pension System and Employees’ Retirement Fund of the City of Dallas",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "2024 Bond Program Update",
+        "description": "Update on the 2024 Bond Program.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "Special Called Meeting",
+      "Funding Soundness",
+      "Pension System",
+      "Retirement Fund",
+      "Bond Program",
+      "Videoconference",
+      "Public Participation",
+      "City Hall",
+      "Closed Session",
+      "Attorney Briefings",
+      "Executive Session",
+      "Financial Information",
+      "Economic Development",
+      "Security Personnel"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 19755
+}

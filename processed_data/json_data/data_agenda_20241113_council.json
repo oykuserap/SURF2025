@@ -1,0 +1,109 @@
+{
+  "agenda_identifier": "agenda_20241113_council",
+  "agenda_number": 20241113,
+  "source_file": "agenda_20241113_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 13, 2024",
+      "time": "5:30 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Environmental Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference (Webex)"
+    },
+    "attendees": {
+      "chair": "Kathryn Bazan",
+      "presenters": [
+        "Carlos Evans",
+        "Oppong Hemeng",
+        "Rosaerlinda Cisneros",
+        "Michael Wade"
+      ],
+      "participants": [
+        "Esther Villarreal",
+        "Katherine Homan",
+        "Andrew Siegel",
+        "Mark Wootton",
+        "Colleen Murray",
+        "Michael Cook",
+        "Barry Lachman",
+        "Rebecca Posten",
+        "Tracy Wallace",
+        "Paula Day",
+        "Temeckia Derrough",
+        "Julie Hiromoto",
+        "Renee Roberson"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from the meetings held on September 11, 2024, and October 9, 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.a",
+        "title": "Comprehensive Environmental & Climate Action Plan (CECAP) Annual Report",
+        "description": "Presentation of the annual report on the Comprehensive Environmental & Climate Action Plan.",
+        "presenter": "Carlos Evans, Director; Oppong Hemeng, Senior Climate Coordinator; Rosaerlinda Cisneros, Climate Coordinator",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V.b",
+        "title": "Off-Street Parking and Loading Code Amendment",
+        "description": "Discussion on the proposed amendments to the Off-Street Parking and Loading Code.",
+        "presenter": "Michael Wade, Chief Planner (I), Planning and Development Department",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI.a",
+        "title": "Approval of 2025 Meeting Calendar",
+        "description": "Discussion and approval of the meeting calendar for the year 2025.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI.b",
+        "title": "Monthly Subcommittee Updates",
+        "description": "Updates from various subcommittees including Environmental Health, Environmental Justice, Implementation, Outreach & Engagement, and Strategic Partnerships & Innovation.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI.c",
+        "title": "Monthly District Updates from Commissioners",
+        "description": "Updates from commissioners regarding their respective districts.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI.d",
+        "title": "Upcoming Meetings",
+        "description": "Information on upcoming meetings including the Parks, Trails, & the Environment Council Committee and the next Environmental Commission meeting.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Environmental Commission",
+      "Dallas",
+      "Climate Action",
+      "Public Speakers",
+      "Meeting Minutes",
+      "Subcommittee Updates",
+      "District Updates",
+      "Parks",
+      "Trails",
+      "Environmental Justice",
+      "Planning",
+      "Sustainability",
+      "Community Engagement",
+      "2025 Calendar",
+      "Public Participation"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10690
+}

@@ -1,0 +1,93 @@
+{
+  "agenda_identifier": "agenda_20240611_regular",
+  "agenda_number": 20240611,
+  "source_file": "agenda_20240611_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 11, 2024",
+      "time": "12:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Dallas Housing Finance Corporation",
+      "location": "Dallas City Hall, L1FN Auditorium and Videoconference"
+    },
+    "attendees": {
+      "chair": "Marcy Helfand",
+      "presenters": [
+        "Aaron Eaquinto",
+        "George Rodriguez",
+        "Ryan Bowen",
+        "Tim Nelson",
+        "Jaclyn Schroeder"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of the minutes for the May 14, 2024 Meeting",
+        "description": "Approval of the minutes for the previous meeting of the City of Dallas Housing Finance Corporation.",
+        "presenter": "Marcy Helfand",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Resolutions for West Virginia Apartments",
+        "description": "Consider and adopt a financing resolution authorizing the issuance, sale and delivery of the City of Dallas Housing Finance Corporation Multifamily Tax-Exempt Bonds Series 2024A and Multifamily Housing Revenue Bonds Series 2024B in the aggregate principal amount of up to $32,000,000.00.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Resolutions relating to renewal of the Corporation’s participation in the single-family home mortgage program",
+        "description": "Consider and adopt a resolution approving an assignment agreement with the Texas Department of Housing and Community Affairs authorizing TDHCA to issue bonds for financing home mortgage loans.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VII",
+        "title": "Review and discussion of DHFC Treasurer’s report",
+        "description": "Review and discussion of the Treasurer’s report for the four-month period ending on April 30, 2024.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Review and discussion of the Corporation’s pipeline report",
+        "description": "Review and discussion of the Corporation’s pipeline report as of June 7, 2024.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas Housing Finance Corporation",
+      "Regular Meeting",
+      "West Virginia Apartments",
+      "Multifamily Tax-Exempt Bonds",
+      "Single-family home mortgage program",
+      "Treasurer’s report",
+      "Pipeline report",
+      "Financing resolution",
+      "Bond Counsel",
+      "General Manager",
+      "Public Comments",
+      "Approval of minutes",
+      "Equitable meeting",
+      "Accommodations",
+      "Housing"
+    ],
+    "financial_items": [
+      {
+        "description": "Financing for West Virginia Apartments",
+        "amount": "$32,000,000.00",
+        "type": "bond financing"
+      },
+      {
+        "description": "Single-family private activity bond allocation",
+        "amount": "$64,819,515.00",
+        "type": "bond allocation"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12505
+}

@@ -1,0 +1,88 @@
+{
+  "agenda_identifier": "agenda_20231212_council",
+  "agenda_number": 20231212,
+  "source_file": "agenda_20231212_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 12, 2023",
+      "time": "12:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Dallas Housing Finance Corporation",
+      "location": "Dallas City Hall, Council Briefing Room 6ES and Videoconference"
+    },
+    "attendees": {
+      "chair": "Marcy Helfand",
+      "presenters": [
+        "Aaron Eaquinto",
+        "Ryan Bowen",
+        "Tim Nelson"
+      ],
+      "participants": [
+        "Jaclyn Schroeder"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of the minutes for the November 14, 2023 City of Dallas Housing Finance Corporation Meeting",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": "Marcy Helfand",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Resolutions for the Estates at Ferguson",
+        "description": "Consider and adopt partnership resolutions approving the form and substance of and authorizing the execution and delivery of documents and instruments necessary to carry out the financing and construction of Estates at Ferguson.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Consider and Adopt the Corporation’s 2024 Annual Budget",
+        "description": "Discussion and approval of the annual budget for the Corporation.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VII",
+        "title": "Review and discussion of Dallas HFC Treasurer’s report",
+        "description": "Review and discussion of the financial report from the Treasurer.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Review and discussion of the Corporation’s pipeline report",
+        "description": "Review and discussion of the current pipeline report.",
+        "presenter": "Aaron Eaquinto",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas Housing Finance Corporation",
+      "Estates at Ferguson",
+      "2024 Annual Budget",
+      "Treasurer’s report",
+      "pipeline report",
+      "financing",
+      "construction",
+      "partnership resolutions",
+      "multifamily residential development",
+      "public comments"
+    ],
+    "financial_items": [
+      {
+        "description": "Governmental Note Financing for Estates at Ferguson",
+        "amount": "$25,000,000.00",
+        "type": "Governmental Note Financing"
+      },
+      {
+        "description": "Loan financing from the City of Dallas",
+        "amount": "$8,236,511.64",
+        "type": "Loan Financing"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10977
+}

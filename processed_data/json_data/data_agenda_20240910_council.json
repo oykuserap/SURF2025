@@ -1,0 +1,118 @@
+{
+  "agenda_identifier": "agenda_20240910_council",
+  "agenda_number": 20240910,
+  "source_file": "agenda_20240910_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 10, 2024",
+      "time": "5:30 PM",
+      "type": "Regular Meeting",
+      "organization": "Community Police Oversight Board",
+      "location": "Dallas City Hall, 6EN Council Chambers"
+    },
+    "attendees": {
+      "chair": "John Mark Davidson",
+      "presenters": [
+        "Kimberly Bizor Tolbert",
+        "John Mark Davidson",
+        "Anthony Greer",
+        "Siara Obasuyi"
+      ],
+      "participants": [
+        "Michele Andre",
+        "Christopher Clark",
+        "Kevin A Williams",
+        "Eric Meister",
+        "Aswad Smith",
+        "Jonathan E Maples",
+        "Walter Higgins",
+        "Loren Gilbert-Smith",
+        "Brian Bah",
+        "Derric Pegram",
+        "Chauncey Lander",
+        "Arlene Steinfield",
+        "Deatra Wadsworth",
+        "David Kitner",
+        "Brandon Friedman"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call To Order & Roll Call",
+        "description": "Chairman John Mark Davidson calls the meeting to order and conducts roll call.",
+        "presenter": "John Mark Davidson",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Comment / Open Microphone",
+        "description": "Opportunity for the public to provide comments.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval Of August 13, 2024 Minutes",
+        "description": "Review and approval of the minutes from the previous meeting.",
+        "presenter": "Dr. Loren Gilbert-Smith",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Staff Reports / Briefings",
+        "description": "Updates on various topics including OCPO Director Search and City Council Charter Proposed Amendment.",
+        "presenter": "Various",
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Reports",
+        "description": "Monthly arrest data and activity report.",
+        "presenter": "Chairman John Mark Davidson",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Upcoming Meeting and Events",
+        "description": "Discussion of future meetings and events.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Public Comment/Open Microphone",
+        "description": "Final opportunity for public comments.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "Adjournment",
+        "description": "Formal closure of the meeting.",
+        "presenter": "Judge Lander",
+        "action_required": "adjourn"
+      }
+    ],
+    "keywords": [
+      "Community Police Oversight",
+      "Dallas City Hall",
+      "Public Comment",
+      "OCPO Director Search",
+      "City Council Charter",
+      "Critical Incidents",
+      "Monthly Arrest Data",
+      "Community Engagement",
+      "Police Oversight",
+      "Public Safety",
+      "Meeting Minutes",
+      "Board Reports",
+      "Public Participation",
+      "Policy Recommendations",
+      "Community Outreach"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 129706
+}

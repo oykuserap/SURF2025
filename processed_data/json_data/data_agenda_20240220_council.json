@@ -1,0 +1,157 @@
+{
+  "agenda_identifier": "agenda_20240220_council",
+  "agenda_number": 20240220,
+  "source_file": "agenda_20240220_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 20, 2024",
+      "time": "6:30 PM",
+      "type": "Regular Meeting",
+      "organization": "Charter Review Commission",
+      "location": "Council Chambers, 6th Floor, City Hall and via video conference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Jake Anderson, Office of Government Affairs",
+        "Lisa LeMaster, Charter Review Commissioner",
+        "David de la Fuente, Charter Review Commissioner"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the February 6, 2024, Charter Review Commission Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Staff Briefing: City Council Composition, Term Lengths, and Term Limits",
+        "description": "A briefing on the composition of the city council, including term lengths and limits.",
+        "presenter": "Jake Anderson, Office of Government Affairs",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Staff Briefing: Moving the Election Date",
+        "description": "Discussion on the potential changes to the election date.",
+        "presenter": "Jake Anderson, Office of Government Affairs",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Commissioner Briefing: Council Terms and Election Dates",
+        "description": "Briefing on council terms and election dates.",
+        "presenter": "Lisa LeMaster, Charter Review Commissioner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Commissioner Briefing: Moving the Election Date",
+        "description": "Further discussion on moving the election date.",
+        "presenter": "David de la Fuente, Charter Review Commissioner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Commissioner Briefing: Staggering City Council Terms",
+        "description": "Discussion on the staggering of city council terms.",
+        "presenter": "David de la Fuente, Charter Review Commissioner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Change the City’s form/organization of government",
+        "description": "Discussion on changing the city's form of government based on submitted proposals.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Expand the size of city council",
+        "description": "Discussion on expanding the city council through the addition of single-member or at-large districts.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Abolish or amend the appointment process of the mayor pro tem and deputy mayor pro tem",
+        "description": "Discussion on the appointment process for mayor pro tem and deputy mayor pro tem.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Amend the term-length for City Council positions",
+        "description": "Discussion on amending the term lengths for city council positions.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "Stagger council terms",
+        "description": "Discussion on whether to stagger council terms.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "K",
+        "title": "Align the terms for members of boards and commissions",
+        "description": "Discussion on aligning terms for boards and commissions with councilmember terms.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "L",
+        "title": "Align the terms for municipal judges",
+        "description": "Discussion on aligning terms for municipal judges with councilmember terms.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "M",
+        "title": "Move the election date",
+        "description": "Discussion on moving the election date from May of odd-numbered years.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "N",
+        "title": "Amend Chapter III §3A regarding the waiting period",
+        "description": "Discussion on the waiting period for serving on the city council after term limits.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "O",
+        "title": "Charter Review Commission Calendar",
+        "description": "Review of the Charter Review Commission calendar.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Charter Review",
+      "City Council",
+      "Term Lengths",
+      "Election Date",
+      "Staggering Terms",
+      "Mayor Pro Tem",
+      "Council Composition",
+      "Amendments",
+      "Public Participation",
+      "Government Structure",
+      "Commission Briefing",
+      "Voting",
+      "Legislation",
+      "City Governance",
+      "Dallas"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 14054
+}

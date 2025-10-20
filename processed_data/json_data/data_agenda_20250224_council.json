@@ -1,0 +1,68 @@
+{
+  "agenda_identifier": "agenda_20250224_council",
+  "agenda_number": 20250224,
+  "source_file": "agenda_20250224_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 24, 2025",
+      "time": "6 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Dallas College Advisory Commission",
+      "location": "Dallas City Hall, Council Chambers and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Sandra Bowie",
+        "Edward Grant"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "II",
+        "title": "Vote to Approve Meeting Minutes",
+        "description": "Vote to approve the October 28th, 2024 and January 27th, 2025 College Advisory Commission (CAC) Meeting Minutes.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "III",
+        "title": "Presentation on Workforce Pipeline",
+        "description": "Presentation by City of Dallas on workforce pipeline for hospitality, nighttime economy, and women’s safety.",
+        "presenter": "Sandra Bowie and Edward Grant",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IV",
+        "title": "Civic Analysis Project Discussion",
+        "description": "Discussion on the intent regarding progress on civic analysis projects and how commission staff may support their work.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Recruiting Discussion",
+        "description": "Update by commission staff regarding progress towards improving the recruitment of Commissioners.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "College Advisory Commission",
+      "meeting minutes",
+      "workforce pipeline",
+      "hospitality",
+      "nighttime economy",
+      "women's safety",
+      "civic analysis",
+      "recruitment",
+      "commission staff",
+      "presentation"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 14073
+}

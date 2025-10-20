@@ -1,0 +1,187 @@
+{
+  "agenda_identifier": "agenda_20241212_regular",
+  "agenda_number": 20241212,
+  "source_file": "agenda_20241212_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 12, 2024",
+      "time": "10:00 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Park & Recreation Board",
+      "location": "Dallas City Hall, 6FN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Arun Agarwal",
+      "presenters": [
+        "Rachael Berry",
+        "Christina Turner-Noteware"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Arun Agarwal",
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of minutes",
+        "description": "Approval of minutes from November 21, 2024",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.1",
+        "title": "Steven’s Park Golf Course",
+        "description": "Authorize a six-month service contract to complete a sand bunker renovation project at Stevens Park Golf Course for the Park and Recreation Department with Landscapes Unlimited, LLC.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.2",
+        "title": "Master Agreement",
+        "description": "Authorize a three-year master agreement for swimwear, pool equipment and accessories for the Park and Recreation Department.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.3",
+        "title": "Old East Dallas Work Yard Park",
+        "description": "Authorize an eight-month service contract to design and install a splash pad at Old East Dallas Work Yard Park.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.4",
+        "title": "Dallas Zoo",
+        "description": "Approve a Supplemental Agreement to authorize Dallas Zoological Society and Dallas Zoo Management, Inc. to remove the current $25 admissions cap imposed by the City of Dallas.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.5",
+        "title": "Park Board Resolution",
+        "description": "Authorize a resolution directing Park & Recreation Department Staff to oppose the granting or renewal of any further specific use permits in the area near park properties.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.6",
+        "title": "Fair Park",
+        "description": "Authorize the acceptance of a grant from the Department of the Interior’s National Park Service for the development of the Tower Building Mural Restorations Project.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.7",
+        "title": "Campbell Green Recreation Center",
+        "description": "Authorize a professional services contract with SmithGroup, Inc. for architectural and engineering services for the Campbell Green Recreation Center Renovation and Expansion Project.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.8",
+        "title": "Cotton Belt Trail",
+        "description": "Authorize an application for the North Central Texas Council of Governments 2025 Transportation Alternative Program Call for Projects.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI.9",
+        "title": "State Fair of Texas Annual Report",
+        "description": "",
+        "presenter": "Rachael Berry",
+        "action_required": null
+      },
+      {
+        "item_number": "VI.10",
+        "title": "Update on Enhancements & Improvements at White Rock Lake",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VI.11",
+        "title": "White Rock Lake Master Plan Update",
+        "description": "",
+        "presenter": "Christina Turner-Noteware",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Director’s Performance Review",
+        "description": "Closed Session to discuss the evaluation and duties of the Director of the Park and Recreation Department.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "Other/Non-Action Items",
+        "description": "Staff Announcements – Upcoming Park & Recreation Department Events.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Next Park Board meeting",
+        "description": "Next meeting scheduled for January 9, 2025.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Park & Recreation Board",
+      "Regular Meeting",
+      "service contract",
+      "splash pad",
+      "grant",
+      "Dallas Zoo",
+      "performance review",
+      "Fair Park",
+      "Cotton Belt Trail",
+      "swimwear",
+      "public speakers",
+      "minutes approval",
+      "architectural services",
+      "park properties",
+      "community events"
+    ],
+    "financial_items": [
+      {
+        "description": "Service contract for sand bunker renovation project at Stevens Park Golf Course.",
+        "amount": "$499,538.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Master agreement for swimwear and pool equipment.",
+        "amount": "$779,007.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Service contract to design and install a splash pad at Old East Dallas Work Yard Park.",
+        "amount": "$659,476.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Grant for Tower Building Mural Restorations Project.",
+        "amount": "$750,000.00",
+        "type": "grant"
+      },
+      {
+        "description": "Professional services contract for Campbell Green Recreation Center Renovation.",
+        "amount": "$895,993.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Application for Transportation Alternative Program Call for Projects.",
+        "amount": "$5,700,000.00",
+        "type": "funding"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 16196
+}

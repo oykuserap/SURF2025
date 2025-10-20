@@ -1,0 +1,36 @@
+{
+  "agenda_identifier": "agenda_20240214_council_01",
+  "agenda_number": 20240214,
+  "source_file": "agenda_20240214_council_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 14, 2024",
+      "time": "5:30 PM",
+      "type": "Briefing",
+      "organization": "Environmental Commission",
+      "location": "Council Chambers, 6th Floor, City of Dallas, 1500 Marilla Street, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "Environmental Commission",
+      "Dallas",
+      "briefing",
+      "executive session",
+      "litigation",
+      "real property",
+      "contract",
+      "employment",
+      "security",
+      "economic development",
+      "financial information"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 4666
+}

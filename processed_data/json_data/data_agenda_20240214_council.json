@@ -1,0 +1,123 @@
+{
+  "agenda_identifier": "agenda_20240214_council",
+  "agenda_number": 20240214,
+  "source_file": "agenda_20240214_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 14, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the January 24, 2024 City Council Meeting",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Authorize an optional child-care facilities exemption",
+        "description": "Authorize an optional child-care facilities exemption of 50 percent for qualifying child-care facilities as defined in the Texas Tax Code beginning with the 2024 tax year.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "An ordinance authorizing the issuance and sale of General Obligation Refunding Bonds",
+        "description": "An ordinance authorizing the issuance and sale of City of Dallas, Texas, General Obligation Refunding Bonds, Series 2024A in an aggregate principal amount not to exceed $55,000,000.00.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "A resolution authorizing the appointment of members to the College Advisory Commission",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Authorize an amendment to the Other Transaction Agreement with the FAA",
+        "description": "Authorize an amendment to the Other Transaction Agreement with the Federal Aviation Administration in connection with the Rehabilitation of Taxiway A.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "An ordinance amending Chapter 7A, Anti-Litter Regulations",
+        "description": "An ordinance amending Chapter 7A, 'Anti-Litter Regulations,' of the Dallas City Code.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Authorize preliminary adoption of Substantial Amendment No. 3 to the FY 2023-24 Action Plan",
+        "description": "Authorize preliminary adoption of Substantial Amendment No. 3 to the FY 2023-24 Action Plan for the Community Development Block Grant Funds.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Authorize a Resolution of Support for Generation Housing Partners, LLC",
+        "description": "Authorize a Resolution of Support for Generation Housing Partners, LLC related to its application for 9% Housing Tax Credits.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "Authorize a Resolution of Support for O-SDA Industries, LLC",
+        "description": "Authorize a Resolution of Support for O-SDA Industries, LLC related to its application for 9% Housing Tax Credits.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Authorize an amendment to the Dallas Housing Resource Catalog",
+        "description": "Authorize an amendment to the Dallas Housing Resource Catalog regarding the Land Transfer Program.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "meeting",
+      "February 14, 2024",
+      "General Obligation Bonds",
+      "child-care facilities exemption",
+      "College Advisory Commission",
+      "FAA agreement",
+      "Anti-Litter Regulations",
+      "Community Development Block Grant",
+      "Housing Tax Credits",
+      "Land Transfer Program"
+    ],
+    "financial_items": [
+      {
+        "description": "Estimated Annual Revenue Foregone for child-care facilities exemption",
+        "amount": "$110,019",
+        "type": "expenditure"
+      },
+      {
+        "description": "Issuance of General Obligation Refunding Bonds",
+        "amount": "$55,000,000",
+        "type": "funding"
+      },
+      {
+        "description": "Amendment to FAA agreement for Taxiway A",
+        "amount": "$55,433.14",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 74052
+}

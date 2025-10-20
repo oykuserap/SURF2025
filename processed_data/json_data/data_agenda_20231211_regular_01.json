@@ -1,0 +1,80 @@
+{
+  "agenda_identifier": "agenda_20231211_regular_01",
+  "agenda_number": 20231211,
+  "source_file": "agenda_20231211_regular_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 11, 2023",
+      "time": "11:00 a.m.",
+      "type": "Regular Meeting",
+      "organization": "Farmers Market TIF District Board of Directors",
+      "location": "Dallas City Hall, 6DN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Dorcy Clark"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to order and introduction of meeting participants.",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Public comments pertaining to agenda items 3 through 5.",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Review and consideration of the Meeting Record of the December 12, 2022 Farmers Market TIF District Board Meeting.",
+        "description": null,
+        "presenter": "Dorcy Clark",
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "4",
+        "title": "Review and consideration of the Farmers Market TIF District Annual Report for FY 2022-2023.",
+        "description": null,
+        "presenter": "Dorcy Clark",
+        "action_required": "Approval and forward a recommendation of approval to City Council"
+      },
+      {
+        "item_number": "5",
+        "title": "Review and consideration of a regular meeting schedule for the Farmers Market TIF District Board of Directors for calendar year 2024.",
+        "description": null,
+        "presenter": null,
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "6",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Farmers Market",
+      "TIF District",
+      "Board of Directors",
+      "Meeting Record",
+      "Annual Report",
+      "FY 2022-2023",
+      "Regular Meeting Schedule",
+      "City Council",
+      "Public Comments",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10549
+}

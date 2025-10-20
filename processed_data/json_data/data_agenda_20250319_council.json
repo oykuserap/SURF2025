@@ -1,0 +1,24 @@
+{
+  "agenda_identifier": "agenda_20250319_council",
+  "agenda_number": 20250319,
+  "source_file": "agenda_20250319_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 19, 2025",
+      "time": "9:00 AM",
+      "type": "Briefing",
+      "organization": "City Council",
+      "location": "Council Chambers, City Hall"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 1498
+}

@@ -1,0 +1,149 @@
+{
+  "agenda_identifier": "agenda_20240610_committee",
+  "agenda_number": 20240610,
+  "source_file": "agenda_20240610_committee.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 10, 2024",
+      "time": "1:00 PM",
+      "type": "Public Safety Committee Meeting",
+      "organization": "City Council Public Safety Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Mendelsohn",
+      "presenters": [
+        "Israel Herrera",
+        "Delridge Williams",
+        "Jason Scoggins",
+        "Kevin Oden",
+        "Stephen Williams",
+        "Robert Borse",
+        "Justin Ball",
+        "Preston Robinson, Jr",
+        "David Pughes",
+        "Elaine Chandler",
+        "Clifford Sparks",
+        "Carrie Rogers",
+        "Dominique Artis"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of May 13, 2024 Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Public Safety Recruiting and Retention Update",
+        "description": "Update on the recruiting and retention efforts within the public safety departments.",
+        "presenter": "Israel Herrera, Delridge Williams",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Violent Crime Reduction Plan Update",
+        "description": "Update on the strategies and progress of the violent crime reduction plan.",
+        "presenter": "Jason Scoggins, Kevin Oden",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "First Responder Street Topper Update",
+        "description": "Presentation on the updates regarding the First Responder Street Topper initiative.",
+        "presenter": "Stephen Williams, Robert Borse",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Office of Integrated Public Safety Solutions Dashboard Demonstration",
+        "description": "Demonstration of the dashboard for the Office of Integrated Public Safety Solutions.",
+        "presenter": "Kevin Oden",
+        "action_required": "demonstrate"
+      },
+      {
+        "item_number": "E",
+        "title": "FY25 Budget Overviews",
+        "description": "Overview of the budget for fiscal year 2025.",
+        "presenter": "Justin Ball, Preston Robinson, Jr, David Pughes, Elaine Chandler",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Legislative Priorities- Public Safety",
+        "description": "Discussion on the legislative priorities related to public safety.",
+        "presenter": "Clifford Sparks, Carrie Rogers",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Public Safety Dashboards",
+        "description": "Presentation on the public safety dashboards.",
+        "presenter": "Dominique Artis",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "H",
+        "title": "Dallas Fire-Rescue Facility Construction Update",
+        "description": "Update on the construction of Dallas Fire-Rescue facilities.",
+        "presenter": "Justin Ball",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "I",
+        "title": "Dallas Fire-Rescue Fleet Maintenance Update",
+        "description": "Update on the maintenance of the Dallas Fire-Rescue fleet.",
+        "presenter": "Justin Ball",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "J",
+        "title": "Authorize a Memorandum of Understanding with the United States Capitol Police",
+        "description": "Authorization for a MOU for reimbursement for support provided by Dallas Police and Fire Rescue.",
+        "presenter": null,
+        "action_required": "authorize"
+      },
+      {
+        "item_number": "K",
+        "title": "Authorize a three-year master agreement for emergency road flares",
+        "description": "Authorization for a master agreement for the purchase of emergency road flares.",
+        "presenter": null,
+        "action_required": "authorize"
+      }
+    ],
+    "keywords": [
+      "Public Safety",
+      "Dallas Police Department",
+      "Dallas Fire Rescue",
+      "Budget",
+      "Violent Crime",
+      "Recruiting",
+      "Retention",
+      "Legislative Priorities",
+      "Facility Construction",
+      "Fleet Maintenance",
+      "Dashboard",
+      "Emergency Services",
+      "MOU",
+      "Road Flares"
+    ],
+    "financial_items": [
+      {
+        "description": "Reimbursement for support and enhancements provided by the Dallas Police Department and Dallas Fire Rescue for Congressional events.",
+        "amount": "150000",
+        "type": "funding"
+      },
+      {
+        "description": "Purchase of emergency road flares for the Police Department and Fire-Rescue Department.",
+        "amount": "741456",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 22744
+}

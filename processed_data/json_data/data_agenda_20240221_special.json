@@ -1,0 +1,71 @@
+{
+  "agenda_identifier": "agenda_20240221_special",
+  "agenda_number": 20240221,
+  "source_file": "agenda_20240221_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 21, 2024",
+      "time": "9:00 AM",
+      "type": "Council Briefing",
+      "organization": "City Council of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall and via videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes of the January 19, 2024 Special Called Meeting, January 31, 2024 Special Called Meeting, and February 7, 2024 City Council Meeting",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Consideration of Appointments",
+        "description": "Consideration of appointments to boards and commissions and the evaluation and duties of board and commission members (List of nominees is available in the City Secretary's Office)",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "A",
+        "title": "Fleet Management Update",
+        "description": "Update on Fleet Management",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Five-Year Infrastructure Management Program (IMP) Update FY 2024-2028",
+        "description": "Update on the Five-Year Infrastructure Management Program",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "American Rescue Plan Act (ARPA): Reallocation and Reprogramming",
+        "description": "Discussion on the reallocation and reprogramming of ARPA funds",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "Council Briefing",
+      "February 21, 2024",
+      "Fleet Management",
+      "Infrastructure Management Program",
+      "American Rescue Plan Act",
+      "appointments",
+      "boards and commissions",
+      "public participation",
+      "videoconference"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20652
+}

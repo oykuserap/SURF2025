@@ -1,0 +1,50 @@
+{
+  "agenda_identifier": "agenda_20240402_budget",
+  "agenda_number": 20240402,
+  "source_file": "agenda_20240402_budget.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 2, 2024",
+      "time": "10:00 AM",
+      "type": "Ad Hoc Committee Meeting",
+      "organization": "Ad Hoc Committee on Administrative Affairs",
+      "location": "Dallas City Hall, Council Chambers and via video conference"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "TC Broadnax",
+        "Kimberly Bizor Tolbert"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Deliberate employment of City Manager",
+        "description": "Discussion regarding the employment of City Manager TC Broadnax and the effective date of appointment of Interim City Manager Kimberly Bizor Tolbert.",
+        "presenter": "TC Broadnax",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "City Council",
+      "Administrative Affairs",
+      "City Manager",
+      "Interim City Manager",
+      "employment",
+      "video conference",
+      "public meeting",
+      "broadcast",
+      "Council Chambers",
+      "executive session",
+      "discussion",
+      "deliberation",
+      "Texas Open Meetings Act"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18031
+}

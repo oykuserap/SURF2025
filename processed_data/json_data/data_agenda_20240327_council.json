@@ -1,0 +1,137 @@
+{
+  "agenda_identifier": "agenda_20240327_council",
+  "agenda_number": 20240327,
+  "source_file": "agenda_20240327_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 27, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes of the February 27, 2024 Special Called City Council Meeting and February 28, 2024 City Council Meeting",
+        "presenter": "City Attorney's Office",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Partial Settlement Authorization",
+        "description": "Authorize partial settlement of the lawsuit styled Bridgette Dancy and Elvis Brown v. City of Dallas, Cause No. DC-21-06901",
+        "presenter": "City Attorney's Office",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "General Obligation Refunding Bonds",
+        "description": "An ordinance authorizing the issuance and sale of City of Dallas, Texas, General Obligation Refunding and Improvement Bonds, Series 2024B",
+        "presenter": "City Controller's Office",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Combination Tax and Revenue Certificates",
+        "description": "An ordinance authorizing the issuance and sale of City of Dallas, Texas, Combination Tax and Revenue Certificates of Obligation, Series 2024B",
+        "presenter": "City Controller's Office",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Interlocal Agreement Amendment",
+        "description": "Authorize an amendment to Resolution No. 21-0362 for an Interlocal Agreement with the Texas Department of Transportation",
+        "presenter": "Department of Aviation",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Engineering Services Contract",
+        "description": "Authorize an engineering services contract with Michael Baker International, Inc. for a comprehensive study for an analysis of existing administrative spaces",
+        "presenter": "Department of Aviation",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Airport Planning Services",
+        "description": "Authorize Supplemental Agreement No. 1 to the consultant services contract with Ricondo & Associates, Inc.",
+        "presenter": "Department of Aviation",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Food Establishments Ordinance Amendment",
+        "description": "An ordinance amending Chapter 17, 'Food Establishments,' of the Dallas City Code",
+        "presenter": "Department of Code Compliance",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "Dallas Housing Resource Catalog Amendment",
+        "description": "Authorize an amendment to the Dallas Housing Resource Catalog (DHRC)",
+        "presenter": "Department of Housing & Neighborhood Revitalization",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Cooperative Purchasing Agreement",
+        "description": "Authorize a three-year cooperative purchasing agreement for Oracle database licensed products",
+        "presenter": "Department of Information and Technology Services",
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "meeting",
+      "agenda",
+      "approval",
+      "settlement",
+      "bonds",
+      "certificates",
+      "engineering",
+      "housing",
+      "food establishments",
+      "purchasing agreement",
+      "public hearings",
+      "zoning",
+      "financial items",
+      "community development"
+    ],
+    "financial_items": [
+      {
+        "description": "Partial settlement of the lawsuit",
+        "amount": "$40,000.00",
+        "type": "settlement"
+      },
+      {
+        "description": "General Obligation Refunding and Improvement Bonds",
+        "amount": "$410,000,000.00",
+        "type": "bond issuance"
+      },
+      {
+        "description": "Combination Tax and Revenue Certificates of Obligation",
+        "amount": "$218,000,000.00",
+        "type": "certificate issuance"
+      },
+      {
+        "description": "Amendment to Interlocal Agreement with Texas Department of Transportation",
+        "amount": "$791,600.00",
+        "type": "funding"
+      },
+      {
+        "description": "Engineering services contract for administrative spaces study",
+        "amount": "$569,812.40",
+        "type": "contract"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 113072
+}

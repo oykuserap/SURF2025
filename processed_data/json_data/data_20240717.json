@@ -1,0 +1,90 @@
+{
+  "agenda_identifier": "agenda_20240717_hearing",
+  "agenda_number": 20240717,
+  "source_file": "agenda_20240717_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "July 18, 2024",
+      "time": "10:00 A.M. and 1:00 P.M.",
+      "type": "Briefing and Public Hearing",
+      "organization": "Dallas Board of Adjustment (Panel C)",
+      "location": "Dallas City Hall, COUNCIL CHAMBERS, and Videoconference"
+    },
+    "attendees": {
+      "chair": "Robert Agnich, Vice-Chair",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the Vice-Chair.",
+        "presenter": "Robert Agnich, Vice-Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Staff Presentation/Briefing",
+        "description": "Presentation by staff regarding agenda items.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Public Hearing",
+        "description": "Hearing for public input on agenda items.",
+        "presenter": "Board of Adjustment",
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Public Testimony",
+        "description": "Opportunity for public testimony on agenda items.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Miscellaneous Items",
+        "description": "Approval of Panel C Minutes – June 17th, 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Case Docket",
+        "description": "Discussion of uncontested items, holdover items, and individual items.",
+        "presenter": "Board of Adjustment",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "Closing of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Board of Adjustment",
+      "Public Hearing",
+      "Testimony",
+      "Case Docket",
+      "Landscaping Regulations",
+      "Fence Height Regulations",
+      "Parking Regulations",
+      "Variance",
+      "Special Exception",
+      "Uncontested Items",
+      "Holdover Items",
+      "Individual Items",
+      "Minutes Approval",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 14346
+}

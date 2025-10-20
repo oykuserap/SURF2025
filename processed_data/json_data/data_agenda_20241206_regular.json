@@ -1,0 +1,110 @@
+{
+  "agenda_identifier": "agenda_20241206_regular",
+  "agenda_number": 20241206,
+  "source_file": "agenda_20241206_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 6, 2024",
+      "time": "9:00 a.m.",
+      "type": "Regular Meeting",
+      "organization": "Skillman Corridor TIF District Board of Directors",
+      "location": "Dallas City Hall, 6DN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Susan Morgan",
+      "presenters": [
+        "Dorcy Clark, Senior Manager, Office of Economic Development",
+        "Patrick Blaydes, Chief Planner, Department of Planning and Development",
+        "Susan Morgan, Chair, Skillman Corridor TIF District Board of Directors"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call meeting to order and declare a quorum is established.",
+        "description": "",
+        "presenter": "Susan Morgan",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Introduction of meeting participants.",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Public comments pertaining to agenda items 4 through 9.",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Nominate and elect a Vice Chair for the Board of Directors",
+        "description": "",
+        "presenter": null,
+        "action_required": "Nomination and election"
+      },
+      {
+        "item_number": "5",
+        "title": "Review and consider the Meeting Record of the December 1, 2023 Skillman Corridor TIF District Board Meeting.",
+        "description": "",
+        "presenter": "Dorcy Clark, Senior Manager, Office of Economic Development",
+        "action_required": "Approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Review and consider the Skillman Corridor TIF District Annual Report for FY 2023-2024.",
+        "description": "",
+        "presenter": "Dorcy Clark, Senior Manager, Office of Economic Development",
+        "action_required": "Approve and forward a recommendation of approval to City Council"
+      },
+      {
+        "item_number": "7",
+        "title": "Review the 2014 LBJ Skillman Planning Initiative Study.",
+        "description": "",
+        "presenter": "Patrick Blaydes, Chief Planner, Department of Planning and Development",
+        "action_required": "None, for informational purposes only"
+      },
+      {
+        "item_number": "8",
+        "title": "Review the Skillman Corridor Streetscape Master Plan.",
+        "description": "",
+        "presenter": "Susan Morgan, Chair, Skillman Corridor TIF District Board of Directors",
+        "action_required": "None, for informational purposes only"
+      },
+      {
+        "item_number": "9",
+        "title": "Review and consider a quarterly regular meeting schedule for the Skillman Corridor TIF District Board of Directors for calendar year 2025.",
+        "description": "",
+        "presenter": "Dorcy Clark, Senior Manager, Office of Economic Development",
+        "action_required": "Approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": "Susan Morgan",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Skillman Corridor",
+      "TIF District",
+      "Board of Directors",
+      "Meeting Record",
+      "Annual Report",
+      "Planning Initiative",
+      "Streetscape Master Plan",
+      "Vice Chair",
+      "Meeting Schedule",
+      "Public Comments"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11321
+}

@@ -1,0 +1,187 @@
+{
+  "agenda_identifier": "agenda_20250325_budget",
+  "agenda_number": 20250325,
+  "source_file": "agenda_20250325_budget.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 25, 2025",
+      "time": "1:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Transportation and Infrastructure Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Narvaez",
+      "presenters": [
+        "Dr. Andrew Quicksall",
+        "Tony Moore",
+        "Ghassan Khankarli, Ph.D., P.E.",
+        "Dev Rastogi"
+      ],
+      "participants": [
+        "Atkins",
+        "Stewart",
+        "Mendelsohn",
+        "Moreno",
+        "Ridley",
+        "Bazaldua",
+        "Blackmon",
+        "Gracey",
+        "Willis",
+        "Schultz",
+        "Resendez"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "A 25-1081A",
+        "title": "Approval of the February 18, 2025 Special Called Transportation and Infrastructure Committee/DART Board Joint Meeting",
+        "description": "Approval of minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B 25-1082A",
+        "title": "Approval of the March 5, 2025 Special Called Transportation and Infrastructure Committee Meeting",
+        "description": "Approval of minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "C 25-1078A",
+        "title": "Harold Simmons Park Project Update",
+        "description": "Update on the Harold Simmons Park Project.",
+        "presenter": "Dr. Andrew Quicksall",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D 25-1079A",
+        "title": "Introduction of 'Serve Robotics' Delivery Robots",
+        "description": "Introduction of delivery robots by Serve Robotics.",
+        "presenter": "Ghassan Khankarli, Ph.D., P.E.",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E 25-1083A",
+        "title": "Follow up to the February 18, 2025 TRNI DART Update Briefing",
+        "description": "Identification of projects aligned with mutual City of Dallas & DART goals.",
+        "presenter": "Dev Rastogi",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F 25-1084A",
+        "title": "Committee Forecast",
+        "description": "Forecast of upcoming committee items.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G 25-1096A",
+        "title": "Aviation: Authorize a ten-year lease agreement",
+        "description": "Lease agreement for office space with the United States of America.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "H 25-1095A",
+        "title": "Dallas Water Utilities: Authorize a Standard Utility Agreement",
+        "description": "Agreement for water pipeline encasement extensions.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "I 25-1102A",
+        "title": "Dallas Water Utilities: Authorize the second step of acquisition",
+        "description": "Condemnation by eminent domain for drainage easement.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "J 25-1100A",
+        "title": "Transportation & Public Works: Authorize payment to Dallas County",
+        "description": "Payment for traffic signal improvements.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "K 25-1097A",
+        "title": "Transportation & Public Works: Authorize acceptance of a grant",
+        "description": "Grant from the United States Department of Transportation.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "L 25-1098A",
+        "title": "Transportation & Public Works: Authorize a contract",
+        "description": "Contract for pedestrian improvements.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "M 25-1099A",
+        "title": "Transportation & Public Works: Authorize a three-year master agreement",
+        "description": "Agreement for traffic signal equipment and materials.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "N 25-1101A",
+        "title": "Office of Governmental Affairs: Authorize a resolution",
+        "description": "Resolution to express support for DART funding.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Transportation",
+      "Infrastructure",
+      "Dallas",
+      "City Council",
+      "Committee Meeting",
+      "Public Works",
+      "Grant",
+      "Lease Agreement",
+      "Water Utilities",
+      "Traffic Signals",
+      "Robotics",
+      "Parks",
+      "Funding",
+      "Eminent Domain",
+      "Pedestrian Improvements"
+    ],
+    "financial_items": [
+      {
+        "description": "Estimated Revenue from lease agreement with the United States of America",
+        "amount": "$5,490,272.40",
+        "type": "revenue"
+      },
+      {
+        "description": "Estimated Revenue from water pipeline encasement extensions",
+        "amount": "$123,165.67",
+        "type": "revenue"
+      },
+      {
+        "description": "Acquisition for drainage easement",
+        "amount": "$8,800.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Payment for traffic signal improvements",
+        "amount": "$75,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Grant for roadway improvements",
+        "amount": "$2,000,000.00",
+        "type": "revenue"
+      },
+      {
+        "description": "Estimated amount for traffic signal equipment and materials",
+        "amount": "$3,000,000.00",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 27082
+}

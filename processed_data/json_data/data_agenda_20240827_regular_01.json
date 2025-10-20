@@ -1,0 +1,122 @@
+{
+  "agenda_identifier": "agenda_20240827_regular_01",
+  "agenda_number": 20240827,
+  "source_file": "agenda_20240827_regular_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 27, 2024",
+      "time": "12:00 PM",
+      "type": "Board of Directors Meeting",
+      "organization": "City of Dallas Public Facility Corporation",
+      "location": "Dallas City Hall, Auditorium L1FN and Videoconference, 1500 Marilla Street, Dallas, TX 75201"
+    },
+    "attendees": {
+      "chair": "Keith Pomykal",
+      "presenters": [
+        "Albert Gonzalez",
+        "Jim Plummer",
+        "Tim Nelson",
+        "Jake Brown"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the President.",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Roll Call",
+        "description": "Attendance check by the General Manager.",
+        "presenter": "Albert Gonzalez",
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Public Testimony",
+        "description": "Public comments on agenda items 4 – 10.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Approval of Minutes",
+        "description": "Discussion and approval of the minutes of April 23, 2024 Board Meeting and June 11, 2024 Special Board Meeting.",
+        "presenter": "Keith Pomykal",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Ethics Disclosures",
+        "description": "Board members disclose any relationships with projects on the agenda.",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      },
+      {
+        "item_number": "6",
+        "title": "Resolution for Bloc House Santa Fe Trail",
+        "description": "Discussion and approval of a resolution for the transaction for Bloc House Santa Fe Trail, including necessary documentation and authorizing the purchase of land.",
+        "presenter": "Albert Gonzalez",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Resolution for Oakhouse at Colorado II",
+        "description": "Discussion and approval of a resolution authorizing negotiation and execution of a Term Sheet for Oakhouse at Colorado II.",
+        "presenter": "Albert Gonzalez",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Maintenance and Demolition Discussion",
+        "description": "Discussion regarding the maintenance and demolition of the property located at 9999 Technology Boulevard.",
+        "presenter": "Albert Gonzalez",
+        "action_required": null
+      },
+      {
+        "item_number": "9",
+        "title": "Dallas PFC Pipeline Report",
+        "description": "Discussion and review of the Dallas PFC Pipeline Report.",
+        "presenter": "Albert Gonzalez",
+        "action_required": null
+      },
+      {
+        "item_number": "10",
+        "title": "Dallas PFC Website Report",
+        "description": "Discussion and review of the Dallas PFC Website Report.",
+        "presenter": "Albert Gonzalez",
+        "action_required": null
+      },
+      {
+        "item_number": "11",
+        "title": "Adjourn",
+        "description": "Closing of the meeting by the President.",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Public Facility Corporation",
+      "Board of Directors",
+      "meeting",
+      "minutes",
+      "resolution",
+      "Bloc House",
+      "Oakhouse",
+      "public testimony",
+      "ethics disclosures",
+      "pipeline report",
+      "website report",
+      "demolition",
+      "maintenance"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9195
+}

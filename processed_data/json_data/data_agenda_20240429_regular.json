@@ -1,0 +1,60 @@
+{
+  "agenda_identifier": "agenda_20240429_regular",
+  "agenda_number": 20240429,
+  "source_file": "agenda_20240429_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 29, 2024",
+      "time": "2:00 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Oak Cliff Gateway TIF District Board of Directors",
+      "location": "Dallas City Hall, 6DN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Sue Hounsel, District Manager, Office of Economic Development",
+        "Thor Erickson, Assistant Director, Housing & Neighborhood Revitalization Department"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "3",
+        "title": "Review and consideration of the Meeting Record",
+        "description": "Review and consideration of the Meeting Record of the February 26, 2024 Oak Cliff Gateway TIF District Board Meeting.",
+        "presenter": "Sue Hounsel, District Manager, Office of Economic Development",
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "4",
+        "title": "Review and consideration of a recommended target area",
+        "description": "Review and consideration of a recommended target area for the Department of Housing & Neighborhood Revitalization to deploy funding to be annually transferred from the Oak Cliff Gateway TIF District for homeowner stabilization and displacement mitigation programs (including home repair/improvement programs and homebuyer assistance programs) in a cumulative total amount not to exceed $2,958,169 (net present value) or approximately $10,507,096 in total dollars pursuant to the Oak Cliff Gateway TIF District’s Project Plan and Reinvestment Zone Financing Plan and Increment Allocation Policy.",
+        "presenter": "Sue Hounsel, District Manager, Office of Economic Development; Thor Erickson, Assistant Director, Housing & Neighborhood Revitalization Department",
+        "action_required": "Approval"
+      }
+    ],
+    "keywords": [
+      "Oak Cliff Gateway",
+      "TIF District",
+      "Board of Directors",
+      "Meeting Record",
+      "Housing",
+      "Neighborhood Revitalization",
+      "Funding",
+      "Homeowner Stabilization",
+      "Displacement Mitigation",
+      "Economic Development",
+      "Approval"
+    ],
+    "financial_items": [
+      {
+        "description": "Funding for homeowner stabilization and displacement mitigation programs",
+        "amount": "$2,958,169",
+        "type": "budget"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10678
+}

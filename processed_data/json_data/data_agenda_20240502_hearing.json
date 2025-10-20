@@ -1,0 +1,76 @@
+{
+  "agenda_identifier": "agenda_20240502_hearing",
+  "agenda_number": 20240502,
+  "source_file": "agenda_20240502_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 2, 2024",
+      "time": "9:00 AM",
+      "type": "City Plan Commission Meeting",
+      "organization": "City Plan Commission",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Lawrence Agu, III, AICP, Assoc AIA, Planning and Urban Design",
+        "Patrick Blaydes, Planning and Urban Design",
+        "Kiesha Kay",
+        "Karl Crawley",
+        "Donna Moorman, PLA",
+        "Rob Baldwin",
+        "Giahanna Bridges",
+        "LeQuan Clinton",
+        "Warren Ellis",
+        "Martin Bate",
+        "Liliana Garza",
+        "Audra Buckley",
+        "Suzan Kedron",
+        "Michael Pepe",
+        "Scott Roper"
+      ],
+      "participants": [
+        "Planning and Urban Design Department",
+        "City of Dallas"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Briefing and Discussion on the ForwardDallas Comprehensive Land Use Plan",
+        "description": "Discussion on the ForwardDallas Comprehensive Land Use Plan.",
+        "presenter": "Lawrence Agu, III, AICP, Assoc AIA, Planning and Urban Design",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "2",
+        "title": "CLOSED SESSION: Attorney Briefing",
+        "description": "Legal issues related to the ForwardDallas comprehensive land use plan.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes of the March 21, 2024 City Plan Commission Hearing, April 4, 2024 City Plan Commission Hearing, and the April 18, 2024, Special Called City Plan Commission ForwardDallas Public Hearing.",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "City Plan Commission",
+      "ForwardDallas",
+      "Comprehensive Land Use Plan",
+      "Public Hearing",
+      "Zoning",
+      "Subdivision",
+      "Minor Amendments",
+      "Certificates of Appropriateness",
+      "Public Testimony",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 68202
+}

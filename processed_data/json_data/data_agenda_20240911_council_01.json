@@ -1,0 +1,77 @@
+{
+  "agenda_identifier": "agenda_20240911_council_01",
+  "agenda_number": 20240911,
+  "source_file": "agenda_20240911_council_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 11, 2024",
+      "time": "5:30 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Environmental Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference (Webex)"
+    },
+    "attendees": {
+      "chair": "Kathryn Bazan",
+      "presenters": [
+        "Carlos Evans",
+        "Paul White ll",
+        "Ngozi Nwosu"
+      ],
+      "participants": [
+        "Esther Villarreal",
+        "Katherine Homan",
+        "Andrew Siegel",
+        "Mark Wootton",
+        "Colleen Murray",
+        "Michael Cook",
+        "Barry Lachman",
+        "Temeckia Derrough",
+        "Julie Hiromoto",
+        "Renee Roberson"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from the meeting held on August 14, 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Briefing Memorandum",
+        "description": "EPA Brownfields Revolving Loan Fund (RLF) Supplemental Grant Awarded to the City of Dallas.",
+        "presenter": "Carlos Evans, Director, Office of Environmental Quality and Sustainability",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Discussion Items",
+        "description": "Monthly updates on various subcommittees and district updates.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Environmental Commission",
+      "Dallas",
+      "Regular Meeting",
+      "EPA",
+      "Brownfields",
+      "Revolving Loan Fund",
+      "Sustainability",
+      "Public Speakers",
+      "Minutes Approval",
+      "Subcommittee Updates",
+      "District Updates",
+      "Upcoming Meetings",
+      "Accommodations",
+      "Videoconference",
+      "Public Participation"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10759
+}

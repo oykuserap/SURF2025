@@ -1,0 +1,68 @@
+{
+  "agenda_identifier": "agenda_20240107_regular_01",
+  "agenda_number": 20240107,
+  "source_file": "agenda_20240107_regular_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 7, 2024",
+      "time": "9:30 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Civil Service Board",
+      "location": "Dallas City Hall, Room #1 C- South and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approve minutes from the November 12, 2024, Special-called Civil Service Board Meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Hearing Item",
+        "description": "Hear the rehire eligibility appeal of Mr. Noel Balderas, a former employee in the Housing Department.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Briefing and Discussion Item",
+        "description": "Department FY 24-25 Priorities and Updates, Annual Report Development and Schedule, Department Updates and Announcements.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Action Item",
+        "description": "Take action from the rehire eligibility appeal hearing of Mr. Noel Balderas, a former employee in the Housing Department.",
+        "presenter": null,
+        "action_required": "take action"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Civil Service Board",
+      "Regular Meeting",
+      "rehire eligibility",
+      "Mr. Noel Balderas",
+      "Housing Department",
+      "FY 24-25 Priorities",
+      "Annual Report",
+      "Department Updates",
+      "Public Speakers",
+      "Approval of Minutes",
+      "Action Item",
+      "Briefing",
+      "Discussion"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8915
+}

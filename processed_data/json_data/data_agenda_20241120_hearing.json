@@ -1,0 +1,90 @@
+{
+  "agenda_identifier": "agenda_20241120_hearing",
+  "agenda_number": 20241120,
+  "source_file": "agenda_20241120_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 20, 2024",
+      "time": "10:30 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Board of Adjustment",
+      "location": "Dallas City Hall, Room 6ES, Videoconference"
+    },
+    "attendees": {
+      "chair": "Cheri Gambow, Vice-Chair",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Cheri Gambow, Vice-Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Staff Presentation/Briefing",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Public Hearing",
+        "description": "Board of Adjustment",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Public Testimony",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "5",
+        "title": "Miscellaneous Items",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "6",
+        "title": "Case Docket",
+        "description": "Uncontested Items, Holdover Items, Individual Items",
+        "presenter": "Board of Adjustment",
+        "action_required": null
+      },
+      {
+        "item_number": "7",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Board of Adjustment",
+      "Public Hearing",
+      "Case Docket",
+      "Variance",
+      "Special Exception",
+      "Fence Regulations",
+      "Visibility Obstruction",
+      "Zoning",
+      "Meeting Minutes",
+      "Public Testimony",
+      "Executive Session",
+      "Accommodations",
+      "Video Conference",
+      "Registration"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 16703
+}

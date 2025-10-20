@@ -1,0 +1,57 @@
+{
+  "agenda_identifier": "agenda_20240131_special",
+  "agenda_number": 20240131,
+  "source_file": "agenda_20240131_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 31, 2024",
+      "time": "9:00 AM",
+      "type": "Special Called Meeting",
+      "organization": "Dallas City Council",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "2024 Bond Program Update",
+        "description": "Presentation regarding the 2024 Bond Program.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Discussion of Expanding Housing Development Options",
+        "description": "Discussion of potential regulations for two-four-unit housing and minimum residential lot size.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "HUD 5-Year Consolidated Plan for FY 2024-25 through FY 2028-29",
+        "description": "Presentation regarding the HUD 5-Year Consolidated Plan.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "Special Called Meeting",
+      "2024 Bond Program",
+      "Housing Development",
+      "Regulations",
+      "HUD",
+      "Consolidated Plan",
+      "Public Affairs",
+      "Videoconference",
+      "City Hall"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 19628
+}

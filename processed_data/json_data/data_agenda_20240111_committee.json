@@ -1,0 +1,72 @@
+{
+  "agenda_identifier": "agenda_20240111_committee",
+  "agenda_number": 20240111,
+  "source_file": "agenda_20240111_committee.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 11, 2024",
+      "time": "3:00 PM",
+      "type": "Ad Hoc Committee Meeting",
+      "organization": "City Council Ad Hoc Committee on Pensions",
+      "location": "City Council Chambers, 6th Floor, City Hall and via video conference"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "City Attorney"
+      ],
+      "participants": [
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Blackmon",
+        "Willis",
+        "Gracey",
+        "Schultz",
+        "Johnson"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the December 14, 2023 Ad Hoc Committee on Pensions Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": "Atkins",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Dallas Police and Fire Pension System and Employees’ Retirement Fund of the City of Dallas: Funding Soundness Update and Discussion",
+        "description": "Discussion on the funding soundness of the pension system.",
+        "presenter": "City Attorney",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Pensions",
+      "Dallas Police and Fire Pension System",
+      "Funding Soundness",
+      "City Council",
+      "Ad Hoc Committee",
+      "Meeting Minutes",
+      "Discussion",
+      "City Attorney",
+      "Retirement Fund",
+      "Executive Session",
+      "Public Meeting",
+      "Video Conference",
+      "City Hall",
+      "Closed Session",
+      "Litigation"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18219
+}

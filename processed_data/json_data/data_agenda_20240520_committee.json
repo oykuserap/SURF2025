@@ -1,0 +1,105 @@
+{
+  "agenda_identifier": "agenda_20240520_committee",
+  "agenda_number": 20240520,
+  "source_file": "agenda_20240520_committee.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 20, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Quality of Life, Arts, and Culture Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Mendelsohn",
+      "presenters": [
+        "Andrea Gilles",
+        "Patrick Blaydes",
+        "Lindsey Jackson",
+        "Matthew Saliba",
+        "Jill Haning",
+        "Chris Christian",
+        "Brian Morris",
+        "Jeremy Reed",
+        "Cedric Secoundiata",
+        "Mary Jo Guidice",
+        "Heather Lowe",
+        "Sean McGew",
+        "Kjerstine Nielsen-Pelto",
+        "Adam Bazaldua"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the April 15, 2024, Quality of Life, Arts and Culture Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "South Dallas Fair Park Area Plan",
+        "description": "Briefing on the South Dallas Fair Park Area Plan.",
+        "presenter": "Andrea Gilles",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Overview of Community Courts",
+        "description": "Briefing on the overview of community courts.",
+        "presenter": "Matthew Saliba",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Department of Code Compliance Budget Review",
+        "description": "Review of the budget for the Department of Code Compliance.",
+        "presenter": "Chris Christian",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Dallas Public Library Budget Review",
+        "description": "Review of the budget for the Dallas Public Library.",
+        "presenter": "Mary Jo Guidice",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Senate Bill 4 Resolution",
+        "description": "Discussion on the resolution regarding Senate Bill 4.",
+        "presenter": "Adam Bazaldua",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Quality of Life, Arts, and Culture Committee Forecast",
+        "description": "Forecast for the Quality of Life, Arts, and Culture Committee.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Quality of Life",
+      "Arts",
+      "Culture",
+      "Dallas",
+      "Committee",
+      "Budget Review",
+      "Community Courts",
+      "Fair Park",
+      "Senate Bill 4",
+      "Public Library",
+      "Planning",
+      "Code Compliance",
+      "Executive Session",
+      "Meeting Minutes",
+      "Forecast"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20461
+}

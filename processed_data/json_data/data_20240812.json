@@ -1,0 +1,35 @@
+{
+  "agenda_identifier": "agenda_20240812_council",
+  "agenda_number": 20240812,
+  "source_file": "agenda_20240812_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 12, 2024",
+      "time": null,
+      "type": "Public Safety Committee",
+      "organization": "City Council",
+      "location": "Dallas, TX"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "executive session",
+      "litigation",
+      "real property",
+      "contract",
+      "employment",
+      "security",
+      "financial information",
+      "economic development",
+      "incentives",
+      "technology"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 5203
+}

@@ -1,0 +1,96 @@
+{
+  "agenda_identifier": "agenda_20250203_hearing",
+  "agenda_number": 20250203,
+  "source_file": "agenda_20250203_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 3, 2025",
+      "time": "9:30 A.M. (Briefing), 1:00 P.M. (Public Hearing)",
+      "type": "Regular Meeting",
+      "organization": "Landmark Commission",
+      "location": "Dallas City Hall, 6ES Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Evelyn Montgomery",
+      "presenters": [
+        "Historic Preservation Staff",
+        "Joanna Hampton, CPC Liaison",
+        "City Attorney’s Office",
+        "Marcus Watson",
+        "Rhonda Dunn"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Evelyn Montgomery",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of January 6, 2025, regular meeting minutes",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Staff Reports/Briefings",
+        "description": "Reports from Historic Preservation Staff",
+        "presenter": "Historic Preservation Staff",
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Briefing Items",
+        "description": "Appeals to the City Plan Commission",
+        "presenter": "Joanna Hampton, CPC Liaison",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Public Hearing",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Landmark Commission",
+      "Historic Preservation",
+      "Certificate of Appropriateness",
+      "Public Hearing",
+      "City Plan Commission",
+      "Minutes Approval",
+      "Staff Reports",
+      "Public Speakers",
+      "Historic Districts",
+      "Preservation Criteria",
+      "Community Engagement",
+      "Building Regulations",
+      "Neighborhood Development",
+      "Architectural Standards"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 71395
+}

@@ -1,0 +1,57 @@
+{
+  "agenda_identifier": "agenda_20240808_special",
+  "agenda_number": 20240808,
+  "source_file": "agenda_20240808_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 8, 2024",
+      "time": "10:00 A.M.",
+      "type": "Special Called Meeting",
+      "organization": "City of Dallas",
+      "location": "Dallas City Hall, 6FN Conference Room & Videoconference"
+    },
+    "attendees": {
+      "chair": "Arun Agarwal",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Arun Agarwal",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "EXECUTIVE SESSION",
+        "description": "Seeking advice of the City Attorney regarding the City’s management contract with Fair Park First. (TOMA 55.071)",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Special Called Meeting",
+      "Executive Session",
+      "City Attorney",
+      "management contract",
+      "Fair Park First",
+      "City Hall",
+      "videoconference",
+      "accessibility",
+      "accommodations"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 7283
+}

@@ -1,0 +1,53 @@
+{
+  "agenda_identifier": "agenda_20240502_regular",
+  "agenda_number": 20240502,
+  "source_file": "agenda_20240502_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 2, 2024",
+      "time": "2:00 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Grand Park South TIF District Board of Directors",
+      "location": "Dallas City Hall, 6DN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Sue Hounsel, District Manager, Office of Economic Development",
+        "Thor Erickson, Assistant Director, Housing & Neighborhood Revitalization Department"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "3",
+        "title": "Review and consideration of the Meeting Record",
+        "description": "Review and consideration of the Meeting Record of the November 30, 2023 Grand Park South TIF District Board Meeting.",
+        "presenter": "Sue Hounsel, District Manager, Office of Economic Development",
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "4",
+        "title": "Discussion on Housing Policy Implementation",
+        "description": "Review and discussion regarding implementation by the City’s Housing & Neighborhood Revitalization Department of the City’s new Housing Policy (DHP33), including Equity Strategy Target Areas, including a recommended target area for the Department of Housing & Neighborhood Revitalization to deploy funding to be annually transferred from the Deep Ellum TIF District for homeowner stabilization and displacement mitigation programs.",
+        "presenter": "Sue Hounsel, District Manager, Office of Economic Development; Thor Erickson, Assistant Director, Housing & Neighborhood Revitalization Department",
+        "action_required": "None; discussion only"
+      }
+    ],
+    "keywords": [
+      "Grand Park South",
+      "TIF District",
+      "Dallas",
+      "Housing Policy",
+      "Equity Strategy",
+      "Homeowner Stabilization",
+      "Displacement Mitigation",
+      "Economic Development",
+      "Meeting Record",
+      "Public Comments"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10514
+}

@@ -1,0 +1,112 @@
+{
+  "agenda_identifier": "agenda_20231214_council",
+  "agenda_number": 20231214,
+  "source_file": "agenda_20231214_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 14, 2023",
+      "time": "3:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Citizen Homelessness Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "David King",
+      "presenters": [
+        "Christine Crossley"
+      ],
+      "participants": [
+        "John Shellene",
+        "LeTitia Owens",
+        "Linda Garner"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call Meeting to Order and Roll Call",
+        "description": "Declare A Quorum Present and Declare Legal Notice Posted and Meeting Duly Called",
+        "presenter": "David King",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Comments",
+        "description": "Limit 2 minutes per speaker",
+        "presenter": "David King",
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes from November 9, 2023",
+        "presenter": "David King",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Presentation(s)",
+        "description": "Cold Weather Shelter, A Systematic Approach; Office of Homeless Solutions Agenda & Contract Forecast",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Citizen Homelessness Commission: Subcommittee Reports",
+        "description": "Reports from various subcommittees",
+        "presenter": "Various Chairs",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Subcommittee(s) Assignment",
+        "description": "Roles & Responsibilities of the Citizen Homelessness Commission",
+        "presenter": "David King",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Formation of a Subcommittee to Prepare the 2023 Annual Report",
+        "description": null,
+        "presenter": "David King",
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "Proposed Items for Next/Future Meetings",
+        "description": "No discussion, debate, and/or vote",
+        "presenter": "David King",
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Announcement of Upcoming Meetings",
+        "description": "Citizen Homelessness Commission Regular Board Meeting on January 11, 2024",
+        "presenter": "David King",
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Citizen Homelessness Commission",
+      "Dallas City Hall",
+      "Public Comments",
+      "Approval of Minutes",
+      "Cold Weather Shelter",
+      "Subcommittee Reports",
+      "Annual Report",
+      "Upcoming Meetings",
+      "Homeless Solutions",
+      "Equitable Access"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11259
+}

@@ -1,0 +1,90 @@
+{
+  "agenda_identifier": "agenda_20241218_hearing",
+  "agenda_number": 20241218,
+  "source_file": "agenda_20241218_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 18, 2024",
+      "time": "10:30 A.M. and 1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Board of Adjustment (Panel B)",
+      "location": "Dallas City Hall, Room 6ES, Videoconference"
+    },
+    "attendees": {
+      "chair": "Cheri Gambow",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Cheri Gambow, Vice-Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Staff Presentation/Briefing",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Public Hearing",
+        "description": "Board of Adjustment",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Public Testimony",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "5",
+        "title": "Miscellaneous Items",
+        "description": "Approval of Panel B Minutes – November 20, 2024",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Case Docket",
+        "description": "Uncontested Items, Holdover Items, Individual Items",
+        "presenter": "Board of Adjustment",
+        "action_required": null
+      },
+      {
+        "item_number": "7",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Board of Adjustment",
+      "Dallas",
+      "Public Hearing",
+      "Case Docket",
+      "Variance",
+      "Special Exception",
+      "Setback Regulations",
+      "Fence Regulations",
+      "Public Testimony",
+      "Minutes Approval",
+      "Uncontested Items",
+      "Holdover Items",
+      "Executive Session",
+      "Accommodations",
+      "Video Conference"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 16361
+}

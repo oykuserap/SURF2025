@@ -1,0 +1,45 @@
+{
+  "agenda_identifier": "agenda_20250305_special",
+  "agenda_number": 20250305,
+  "source_file": "agenda_20250305_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 21, 2024",
+      "time": null,
+      "type": "Special Called Meeting",
+      "organization": "Examining And Appeals Board",
+      "location": "Dallas City Hall"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order.",
+        "description": "Call to Order.",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "4",
+        "title": "Briefing on  request for amendments to the  International Residential Code. \n\n\n\n         �;�  \n\n    ...",
+        "description": "Briefing on  request for amendments to the  International Residential Code. \n\n\n\n         �;�  \n\n          Mina \"Sam\" Eskander, P.E., CBO  \n\n          Deputy  Director/Chief Building Official  \n\n          Planning and Development Department",
+        "presenter": null,
+        "action_required": "Action"
+      }
+    ],
+    "keywords": [
+      "tif",
+      "approval",
+      "recommendation",
+      "development",
+      "planning"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 5094
+}

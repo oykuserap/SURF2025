@@ -1,0 +1,71 @@
+{
+  "agenda_identifier": "agenda_20231114_regular",
+  "agenda_number": 20231114,
+  "source_file": "agenda_20231114_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 14, 2023",
+      "time": "11:30 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Building Inspection Advisory, Examining and Appeals Board",
+      "location": "Dallas Public Library – Downtown Community Showcase Room, 1st Floor, 1515 Young Street, Dallas TX 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Review and approval of the Minutes from the June 6, 2023, Meeting",
+        "description": null,
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Appeal of Building Official decision regarding Cityplace, Alternate Materials and Methods Use of Special Application Window Sprinkler",
+        "description": null,
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "4",
+        "title": "Appeal of Building Official decision regarding the application for Building Permit for 1140 W. Wheatland Rd.",
+        "description": null,
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "5",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Building Inspection",
+      "Appeals",
+      "Cityplace",
+      "Building Permit",
+      "Dallas Public Library",
+      "Community Showcase Room",
+      "Executive Session",
+      "Minutes Approval",
+      "Regulatory Decisions",
+      "Public Participation"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9536
+}

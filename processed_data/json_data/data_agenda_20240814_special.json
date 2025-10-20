@@ -1,0 +1,56 @@
+{
+  "agenda_identifier": "agenda_20240814_special",
+  "agenda_number": 20240814,
+  "source_file": "agenda_20240814_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 14, 2024",
+      "time": "11:05 AM",
+      "type": "Special Called Meeting",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; Virtual via Webex"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Department of Planning and Development"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "PH1",
+        "title": "Street Name Change",
+        "description": "A public hearing to receive comments and to approve an ordinance granting a request to change the name of S. Central Expressway (SH 310/US 175) between C .F. Hawn Freeway (US 175) and Al Lipscomb Way to 'S.M. Wright Freeway (FWY)'",
+        "presenter": "Department of Planning and Development",
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "Special Called Meeting",
+      "Street Name Change",
+      "Public Hearing",
+      "Ordinance",
+      "S.M. Wright Freeway",
+      "C.F. Hawn Freeway",
+      "S. Central Expressway",
+      "General Fund",
+      "Financing",
+      "City Hall",
+      "Videoconference",
+      "Public Participation",
+      "City Secretary",
+      "Meeting Procedures"
+    ],
+    "financial_items": [
+      {
+        "description": "Financing for the street name change ordinance",
+        "amount": "$29,608.00",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 19416
+}

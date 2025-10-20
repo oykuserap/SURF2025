@@ -1,0 +1,37 @@
+{
+  "agenda_identifier": "agenda_20240103_council",
+  "agenda_number": 20240103,
+  "source_file": "agenda_20240103_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 3, 2024",
+      "time": "9:00 AM",
+      "type": "Council Briefing",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, 1500 Marilla Street, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "City Council",
+      "Dallas",
+      "Council Briefing",
+      "meeting cancellation",
+      "executive session",
+      "litigation",
+      "real property",
+      "contract",
+      "public officer",
+      "security personnel",
+      "economic development",
+      "technology security"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 17279
+}

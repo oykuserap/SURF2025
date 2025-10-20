@@ -1,0 +1,68 @@
+{
+  "agenda_identifier": "agenda_20240917_special",
+  "agenda_number": 20240917,
+  "source_file": "agenda_20240917_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 17, 2024",
+      "time": "09:00 A.M.",
+      "type": "Special Meeting",
+      "organization": "Board of Adjustment",
+      "location": "Dallas City Hall, 6EN Council Chambers, and Videoconference"
+    },
+    "attendees": {
+      "chair": "David A. Neumann",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "David A. Neumann",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Testimony",
+        "description": "Public testimony regarding agenda items.",
+        "presenter": "Board of Adjustment",
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Miscellaneous Item",
+        "description": "Discussion of the consolidation of cases to a single panel of the Board of Adjustment where each is considered in a separate public hearing, arising out of the permitting issues in PD 67, Elm Thicket/Northpark between October 12, 2022 and August 31, 2024.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IV",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Board of Adjustment",
+      "Dallas City Hall",
+      "public testimony",
+      "permitting issues",
+      "Elm Thicket",
+      "Northpark",
+      "consolidation of cases",
+      "special meeting",
+      "videoconference",
+      "accessibility",
+      "executive session",
+      "public hearing",
+      "discussion",
+      "adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9510
+}

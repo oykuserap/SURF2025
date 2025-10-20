@@ -1,0 +1,100 @@
+{
+  "agenda_identifier": "agenda_20250113_planning",
+  "agenda_number": 20250113,
+  "source_file": "agenda_20250113_planning.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 13, 2025",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Workforce, Education, and Equity Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; also available via video conference"
+    },
+    "attendees": {
+      "chair": "Carolyn King Arnold",
+      "presenters": [
+        "Richard Perez",
+        "Demetria Robinson",
+        "Nina Arias",
+        "Carmel Fritz",
+        "Sonya Batts",
+        "Heather Wood",
+        "Laura Dizien",
+        "Jessica Galleshaw",
+        "Holly Holt",
+        "Correa Cruz"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the December 9, 2024 Workforce, Education, and Equity (WEE) Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Workforce Solutions Greater Dallas 2025 Updates",
+        "description": "Updates on the initiatives and progress of Workforce Solutions Greater Dallas.",
+        "presenter": "Richard Perez",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Upskilling Pilot Program Updates: Non-Uniform Security Officers",
+        "description": "Updates on the upskilling program for non-uniform security officers.",
+        "presenter": "Nina Arias",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Updates on Dr. Martin Luther King, Jr. Celebration Week Events 2025",
+        "description": "Overview of the events planned for the MLK Celebration Week.",
+        "presenter": "Jessica Galleshaw",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Updates on Office of Community Care and Empowerment (OCCE) Tax Assistance Programs",
+        "description": "Updates on tax assistance programs and upcoming agenda items.",
+        "presenter": "Jessica Galleshaw",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Workforce, Education, and Equity Committee Forecast",
+        "description": "Forecast of upcoming agenda items for the committee.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Workforce Solutions",
+      "Education",
+      "Equity",
+      "Tax Assistance",
+      "MLK Celebration",
+      "Upskilling",
+      "Community Care",
+      "Financial Empowerment",
+      "Job Fair",
+      "Diversity",
+      "Public Safety",
+      "Community Engagement",
+      "Economic Development",
+      "Training Programs",
+      "Employment"
+    ],
+    "financial_items": [
+      {
+        "description": "One-year service contract for tax assistance programs",
+        "amount": "$200,000",
+        "type": "contract"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 111719
+}

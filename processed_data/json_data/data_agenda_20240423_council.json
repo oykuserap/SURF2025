@@ -1,0 +1,60 @@
+{
+  "agenda_identifier": "agenda_20240423_council",
+  "agenda_number": 20240423,
+  "source_file": "agenda_20240423_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 23, 2024",
+      "time": "2:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Commission on Disabilities",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "John Kalkanli",
+      "presenters": [
+        "Baron Eliason",
+        "Cozea Stephens"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Chairman John Kalkanli, Mayor Appointee",
+        "presenter": "John Kalkanli",
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Officer Reports",
+        "description": "Chairman John Kalkanli will review the Autism Acceptance Month event on April 17, 2024, and discuss his fact-finding meeting at Mozee on April 10, 2024, regarding ADA compliant vehicles.",
+        "presenter": "John Kalkanli",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Briefings",
+        "description": "Chief Integrity Officer, Baron Eliason, will present on ethics, specifically code of conduct, civility, and decorum in meetings. Cozea Stephens will present on DAERG and possible opportunities for future collaborations.",
+        "presenter": "Baron Eliason, Cozea Stephens",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Commission on Disabilities",
+      "Regular Meeting",
+      "Autism Acceptance Month",
+      "ADA compliance",
+      "ethics",
+      "code of conduct",
+      "civility",
+      "collaboration",
+      "inclusion"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 72147
+}

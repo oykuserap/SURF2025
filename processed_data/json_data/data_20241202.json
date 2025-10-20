@@ -1,0 +1,107 @@
+{
+  "agenda_identifier": "agenda_20241202_hearing",
+  "agenda_number": 20241202,
+  "source_file": "agenda_20241202_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 2, 2024",
+      "time": "9:30 A.M. and 1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Landmark Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Evelyn Montgomery",
+      "presenters": [
+        "Christina Paress",
+        "Marcus Watson",
+        "Rhonda Dunn",
+        "Noel Aveton",
+        "Jordan August",
+        "Robert Lang",
+        "James McGee",
+        "Erick Drobinski",
+        "Vinnie Sherman",
+        "Richard Ewers",
+        "Jacob Wilson",
+        "Andy Igles",
+        "Jennifer Dent",
+        "Samuel Kitchens",
+        "David Ehrlicher",
+        "Laura Wiswall"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Evelyn Montgomery",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "November 4, 2024, regular meeting minutes",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Staff Reports/Briefings",
+        "description": "Historic Preservation",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Briefing Items",
+        "description": "Consent Items - Discussion Items",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Public Hearing",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Landmark Commission",
+      "Certificate of Appropriateness",
+      "Historic Preservation",
+      "Public Hearing",
+      "Dallas City Hall",
+      "Regular Meeting",
+      "Public Speakers",
+      "Minutes Approval",
+      "Staff Reports",
+      "Consent Items",
+      "Discussion Items",
+      "Adjournment",
+      "Executive Session",
+      "Accommodations",
+      "Videoconference"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 100472
+}

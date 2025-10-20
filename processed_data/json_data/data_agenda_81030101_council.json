@@ -1,0 +1,134 @@
+{
+  "agenda_identifier": "agenda_81030101_council",
+  "agenda_number": 81030101,
+  "source_file": "agenda_81030101_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 2, 2024",
+      "time": "12:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Dallas Area Partnership to End and Prevent Homelessness Local Government Corporation",
+      "location": "Dallas City Hall, 6ES, Council Briefing Room, 1500 Marilla St., Dallas TX 75201 or join by WebEx"
+    },
+    "attendees": {
+      "chair": "Cara Mendelsohn",
+      "presenters": [
+        "Cara Mendelsohn",
+        "Lakeysa Townsend",
+        "Christine Crossley",
+        "Dr. Theresa Daniel",
+        "Jesse Moreno"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call Meeting to Order and Roll Call",
+        "description": "Declare A Quorum Present and Declare Legal Notice Posted and Meeting Duly Called",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "2",
+        "title": "Public Comment",
+        "description": "Public comment with a 2-minute limit per speaker",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from April 4, 2024",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Update: Veterans Homelessness",
+        "description": "Update on veterans homelessness from Lakeysa Townsend",
+        "presenter": "Lakeysa Townsend",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "5",
+        "title": "Briefing Memo: Homeless Properties Update",
+        "description": "Update on homeless properties from Christine Crossley",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "6",
+        "title": "Discussion: USICH’s 19 Strategies for Communities",
+        "description": "Discussion on addressing encampments humanely and effectively",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "7",
+        "title": "Update: Sanctioned Encampment Research and Committee Direction",
+        "description": "Update from Council Member Jesse Moreno",
+        "presenter": "Jesse Moreno",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "8",
+        "title": "Committee Report: System Performance",
+        "description": "Report on system performance from Dr. Theresa Daniel",
+        "presenter": "Dr. Theresa Daniel",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "9",
+        "title": "Discussion: Date - Big Dreams Initiatives Party",
+        "description": "Discussion on DISD initiatives",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "10",
+        "title": "Discussion: June Summit - DAPEH",
+        "description": "Discussion on the June summit",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "11",
+        "title": "Proposed Items for Next/Future Meetings",
+        "description": "No discussion, debate, and/or vote",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "12",
+        "title": "Announcements of Upcoming Events and Meetings",
+        "description": "Announcements regarding future meetings",
+        "presenter": "Housing and Homelessness Solutions Committee",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "13",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": "adjourn"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Homelessness",
+      "Public Comment",
+      "Veterans",
+      "Encampments",
+      "Committee Report",
+      "System Performance",
+      "June Summit",
+      "Future Meetings",
+      "Housing Solutions",
+      "Public Health Protocols"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8978
+}

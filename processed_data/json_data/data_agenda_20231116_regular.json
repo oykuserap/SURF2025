@@ -1,0 +1,57 @@
+{
+  "agenda_identifier": "agenda_20231116_regular",
+  "agenda_number": 20231116,
+  "source_file": "agenda_20231116_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 16, 2023",
+      "time": "4:30 P. M.",
+      "type": "Regular Meeting",
+      "organization": "Arts and Culture Advisory Commission",
+      "location": "Dallas City Hall, 6FN - Park and Recreation Board Room and Videoconference, 1500 Marilla Street"
+    },
+    "attendees": {
+      "chair": "David Small",
+      "presenters": [
+        "David Small",
+        "Curtis King",
+        "Martine Philippe",
+        "Jim Nugent",
+        "Vicki Meek"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the October 19, 2023, Arts and Culture Advisory Commission meeting minutes",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Approval of Calendar Year 2024 Arts and Culture Advisory Commission Meeting Dates",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "Arts and Culture",
+      "Commission",
+      "Meeting Minutes",
+      "Calendar Year 2024",
+      "Chair's Report",
+      "Cultural Spotlight",
+      "Director's Update",
+      "Annual Reports Committee",
+      "Facility Support",
+      "Public Speakers",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10812
+}

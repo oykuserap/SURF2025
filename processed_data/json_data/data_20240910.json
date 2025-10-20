@@ -1,0 +1,71 @@
+{
+  "agenda_identifier": "agenda_20240910_special",
+  "agenda_number": 20240910,
+  "source_file": "agenda_20240910_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 10, 2024",
+      "time": "9:30:00 A.M.",
+      "type": "Special Called Meeting",
+      "organization": "Civil Service Board",
+      "location": "Dallas City Hall, Room #1 C- South and Videoconference"
+    },
+    "attendees": {
+      "chair": "Jarred D. Davis, MS, Sr. CAAP",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approve minutes from the August 6, 2024, Regular Civil Service Board Meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V.a",
+        "title": "FY 25 Departmental Priorities",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V.b",
+        "title": "Sworn Promotional Forecast",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V.c",
+        "title": "Civil Services Rules Revision Update",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V.d",
+        "title": "Department Updates and Announcements",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Civil Service Board",
+      "Special Called Meeting",
+      "Dallas City Hall",
+      "Approval of Minutes",
+      "Departmental Priorities",
+      "Promotional Forecast",
+      "Rules Revision",
+      "Updates",
+      "Announcements",
+      "Public Speakers"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8528
+}

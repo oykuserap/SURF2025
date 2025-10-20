@@ -1,0 +1,35 @@
+{
+  "agenda_identifier": "agenda_20231114_council",
+  "agenda_number": 20231114,
+  "source_file": "agenda_20231114_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 14, 2023",
+      "time": "4:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Municipal Library Board",
+      "location": "Council Chambers, 6th Floor, 1500 Marilla Street, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "executive session",
+      "litigation",
+      "real property",
+      "contract",
+      "employment",
+      "security",
+      "financial information",
+      "economic development",
+      "business prospect",
+      "incentive"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 3461
+}

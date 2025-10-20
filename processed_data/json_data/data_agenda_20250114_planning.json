@@ -1,0 +1,80 @@
+{
+  "agenda_identifier": "agenda_20250114_planning",
+  "agenda_number": 20250114,
+  "source_file": "agenda_20250114_planning.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 14, 2025",
+      "time": "5:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas",
+      "location": "Central Library, 1515 Young St. Dallas, TX 75201, Board Room, 2nd floor, Video Conference Link: https://dallascityhall.webex.com/dallascityhall/j.php?MTID=m60070c37c59f1291a081e1e1a1cb8705"
+    },
+    "attendees": {
+      "chair": "Temporary Chair",
+      "presenters": [
+        "Heather Lowe"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Call to order by the Temporary Chair.",
+        "presenter": "Temporary Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "Opportunity for public speakers to address the meeting.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from the meeting on November 19, 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Reports of Officers, Boards, Standing Committees",
+        "description": "Chair’s Report including the 2024 Annual Report Review/Approval.",
+        "presenter": "Temporary Chair",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Staff Reports/Briefings",
+        "description": "Director’s Report including discussion on Inclement Weather.",
+        "presenter": "Heather Lowe, Director(I)",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Adjournment",
+        "description": "Formal closing of the meeting.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "City Planning",
+      "Public Speakers",
+      "Approval of Minutes",
+      "Chair’s Report",
+      "Annual Report",
+      "Staff Reports",
+      "Inclement Weather",
+      "Adjournment",
+      "Meeting"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9173
+}

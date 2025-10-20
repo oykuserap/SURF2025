@@ -1,0 +1,88 @@
+{
+  "agenda_identifier": "agenda_20241119_youth",
+  "agenda_number": 20241119,
+  "source_file": "agenda_20241119_youth.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 19th, 2024",
+      "time": "6:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas",
+      "location": "Dallas City Hall, 6ES and Videoconference"
+    },
+    "attendees": {
+      "chair": "Commissioner Hawkins",
+      "presenters": [
+        "Commissioner Hawkins",
+        "Commissioner Okon",
+        "Commissioner Martinez",
+        "Commissioner Tamfu",
+        "Commissioner Nelson",
+        "Commissioner Moreno"
+      ],
+      "participants": [
+        "Taylor Moody"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": null,
+        "presenter": "Commissioner Hawkins",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Approval of Minutes",
+        "description": "(Oct 2024)",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "III",
+        "title": "Staff Reports/Briefings/Special Committees",
+        "description": "Survey Updates/Strategy Testing, Town Hall Debrief, Thanksgiving Event Updates, YC-wide retreat Date Release, Dallas Youth Scholarship Gala Night, Candidate Forum Event Debrief, Environmental Youth Town Hall",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IV",
+        "title": "Unfinished Business/General Orders",
+        "description": "Reading of Deadlines and Tasks",
+        "presenter": "Commissioner Okon",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Announcements",
+        "description": null,
+        "presenter": "Taylor Moody",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "City Hall",
+      "Commissioner Hawkins",
+      "Approval of Minutes",
+      "Staff Reports",
+      "Thanksgiving Event",
+      "Youth Scholarship",
+      "Candidate Forum",
+      "Environmental Youth",
+      "Announcements",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 4093
+}

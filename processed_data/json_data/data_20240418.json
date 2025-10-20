@@ -1,0 +1,57 @@
+{
+  "agenda_identifier": "agenda_20240418_special",
+  "agenda_number": 20240418,
+  "source_file": "agenda_20240418_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 18, 2024",
+      "time": "5:00 PM",
+      "type": "Special Called Meeting",
+      "organization": "City Plan Commission",
+      "location": "Council Chambers, 6th Floor, 1500 Marilla Street, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": "Tony Shidid",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Welcome",
+        "description": "",
+        "presenter": "Tony Shidid",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Public Hearing",
+        "description": "To receive public comments (Virtual and In-Person) on the ForwardDallas 2.0 Draft Plan.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "City Plan Commission",
+      "Special Called Meeting",
+      "ForwardDallas 2.0",
+      "Public Hearing",
+      "Comments",
+      "Virtual",
+      "In-Person",
+      "Adjournment",
+      "Agenda"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 18219
+}

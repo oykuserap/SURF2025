@@ -1,0 +1,129 @@
+{
+  "agenda_identifier": "agenda_20240711_hearing",
+  "agenda_number": 20240711,
+  "source_file": "agenda_20240711_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "July 11, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City Plan Commission",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Emily Liu, FAICP, Director, Planning and Development",
+        "Lawrence Agu, III, AICP, Assoc AIA, Planning and Development",
+        "Patrick Blaydes, Planning and Development"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Update on the new Planning and Development Department",
+        "description": "Briefing on the new Planning and Development Department.",
+        "presenter": "Emily Liu, FAICP, Director, Planning and Development",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "2",
+        "title": "Briefing on the ForwardDallas Comprehensive Land Use Plan",
+        "description": "Draft Plan Updates and CPC Review Schedule.",
+        "presenter": "Lawrence Agu, III, AICP, Assoc AIA, Planning and Development",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Zoning Case - Consent",
+        "description": "Application for a GR General Retail Subdistrict on property zoned a P Parking Subdistrict.",
+        "presenter": "Monick Gandhi, Dazzling Homes Corporation",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Zoning Case - Consent",
+        "description": "Application for a CR Community Retail District on property zoned an R-10(A) Single Family District.",
+        "presenter": "Kanti Suresh Shetty",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Zoning Case - Consent",
+        "description": "Application for an MU-1 Mixed Use District on property zoned an R-7.5(A) Single Family District.",
+        "presenter": "Kent Carter",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Zoning Case - Consent",
+        "description": "Application for a NS(A) Neighborhood Service District on property zoned Planned Development No. 532.",
+        "presenter": "Mike Arreguin",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Zoning Case - Consent",
+        "description": "Application for an MF-2(A) Multifamily District on property zoned an RR Regional Retail District.",
+        "presenter": "Generation Housing Partners, LLC",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Zoning Case - Consent",
+        "description": "Application for a TH-3(A) Townhouse Subdistrict on property zoned an R-5(A) Single Family Subdistrict.",
+        "presenter": "Anish Thakrar",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "Zoning Case - Consent",
+        "description": "Application for a TH-3(A) Townhouse District on property zoned an LO-1 Limited Office District.",
+        "presenter": "The Javelin Group, LLC",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Zoning Case - Consent",
+        "description": "Application for a CS Commercial Service District on property zoned an A(A) Agricultural District.",
+        "presenter": "Barranco Properties, LLC",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "31",
+        "title": "Authorization of a Hearing",
+        "description": "Consideration of a public hearing to determine the proper zoning on property zoned Planned Development District No. 842.",
+        "presenter": null,
+        "action_required": "authorize hearing"
+      },
+      {
+        "item_number": "32",
+        "title": "Forward Dallas Public Hearing",
+        "description": "Public hearing to receive comments on the ForwardDallas 2.0 comprehensive plan.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "City Plan Commission",
+      "Zoning",
+      "Public Hearing",
+      "ForwardDallas",
+      "Planning and Development",
+      "General Retail",
+      "Community Retail",
+      "Mixed Use",
+      "Neighborhood Service",
+      "Multifamily District",
+      "Townhouse District",
+      "Commercial Service",
+      "Public Testimony",
+      "Minutes Approval",
+      "Consent Items"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 48839
+}

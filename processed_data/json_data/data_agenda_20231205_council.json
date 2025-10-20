@@ -1,0 +1,75 @@
+{
+  "agenda_identifier": "agenda_20231205_council",
+  "agenda_number": 20231205,
+  "source_file": "agenda_20231205_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 5, 2023",
+      "time": "6:30 PM",
+      "type": "Regular Meeting",
+      "organization": "Charter Review Commission",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; Virtual via Webex"
+    },
+    "attendees": {
+      "chair": "The Honorable Rafael Anchia",
+      "presenters": [
+        "The Honorable Rafael Anchia",
+        "Doug Linkhart",
+        "Jake Anderson"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the November 14, 2023 Charter Review Commission Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "2014 Charter Review Commission Overview",
+        "description": "Overview of the 2014 Charter Review Commission.",
+        "presenter": "The Honorable Rafael Anchia",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "National Civic League Discussion of Charter Review Processes, Best Practices, and Philosophies",
+        "description": "Discussion led by Doug Linkhart on best practices in charter review.",
+        "presenter": "Doug Linkhart",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Consideration of a Charter Review Commission Vision Statement",
+        "description": "Discussion on the vision statement for the Charter Review Commission.",
+        "presenter": "Jake Anderson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Next Steps for Charter Amendment Review Process January- March 2024",
+        "description": "Discussion on the next steps for the charter amendment review process.",
+        "presenter": "Jake Anderson",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Charter Review",
+      "Dallas",
+      "Commission",
+      "Meeting Minutes",
+      "Overview",
+      "National Civic League",
+      "Best Practices",
+      "Vision Statement",
+      "Charter Amendment",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8633
+}

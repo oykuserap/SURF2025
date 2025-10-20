@@ -1,0 +1,68 @@
+{
+  "agenda_identifier": "agenda_20240227_special",
+  "agenda_number": 20240227,
+  "source_file": "agenda_20240227_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 27, 2024",
+      "time": "1:00 PM",
+      "type": "Special Called Meeting",
+      "organization": "Dallas City Council",
+      "location": "Council Chambers, 6th Floor, City Hall and via video conference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "T.C. Broadnax",
+        "Kimberly Tolbert",
+        "Tammy L. Palomino",
+        "Bilierae Johnson",
+        "Mark Swann"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "24-720",
+        "title": "Discussion of the resignation of City Manager",
+        "description": "Discussion of the resignation of City Manager, T.C. Broadnax, and a resolution appointing Kimberly Tolbert as Interim City Manager for the City of Dallas, effective at the close of business on June 3, 2024, to serve until the City Council selects and appoints the city manager.",
+        "presenter": "T.C. Broadnax",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "24-721",
+        "title": "Consideration and discussion regarding the search process for city manager",
+        "description": "Consideration and discussion regarding the search process for and hiring of a candidate for the position of city manager.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "24-722",
+        "title": "Discussion regarding performance evaluations",
+        "description": "Discussion regarding process and schedule for performance evaluations for City Attorney, Tammy L. Palomino, City Secretary, Bilierae Johnson, and City Auditor, Mark Swann.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "Special Called Meeting",
+      "City Manager",
+      "Interim City Manager",
+      "Kimberly Tolbert",
+      "T.C. Broadnax",
+      "performance evaluations",
+      "City Attorney",
+      "City Secretary",
+      "City Auditor",
+      "search process",
+      "hiring",
+      "executive session",
+      "public meeting",
+      "video conference"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 19931
+}

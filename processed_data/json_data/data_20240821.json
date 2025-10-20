@@ -1,0 +1,90 @@
+{
+  "agenda_identifier": "agenda_20240821_budget",
+  "agenda_number": 20240821,
+  "source_file": "agenda_20240821_budget.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 21, 2024",
+      "time": "9:00 AM",
+      "type": "Council Briefing",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes of the August 21, 2024 City Council Meeting",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Consideration of appointments to boards and commissions",
+        "description": "Evaluation and duties of board and commission members (List of nominees is available in the City Secretary's Office)",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "A",
+        "title": "2017 Bond Update and 2024 Bond Program Project Prioritization",
+        "description": "Presentation",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Health Benefits Budget Overview and Plan Design FY 2024 - 2025",
+        "description": "Presentation",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Dallas Police Department Overtime Projections & Reduction Options",
+        "description": "Presentation",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Dallas Fire-Rescue Department Overtime Projections & Reduction Options",
+        "description": "Presentation",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Real Estate",
+        "description": "Deliberate the purchase, exchange, lease, or value of real property located at 7800 Stemmons",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas City Council",
+      "Council Briefing",
+      "Budget Workshop",
+      "Appointments",
+      "Bond Update",
+      "Health Benefits",
+      "Police Department",
+      "Fire-Rescue Department",
+      "Overtime Projections",
+      "Real Estate",
+      "Executive Session",
+      "Public Participation",
+      "Virtual Meeting",
+      "City Hall",
+      "Texas"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 21510
+}

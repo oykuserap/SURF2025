@@ -1,0 +1,102 @@
+{
+  "agenda_identifier": "agenda_20240520_regular",
+  "agenda_number": 20240520,
+  "source_file": "agenda_20240520_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 20, 2024",
+      "time": "6:00 – 7:30 PM",
+      "type": "Regular Meeting",
+      "organization": "South Dallas Fair Park Opportunity Fund Board",
+      "location": "Dallas City Hall, Room # 6ES Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Leander Johnson",
+      "presenters": [
+        "Ahmad Gore",
+        "Brady Flanery"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Leander Johnson",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Approval of Minutes",
+        "description": "April 29, 2024 | SDFPOF Advisory Board Meeting",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "III",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Partnership Opportunities",
+        "description": "",
+        "presenter": "Ahmad Gore",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Update on 2024 Human Development Notice of Funding Availability (NOFA) Applicants",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "How Sub-Committees Can Function Inside SDFPOF Advisory Board",
+        "description": "",
+        "presenter": "Brady Flanery",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Discuss and Vote on Date for SDFPOF Advisory Board Tour",
+        "description": "",
+        "presenter": null,
+        "action_required": "vote"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Discuss Standardization for the SDFPOF NOFA Release Dates",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IX",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "South Dallas Fair Park",
+      "Opportunity Fund",
+      "Regular Meeting",
+      "Partnership Opportunities",
+      "Human Development",
+      "Funding Availability",
+      "Sub-Committees",
+      "Advisory Board",
+      "Standardization",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8857
+}

@@ -1,0 +1,35 @@
+{
+  "agenda_identifier": "agenda_20240305_regular",
+  "agenda_number": 20240305,
+  "source_file": "agenda_20240305_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 2, 2024",
+      "time": "9:30 A.M.",
+      "type": null,
+      "organization": "Civil Service Board",
+      "location": "1C South Board Room, 1st Floor at Dallas City Hall, 1500 Marilla Street, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "Civil Service Board",
+      "Dallas",
+      "public meeting",
+      "videoconference",
+      "City Hall",
+      "pandemic-related protocols",
+      "public health",
+      "meeting notice",
+      "agenda",
+      "handgun prohibition"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 3020
+}

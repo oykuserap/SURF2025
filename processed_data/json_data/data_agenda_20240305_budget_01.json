@@ -1,0 +1,84 @@
+{
+  "agenda_identifier": "agenda_20240305_budget_01",
+  "agenda_number": 20240305,
+  "source_file": "agenda_20240305_budget_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 5, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City Council Workforce, Education, and Equity Committee",
+      "location": "Council Chambers, 6th Floor, City Hall and via video conference"
+    },
+    "attendees": {
+      "chair": "Schultz",
+      "presenters": [
+        "Dr. Lindsey Wilson",
+        "Dr. Lisa Rainey",
+        "Lynn McBee",
+        "Joyce Williams",
+        "Genesis Gavino"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the February 12, 2024, Workforce, Education and Equity Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Update on Racial Equity Plan Strategies & Initiatives - Big Audacious Goals (BAGS) and Department Progress Measures as of February 2024",
+        "description": "An update on the strategies and initiatives related to racial equity.",
+        "presenter": "Dr. Lindsey Wilson, Director; Dr. Lisa Rainey, Equity Officer; Office of Equity and Inclusion",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Discussion of Mayor's Memo Regarding Community Input of the Workforce, Education, and Equity Committee’s Policy Areas",
+        "description": "Discussion on the Mayor's memo regarding community input.",
+        "presenter": "All committee discussion",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "January 2024 Update on Work Performance Measures for Workforce Dallas",
+        "description": "An update on work performance measures for Workforce Dallas.",
+        "presenter": "Lynn McBee, Workforce Dallas; Joyce Williams, Director of Small Business Center",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Update on Digital Equity Affordable Connectivity Program as of February 2024",
+        "description": "An update on the Digital Equity Affordable Connectivity Program.",
+        "presenter": "Genesis Gavino, Chief of Staff, City Manager’s Office",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "FORECAST",
+        "title": "Committee Forecast",
+        "description": "Forecast for upcoming committee activities.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Workforce",
+      "Education",
+      "Equity",
+      "Racial Equity",
+      "Community Input",
+      "Performance Measures",
+      "Digital Equity",
+      "Affordable Connectivity",
+      "City Council",
+      "Committee Meeting"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 23773
+}

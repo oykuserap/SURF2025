@@ -1,0 +1,167 @@
+{
+  "agenda_identifier": "agenda_20240801_regular",
+  "agenda_number": 20240801,
+  "source_file": "agenda_20240801_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 1, 2024",
+      "time": "10:00 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Park and Recreation Board",
+      "location": "Dallas City Hall, 6FN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Arun Agarwal",
+      "presenters": [
+        "Christina Turner-Noteware",
+        "Rachael Berry"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Arun Agarwal",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes – June 20, 2024",
+        "description": "",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.1",
+        "title": "Authorize an alcohol permit to Lee Ann Yarbor",
+        "description": "To serve alcohol at the USA Women’s Half Marathon to be held at T. P. Hill, located at 3240 West Lawther Road on September 21, 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.2",
+        "title": "Authorize an alcohol permit to Juan Contreras",
+        "description": "To serve alcohol at the Texas Latino Pride event to be held at Reverchon Park on September 14, 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.3",
+        "title": "Authorize acquisition from Revolver Investment",
+        "description": "Of approximately 9,000 square feet of improved land located at 902 South Waverly Drive for development of a future park.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.4",
+        "title": "Authorize the placement of a dedication plaque",
+        "description": "At the Paul D. Dyer Administration Building and Service Center located at 10031 East Northwest Highway.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.5",
+        "title": "Authorize an art installation on park property",
+        "description": "Located at 3400 Fairmont Avenue.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.6",
+        "title": "Authorize a public hearing on Chapter 12 City Youth Program Standards of Care",
+        "description": "To receive public comments on readopting and continuing in Chapter 12, 'City Youth Program Standards of Care.'",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV.7",
+        "title": "Authorize a two-year Interlocal Agreement",
+        "description": "With Dallas Independent School District to provide after school programs and conduct summer camp programs.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Planning & Design – Work Plan for Current Projects",
+        "description": "",
+        "presenter": "Christina Turner-Noteware",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Budget Development",
+        "description": "",
+        "presenter": "Rachael Berry",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "2024 Bond Program: Implementation Plan",
+        "description": "",
+        "presenter": "Christina Turner-Noteware",
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "Other/Non-Action Items",
+        "description": "Staff Announcements – Upcoming Park and Recreation Department Events.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Next Park Board meeting",
+        "description": "Scheduled for 10:00 am Thursday, August 15, 2024.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Park and Recreation Board",
+      "Regular Meeting",
+      "Alcohol Permit",
+      "Public Hearing",
+      "Land Acquisition",
+      "Dedication Plaque",
+      "Art Installation",
+      "Interlocal Agreement",
+      "Budget Development",
+      "2024 Bond Program",
+      "Public Speakers",
+      "Approval of Minutes",
+      "Upcoming Events",
+      "Equitable Meeting",
+      "Community Access"
+    ],
+    "financial_items": [
+      {
+        "description": "Estimated Revenue from alcohol permits for events",
+        "amount": "$250.00",
+        "type": "revenue"
+      },
+      {
+        "description": "Acquisition of land for future park development",
+        "amount": "$216,000.00",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12454
+}

@@ -1,0 +1,49 @@
+{
+  "agenda_identifier": "agenda_20250224_regular",
+  "agenda_number": 20250224,
+  "source_file": "agenda_20250224_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "February 24, 2025",
+      "time": null,
+      "type": "Meeting",
+      "organization": "Texas                             Advisory Board",
+      "location": "Dallas City Hall"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order/Welcome                                           Mrs. Clara Brown-Trimble, Chair  \n\n ...",
+        "description": "Call to Order/Welcome                                           Mrs. Clara Brown-Trimble, Chair  \n\n                                                                         MLK Advisory Board",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "2",
+        "title": "Invocation/Opening Statement",
+        "description": "Invocation/Opening Statement",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "3",
+        "title": "Advisory Board Member & City Staff Roll Call                    Mrs. LaRhonda Bacon, Supervisor  \n\n ...",
+        "description": "Advisory Board Member & City Staff Roll Call                    Mrs. LaRhonda Bacon, Supervisor  \n\n                                                                         MLK Jr. Community Center",
+        "presenter": null,
+        "action_required": "Action"
+      }
+    ],
+    "keywords": [
+      "approval",
+      "public"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9821
+}

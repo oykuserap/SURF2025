@@ -1,0 +1,76 @@
+{
+  "agenda_identifier": "agenda_20240905_planning",
+  "agenda_number": 20240905,
+  "source_file": "agenda_20240905_planning.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "September 05, 2024",
+      "time": "6:00 P.M.",
+      "type": "Monthly Meeting",
+      "organization": "Community Development Commission (CDC)",
+      "location": "Dallas City Hall, Conference Room 6ES, Videoconference"
+    },
+    "attendees": {
+      "chair": "Melanie Rubin",
+      "presenters": [
+        "Chan Williams",
+        "Victor Salazar",
+        "Zhen Barrientos"
+      ],
+      "participants": [
+        "Community Development Coordinator",
+        "Budget and Management Services Department"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of the August 1, 2024 Community Development Commission Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Community Development Division Report",
+        "description": "This report may include general greetings and acknowledgements to staff, commission members and other members of the public; introduction of new commission members; additions/changes to committee assignments, scheduling of committee meetings and consideration of future agenda item.",
+        "presenter": "Budget & Management Services (BMS)",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Chair’s Report",
+        "description": "This report may include general greetings and acknowledgements to staff, commission members and other members of the public; introduction of new commission members; additions/changes to committee assignments, scheduling of committee meetings and consideration of future agenda item.",
+        "presenter": "Melanie Rubin",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Vice Chair’s Report",
+        "description": "This report includes general acknowledgements to staff, commission members and members of the public.",
+        "presenter": "Zhen Barrientos",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Community Development",
+      "Commission",
+      "Meeting Minutes",
+      "Budget",
+      "Management Services",
+      "Reports",
+      "Public Speakers",
+      "Announcements",
+      "Chair's Report",
+      "Vice Chair's Report",
+      "Dallas City Hall",
+      "Videoconference",
+      "Accommodations",
+      "Executive Session",
+      "Community Events"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 13353
+}

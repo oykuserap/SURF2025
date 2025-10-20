@@ -1,0 +1,90 @@
+{
+  "agenda_identifier": "agenda_20250311_regular",
+  "agenda_number": 20250311,
+  "source_file": "agenda_20250311_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 11, 2025",
+      "time": null,
+      "type": "Regular Meeting",
+      "organization": "City of Dallas",
+      "location": "Dallas City Hall"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "113",
+        "title": "finalización        de        la        reunión         en \n\n                                       ...",
+        "description": "finalización        de        la        reunión         en \n\n                                                               https://dallastx.new.swagit.com/views/",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "1",
+        "title": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or a...",
+        "description": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or any  \n\n     matter  in  which  the  duty  of  the  attorney  to  the  Corporation  under  the  Texas  Disciplinary  Rules  of  \n\n     Professional Conduct of the State Bar of Texas clearly conflicts with the Texas Open Meetings Act.  \n\n     [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "2",
+        "title": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open mee...",
+        "description": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open meeting  \n\n     would have a detrimental effect on the position of the city in negotiations with a third person. [Tex. Govt.  \n\n     Code §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "3",
+        "title": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in...",
+        "description": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in an open  \n\n     meeting would have a detrimental effect on the position of the city in negotiations with a third person.  \n\n     [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "4",
+        "title": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal...",
+        "description": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal of  \n\n     a public officer or employee; or to hear a complaint or charge against an officer or employee unless the  \n\n     officer or employee who is the subject of the deliberation or hearing requests a public hearing. [Tex.  \n\n     Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "5",
+        "title": "deliberating the deployment, or specific occasions for implementation, of security personnel or devi...",
+        "description": "deliberating the deployment, or specific occasions for implementation, of security personnel or devices.  \n\n     [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "6",
+        "title": "discussing or deliberating commercial or financial information that the city has received from a bus...",
+        "description": "discussing or deliberating commercial or financial information that the city has received from a business  \n\n     prospect that the city seeks to have locate, stay or expand in or near the city and with which the city is  \n\n     conducting economic development negotiations; or deliberating the offer of a financial or other incentive  \n\n     to a business prospect. [Tex Govt . Code §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "7",
+        "title": "deliberating  security  assessments  or  deployments  relating  to  information  resources  technolo...",
+        "description": "deliberating  security  assessments  or  deployments  relating  to  information  resources  technology,  \n\n     network security information, or the deployment or specific occasions for implementations of security  \n\n     personnel, critical infrastructure, or security devices. [Tex Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
+      }
+    ],
+    "keywords": [
+      "tif",
+      "budget",
+      "approval",
+      "public",
+      "development",
+      "resolution",
+      "contract",
+      "agreement"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12167
+}

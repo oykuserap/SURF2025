@@ -1,0 +1,66 @@
+{
+  "agenda_identifier": "agenda_20250128_council",
+  "agenda_number": 20250128,
+  "source_file": "agenda_20250128_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 28, 2025",
+      "time": "2:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Commission on Disabilities",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference (Webex)"
+    },
+    "attendees": {
+      "chair": "John Kalkanli",
+      "presenters": [
+        "Al J. Rodriguez"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of the November 26, 2024, Commission on Disabilities Meeting Minutes",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Consideration to Approve FY 2024 Commission on Disabilities Annual Report",
+        "description": null,
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Chairman Report",
+        "description": "Chairman John Kalkanli (Mayor Appointee) Report",
+        "presenter": "John Kalkanli",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VIII",
+        "title": "National Federation of the Blind - an Overview",
+        "description": "President of the National Federation of the Blind – Dallas Chapter, Al J. Rodriguez, will provide an overview of the National Federation of the Blind",
+        "presenter": "Al J. Rodriguez",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Commission on Disabilities",
+      "Dallas City Hall",
+      "Regular Meeting",
+      "Approval of Minutes",
+      "Annual Report",
+      "Chairman Report",
+      "National Federation of the Blind",
+      "Public Comment",
+      "Executive Session",
+      "Equity and Inclusion"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9143
+}

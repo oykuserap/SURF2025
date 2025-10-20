@@ -1,0 +1,98 @@
+{
+  "agenda_identifier": "agenda_20231107_committee_01",
+  "agenda_number": 20231107,
+  "source_file": "agenda_20231107_committee_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 7, 2023",
+      "time": "9:00 AM",
+      "type": "Quality of Life, Arts, and Culture Committee Meeting",
+      "organization": "Dallas City Council",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX and via video conference"
+    },
+    "attendees": {
+      "chair": "Bazaldua",
+      "presenters": [
+        "Jill Haning",
+        "Daisy Fast",
+        "Sheila Gray",
+        "Sarah Standifer",
+        "Sally U. Wright",
+        "Dr. Griffin Cole",
+        "Dr. John Staniland",
+        "Professor Bruce Lanphear",
+        "Martine Philippe",
+        "Glenn Ayars",
+        "Julia Hosch",
+        "Melissa Webber",
+        "Paul Ramon",
+        "Sandy Castillo"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "Approval of the October 16, 2023 Quality of Life, Arts, and Culture Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B",
+        "title": "Certification of the Non-Profit Housing Organization Process",
+        "description": "Briefing on the certification process for non-profit housing organizations.",
+        "presenter": "Jill Haning",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "311 Updates",
+        "description": "Updates regarding the 311 customer service operations.",
+        "presenter": "Daisy Fast, Sheila Gray",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Community Water Fluoridation in Dallas, Texas-Part 2",
+        "description": "Discussion on the community water fluoridation program.",
+        "presenter": "Sarah Standifer, Sally U. Wright, Dr. Griffin Cole, Dr. John Staniland, Professor Bruce Lanphear",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "FY 2023-2024 Cultural Organizations Program Contracts",
+        "description": "Discussion on contracts for cultural organizations for the fiscal year.",
+        "presenter": "Martine Philippe, Glenn Ayars, Julia Hosch",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Dangerous & Aggressive Dogs Audit and Ordinance Amendments",
+        "description": "Discussion on the audit and proposed amendments regarding dangerous and aggressive dogs.",
+        "presenter": "Melissa Webber, Paul Ramon, Sandy Castillo",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Quality of Life",
+      "Arts",
+      "Culture",
+      "Dallas City Council",
+      "Non-Profit Housing",
+      "311 Customer Service",
+      "Water Fluoridation",
+      "Cultural Organizations",
+      "Dangerous Dogs",
+      "Ordinance Amendments",
+      "Committee Meeting",
+      "Public Participation",
+      "Executive Session",
+      "Video Conference",
+      "City Hall"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 19979
+}

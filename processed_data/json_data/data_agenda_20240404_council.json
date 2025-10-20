@@ -1,0 +1,124 @@
+{
+  "agenda_identifier": "agenda_20240404_council",
+  "agenda_number": 20240404,
+  "source_file": "agenda_20240404_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 4, 2024",
+      "time": "12:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Dallas Area Partnership to End and Prevent Homelessness Local Government Corporation",
+      "location": "Dallas City Hall, 6ES, Council Briefing Room, 1500 Marilla St., Dallas TX 75201 or join by WebEx"
+    },
+    "attendees": {
+      "chair": "Cara Mendelsohn",
+      "presenters": [
+        "Eric Samuels",
+        "Anja Taylor",
+        "Christine Crossley",
+        "Sarah Kahn",
+        "Dr. Theresa Daniel"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call Meeting to Order and Roll Call",
+        "description": "Declare A Quorum Present and Declare Legal Notice Posted and Meeting Duly Called",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "2",
+        "title": "Public Comment",
+        "description": "Public comment with a 2-minute limit per speaker",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "Approval of Minutes – March 7, 2024",
+        "description": "Approval of the minutes from the previous meeting",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Presentation: Texas Homeless Networks Data",
+        "description": "Presentation on data from Texas Homeless Network",
+        "presenter": "Eric Samuels, Anja Taylor",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "5",
+        "title": "Questions: Homeless Response System Quarterly Report",
+        "description": "Discussion on the quarterly report presented on March 25, 2024",
+        "presenter": "Christine Crossley, Sarah Kahn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "6",
+        "title": "Revision/Draft Distribution: Articles of Incorporation / Bylaws",
+        "description": "Discussion on the revision and distribution of articles and bylaws",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "7",
+        "title": "Committee Report: System Performance",
+        "description": "Report on system performance",
+        "presenter": "Dr. Theresa Daniel",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "8",
+        "title": "Discussion: Big Dreams – Dallas ISD Initiatives",
+        "description": "Discussion on Dallas ISD initiatives",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "9",
+        "title": "Proposed Items for Next/Future Meetings",
+        "description": "Discussion on proposed items for future meetings",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "10",
+        "title": "Announcements of Upcoming Events and Meetings",
+        "description": "Announcements regarding future events and meetings",
+        "presenter": "Dallas Area Partnership to End and Prevent Homelessness Local Government Corporation",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "11",
+        "title": "Adjournment",
+        "description": "Closing of the meeting",
+        "presenter": null,
+        "action_required": "adjourn"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Homelessness",
+      "Partnership",
+      "Meeting",
+      "Public Comment",
+      "Approval of Minutes",
+      "Texas Homeless Network",
+      "Quarterly Report",
+      "Bylaws",
+      "Dallas ISD",
+      "Future Meetings",
+      "Announcements",
+      "System Performance",
+      "Articles of Incorporation",
+      "Pandemic Protocols"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8629
+}

@@ -1,0 +1,163 @@
+{
+  "agenda_identifier": "agenda_20240620_hearing",
+  "agenda_number": 20240620,
+  "source_file": "agenda_20240620_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 20, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City Plan Commission",
+      "location": "City Hall, 1500 Marilla Street, Dallas, Texas; Videoconference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Lawrence Agu, III, AICP, Assoc AIA",
+        "Patrick Blaydes",
+        "Giahanna Bridges",
+        "Connor Roberts",
+        "LeQuan Clinton",
+        "Audra Buckley",
+        "Wilson Kerr",
+        "Michael V. Pepe",
+        "Oscar Aguilera"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes of the May 2, 2024 City Plan Commission Hearing, May 9, 2024 Special Called City Plan Commission ForwardDallas Meeting, May 16, 2024 City Plan Commission Hearing, and the June 6, 2024 City Plan Commission Hearing.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Zoning Case - Consent",
+        "description": "An application for a Specific Use Permit for a multiple-family use on property zoned an I-2 Industrial Subdistrict within Planned Development District No. 193.",
+        "presenter": "Giahanna Bridges",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Zoning Case - Consent",
+        "description": "An application for an amendment to Tract 6A within Planned Development District No. 170.",
+        "presenter": "Connor Roberts",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Zoning Case - Consent",
+        "description": "An application for an amendment to Planned Development District No. 1098.",
+        "presenter": "LeQuan Clinton",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Zoning Case - Consent",
+        "description": "An application for a Specific Use Permit for a body piercing studio and a tattoo studio.",
+        "presenter": "Connor Roberts",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Zoning Case - Consent",
+        "description": "An application for a Specific Use Permit for a bar, lounge, or tavern.",
+        "presenter": "Wilson Kerr",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Zoning Case - Consent",
+        "description": "An application for a Specific Use Permit for an alcoholic beverage establishment.",
+        "presenter": "Wilson Kerr",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Zoning Case - Under Advisement",
+        "description": "An application for a Specific Use Permit for an electrical substation.",
+        "presenter": "Martin Bate",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "9",
+        "title": "Zoning Case - Individual",
+        "description": "An application for a Planned Development District for MU-2 Mixed Use District uses.",
+        "presenter": "Jennifer Muñoz",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Zoning Case - Individual",
+        "description": "An application for a Planned Development District for specific residential and nonresidential uses.",
+        "presenter": "Liliana Garza",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "11",
+        "title": "Zoning Case - Individual",
+        "description": "An application for a new subdistrict for SC Shopping Center District uses.",
+        "presenter": "Michael V. Pepe",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "12",
+        "title": "Special Provision Sign District",
+        "description": "An application to create a new subdistrict, MKT Subdistrict, within the West End Historic Sign District.",
+        "presenter": "Oscar Aguilera",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "13",
+        "title": "Subdivision Case - Consent",
+        "description": "An application to create 14 residential lots from a 4.618-acre tract of land.",
+        "presenter": "Hema Sharma",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "14",
+        "title": "Subdivision Case - Consent",
+        "description": "An application to create one 0.344-acre lot from a tract of land.",
+        "presenter": "Hema Sharma",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "15",
+        "title": "Subdivision Case - Consent",
+        "description": "An application to create one 0.602-acre lot and one 1.747-acre lot.",
+        "presenter": "Hema Sharma",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "16",
+        "title": "Street Name Change",
+        "description": "An application to change S. Central Expressway to 'S.M. Wright Freeway'.",
+        "presenter": "Hema Sharma",
+        "action_required": "approve"
+      }
+    ],
+    "keywords": [
+      "City Plan Commission",
+      "Zoning",
+      "Subdivision",
+      "Public Hearing",
+      "Specific Use Permit",
+      "Planned Development District",
+      "Street Name Change",
+      "Approval of Minutes",
+      "Public Testimony",
+      "Land Use Plan",
+      "Dallas",
+      "Urban Design",
+      "Community Retail",
+      "Residential Lots",
+      "Historic Sign District"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 32117
+}

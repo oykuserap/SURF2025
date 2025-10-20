@@ -1,0 +1,94 @@
+{
+  "agenda_identifier": "agenda_20240603_committee",
+  "agenda_number": 20240603,
+  "source_file": "agenda_20240603_committee.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "June 3, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Parks, Trails, and the Environment Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Moreno",
+      "presenters": [
+        "Clifford Sparks",
+        "John Jenkins",
+        "Rachel Berry",
+        "Majed A. Al-Ghafry",
+        "Christina Turner-Noteware",
+        "Kathryn Bazan"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the May 6, 2024 Parks, Trails and Environment Committee Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "State Legislative Priorities",
+        "description": "Discussion on the state legislative priorities.",
+        "presenter": "Clifford Sparks",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Parks and Recreation Department Budget Briefing",
+        "description": "Briefing on the budget for the Parks and Recreation Department.",
+        "presenter": "John Jenkins, Rachel Berry",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Smoking Ordinance Update",
+        "description": "Update on the smoking ordinance.",
+        "presenter": "Majed A. Al-Ghafry",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "CECAP Considerations for 2024 Bond Program",
+        "description": "Considerations for the 2024 Bond Program related to CECAP.",
+        "presenter": "Majed A. Al-Ghafry",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Parks and Recreation Department Bond Implementation Plan",
+        "description": "Discussion on the bond implementation plan for the Parks and Recreation Department.",
+        "presenter": "Christina Turner-Noteware",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "Environmental Commission Update",
+        "description": "Update from the Environmental Commission.",
+        "presenter": "Kathryn Bazan",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Parks",
+      "Trails",
+      "Environment",
+      "Budget",
+      "Legislation",
+      "Smoking Ordinance",
+      "Bond Program",
+      "Environmental Commission",
+      "City Council",
+      "Dallas",
+      "Meeting",
+      "Briefing"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 20599
+}

@@ -1,0 +1,160 @@
+{
+  "agenda_identifier": "agenda_20250123_hearing",
+  "agenda_number": 20250123,
+  "source_file": "agenda_20250123_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 23, 2025",
+      "time": "9:00 AM - 12:30 PM",
+      "type": "Regular Meeting",
+      "organization": "City Plan Commission",
+      "location": "Council Chambers, 6th Floor, Dallas City Hall, 1500 Marilla Street, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Lindsay Jackson, Senior Planner",
+        "Patrick Blaydes, Chief Planner",
+        "Connor Roberts",
+        "Andrew Ruegg, MASTERPLAN",
+        "Wilson Kerr",
+        "Martin Bate",
+        "LeQuan Clinton",
+        "Michael V. Pepe",
+        "David Martin",
+        "Elsi Thurman",
+        "Rob Baldwin",
+        "Christina Paress",
+        "Megan Wimer, AICP, CBO"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes of the December 5, 2024 City Plan Commission Hearing and the January 16, 2025 Special Called City Plan Commission Meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Zoning Case - Consent",
+        "description": "An application for the renewal of Specific Use Permit No. 2430 for a bail bonds office.",
+        "presenter": "Connor Roberts",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Zoning Case - Consent",
+        "description": "An application for the renewal of Specific Use Permit No. 2269 for the sale of alcoholic beverages.",
+        "presenter": "Connor Roberts",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Zoning Case - Consent",
+        "description": "An application for an amendment to and renewal of Specific Use Permit No. 2469 for the sale of alcoholic beverages.",
+        "presenter": "Wilson Kerr",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Zoning Case - Consent",
+        "description": "An application for the renewal of Specific Use Permit No. 1883 for the sale of alcoholic beverages.",
+        "presenter": "Connor Roberts",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Zoning Case - Consent",
+        "description": "An application for a Planned Development District for TH-3(A) Townhouse District uses.",
+        "presenter": "Martin Bate",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Zoning Case - Consent",
+        "description": "An application for an R-5(A) Single Family Subdistrict.",
+        "presenter": "LeQuan Clinton",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Zoning Case - Consent",
+        "description": "An application for an amendment to Planned Development District No. 975.",
+        "presenter": "Lori Levy, AICP",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "Zoning Case - Consent",
+        "description": "An application for an R-5(A) Single Family District.",
+        "presenter": "LeQuan Clinton",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Zoning Case - Consent",
+        "description": "An application for an amendment to Planned Development District No. 917.",
+        "presenter": "Michael V. Pepe",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "11",
+        "title": "Zoning Case - Consent",
+        "description": "An application for a Specific Use Permit for an alcoholic beverage establishment.",
+        "presenter": "Connor Roberts",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "12",
+        "title": "Zoning Case - Consent",
+        "description": "An application for an amendment to Planned Development No. 1112.",
+        "presenter": "Michael V. Pepe",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "48",
+        "title": "Authorized Hearing - Zoning Cases",
+        "description": "A City Plan Commission authorized hearing to determine the proper zoning on property zoned Subarea II in Conservation District No. 8.",
+        "presenter": "Megan Wimer, AICP, CBO",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "49",
+        "title": "Landmark Appeal",
+        "description": "An appeal of the Landmark Commission’s decision of denial without prejudice to install wood fence in front yard.",
+        "presenter": "Christina Paress",
+        "action_required": "deny without prejudice"
+      },
+      {
+        "item_number": "50",
+        "title": "Other Matters - Under Advisement",
+        "description": "FY 2023-24 City Plan Commission Annual Report and consideration of appointments to CPC committees.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "City Plan Commission",
+      "Zoning",
+      "Public Hearing",
+      "Specific Use Permit",
+      "Alcoholic Beverages",
+      "Townhouse District",
+      "Single Family District",
+      "Planned Development",
+      "Landmark Appeal",
+      "Annual Report",
+      "Committee Appointments",
+      "Public Testimony",
+      "Minutes Approval",
+      "Consent Items",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 72263
+}

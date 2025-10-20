@@ -1,0 +1,123 @@
+{
+  "agenda_identifier": "agenda_20240415_special",
+  "agenda_number": 20240415,
+  "source_file": "agenda_20240415_special.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "April 15, 2024",
+      "time": "1:00 PM",
+      "type": "Special Called Joint Meeting",
+      "organization": "Transportation and Infrastructure Committee/DART Board",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "Nadine Lee, President & CEO, Dallas Area Rapid Transit",
+        "Rodney Schlosser, DART Board of Directors City of Dallas",
+        "Robert Perez, Assistant City Manager, City of Dallas",
+        "Ali Hatefi, Director, Department of Public Works",
+        "Ghassan Khankarli, Ph.D., P.E., Director, Department of Transportation"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A 24-1309",
+        "title": "Approval of March 26, 2024 Transportation and Infrastructure Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B 24-1310",
+        "title": "DART Operations Update",
+        "description": "Update on the operations of the Dallas Area Rapid Transit.",
+        "presenter": "Nadine Lee, President & CEO, Dallas Area Rapid Transit",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C 24-1342",
+        "title": "DART Service Area Population & Sales Tax Trend",
+        "description": "Presentation on the population and sales tax trends in the DART service area.",
+        "presenter": "Rodney Schlosser, DART Board of Directors City of Dallas",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D 24-1338",
+        "title": "DART/City of Dallas Joint Initiatives Updates",
+        "description": "Updates on joint initiatives between DART and the City of Dallas.",
+        "presenter": "Robert Perez, Assistant City Manager, City of Dallas",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E 24-1319",
+        "title": "Infrastructure Fee Consideration Updates",
+        "description": "Updates regarding infrastructure fee considerations.",
+        "presenter": "Ali Hatefi, Director, Department of Public Works",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F 24-1320",
+        "title": "Monthly Update of Public Works Program Performance - March 2024",
+        "description": "Monthly performance update of the Public Works program.",
+        "presenter": "Ali Hatefi, Director, Department of Public Works",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G 24-1321",
+        "title": "Interagency Report",
+        "description": "Report from the Department of Transportation.",
+        "presenter": "Ghassan Khankarli, Ph.D., P.E., Director, Department of Transportation",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Transportation",
+      "Infrastructure",
+      "DART",
+      "Dallas",
+      "Public Works",
+      "Operations Update",
+      "Sales Tax",
+      "Joint Initiatives",
+      "Infrastructure Fee",
+      "Performance Update",
+      "Interagency Report"
+    ],
+    "financial_items": [
+      {
+        "description": "Supplemental Agreement No. 2 for construction phase services for the Lemmon Avenue Streetscape Enhancements Project",
+        "amount": "$250,000.00",
+        "type": "budget"
+      },
+      {
+        "description": "Supplemental Agreement No. 1 for soil testing and increased reimbursable expenses for Dallas Airport System Signage",
+        "amount": "$17,040.00",
+        "type": "budget"
+      },
+      {
+        "description": "Supplemental Agreement No. 7 for maintenance and repairs to Parking Garages A and B at Dallas Love Field",
+        "amount": "$214,453.00",
+        "type": "budget"
+      },
+      {
+        "description": "Settlement in lieu of proceeding further with condemnation for wastewater easement acquisition",
+        "amount": "$320,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Purchase of a Dulevo DC Tier 4 Bike Lane Sweeper",
+        "amount": "$248,865.43",
+        "type": "expenditure"
+      },
+      {
+        "description": "Construction services contract for the 2024 Sidewalk and Barrier Free Ramps Improvements Project",
+        "amount": "$18,613,300.00",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 32846
+}

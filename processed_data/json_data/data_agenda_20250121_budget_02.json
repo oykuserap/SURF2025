@@ -1,0 +1,146 @@
+{
+  "agenda_identifier": "agenda_20250121_budget_02",
+  "agenda_number": 20250121,
+  "source_file": "agenda_20250121_budget_02.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 21, 2025",
+      "time": "1:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Transportation and Infrastructure Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Narvaez",
+      "presenters": [
+        "Ghassan Khankarli, Ph.D., P.E.",
+        "Dev Rastogi",
+        "Molly Carroll",
+        "Paul Tomme"
+      ],
+      "participants": [
+        "Atkins",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Willis",
+        "Schultz",
+        "Johnson"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "A 25-252A",
+        "title": "Approval of the December 3, 2024 Transportation and Infrastructure Committee Meeting",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B 25-254A",
+        "title": "Dallas Bike Plan 2025: Status Update",
+        "description": "Status update on the Dallas Bike Plan 2025.",
+        "presenter": "Ghassan Khankarli, Ph.D., P.E.",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C 25-255A",
+        "title": "Summary of High-Speed Rail Trip to Japan November 2024",
+        "description": "Summary of the high-speed rail trip to Japan.",
+        "presenter": "Dev Rastogi, Molly Carroll",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D 25-275A",
+        "title": "Approve Amendments to Chapter 3, Article III of the DFW International Airport Code of Rules and Regulations",
+        "description": "Amendments to the DFW International Airport Code.",
+        "presenter": "Paul Tomme",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "E 25-258A",
+        "title": "Committee Forecast",
+        "description": "Forecast for upcoming committee activities.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Transportation",
+      "Infrastructure",
+      "Dallas Bike Plan",
+      "High-Speed Rail",
+      "DFW Airport",
+      "Committee Meeting",
+      "Public Works",
+      "Engineering Services",
+      "Urban Design",
+      "Grant Funding",
+      "Eminent Domain",
+      "City Council",
+      "Budget",
+      "Public Safety",
+      "Community Development"
+    ],
+    "financial_items": [
+      {
+        "description": "Acquisition of a drainage easement for the Kings Branch Culvert at Louisiana Project",
+        "amount": "$7,500.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Acquisition of a drainage easement for the Kings Branch Culvert at Woodin Project",
+        "amount": "$13,700.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Execution of an Airport Project Participation Agreement with TxDOT",
+        "amount": "$40,158.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Engineering services contract for the expansion of airside ramp space at Dallas Executive Airport",
+        "amount": "$223,950.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Supplemental Agreement for continued purchase of firewalls and equipment for the Department of Aviation",
+        "amount": "$769,922.51",
+        "type": "expenditure"
+      },
+      {
+        "description": "Professional engineering services contract for new sidewalks and traffic signal upgrades",
+        "amount": "$412,860.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Grant from HUD for Economic Development Initiative Community Project Funding",
+        "amount": "$2,000,000.00",
+        "type": "funding"
+      },
+      {
+        "description": "Advance Funding Agreement with TxDOT for Highway Safety Improvement Program grant",
+        "amount": "$5,342,996.93",
+        "type": "funding"
+      },
+      {
+        "description": "Notice of Intent to establish Quiet Zones along the DART Silver Line corridor",
+        "amount": null,
+        "type": "no cost consideration"
+      },
+      {
+        "description": "Amendment to the Advance Funding Agreement for intersection reconstruction",
+        "amount": "$24,780,000.00",
+        "type": "funding"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 35882
+}

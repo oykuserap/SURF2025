@@ -1,0 +1,177 @@
+{
+  "agenda_identifier": "agenda_20250128_regular",
+  "agenda_number": 20250128,
+  "source_file": "agenda_20250128_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 28, 2025",
+      "time": "12:00 PM",
+      "type": "Regular Meeting",
+      "organization": "Dallas Public Facility Corporation",
+      "location": "Dallas City Hall, Auditorium L1FN and Videoconference, 1500 Marilla Street, Dallas, TX 75201"
+    },
+    "attendees": {
+      "chair": "Keith Pomykal",
+      "presenters": [
+        "Keith Pomykal",
+        "Samuel McDaniel",
+        "Sam McDaniel",
+        "Trey Kostohryz",
+        "Summer Greathouse",
+        "Braxton Parsons",
+        "Victor Toledo",
+        "Alan Tallis",
+        "Kevin Winters"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order",
+        "description": "Call to order by the Board President.",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Roll Call",
+        "description": "Roll call conducted by the Assistant General Manager.",
+        "presenter": "Samuel McDaniel",
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Public Testimony",
+        "description": "Public comment(s) on items 4-17.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Approval of Minutes",
+        "description": "Discussion and approval of the minutes of December 17, 2024, DPFC Board Meeting.",
+        "presenter": "Keith Pomykal",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Community Announcements",
+        "description": "Announcements from the community.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "6",
+        "title": "Ethics Disclosures",
+        "description": "DPFC Board members should disclose any relationships with the projects on the agenda.",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      },
+      {
+        "item_number": "7",
+        "title": "Fencing and Security Discussion",
+        "description": "Discussion regarding the fencing and security for 9999 Technology Blvd, Dallas TX.",
+        "presenter": "Sam McDaniel; Jake Brown",
+        "action_required": null
+      },
+      {
+        "item_number": "8",
+        "title": "Term Sheet Negotiation",
+        "description": "Discussion and approval of a resolution authorizing the negotiation and execution of a Term Sheet for The Humphreys in partnership with Ethos Property Development, LLC.",
+        "presenter": "Sam McDaniel; Trey Kostohryz; Summer Greathouse; Braxton Parsons",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "DPFC Annual Report",
+        "description": "Discussion and Approval of the DPFC Annual Report.",
+        "presenter": "Sam McDaniel; Keith Pomykal",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Board Officer Elections",
+        "description": "Discussion and approval of DPFC Board officer elections.",
+        "presenter": "Keith Pomykal",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "11",
+        "title": "Staff Hiring Committee Report",
+        "description": "Monthly report of the DPFC Staff Hiring Committee.",
+        "presenter": "Victor Toledo",
+        "action_required": null
+      },
+      {
+        "item_number": "12",
+        "title": "DPFC-owned Property Reporting",
+        "description": "DPFC-owned property annual reporting.",
+        "presenter": "Sam McDaniel",
+        "action_required": null
+      },
+      {
+        "item_number": "13",
+        "title": "Finance Committee Meeting Briefing",
+        "description": "Discussion and Briefing of the Finance Committee meeting.",
+        "presenter": "Sam McDaniel; Alan Tallis",
+        "action_required": null
+      },
+      {
+        "item_number": "14",
+        "title": "Use of Excess Funds",
+        "description": "Discussion about the use of DPFC excess funds.",
+        "presenter": "Sam McDaniel; Alan Tallis",
+        "action_required": null
+      },
+      {
+        "item_number": "15",
+        "title": "Property Monitoring Procedures",
+        "description": "DPFC-owned property monitoring procedures briefing and discussion.",
+        "presenter": "Sam McDaniel; Alan Tallis",
+        "action_required": null
+      },
+      {
+        "item_number": "16",
+        "title": "DPFC Website Briefing",
+        "description": "DPFC Website briefing and discussion.",
+        "presenter": "Sam McDaniel; Kevin Winters",
+        "action_required": null
+      },
+      {
+        "item_number": "17",
+        "title": "Pipeline Report Briefing",
+        "description": "DPFC pipeline report briefing and discussion.",
+        "presenter": "Sam McDaniel",
+        "action_required": null
+      },
+      {
+        "item_number": "18",
+        "title": "Adjourn",
+        "description": "Adjournment of the meeting.",
+        "presenter": "Keith Pomykal",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas Public Facility Corporation",
+      "Board Meeting",
+      "Public Testimony",
+      "Minutes Approval",
+      "Ethics Disclosures",
+      "Fencing and Security",
+      "Term Sheet",
+      "Annual Report",
+      "Board Elections",
+      "Staff Hiring",
+      "Finance Committee",
+      "Excess Funds",
+      "Property Monitoring",
+      "Website Briefing",
+      "Pipeline Report"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 10667
+}

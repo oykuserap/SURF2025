@@ -1,0 +1,59 @@
+{
+  "agenda_identifier": "agenda_20250121_budget_01",
+  "agenda_number": 20250121,
+  "source_file": "agenda_20250121_budget_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 21, 2025",
+      "time": "11:00 AM",
+      "type": "Ad Hoc Committee Meeting",
+      "organization": "Ad Hoc Committee on Administrative Affairs",
+      "location": "Dallas City Hall, Council Chambers and via video conference"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Nina Arias"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of Minutes",
+        "description": "Approval of the minutes of the January 9, 2025 meeting of the Ad Hoc Committee on Administrative Affairs.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Propose Timeline for Performance Review",
+        "description": "Propose timeline to conduct the annual performance review for City Council Appointed Officials (City Attorney, City Secretary, City Manager, and Inspector General).",
+        "presenter": "Nina Arias",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Procurement Process for HR Consultant Services",
+        "description": "Consider recommendation to City Council to start procurement process for human resources consultant services for performance evaluations of City Council-appointed positions.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas City Hall",
+      "Ad Hoc Committee",
+      "Administrative Affairs",
+      "performance review",
+      "City Council",
+      "human resources",
+      "consultant services",
+      "evaluation",
+      "procurement",
+      "meeting minutes"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 19207
+}

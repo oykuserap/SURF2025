@@ -1,0 +1,86 @@
+{
+  "agenda_identifier": "agenda_20240118_regular",
+  "agenda_number": 20240118,
+  "source_file": "agenda_20240118_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 18, 2024",
+      "time": "9:00 A.M.",
+      "type": "Quarterly Meeting",
+      "organization": "Dallas Animal Advisory Commission",
+      "location": "Dallas City Hall, Auditorium L1F1; Video Conference: https://dallascityhall.webex.com/dallascityhall/j.php?MTID=mba1273885a74594c26a43561a02d5496"
+    },
+    "attendees": {
+      "chair": "Shelby Bobosky",
+      "presenters": [
+        "Shelby Bobosky",
+        "MeLissa Webber"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Shelby Bobosky",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": "Shelby Bobosky",
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from the meeting on October 19, 2023",
+        "presenter": "Shelby Bobosky",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "FY23 Annual Report Presentation and Discussion",
+        "description": "",
+        "presenter": "Shelby Bobosky",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Director’s Presentation and Discussion",
+        "description": "",
+        "presenter": "MeLissa Webber",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": "Shelby Bobosky",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Animal Advisory Commission",
+      "Quarterly Meeting",
+      "Public Speakers",
+      "Approval of Minutes",
+      "Annual Report",
+      "Director's Presentation",
+      "Shelby Bobosky",
+      "MeLissa Webber",
+      "Dallas City Hall",
+      "Video Conference",
+      "Accessibility",
+      "Executive Session",
+      "Community Engagement",
+      "Public Participation"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8828
+}

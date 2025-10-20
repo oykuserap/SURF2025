@@ -1,0 +1,116 @@
+{
+  "agenda_identifier": "agenda_20240104_planning",
+  "agenda_number": 20240104,
+  "source_file": "agenda_20240104_planning.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 4, 2024",
+      "time": "6:00 PM",
+      "type": "Monthly Meeting",
+      "organization": "Dallas Community Development Commission (CDC)",
+      "location": "City Hall, Conference Room 6ES / Video Conference"
+    },
+    "attendees": {
+      "chair": "Melanie Rubin",
+      "presenters": [
+        "Chan Williams, Assistant Director - BMS",
+        "Todd Howard, Chair"
+      ],
+      "participants": [
+        "Colbey Walker, Vice Chair",
+        "Community Development Coordinator"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": null,
+        "presenter": "Melanie Rubin, Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Roll Call",
+        "description": null,
+        "presenter": "Community Development Coordinator",
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Approval of Monthly Minutes",
+        "description": "Approval of minutes from December 7, 2023",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Community Development Division Report",
+        "description": "Updates regarding proposed committee meetings, agenda items, presentations, and updates for the Consolidated Plan.",
+        "presenter": "Chan Williams, Assistant Director - BMS",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Chair’s Report",
+        "description": "General greetings and acknowledgements to staff, commission members and other members of the public; introduction of new commission members; additions/changes to committee assignments.",
+        "presenter": "Melanie Rubin, Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Vice Chair’s Report",
+        "description": "General acknowledgements to staff, commission members and members of the public.",
+        "presenter": "Colbey Walker, Vice Chair",
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "CDC Financial Monitoring/Performance Standards Committee Report",
+        "description": "Vote on FY 2023-24 CDBG Extensions/Reprogramming Recommendations and Substantial Amendment No.1 to FY 2023-24 Annual Action Plan (HOME ARPA Grant Reallocation) Recommendations.",
+        "presenter": "Todd Howard, Chair",
+        "action_required": "vote"
+      },
+      {
+        "item_number": "IX",
+        "title": "Public Speakers",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Announcement",
+        "description": "Expressions of thanks, congratulations, or condolence; information about holiday schedules; honorary or salutary recognition.",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "XI",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Community Development",
+      "Commission",
+      "Monthly Meeting",
+      "HUD Budget",
+      "CDBG Extensions",
+      "Annual Action Plan",
+      "Public Speakers",
+      "Chair's Report",
+      "Vice Chair's Report",
+      "Financial Monitoring",
+      "Performance Standards",
+      "Announcements",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12899
+}

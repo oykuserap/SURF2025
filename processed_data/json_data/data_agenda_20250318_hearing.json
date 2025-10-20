@@ -1,0 +1,90 @@
+{
+  "agenda_identifier": "agenda_20250318_hearing",
+  "agenda_number": 20250318,
+  "source_file": "agenda_20250318_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 18, 2025",
+      "time": "10:30 A.M. and 1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "City Board of Adjustment (Panel A)",
+      "location": "Dallas City Hall, 6EN COUNCIL CHAMBER and Videoconference"
+    },
+    "attendees": {
+      "chair": "David A. Neumann",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "David A. Neumann",
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Staff Presentation/Briefing",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "3",
+        "title": "Public Hearing",
+        "description": "Board of Adjustment",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "4",
+        "title": "Public Testimony",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "5",
+        "title": "Miscellaneous Items",
+        "description": "Approval of Panel A Minutes – February 18, 2025",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Case Docket",
+        "description": "Uncontested Items, Holdover Items, Individual Items",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "7",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Board of Adjustment",
+      "Public Hearing",
+      "Variance",
+      "Special Exception",
+      "Fence Regulations",
+      "Setback Regulations",
+      "Minutes Approval",
+      "Public Testimony",
+      "Case Docket",
+      "Uncontested Items",
+      "Holdover Items",
+      "Individual Items",
+      "Accommodations",
+      "Executive Session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 15438
+}

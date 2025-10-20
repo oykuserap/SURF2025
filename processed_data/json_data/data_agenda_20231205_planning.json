@@ -1,0 +1,57 @@
+{
+  "agenda_identifier": "agenda_20231205_planning",
+  "agenda_number": 20231205,
+  "source_file": "agenda_20231205_planning.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 5, 2023",
+      "time": "2:00 p.m.",
+      "type": "Regular Meeting",
+      "organization": "TOD TIF District Board of Directors",
+      "location": "6DN Conference Room/Videoconference, Dallas City Hall - 1500 Marilla Street, Dallas TX 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "2",
+        "title": "Review and consideration of the meeting record from the October 30, 2023 meeting",
+        "description": "Review and consideration of the meeting record from the October 30, 2023 meeting of the TOD TIF District Board of Directors.",
+        "presenter": null,
+        "action_required": "Approval"
+      },
+      {
+        "item_number": "3",
+        "title": "Review and consideration of the TOD TIF District Annual Report for FY 2022-2023",
+        "description": "Review and consideration of the TOD TIF District Annual Report for FY 2022-2023.",
+        "presenter": null,
+        "action_required": "Approval and forward a recommendation of approval to City Council"
+      },
+      {
+        "item_number": "4",
+        "title": "Review and consideration of a regular meeting schedule for the TOD TIF District Board of Directors during calendar year 2024",
+        "description": "Review and consideration of a regular meeting schedule for the TOD TIF District Board of Directors during calendar year 2024.",
+        "presenter": null,
+        "action_required": "Approval"
+      }
+    ],
+    "keywords": [
+      "Reinvestment Zone",
+      "Dallas",
+      "TOD Tax Increment Financing District",
+      "meeting record",
+      "Annual Report",
+      "FY 2022-2023",
+      "regular meeting schedule",
+      "City Council",
+      "public comments",
+      "executive session"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 6806
+}

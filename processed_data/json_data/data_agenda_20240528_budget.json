@@ -1,0 +1,74 @@
+{
+  "agenda_identifier": "agenda_20240528_budget",
+  "agenda_number": 20240528,
+  "source_file": "agenda_20240528_budget.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 28, 2024",
+      "time": "2:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Commission on Disabilities",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "John Kalkanli",
+      "presenters": [
+        "John Kalkanli",
+        "Baron Eliason",
+        "Michael Smith",
+        "Dr. Gus Khankarli"
+      ],
+      "participants": [
+        "Christina Puga",
+        "Gay Revi",
+        "Beverly White",
+        "Rod Hooker",
+        "Chris Bellew",
+        "Starlet Ramirez"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of the March 26th, 2024 Commission on Disabilities meeting minutes.",
+        "presenter": "John Kalkanli",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Officer Reports",
+        "description": "Chairman John Kalkanli will speak about various events and initiatives.",
+        "presenter": "John Kalkanli",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Briefings",
+        "description": "Presentations by Chief Integrity Officer Baron Eliason on ethics and by Public Information Coordinator Michael Smith on the Department’s work for people with disabilities.",
+        "presenter": "Baron Eliason, Michael Smith",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Commission on Disabilities",
+      "Dallas City Hall",
+      "Accessibility",
+      "Ethics",
+      "Public Information",
+      "Disability Resources",
+      "Autism Acceptance Month",
+      "Emergency Preparedness",
+      "Transportation",
+      "Community Engagement",
+      "Inclusivity",
+      "Public Speakers",
+      "Officer Reports",
+      "Briefings",
+      "Announcements"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 145721
+}

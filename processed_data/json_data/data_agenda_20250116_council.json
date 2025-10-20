@@ -1,0 +1,126 @@
+{
+  "agenda_identifier": "agenda_20250116_council",
+  "agenda_number": 20250116,
+  "source_file": "agenda_20250116_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 16, 2025",
+      "time": "1:30 P.M.",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Linda Garner",
+      "presenters": [
+        "Brenda E. Snitzer",
+        "Christine Crossley",
+        "James Hauck",
+        "Tramonica Brown",
+        "Wesley Keyes",
+        "Angela Klattenhoff"
+      ],
+      "participants": [
+        "Barry Dyson",
+        "Lisa Rand"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call Meeting to Order and Roll Call",
+        "description": "Declare A Quorum Present, Declare Legal Notice Posted and Meeting Duly Called",
+        "presenter": "Linda Garner",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Comments",
+        "description": "Limit 2 minutes per speaker",
+        "presenter": "Linda Garner",
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from December 19, 2024",
+        "presenter": "Linda Garner",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Discussion: Overview of The Stewpot Program",
+        "description": "Discussion on the services provided by The Stewpot",
+        "presenter": "Brenda E. Snitzer",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Discussion / Approval of Citizen Homelessness Commission 2024 Annual Report",
+        "description": "Discussion and approval of the annual report",
+        "presenter": "Linda Garner",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Briefing Memo: Properties Updates",
+        "description": "Updates on Property Development and Housing Initiatives",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII",
+        "title": "Task Force Update: Highlighting Ongoing Initiatives and Priorities",
+        "description": "Updates from various task force members",
+        "presenter": "Linda Garner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VIII",
+        "title": "Discussion on District Specific Homelessness Concerns",
+        "description": "Observations on homelessness concerns",
+        "presenter": "Linda Garner and Commissioners",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IX",
+        "title": "Proposed Items for Next/Future Meetings by Commissioners",
+        "description": "No discussion, debate, and/or vote",
+        "presenter": "Linda Garner",
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Announcement of Upcoming Meetings",
+        "description": "Announcement of future meetings",
+        "presenter": "Linda Garner",
+        "action_required": null
+      },
+      {
+        "item_number": "XI",
+        "title": "Adjournment",
+        "description": "End of the meeting",
+        "presenter": "Linda Garner",
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "City Hall",
+      "Homelessness",
+      "Stewpot Program",
+      "Citizen Homelessness Commission",
+      "Public Comments",
+      "Task Force",
+      "Housing Initiatives",
+      "Annual Report",
+      "Meeting Minutes",
+      "District Concerns",
+      "Future Meetings",
+      "Adjournment"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 9942
+}

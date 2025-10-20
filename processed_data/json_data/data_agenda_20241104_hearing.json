@@ -1,0 +1,97 @@
+{
+  "agenda_identifier": "agenda_20241104_hearing",
+  "agenda_number": 20241104,
+  "source_file": "agenda_20241104_hearing.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 4, 2024",
+      "time": "10:00 A.M. and 1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Landmark Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Evelyn Montgomery",
+      "presenters": [
+        "City Attorney",
+        "Staff",
+        "Rhonda Dunn",
+        "Marcus Watson"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Evelyn Montgomery",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of October 7, 2024, regular meeting minutes",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Staff Reports/Briefings",
+        "description": "Historic Preservation",
+        "presenter": "Staff",
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Briefing Items",
+        "description": "Training and discussion regarding the Commission’s Rules and Procedures, as well as Robert’s Rules of Order and hearing procedures",
+        "presenter": "City Attorney",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Public Hearing",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Landmark Commission",
+      "Dallas",
+      "Historic Preservation",
+      "Public Hearing",
+      "Certificate of Appropriateness",
+      "Certificate of Eligibility",
+      "Minutes Approval",
+      "Training",
+      "Rules and Procedures",
+      "Public Speakers",
+      "Adjournment"
+    ],
+    "financial_items": [
+      {
+        "description": "Approval of an estimated $252,845 in expenditures to be spent on rehabilitation prior to the issuance of the Certificate of Eligibility.",
+        "amount": "$252,845",
+        "type": "expenditure"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 68084
+}

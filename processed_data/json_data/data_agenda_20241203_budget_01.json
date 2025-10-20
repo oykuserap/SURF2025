@@ -1,0 +1,96 @@
+{
+  "agenda_identifier": "agenda_20241203_budget_01",
+  "agenda_number": 20241203,
+  "source_file": "agenda_20241203_budget_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "December 3, 2024",
+      "time": "9:00 AM",
+      "type": "Quality of Life, Arts, and Culture Committee Meeting",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Paul E. Ridley",
+      "presenters": [
+        "Heather Lowe, Interim Director, Dallas Public Library",
+        "Martine Elyse Philippe, Director, Office of Arts and Culture",
+        "Glenn Ayars, Assistant Director, Office of Arts and Culture",
+        "Christopher Wagley, Chief Operating Officer of KERA"
+      ],
+      "participants": [
+        "Rosa Flemming, Director, Convention and Event Spaces",
+        "Jacqulin Justice, Assistant Director, Convention and Event Spaces",
+        "Ghassan Khankarli, Director, Transportation and Public Works",
+        "Luis L. Villarreal, Sergeant of Police, Dallas Police Department",
+        "Shannon Adams, Library Adult Services Manager, Dallas Public Library"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the November 12, 2024, Quality of Life, Arts, and Culture Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "National Trends in Multi-Use Library Facilities",
+        "description": "Discussion on trends in multi-use library facilities presented by Heather Lowe.",
+        "presenter": "Heather Lowe",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Briefing on City-owned non-commercial Radio Station: WRR Radio/KERA",
+        "description": "Presentation on the status and updates regarding WRR Radio.",
+        "presenter": "Christopher Wagley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Office of Arts and Culture Agenda Item # 24-3064 on December 11, 2024: Dallas Black Dance Theatre Updated Funding Allocation",
+        "description": "Discussion on the updated funding allocation for Dallas Black Dance Theatre.",
+        "presenter": "Martine Elyse Philippe",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "City Facilities Partners Update - Kalita Humphreys Theater",
+        "description": "Update on the partnership and management of the Kalita Humphreys Theater.",
+        "presenter": "Martine Elyse Philippe",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Quality of Life, Arts, and Culture Committee Forecast",
+        "description": "Forecast of upcoming agenda items and discussions.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Quality of Life",
+      "Arts",
+      "Culture",
+      "Dallas",
+      "Library",
+      "Funding",
+      "Radio Station",
+      "Community",
+      "Theater",
+      "Public Safety",
+      "Cultural Organizations"
+    ],
+    "financial_items": [
+      {
+        "description": "Funding allocation for Dallas Black Dance Theatre for FY 2024-25.",
+        "amount": "$248,435.00",
+        "type": "funding"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 113886
+}

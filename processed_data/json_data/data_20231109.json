@@ -1,0 +1,35 @@
+{
+  "agenda_identifier": "agenda_20231109_council",
+  "agenda_number": 20231109,
+  "source_file": "agenda_20231109_council.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 9, 2023",
+      "time": "3:00 PM",
+      "type": "Briefing Agenda",
+      "organization": "Citizen Homelessness Commission",
+      "location": "Council Briefing Room, 6ES, City of Dallas, 1500 Marilla Street, Dallas, Texas 75201"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "Citizen Homelessness Commission",
+      "Dallas",
+      "executive session",
+      "litigation",
+      "real property",
+      "contract",
+      "employment",
+      "security",
+      "economic development",
+      "financial information"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 3971
+}

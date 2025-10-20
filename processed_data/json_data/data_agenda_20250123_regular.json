@@ -1,0 +1,139 @@
+{
+  "agenda_identifier": "agenda_20250123_regular",
+  "agenda_number": 20250123,
+  "source_file": "agenda_20250123_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "January 23, 2025",
+      "time": "10:00 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Park & Recreation Board",
+      "location": "Dallas City Hall, 6FN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Arun Agarwal",
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "License Agreement",
+        "description": "Authorize a five-year Licensed Training Provider Agreement with the American National Red Cross & Its Constituent Chapters and Branches dba American Red Cross to permit City of Dallas Park and Recreation Department Red Cross-certified instructors to use Red Cross licensed training materials in the instruction of water safety training courses.",
+        "presenter": "American National Red Cross",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Concession Contract",
+        "description": "Authorize a five-year concessionaire contract for the operational management of a food and beverage concession service at the Kiest Softball Complex.",
+        "presenter": "WBSO Realford Consulting, LLC.",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Trinity Strand Trail",
+        "description": "Authorize Change Order No. 3 for a decrease in the construction services contract with RoeschCo Construction Inc. for the construction of the Trinity Strand Trail Phase II.",
+        "presenter": "RoeschCo Construction Inc.",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "West Trinity Heights Park",
+        "description": "Authorize the rescission of the authorization of a public hearing to be held on December 11, 2024, and a public hearing to be held on March 26, 2025, to receive comments on the proposed use of a portion of parkland at West Trinity Heights Park.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Land Acquisition",
+        "description": "Authorize settlement in lieu of proceeding with condemnation, from A+ Charter Schools, Inc., of approximately 466,639 square feet of land for a proposed new park.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Kleberg Trail",
+        "description": "Authorize a hike and bike trail easement with DART for use of DART property for construction, operation, and maintenance of a portion of the planned Kleberg Trail.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Trinity Strand Trail",
+        "description": "Authorize a construction services contract for the construction of the Trinity Strand Hi-Line Span Project.",
+        "presenter": "The Fain Group, Inc.",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "L.B. Houston Nature Area",
+        "description": "Authorize a public hearing to be held on March 26, 2025, to receive comments on the proposed use of a portion of parkland at L. B. Houston Nature Area.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "College Park Renaming",
+        "description": "Discussion item regarding the renaming of College Park.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "10",
+        "title": "Contract Fee Instructors Program",
+        "description": "Briefing item regarding the Contract Fee Instructors Program.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Park & Recreation",
+      "Regular Meeting",
+      "License Agreement",
+      "Concession Contract",
+      "Trinity Strand Trail",
+      "Public Hearing",
+      "Land Acquisition",
+      "Kleberg Trail",
+      "L.B. Houston Nature Area",
+      "College Park Renaming",
+      "Contract Fee Instructors Program"
+    ],
+    "financial_items": [
+      {
+        "description": "License Agreement with American National Red Cross",
+        "amount": "$150,000.00",
+        "type": "funding"
+      },
+      {
+        "description": "Concession Contract at Kiest Softball Complex",
+        "amount": "$158,774.00",
+        "type": "revenue"
+      },
+      {
+        "description": "Change Order for Trinity Strand Trail",
+        "amount": "$155,400.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Land Acquisition from A+ Charter Schools, Inc.",
+        "amount": "$985,000.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Construction services contract for Trinity Strand Hi-Line Span Project",
+        "amount": "$8,790,898.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Public hearing for L.B. Houston Nature Area",
+        "amount": "$755.60",
+        "type": "revenue"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 14333
+}

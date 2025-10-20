@@ -1,0 +1,70 @@
+{
+  "agenda_identifier": "agenda_20240523_budget",
+  "agenda_number": 20240523,
+  "source_file": "agenda_20240523_budget.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 23, 2024",
+      "time": "3:00 PM",
+      "type": "Ad Hoc Committee Meeting",
+      "organization": "City Council Ad Hoc Committee on Pensions",
+      "location": "City Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "Jeannie Chen",
+        "Joe Kropiewnicki",
+        "Cheryl Alston",
+        "David Etheridge",
+        "Jack Ireland"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the April 11, 2024 Ad Hoc Committee on Pensions Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B",
+        "title": "Pension Plan Cost of Living Adjustment (COLA) Discussion",
+        "description": "Discussion on the cost of living adjustment for the pension plan.",
+        "presenter": "Jeannie Chen and Joe Kropiewnicki of Deloitte Consulting LLP",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Employee Retirement Fund (ERF): Funding Soundness Restoration Plan Update and Consideration of Recommendations",
+        "description": "Update on the funding soundness restoration plan for the Employee Retirement Fund and consideration of recommendations.",
+        "presenter": "Cheryl Alston, Executive Director, David Etheridge, Deputy Executive Director of the Dallas Employees’ Retirement Fund",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Dallas Police and Fire Pension System (DPFP): Funding Soundness Restoration Plan Update and Consideration of Recommendations",
+        "description": "Update on the funding soundness restoration plan for the Dallas Police and Fire Pension System and consideration of recommendations.",
+        "presenter": "Jack Ireland, Chief Financial Officer, City Manager’s Office",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Pensions",
+      "Cost of Living Adjustment",
+      "Employee Retirement Fund",
+      "Funding Soundness",
+      "Dallas Police and Fire Pension",
+      "Recommendations",
+      "City Council",
+      "Ad Hoc Committee",
+      "Meeting Minutes",
+      "Video Conference"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 19024
+}

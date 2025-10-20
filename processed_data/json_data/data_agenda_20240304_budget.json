@@ -1,0 +1,89 @@
+{
+  "agenda_identifier": "agenda_20240304_budget",
+  "agenda_number": 20240304,
+  "source_file": "agenda_20240304_budget.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "March 4, 2024",
+      "time": "1:00 PM",
+      "type": "Economic Development Committee Meeting",
+      "organization": "City Council Economic Development Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Atkins",
+      "presenters": [
+        "John Stephen",
+        "Andrew Espinoza",
+        "Heather Lepeska",
+        "Robin Bentley",
+        "Joyce Williams"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "A",
+        "title": "Approval of the February 5, 2024 Economic Development Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "B",
+        "title": "Update on City of Dallas Economic Development Corporation",
+        "description": "Presentation on the current status and updates regarding the Economic Development Corporation.",
+        "presenter": "John Stephen",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Development Services Monthly Technology and Metrics",
+        "description": "Presentation on the monthly technology updates and metrics from Development Services.",
+        "presenter": "Andrew Espinoza",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Amendment to Loan Agreement with Saleh Group Properties No 2 LLC",
+        "description": "Discussion on the proposed amendment to the loan agreement.",
+        "presenter": "Heather Lepeska",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Proposed Amendments to City of Dallas Economic Development Incentive Policy",
+        "description": "Discussion on proposed amendments to the economic development incentive policy.",
+        "presenter": "Robin Bentley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "South Dallas Fair Park Opportunity Fund - Human Development NOFA Awards",
+        "description": "Discussion on the awards related to the South Dallas Fair Park Opportunity Fund.",
+        "presenter": "Joyce Williams",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Economic Development",
+      "City Council",
+      "Dallas",
+      "Meeting Minutes",
+      "Loan Agreement",
+      "Incentive Policy",
+      "Technology Metrics",
+      "Fair Park",
+      "Public Affairs",
+      "Committee Meeting",
+      "Development Services",
+      "Small Business Center",
+      "Executive Session",
+      "Videoconference",
+      "Public Participation"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 19793
+}

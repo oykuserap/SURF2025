@@ -1,0 +1,78 @@
+{
+  "agenda_identifier": "agenda_20240508_council_01",
+  "agenda_number": 20240508,
+  "source_file": "agenda_20240508_council_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 8, 2024",
+      "time": "5:30 p.m.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Environmental Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference (Webex)"
+    },
+    "attendees": {
+      "chair": "Kathryn Bazan",
+      "presenters": [
+        "Carlos Evans"
+      ],
+      "participants": [
+        "Esther Villarreal",
+        "Teresita Delgado",
+        "Andrew Siegel",
+        "Mark Wootton",
+        "Colleen Murray",
+        "Michael Cook",
+        "Barry Lachman",
+        "Tracy Wallace",
+        "Gregory Michaelson",
+        "Temeckia Derrough",
+        "Paula Day",
+        "Renee Roberson",
+        "Julie Hiromoto"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from the meetings held on March 6, 2024, and April 10, 2024.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "V",
+        "title": "Briefing Memo",
+        "description": "Q2 CECAP Update presented by Carlos Evans, Director, Office of Environmental Quality & Sustainability.",
+        "presenter": "Carlos Evans",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Discussion Items",
+        "description": "Introduction of New Commission Members, Appointment of New Commission Members to Subcommittees, Monthly Subcommittee Updates, Monthly District Updates from Commissioners, Upcoming Meetings.",
+        "presenter": null,
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Environmental Commission",
+      "meeting",
+      "public speakers",
+      "minutes approval",
+      "briefing memo",
+      "CECAP",
+      "subcommittees",
+      "district updates",
+      "upcoming meetings",
+      "commission members",
+      "environmental quality",
+      "sustainability",
+      "public participation",
+      "accommodations"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 11216
+}

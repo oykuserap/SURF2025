@@ -1,0 +1,142 @@
+{
+  "agenda_identifier": "agenda_20240107_regular",
+  "agenda_number": 20240107,
+  "source_file": "agenda_20240107_regular.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "August 15, 2024",
+      "time": "10:00 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Park and Recreation Board",
+      "location": "Dallas City Hall, 6FN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Arun Agarwal",
+      "presenters": [
+        "M. Renee Johnson",
+        "Chief Rick Watson",
+        "Chief David Pughes",
+        "Christina Turner-Noteware",
+        "Rachael Berry"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Arun Agarwal",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Public Speakers",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from July 25, 2024, August 1, 2024, August 8, 2024",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "IV",
+        "title": "Quarterly Safety Update",
+        "description": "Update of Safety in the Park System",
+        "presenter": "M. Renee Johnson, Chief Rick Watson, Chief David Pughes",
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Consent Agenda",
+        "description": "Various items including agreements and authorizations",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI",
+        "title": "Item for Individual Consideration",
+        "description": "Rescind the moratorium on trail naming and authorize naming opportunity at Kiest Park",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VII",
+        "title": "Briefing",
+        "description": "2024 Bond Program First Year Work Plan",
+        "presenter": "Christina Turner-Noteware",
+        "action_required": null
+      },
+      {
+        "item_number": "VIII",
+        "title": "Closed Session",
+        "description": "Deliberation regarding a lease assignment",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IX",
+        "title": "Update",
+        "description": "Budget Development",
+        "presenter": "Rachael Berry",
+        "action_required": null
+      },
+      {
+        "item_number": "X",
+        "title": "Other/Non-Action Items",
+        "description": "Staff Announcements and upcoming events",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "XI",
+        "title": "Next Park Board Meeting",
+        "description": "Next meeting scheduled for September 5, 2024",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "XII",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
+    "keywords": [
+      "Dallas",
+      "Park and Recreation",
+      "Safety Update",
+      "Consent Agenda",
+      "Trail Naming",
+      "Budget Development",
+      "Public Speakers",
+      "Minutes Approval",
+      "Bond Program",
+      "Closed Session",
+      "Kiest Park",
+      "Santa Fe Trail",
+      "Dallas Zoo",
+      "Discovery Trail Gateway",
+      "Land Acquisition"
+    ],
+    "financial_items": [
+      {
+        "description": "Construction services contract for the Sylvan Discovery Gateway",
+        "amount": "$4,243,017.79",
+        "type": "expenditure"
+      },
+      {
+        "description": "Contribution for a trail project at Kiest Park",
+        "amount": "$75,000.00",
+        "type": "funding"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12987
+}

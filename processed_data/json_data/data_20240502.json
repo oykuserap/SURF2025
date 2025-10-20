@@ -1,0 +1,118 @@
+{
+  "agenda_identifier": "agenda_20240502_regular_01",
+  "agenda_number": 20240502,
+  "source_file": "agenda_20240502_regular_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "May 2, 2024",
+      "time": "10:00 A.M.",
+      "type": "Regular Meeting",
+      "organization": "Dallas Park and Recreation Board",
+      "location": "Dallas City Hall, 6FN Conference Room and Videoconference"
+    },
+    "attendees": {
+      "chair": "Arun Agarwal",
+      "presenters": [
+        "Crystal R. Ross",
+        "M. Renee Johnson",
+        "Rachael Berry",
+        "Christina Turner-Noteware"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Service Price Agreement",
+        "description": "Authorize a three-year service price agreement for the provision of a cloud-based Enterprise Asset Management Software System for the Park and Recreation Department from Vertosoft, LLC. in the amount of $632,512 through the Texas Association of School Boards (BuyBoard) cooperative agreement – Total award not to exceed $632,512 - Financing: Current Funds (subject to annual appropriations).",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "Samuell Grand Park Management Agreement Renewal",
+        "description": "Authorize the first five-year renewal of the current management agreement with Shakespeare Dallas, to manage, operate, maintain and provide public theatrical performances and events at the Samuell-Grand Park Amphitheater, located at 1500 Tenison Parkway, through May 14, 2029. Financing: No cost consideration to the City.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "3",
+        "title": "Removal of No Admission Fee Days",
+        "description": "Authorize Shakespeare Dallas, located at Samuell-Grand Park Amphitheater located at 1500 Tenison Parkway, to remove their No Admission Fee days beginning in 2024 effective upon approval by the Park and Recreation Board - Financing: No cost consideration to the City.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Dallas Afterschool Briefing",
+        "description": "Briefing on Dallas Afterschool.",
+        "presenter": "Crystal R. Ross",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "5",
+        "title": "2024 Summer Camp Preview",
+        "description": "Preview of the 2024 Summer Camp.",
+        "presenter": "Crystal R. Ross",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "6",
+        "title": "Urban Forest Master Plan Update",
+        "description": "Update on the Urban Forest Master Plan.",
+        "presenter": "M. Renee Johnson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "7",
+        "title": "Budget Development Update & Workshop",
+        "description": "Update and workshop on budget development.",
+        "presenter": "Rachael Berry",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "8",
+        "title": "2024 Bond Program: Final Proposed Bond Program list",
+        "description": "Final proposed bond program list for 2024.",
+        "presenter": "Christina Turner-Noteware",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Dallas Park and Recreation Board",
+      "Regular Meeting",
+      "Service Price Agreement",
+      "Samuell Grand Park",
+      "Shakespeare Dallas",
+      "Dallas Afterschool",
+      "Summer Camp",
+      "Urban Forest Master Plan",
+      "Budget Development",
+      "2024 Bond Program",
+      "Videoconference",
+      "Public Speakers",
+      "Minutes Approval",
+      "Equitable Meeting",
+      "Auxiliary Aid"
+    ],
+    "financial_items": [
+      {
+        "description": "Service Price Agreement for cloud-based Enterprise Asset Management Software System",
+        "amount": "$632,512",
+        "type": "expenditure"
+      },
+      {
+        "description": "Management agreement renewal with Shakespeare Dallas",
+        "amount": null,
+        "type": "budget"
+      },
+      {
+        "description": "Removal of No Admission Fee days at Samuell Grand Park",
+        "amount": null,
+        "type": "budget"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 12626
+}

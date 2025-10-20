@@ -1,0 +1,60 @@
+{
+  "agenda_identifier": "agenda_20231114_council_01",
+  "agenda_number": 20231114,
+  "source_file": "agenda_20231114_council_01.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 14, 2023",
+      "time": "6:30 PM",
+      "type": "Regular Meeting",
+      "organization": "Charter Review Commission",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; Virtual via video conference"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [
+        "David de la Fuente, Commissioner",
+        "Jason Grant, Director of Advocacy, ICMA"
+      ],
+      "participants": []
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of November 7, 2023 Charter Review Commission Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Charter Amendment Proposal: Ranked-Choice Voting",
+        "description": "Discussion on the proposal for ranked-choice voting.",
+        "presenter": "David de la Fuente, Commissioner",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "International City/County Management Association Presentation and Discussion of Charter Review Processes, Best Practices, and Philosophies",
+        "description": "Presentation and discussion led by Jason Grant on best practices in charter review.",
+        "presenter": "Jason Grant, Director of Advocacy, ICMA",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Charter Review Commission",
+      "November 14, 2023",
+      "Ranked-Choice Voting",
+      "ICMA",
+      "Best Practices",
+      "Public Speakers",
+      "Minutes Approval",
+      "Video Conference",
+      "City Hall",
+      "Dallas"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 8144
+}

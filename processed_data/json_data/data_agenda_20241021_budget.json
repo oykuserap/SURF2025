@@ -1,0 +1,133 @@
+{
+  "agenda_identifier": "agenda_20241021_budget",
+  "agenda_number": 20241021,
+  "source_file": "agenda_20241021_budget.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "October 21, 2024",
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "Quality of Life, Arts, and Culture Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": "Paul E. Ridley",
+      "presenters": [
+        "Martine Elyse Philippe",
+        "Glenn Ayars",
+        "Julia Hosch",
+        "Christopher Christian",
+        "Brita Andercheck",
+        "Paul Ramon",
+        "Lynn Rushton"
+      ],
+      "participants": [
+        "Councilmember Resendez",
+        "Councilmember Gracey",
+        "Councilmember Bazaldua",
+        "Councilmember Blackmon",
+        "Councilmember Schultz",
+        "Councilmember Willis"
+      ]
+    },
+    "agenda_items": [
+      {
+        "item_number": "1",
+        "title": "Approval of the September 16, 2024, Quality of Life, Arts, and Culture Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": "Paul E. Ridley",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Office of Arts and Culture City Council Agenda Item # 24-3064",
+        "description": "FY 2024-25 Recommended Cultural Organizations Program Contracts.",
+        "presenter": "Martine Elyse Philippe",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Code Compliance - Keep Dallas Beautiful Dashboard",
+        "description": "Presentation on the Keep Dallas Beautiful program metrics.",
+        "presenter": "Christopher Christian",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Dallas Animal Services - Performance Dashboard",
+        "description": "Presentation on the performance metrics of Dallas Animal Services.",
+        "presenter": "Paul Ramon",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D",
+        "title": "Tipton Public Art Project",
+        "description": "Discussion on the selected artist for the Tipton Public Art Project.",
+        "presenter": "Martine Elyse Philippe",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E",
+        "title": "Public Art Project: Crockett Dog Park",
+        "description": "Discussion on the selected artist for the Crockett Dog Park project.",
+        "presenter": "Martine Elyse Philippe",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "F",
+        "title": "City Facilities Partners Update - AT&T Performing Arts Center",
+        "description": "Update on the partnership with AT&T Performing Arts Center.",
+        "presenter": "Martine Elyse Philippe",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "G",
+        "title": "Quality of Life, Arts, and Culture Committee Forecast",
+        "description": "Forecast of upcoming agenda items for the committee.",
+        "presenter": "Martine Elyse Philippe",
+        "action_required": "discuss"
+      }
+    ],
+    "keywords": [
+      "Quality of Life",
+      "Arts",
+      "Culture",
+      "Dallas",
+      "Committee",
+      "Public Art",
+      "Cultural Organizations",
+      "Code Compliance",
+      "Animal Services",
+      "Community Engagement",
+      "Performance Metrics",
+      "Funding",
+      "City Facilities",
+      "Partnerships",
+      "Forecast"
+    ],
+    "financial_items": [
+      {
+        "description": "Funding for FY 2024-25 Cultural Organizations Program Contracts",
+        "amount": "$6,415,236",
+        "type": "budget"
+      },
+      {
+        "description": "Funding for Tipton Public Art Project",
+        "amount": "$113,000",
+        "type": "budget"
+      },
+      {
+        "description": "Funding for Crockett Dog Park project",
+        "amount": "$200,000",
+        "type": "budget"
+      },
+      {
+        "description": "Annual funding for AT&T Performing Arts Center",
+        "amount": "$4,000,000",
+        "type": "budget"
+      }
+    ]
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 194905
+}
