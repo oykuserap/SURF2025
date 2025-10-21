@@ -7,7 +7,7 @@
       "date": "January 16, 2025",
       "time": "1:30 P.M.",
       "type": "Regular Meeting",
-      "organization": "City of Dallas",
+      "organization": "City Secretary",
       "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
     },
     "attendees": {
@@ -43,13 +43,13 @@
       {
         "item_number": "III",
         "title": "Approval of Minutes",
-        "description": "Approval of minutes from December 19, 2024",
+        "description": "December 19, 2024",
         "presenter": "Linda Garner",
         "action_required": "approve"
       },
       {
         "item_number": "IV",
-        "title": "Discussion: Overview of The Stewpot Program",
+        "title": "Discussion: Overview of The Stewpot Program and Services",
         "description": "Discussion on the services provided by The Stewpot",
         "presenter": "Brenda E. Snitzer",
         "action_required": "discuss"
@@ -78,7 +78,7 @@
       {
         "item_number": "VIII",
         "title": "Discussion on District Specific Homelessness Concerns",
-        "description": "Observations on homelessness concerns",
+        "description": "Observations: See One, Be One, Teach One Matrix",
         "presenter": "Linda Garner and Commissioners",
         "action_required": "discuss"
       },
@@ -92,14 +92,14 @@
       {
         "item_number": "X",
         "title": "Announcement of Upcoming Meetings",
-        "description": "Announcement of future meetings",
+        "description": "Details of upcoming meetings",
         "presenter": "Linda Garner",
         "action_required": null
       },
       {
         "item_number": "XI",
         "title": "Adjournment",
-        "description": "End of the meeting",
+        "description": null,
         "presenter": "Linda Garner",
         "action_required": null
       }
@@ -107,17 +107,19 @@
     "keywords": [
       "Dallas",
       "City Hall",
-      "Homelessness",
+      "Homeless Solutions",
       "Stewpot Program",
       "Citizen Homelessness Commission",
       "Public Comments",
       "Task Force",
       "Housing Initiatives",
-      "Annual Report",
-      "Meeting Minutes",
-      "District Concerns",
-      "Future Meetings",
-      "Adjournment"
+      "District Specific Concerns",
+      "Upcoming Meetings",
+      "Approval of Minutes",
+      "Executive Session",
+      "Financial Information",
+      "Public Engagement",
+      "Racial Equity"
     ],
     "financial_items": []
   },

@@ -34,7 +34,7 @@
       {
         "item_number": "II",
         "title": "Public Speakers",
-        "description": "Opportunity for public comments.",
+        "description": "Opportunity for public speakers to address the commission.",
         "presenter": null,
         "action_required": null
       },
@@ -48,7 +48,7 @@
       {
         "item_number": "IV",
         "title": "Staff Report/Briefings",
-        "description": "Review of Landmark Commission Orientation and Handbook, update on HR&A report and City Council timeline and approval, discussion of the Ad Hoc Code Amendment Committee recommendations.",
+        "description": "Review of Landmark Commission Orientation and Handbook, update on HR&A report and City Council timeline and approval, discussion of Ad Hoc Code Amendment Committee recommendations.",
         "presenter": "HP Staff",
         "action_required": null
       },
@@ -76,9 +76,13 @@
       "Executive Session",
       "Consent Items",
       "Discussion Items",
-      "Public Speakers",
-      "Minutes Approval",
-      "Staff Report"
+      "Historic Districts",
+      "Community Engagement",
+      "City Council",
+      "Regulatory Compliance",
+      "Public Safety",
+      "Urban Planning",
+      "Cultural Heritage"
     ],
     "financial_items": []
   },

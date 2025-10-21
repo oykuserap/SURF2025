@@ -17,113 +17,92 @@
     },
     "agenda_items": [
       {
-        "item_number": "I",
+        "item_number": "1",
         "title": "Call to Order",
         "description": "",
         "presenter": "David A. Neumann",
         "action_required": null
       },
       {
-        "item_number": "II",
+        "item_number": "2",
         "title": "Staff Presentation/Briefing",
         "description": "",
         "presenter": null,
         "action_required": null
       },
       {
-        "item_number": "III",
+        "item_number": "3",
         "title": "Public Hearing",
         "description": "Board of Adjustment",
         "presenter": null,
         "action_required": null
       },
       {
-        "item_number": "IV",
+        "item_number": "4",
         "title": "Public Testimony",
         "description": "",
         "presenter": null,
         "action_required": null
       },
       {
-        "item_number": "V",
+        "item_number": "5",
         "title": "Miscellaneous Items",
         "description": "",
         "presenter": null,
         "action_required": null
       },
       {
-        "item_number": "VI",
+        "item_number": "6",
         "title": "Case Docket",
         "description": "Uncontested Items, Holdover Items, Individual Items",
         "presenter": null,
         "action_required": null
       },
       {
-        "item_number": "VII",
+        "item_number": "7",
         "title": "Adjournment",
         "description": "",
         "presenter": null,
         "action_required": null
       },
       {
-        "item_number": "MISC",
+        "item_number": "8",
         "title": "Approval of Panel A Minutes",
         "description": "Approval of minutes from October 22, 2024",
         "presenter": null,
         "action_required": "approve"
       },
       {
-        "item_number": "MISC",
+        "item_number": "9",
         "title": "Approval of Full Board Meeting Minutes",
         "description": "Approval of minutes from October 29, 2024",
         "presenter": null,
         "action_required": "approve"
       },
       {
-        "item_number": "1",
-        "title": "BDA234-128(BT) 9410 Alva Court",
-        "description": "Application of Fenil Ghodadra for a special exception to the fence height regulations.",
+        "item_number": "10",
+        "title": "Uncontested Cases",
+        "description": "Various requests for special exceptions and appeals",
         "presenter": null,
-        "action_required": "discuss"
-      },
-      {
-        "item_number": "2",
-        "title": "BDA234-129(CJ) 4640 N. Lindhurst Avenue",
-        "description": "Application of Alec Lang represented by Jeff Howard for a special exception to the fence height regulations.",
-        "presenter": null,
-        "action_required": "discuss"
-      },
-      {
-        "item_number": "3",
-        "title": "BDA234-111(BT) 6529 Victoria Avenue",
-        "description": "Application of Daniel Le to appeal the decision of the administrative official.",
-        "presenter": null,
-        "action_required": "discuss"
-      },
-      {
-        "item_number": "4",
-        "title": "BDA234-118(CJ) 4336 Lively Lane",
-        "description": "Application of Larry Klinghoffer for a special exception to provide an additional electrical meter.",
-        "presenter": null,
-        "action_required": "discuss"
+        "action_required": null
       }
     ],
     "keywords": [
       "Board of Adjustment",
-      "Public Hearing",
-      "Case Docket",
-      "Fence Height Regulations",
-      "Special Exception",
-      "Public Testimony",
-      "Approval of Minutes",
       "Dallas City Hall",
-      "Videoconference",
-      "Miscellaneous Items",
+      "Public Hearing",
+      "Special Exception",
+      "Fence Height Regulations",
+      "Minutes Approval",
+      "Public Testimony",
+      "Case Docket",
       "Uncontested Items",
       "Holdover Items",
-      "Individual Items",
       "Executive Session",
-      "Accommodations"
+      "Accessibility",
+      "Video Conference",
+      "Auxiliary Aid",
+      "Meeting Registration"
     ],
     "financial_items": []
   },

@@ -8,7 +8,7 @@
       "time": "9:00 AM",
       "type": "Regular Meeting",
       "organization": "City of Dallas",
-      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas 75201"
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
     },
     "attendees": {
       "chair": null,
@@ -19,7 +19,7 @@
       {
         "item_number": "1",
         "title": "Approval of Minutes of the September 11, 2024 City Council Meeting",
-        "description": "",
+        "description": null,
         "presenter": null,
         "action_required": "approve"
       },
@@ -33,21 +33,21 @@
       {
         "item_number": "3",
         "title": "Authorize payment of the jury verdict",
-        "description": "Payment entered against the City in the lawsuit styled Terry Branch v. Willie Rettig, Lamar Lambert and City of Dallas.",
+        "description": "Entered against the City in the lawsuit styled Terry Branch v. Willie Rettig, Lamar Lambert and City of Dallas.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "4",
         "title": "Authorize settlement of the lawsuit",
-        "description": "Settlement of the lawsuit styled Mavel Tovar v. City of Dallas.",
+        "description": "Styled Mavel Tovar v. City of Dallas.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "5",
         "title": "Authorize settlement of the lawsuit",
-        "description": "Settlement of the lawsuit styled Tenisha Leonard v. City of Dallas and Terrance Joseph Hopkins.",
+        "description": "Styled Tenisha Leonard v. City of Dallas and Terrance Joseph Hopkins.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -61,7 +61,7 @@
       {
         "item_number": "7",
         "title": "Authorize a one-year contract for maintenance and support",
-        "description": "For the GovQA Public Records Request Management Software.",
+        "description": "Of the GovQA Public Records Request Management Software.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -82,7 +82,7 @@
       {
         "item_number": "10",
         "title": "Authorize the purchase of eight Pre-Conditioned Air units",
-        "description": "From Northern Air Systems, Inc., sole source for Dallas Love Field.",
+        "description": "From Northern Air Systems, Inc.",
         "presenter": null,
         "action_required": "approve"
       }
@@ -96,13 +96,13 @@
       "lawsuit",
       "concession contract",
       "public records",
-      "food and beverage",
-      "budget adjustments",
-      "financial resolutions",
-      "public hearings",
-      "community services",
-      "housing",
-      "transportation"
+      "budget",
+      "financial adjustments",
+      "public hearing",
+      "approval",
+      "transfers",
+      "appropriation",
+      "maintenance"
     ],
     "financial_items": [
       {
@@ -111,7 +111,7 @@
         "type": "budget"
       },
       {
-        "description": "Payment for jury verdict in lawsuit",
+        "description": "Payment of jury verdict in lawsuit",
         "amount": "$60,000.00",
         "type": "expenditure"
       },
@@ -126,27 +126,27 @@
         "type": "expenditure"
       },
       {
-        "description": "Resolution for credit agreement",
+        "description": "Execution of the Second Amendment to Revolving Credit Agreement",
         "amount": "$208,000",
         "type": "financing"
       },
       {
-        "description": "Contract for maintenance and support of GovQA",
+        "description": "One-year contract for maintenance and support of GovQA",
         "amount": "$146,587.00",
         "type": "expenditure"
       },
       {
-        "description": "Estimated revenue from food and beverage concessions",
+        "description": "New seven-year concession contract for food and beverage services",
         "amount": "$197,384.00",
         "type": "revenue"
       },
       {
-        "description": "Estimated revenue from food and beverage concessions",
+        "description": "New seven-year concession contract for food and beverage services",
         "amount": "$225,000.00",
         "type": "revenue"
       },
       {
-        "description": "Purchase of Pre-Conditioned Air units",
+        "description": "Purchase of eight Pre-Conditioned Air units",
         "amount": "$1,021,648.00",
         "type": "expenditure"
       }

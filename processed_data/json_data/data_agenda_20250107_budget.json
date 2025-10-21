@@ -8,7 +8,7 @@
       "time": "1:00 PM",
       "type": "Regular Meeting",
       "organization": "Government Performance and Financial Management Committee",
-      "location": "COUNCIL BRIEFING ROOM, CITY HALL"
+      "location": "COUNCIL BRIEFING ROOM, CITY HALL, Dallas, Texas 75201"
     },
     "attendees": {
       "chair": null,
@@ -21,15 +21,12 @@
       "Financial Management",
       "Committee",
       "Dallas",
-      "Council",
+      "City Hall",
       "Executive Session",
       "Litigation",
       "Real Property",
       "Contract",
-      "Public Officer",
-      "Security",
-      "Economic Development",
-      "Information Technology"
+      "Public Officer"
     ],
     "financial_items": []
   },

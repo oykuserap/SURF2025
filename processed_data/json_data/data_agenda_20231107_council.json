@@ -16,10 +16,9 @@
         "Elaine Chandler",
         "Kevin Williams",
         "James Griffin",
-        "OCPO Interim Director Chandler",
-        "CPOB Vice Chairman Rivas",
-        "CPOB Chairman Enobakhare, Jr.",
-        "IAD Major Alanis"
+        "Chandler",
+        "Alan Marshall",
+        "Eddie Garcia"
       ],
       "participants": [
         "Dr. Loren Gilbert-Smith",
@@ -28,13 +27,12 @@
         "Ozzie Smith",
         "Alison Grinter Allen",
         "Jonathan E Maples",
-        "Alan Marshall",
         "Walter Higgins",
         "Arlene Steinfeld",
         "Derric Pegram",
-        "Deatra Wadsworth",
         "Brandon Friedman",
-        "John Mark Davidson"
+        "John Mark Davidson",
+        "Deatra Wadsworth"
       ]
     },
     "agenda_items": [
@@ -42,20 +40,20 @@
         "item_number": "I",
         "title": "Approval of Minutes",
         "description": "Approval of Minutes for the October 10, 2023 meeting and for the record amendment to September meeting minutes.",
-        "presenter": "Dr. Loren Gilbert-Smith",
+        "presenter": "Dr. Loren Gilbert Smith",
         "action_required": "approve"
       },
       {
         "item_number": "II",
         "title": "Board Updates",
         "description": "Nominees and Holdovers.",
-        "presenter": "Jose Rivas",
-        "action_required": "discuss"
+        "presenter": null,
+        "action_required": null
       },
       {
         "item_number": "III",
         "title": "Action Items",
-        "description": "Discussion on various action items including Dynell Lane Investigation and recommendations to Chief Garcia.",
+        "description": "Discussion of various action items including the Dynell Lane Investigation and recommendations to the City Manager.",
         "presenter": "OCPO Interim Director Chandler",
         "action_required": "discuss"
       },
@@ -63,13 +61,13 @@
         "item_number": "IV",
         "title": "Staff Reports/Briefings",
         "description": "Reports on DPD Monthly Arrest Data and updates on various investigations.",
-        "presenter": "James Griffin",
+        "presenter": "CPOB Vice Chairman Rivas",
         "action_required": "discuss"
       },
       {
         "item_number": "V",
         "title": "Monthly Activity Report",
-        "description": "Updates on complaints received by OCPO for the month of October.",
+        "description": "Updates on complaints received by OCPO for the month of September.",
         "presenter": "James Griffin",
         "action_required": "discuss"
       },
@@ -83,27 +81,27 @@
       {
         "item_number": "VII",
         "title": "Upcoming Meeting",
-        "description": "Announcement of the next meeting scheduled for December 12, 2023.",
-        "presenter": "Jose Rivas",
-        "action_required": "note"
+        "description": "Announcement of the next meeting on December 12, 2023.",
+        "presenter": null,
+        "action_required": null
       }
     ],
     "keywords": [
       "Community Police Oversight",
-      "Dallas City Hall",
-      "Board Updates",
+      "Dallas",
+      "Board Meeting",
       "Action Items",
-      "Staff Reports",
-      "Monthly Activity Report",
-      "Community Engagement",
-      "DPD",
-      "Investigations",
+      "Investigation",
       "Public Comment",
-      "Meeting Minutes",
+      "Monthly Report",
+      "Community Engagement",
+      "Police Oversight",
       "Recommendations",
+      "Minutes Approval",
+      "Staff Reports",
+      "Updates",
       "Training Opportunities",
-      "Public Safety",
-      "Equitable Access"
+      "DPD"
     ],
     "financial_items": []
   },

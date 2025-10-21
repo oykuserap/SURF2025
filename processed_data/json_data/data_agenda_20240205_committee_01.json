@@ -6,8 +6,8 @@
     "meeting_info": {
       "date": "February 5, 2024",
       "time": "1:00 PM",
-      "type": "Economic Development Committee Meeting",
-      "organization": "City Council Economic Development Committee",
+      "type": "Regular Meeting",
+      "organization": "Economic Development Committee",
       "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
     },
     "attendees": {
@@ -30,7 +30,8 @@
         "Resendez",
         "Gracey",
         "Blackmon",
-        "Willis"
+        "Willis",
+        "Schultz"
       ]
     },
     "agenda_items": [
@@ -72,7 +73,7 @@
       {
         "item_number": "F",
         "title": "Lancaster-Corning Retail Development Project",
-        "description": "Discussion on the Lancaster-Corning Retail Development Project.",
+        "description": "Discussion on the Lancaster-Corning Retail Development Project in the TOD TIF District.",
         "presenter": "Kevin Spath",
         "action_required": "discuss"
       },
@@ -93,20 +94,19 @@
     ],
     "keywords": [
       "Economic Development",
-      "City Council",
-      "Dallas",
-      "TIF District",
-      "Master Plan",
+      "Dallas City Council",
+      "Meeting Minutes",
+      "Kay Bailey Hutchison Convention Center",
       "Development Services",
       "Tax Increment Financing",
-      "Retail Development",
+      "Deep Ellum",
+      "Lancaster-Corning",
       "New Markets Tax Credit",
-      "Convention Center",
-      "Public Meeting",
-      "Executive Session",
-      "Virtual Attendance",
-      "City Hall",
-      "Community Engagement"
+      "Resource Center Medical Campus",
+      "Nexus Recovery Center",
+      "Technology Review",
+      "Metrics",
+      "Plan Amendment"
     ],
     "financial_items": []
   },

@@ -15,16 +15,17 @@
       "presenters": [
         "Aaron Eaquinto",
         "Geoff Jewett",
-        "Stephen Clarke",
-        "Jaclyn Schroeder"
+        "Stephen Clarke"
       ],
-      "participants": []
+      "participants": [
+        "Jaclyn Schroeder"
+      ]
     },
     "agenda_items": [
       {
         "item_number": "IV",
         "title": "Approval of the minutes for the February 13, 2024 City of Dallas Housing Finance Corporation Meeting",
-        "description": "",
+        "description": "Approval of the minutes from the previous meeting.",
         "presenter": "Marcy Helfand",
         "action_required": "approve"
       },
@@ -38,21 +39,21 @@
       {
         "item_number": "VI",
         "title": "Review and discussion of DHFC Treasurer’s report",
-        "description": "Review of the financial report for the two-month period ending on February 29, 2024.",
+        "description": "Review of the Treasurer's report for the two-month period ending on February 29, 2024.",
         "presenter": "Aaron Eaquinto",
         "action_required": "discuss"
       },
       {
         "item_number": "VII",
         "title": "Review and discussion of the Corporation’s pipeline report",
-        "description": "Discussion of the Corporation’s pipeline report as of April 5, 2024.",
-        "presenter": "Aaron Eaquinto, Geoff Jewett, Stephen Clarke",
+        "description": "Discussion of the Corporation's pipeline report as of April 5, 2024.",
+        "presenter": "Aaron Eaquinto",
         "action_required": "discuss"
       },
       {
         "item_number": "VIII",
         "title": "Staffing updates",
-        "description": "",
+        "description": "Updates regarding staffing.",
         "presenter": "Aaron Eaquinto",
         "action_required": "discuss"
       }

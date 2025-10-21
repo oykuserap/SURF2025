@@ -30,7 +30,7 @@
       {
         "item_number": "A",
         "title": "Staff Briefing: City Council Composition, Term Lengths, and Term Limits",
-        "description": "A briefing on the composition of the city council, including term lengths and limits.",
+        "description": "Briefing on the composition of the city council, including term lengths and limits.",
         "presenter": "Jake Anderson, Office of Government Affairs",
         "action_required": "discuss"
       },
@@ -113,22 +113,22 @@
       },
       {
         "item_number": "M",
-        "title": "Move the election date",
-        "description": "Discussion on moving the election date from May of odd-numbered years.",
+        "title": "Move the election date from May of odd-numbered years",
+        "description": "Discussion on moving the election date.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "N",
         "title": "Amend Chapter III §3A regarding the waiting period",
-        "description": "Discussion on the waiting period for serving on the city council after term limits.",
+        "description": "Discussion on amending the waiting period for serving on the city council.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "O",
         "title": "Charter Review Commission Calendar",
-        "description": "Review of the Charter Review Commission calendar.",
+        "description": "Discussion on the calendar for the Charter Review Commission.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -136,18 +136,18 @@
     "keywords": [
       "Charter Review",
       "City Council",
-      "Term Lengths",
       "Election Date",
-      "Staggering Terms",
+      "Term Lengths",
       "Mayor Pro Tem",
-      "Council Composition",
-      "Amendments",
-      "Public Participation",
+      "Single-Member Districts",
+      "At-Large Districts",
+      "Staggered Terms",
       "Government Structure",
-      "Commission Briefing",
-      "Voting",
-      "Legislation",
+      "Public Participation",
+      "Amendments",
+      "Commissioner Briefings",
       "City Governance",
+      "Public Affairs",
       "Dallas"
     ],
     "financial_items": []

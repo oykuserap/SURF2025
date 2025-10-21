@@ -1,44 +1,83 @@
 {
-  "agenda_identifier": "agenda_20231205_special",
+  "agenda_identifier": "agenda_20231205_hearing",
   "agenda_number": 20231205,
-  "source_file": "agenda_20231205_special.txt",
+  "source_file": "agenda_20231205_hearing.txt",
   "extracted_data": {
     "meeting_info": {
-      "date": "December 5, 2023",
-      "time": "11:00 AM",
-      "type": "Special Called Meeting",
-      "organization": "Transportation and Infrastructure Committee",
-      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+      "date": "December 14, 2023",
+      "time": "12:00 P.M",
+      "type": "Regular Meeting",
+      "organization": "Dallas Veteran’s Affairs Commission",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
     },
     "attendees": {
-      "chair": "Omar Narvaez",
+      "chair": null,
       "presenters": [],
       "participants": []
     },
     "agenda_items": [
       {
-        "item_number": "A 23-3140",
-        "title": "Dallas-Fort Worth International Airport Board Appointee Candidate Interviews",
-        "description": "",
-        "presenter": "Omar Narvaez, Council Member, Chair of Transportation & Infrastructure",
+        "item_number": "I",
+        "title": "Public Comments on Items II – VII",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Vote and Approve Meeting Minutes from October 12, 2023",
+        "description": null,
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "III",
+        "title": "Review and Discuss 2023 Annual Report Draft",
+        "description": "Discuss feedback on the 2023 Annual Report draft.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "IV",
+        "title": "Staff Reports/Briefing",
+        "description": "None",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "V",
+        "title": "Announcements",
+        "description": "Discussion regarding the timeline for the 2023 Annual Report and any questions or concerns about the report.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
         "action_required": null
       }
     ],
     "keywords": [
       "Dallas",
-      "Transportation",
-      "Infrastructure",
-      "Committee",
-      "Special Called Meeting",
-      "Airport",
-      "Board Appointee",
-      "Candidate Interviews",
-      "City Council",
-      "Public Meeting",
-      "Video Conference"
+      "Veteran’s Affairs",
+      "Regular Meeting",
+      "Public Comments",
+      "Meeting Minutes",
+      "Annual Report",
+      "Staff Reports",
+      "Announcements",
+      "Adjournment",
+      "Equitable Meeting",
+      "Accommodations",
+      "Executive Session",
+      "Discussion",
+      "Feedback",
+      "Timeline"
     ],
     "financial_items": []
   },
   "extraction_method": "openai_gpt",
-  "original_length": 17878
+  "original_length": 7792
 }

@@ -37,15 +37,8 @@
       {
         "item_number": "VIII",
         "title": "Briefings",
-        "description": "Assistant Director/WCIA Officer, Christina da Silva, and Human Rights Officer, Christopher Graves, will present on the proposed creation of a Human Rights Commission.",
-        "presenter": "Christina da Silva and Christopher Graves",
-        "action_required": "discuss"
-      },
-      {
-        "item_number": "VIII",
-        "title": "Emergency Management Preparedness",
-        "description": "Interim Director of the Office of Emergency Management, Travis Houston will present on Emergency Management Preparedness for persons with disabilities.",
-        "presenter": "Travis Houston",
+        "description": "Assistant Director/WCIA Officer, Christina da Silva, and Human Rights Officer, Christopher Graves, will present on the proposed creation of a Human Rights Commission. Interim Director of the Office of Emergency Management, Travis Houston will present on Emergency Management Preparedness for persons with disabilities.",
+        "presenter": "Christina da Silva, Christopher Graves, Travis Houston",
         "action_required": "discuss"
       }
     ],

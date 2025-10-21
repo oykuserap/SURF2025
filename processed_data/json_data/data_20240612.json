@@ -7,8 +7,8 @@
       "date": "June 12, 2024",
       "time": "9:00 AM",
       "type": "Regular Meeting",
-      "organization": "City of Dallas City Council",
-      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
     },
     "attendees": {
       "chair": null,
@@ -33,49 +33,49 @@
       {
         "item_number": "3",
         "title": "Authorize partial settlement of the lawsuit styled Pedro Lopez Individually, as a Parent, Guardian, and Next Friends of J.L. and T.L. v. City of Dallas et al.",
-        "description": "Not to exceed $55,000.00.",
+        "description": "Not to exceed $55,000.00 - Financing: Liability Reserve Fund",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "4",
         "title": "Authorize payment of the jury verdict entered against the City in the lawsuit styled Krystal Thompson and Saige Frazier v. Mario P. Mazza and City of Dallas",
-        "description": "Not to exceed $50,000.00.",
+        "description": "Not to exceed $50,000.00 - Financing: Liability Reserve Fund",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "5",
         "title": "Authorize payment of the jury verdict issued against the City in the lawsuit styled Terrance Cotton, Individually, and as Next Friend of E.C., T.C., and T.C., Jr. v. the City of Dallas",
-        "description": "Not to exceed $270,000.00.",
+        "description": "Not to exceed $270,000.00 - Financing: Liability Reserve Fund",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "6",
         "title": "Authorize settlement of the lawsuit styled Anthony Darvette Anderson v. City of Dallas",
-        "description": "Not to exceed $36,000.00.",
+        "description": "Not to exceed $36,000.00 - Financing: Liability Reserve Fund",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "7",
         "title": "Authorize settlement of the lawsuit styled Cedrick Omah Williams v. City of Dallas",
-        "description": "Not to exceed $80,000.00.",
+        "description": "Not to exceed $80,000.00 - Financing: Liability Reserve Fund",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "8",
         "title": "Authorize settlement of the lawsuit styled Tammy Jenkins v. City of Dallas",
-        "description": "Not to exceed $248,500.00.",
+        "description": "Not to exceed $248,500.00 - Financing: Liability Reserve Fund",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "9",
         "title": "Authorize execution of the Amended and Restated Revolving Credit Agreement with JPMorgan Chase Bank",
-        "description": "Not to exceed $6,230,579.",
+        "description": "Not to exceed $6,230,579 - Financing: Dallas Water Utilities Fund",
         "presenter": null,
         "action_required": "approve"
       },
@@ -94,15 +94,10 @@
       "property tax exemption",
       "lawsuit settlement",
       "budget",
+      "funding",
       "public hearing",
       "economic development",
-      "housing",
-      "infrastructure",
-      "zoning",
-      "public safety",
-      "community development",
-      "transportation",
-      "funding"
+      "community development"
     ],
     "financial_items": [
       {
@@ -113,42 +108,42 @@
       {
         "description": "Partial settlement of lawsuit",
         "amount": "$55,000",
-        "type": "expenditure"
+        "type": "settlement"
       },
       {
-        "description": "Payment of jury verdict",
+        "description": "Payment of jury verdict against the City",
         "amount": "$50,000",
-        "type": "expenditure"
+        "type": "settlement"
       },
       {
-        "description": "Payment of jury verdict",
+        "description": "Payment of jury verdict against the City",
         "amount": "$270,000",
-        "type": "expenditure"
+        "type": "settlement"
       },
       {
         "description": "Settlement of lawsuit",
         "amount": "$36,000",
-        "type": "expenditure"
+        "type": "settlement"
       },
       {
         "description": "Settlement of lawsuit",
         "amount": "$80,000",
-        "type": "expenditure"
+        "type": "settlement"
       },
       {
         "description": "Settlement of lawsuit",
         "amount": "$248,500",
-        "type": "expenditure"
+        "type": "settlement"
       },
       {
         "description": "Execution of Amended and Restated Revolving Credit Agreement",
         "amount": "$6,230,579",
-        "type": "funding"
+        "type": "financing"
       },
       {
-        "description": "Amendment to Interlocal Agreement with Texas Department of Transportation",
+        "description": "Amendment to Interlocal Agreement with TxDOT",
         "amount": "$1,234,600",
-        "type": "expenditure"
+        "type": "financing"
       }
     ]
   },

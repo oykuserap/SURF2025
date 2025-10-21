@@ -7,7 +7,7 @@
       "date": "December 1, 2023",
       "time": "9:00 a.m.",
       "type": "Regular Meeting",
-      "organization": "Skillman Corridor TIF District Board of Directors",
+      "organization": "Skillman Corridor TIF District Board",
       "location": "6CN Conference Room/Videoconference, Dallas City Hall - 1500 Marilla Street, Dallas TX 75201"
     },
     "attendees": {
@@ -50,23 +50,23 @@
       {
         "item_number": "3",
         "title": "Review and consideration of the Meeting Record of the November 3, 2023 meeting.",
-        "description": "",
+        "description": "Recommended action: Approval",
         "presenter": null,
-        "action_required": "Approval"
+        "action_required": "approve"
       },
       {
         "item_number": "4",
         "title": "Review and consideration of the Skillman Corridor TIF District Annual Report for FY 2022-2023.",
-        "description": "",
+        "description": "Recommended action: Approval and forward a recommendation of approval to City Council",
         "presenter": null,
-        "action_required": "Approval and forward a recommendation of approval to City Council"
+        "action_required": "approve"
       },
       {
         "item_number": "5",
         "title": "Review and consideration of a regular meeting schedule for the Skillman Corridor TIF District Board of Directors during calendar year 2024.",
-        "description": "",
+        "description": "Recommended action: Approval",
         "presenter": null,
-        "action_required": "Approval"
+        "action_required": "approve"
       },
       {
         "item_number": "6",
@@ -79,14 +79,14 @@
     "keywords": [
       "Skillman Corridor",
       "TIF District",
-      "Dallas",
-      "meeting",
-      "annual report",
-      "public comments",
-      "approval",
-      "regular meeting schedule",
-      "City Council",
-      "pandemic protocols"
+      "Board of Directors",
+      "Annual Report",
+      "Meeting Record",
+      "Public Comments",
+      "Regular Meeting Schedule",
+      "Dallas City Hall",
+      "Videoconference",
+      "Public Health Protocols"
     ],
     "financial_items": []
   },

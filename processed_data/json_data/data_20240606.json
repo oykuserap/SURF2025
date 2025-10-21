@@ -17,25 +17,19 @@
         "Ryan O’Connor",
         "Christina Turner-Noteware"
       ],
-      "participants": [
-        "Sharon Adams",
-        "Alison Matis",
-        "Progressive Hospital Management",
-        "A+ Charter Schools, Inc.",
-        "Fairhill School"
-      ]
+      "participants": []
     },
     "agenda_items": [
       {
         "item_number": "I",
         "title": "Call to Order",
-        "description": "Opening of the meeting by the Chair.",
+        "description": "",
         "presenter": "Arun Agarwal",
         "action_required": null
       },
       {
         "item_number": "II",
-        "title": "SPECIAL RECOGNITION",
+        "title": "Special Recognition",
         "description": "Special recognition of Sharon Adams for her 26 years of service and dedication to the City and Park and Recreation Department.",
         "presenter": null,
         "action_required": null
@@ -43,7 +37,7 @@
       {
         "item_number": "IV",
         "title": "Approval of Minutes",
-        "description": "Approval of the minutes from the meeting held on May 16, 2024.",
+        "description": "Approval of the minutes from the meeting on May 16, 2024.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -71,42 +65,42 @@
       {
         "item_number": "V.4",
         "title": "Cotton Belt Trail",
-        "description": "Authorize acquisition of three easements from Fairhill School for the Cotton Belt Trail Project.",
+        "description": "Authorize acquisition of three easements of approximately 4,859 square feet of land for the Cotton Belt Trail Project.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "VII.5",
         "title": "Bank of Texas Annual Trust Funds Update",
-        "description": "Update on the annual trust funds by Rachael Berry.",
+        "description": "",
         "presenter": "Rachael Berry",
         "action_required": null
       },
       {
         "item_number": "VII.6",
         "title": "Comprehensive Plan Update",
-        "description": "Update on the comprehensive plan by Ryan O’Connor.",
+        "description": "",
         "presenter": "Ryan O’Connor",
         "action_required": null
       },
       {
         "item_number": "VII.7",
-        "title": "Planning & Construction Update I",
-        "description": "Update on planning and vertical construction by Christina Turner-Noteware.",
+        "title": "Planning & Construction Update I: Planning & Vertical",
+        "description": "",
         "presenter": "Christina Turner-Noteware",
         "action_required": null
       },
       {
-        "item_number": "VI.8",
+        "item_number": "VIII.8",
         "title": "Budget Update",
-        "description": "Update on the budget by Rachael Berry.",
+        "description": "",
         "presenter": "Rachael Berry",
         "action_required": null
       },
       {
         "item_number": "VII.9",
         "title": "2024 Bond Program: Implementation Plan",
-        "description": "Discussion on the implementation plan for the 2024 bond program.",
+        "description": "",
         "presenter": "Christina Turner-Noteware",
         "action_required": null
       }
@@ -123,10 +117,10 @@
       "Trust Funds",
       "Special Recognition",
       "Juneteenth Unity Festival",
-      "Summer Kick Off",
+      "Old City Park",
+      "Samuell Grand Park",
       "Executive Session",
-      "Public Speakers",
-      "Meeting Minutes"
+      "Public Speakers"
     ],
     "financial_items": [
       {
@@ -140,7 +134,7 @@
         "type": "expenditure"
       },
       {
-        "description": "Acquisition of easements from Fairhill School for Cotton Belt Trail Project",
+        "description": "Acquisition of easements for Cotton Belt Trail Project",
         "amount": "$45,545.00",
         "type": "expenditure"
       }

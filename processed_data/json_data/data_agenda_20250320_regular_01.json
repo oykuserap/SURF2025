@@ -4,11 +4,11 @@
   "source_file": "agenda_20250320_regular_01.txt",
   "extracted_data": {
     "meeting_info": {
-      "date": "March 20, 2025",
-      "time": "1:00 P.M.",
+      "date": "Date not found",
+      "time": null,
       "type": "Regular Meeting",
       "organization": "Citizen Homelessness Commission",
-      "location": null
+      "location": "Dallas City Hall"
     },
     "attendees": {
       "chair": null,

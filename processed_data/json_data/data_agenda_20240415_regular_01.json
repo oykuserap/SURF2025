@@ -19,8 +19,7 @@
         "Jasmine Bazley"
       ],
       "participants": [
-        "Feliz Jarvis",
-        "SAC Commissioners"
+        "Feliz Jarvis"
       ]
     },
     "agenda_items": [
@@ -41,7 +40,7 @@
       {
         "item_number": "III",
         "title": "Approval of Minutes",
-        "description": "Minutes from March 18, 2024",
+        "description": "(March 18, 2024)",
         "presenter": null,
         "action_required": "approve"
       },
@@ -49,35 +48,42 @@
         "item_number": "IV",
         "title": "Chair’s Report",
         "description": "Reminder of Texas Open Meetings Act (TOMA) Requirements for Videoconference Meeting - Introduction to Senior Listening Sessions",
-        "presenter": "Peter Kline and Feliz Jarvis",
+        "presenter": "Peter Kline",
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Chair’s Report",
+        "description": "Introduction to Senior Listening Sessions",
+        "presenter": "Feliz Jarvis",
         "action_required": null
       },
       {
         "item_number": "V",
-        "title": "New Business",
-        "description": "Briefing Item: AARP Dallas 2024",
+        "title": "New Business - Briefing Item: AARP Dallas 2024",
+        "description": "Presentation by Susan J. Williams, Associate State Director of Outreach and Advocacy, AARP Texas State Office",
         "presenter": "Susan J. Williams",
         "action_required": null
       },
       {
         "item_number": "V",
-        "title": "New Business",
-        "description": "Briefing Item: Community Council of Greater Dallas/Dallas Area Agency on Aging (DAAA)",
-        "presenter": "Doris Soler and Jessica Walker",
+        "title": "New Business - Briefing Item: Community Council of Greater Dallas/Dallas Area Agency on Aging (DAAA)",
+        "description": "Presentation by Doris Soler and Jessica Walker",
+        "presenter": "Doris Soler",
         "action_required": null
       },
       {
         "item_number": "VI",
-        "title": "Staff Reports/Briefings",
-        "description": "Briefing Item: Housing and Neighborhood Revitalization Department update on Home Repair Programs",
+        "title": "Staff Reports/Briefings - Briefing Item: Housing and Neighborhood Revitalization Department update on Home Repair Programs",
+        "description": "",
         "presenter": "Jasmine Bazley",
         "action_required": null
       },
       {
         "item_number": "VI",
-        "title": "Staff Reports/Briefings",
-        "description": "Briefing Item: Senior Services Program & Contracts Monthly Update",
-        "presenter": "Office of Community Care",
+        "title": "Staff Reports/Briefings - Briefing Item: Senior Services Program & Contracts Monthly Update",
+        "description": "Office of Community Care",
+        "presenter": null,
         "action_required": null
       },
       {
@@ -101,16 +107,14 @@
       "Hybrid Meeting",
       "Public Speakers",
       "Approval of Minutes",
-      "Chair's Report",
-      "New Business",
+      "Texas Open Meetings Act",
+      "Senior Listening Sessions",
       "AARP Dallas",
       "Community Council",
-      "Senior Services",
       "Housing and Neighborhood Revitalization",
-      "SAC Commissioners",
-      "Executive Session",
-      "Texas Open Meetings Act",
-      "Accommodations"
+      "Senior Services",
+      "Commissioners District Updates",
+      "Adjournment"
     ],
     "financial_items": []
   },

@@ -8,29 +8,14 @@
       "time": "1:30 PM",
       "type": "Joint Meeting",
       "organization": "Government Performance and Financial Management Committee and Ad Hoc Committee on Pensions",
-      "location": "Council Briefing Room, 6th Floor, City Hall and via video conference"
+      "location": "Council Briefing Room, 6th Floor, City Hall, Dallas, Texas"
     },
     "attendees": {
       "chair": "Atkins",
       "presenters": [
         "Jeannie Chen"
       ],
-      "participants": [
-        "Narvaez",
-        "Arnold",
-        "Bazaldua",
-        "Ridley",
-        "Stewart",
-        "West",
-        "Blackmon",
-        "Mendelsohn",
-        "Moreno",
-        "Resendez",
-        "Willis",
-        "Gracey",
-        "Johnson",
-        "Schultz"
-      ]
+      "participants": []
     },
     "agenda_items": [
       {
@@ -47,12 +32,16 @@
       "Government Performance",
       "Financial Management",
       "Pensions",
-      "Audit",
+      "Audit Report",
+      "Jeannie Chen",
       "Deloitte",
       "Texas Government Code",
       "Public Meeting",
-      "Video Conference",
-      "City Hall"
+      "Virtual Attendance",
+      "City Hall",
+      "Executive Session",
+      "Financial Information",
+      "Economic Development"
     ],
     "financial_items": []
   },

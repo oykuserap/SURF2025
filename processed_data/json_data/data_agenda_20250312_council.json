@@ -5,10 +5,10 @@
   "extracted_data": {
     "meeting_info": {
       "date": "March 12, 2025",
-      "time": null,
-      "type": "Meeting",
-      "organization": "City of Dallas",
-      "location": "Dallas City Hall"
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City Council",
+      "location": "Council Chambers, City Hall, Dallas, Texas"
     },
     "attendees": {
       "chair": null,

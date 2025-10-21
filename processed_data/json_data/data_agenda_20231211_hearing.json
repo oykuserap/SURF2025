@@ -4,7 +4,7 @@
   "source_file": "agenda_20231211_hearing.txt",
   "extracted_data": {
     "meeting_info": {
-      "date": "December 11th, 2023",
+      "date": "December 11, 2023",
       "time": "10:30 A.M. and 1:00 P.M.",
       "type": "Regular Meeting",
       "organization": "Board of Adjustment (Panel C)",
@@ -67,30 +67,30 @@
       }
     ],
     "keywords": [
+      "Dallas",
       "Board of Adjustment",
       "Public Hearing",
       "Variance",
       "Setback Regulations",
-      "Application Fee",
+      "Application",
+      "Approval",
       "Annual Report",
-      "Minutes Approval",
+      "Minutes",
       "Public Testimony",
+      "Case Docket",
       "Uncontested Items",
       "Holdover Items",
       "Individual Items",
-      "Dallas City Hall",
-      "Videoconference",
-      "Accessibility",
       "Executive Session"
     ],
     "financial_items": [
       {
-        "description": "Reimbursement for the application fee of BDA223-104(DB)",
+        "description": "Reimbursement for the application fee of BDA223-104(DB), an appeal of the decision of the administrative official in the denial of a CD work certificate.",
         "amount": null,
         "type": "reimbursement"
       },
       {
-        "description": "Reimbursement for the application fee of BDA223-105(DB)",
+        "description": "Reimbursement for the application fee of BDA223-105(DB), an appeal of the decision of the administrative official in the denial of a CD work certificate.",
         "amount": null,
         "type": "reimbursement"
       }

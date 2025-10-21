@@ -8,7 +8,7 @@
       "time": "12:00 P.M.",
       "type": "Hybrid Meeting",
       "organization": "Senior Affairs Commission",
-      "location": "Dallas City Hall, L1FN Auditorium; Video Conference Link: https://dallascityhall.webex.com/dallascityhall/j.php?MTID=m97713a2b2024fd6cbe695b04e2822e94"
+      "location": "Dallas City Hall, L1FN Auditorium and Video Conference"
     },
     "attendees": {
       "chair": "Peter Kline",
@@ -47,14 +47,14 @@
       {
         "item_number": "IV",
         "title": "Chair’s Report",
-        "description": "Reminder of Texas Open Meetings Act Requirements for Videoconference Meeting; Update on Senior Listening Sessions",
+        "description": "Reminder of Texas Open Meetings Act Requirements for Videoconference Meeting and Update on Senior Listening Sessions",
         "presenter": "Peter Kline",
         "action_required": null
       },
       {
         "item_number": "V",
         "title": "New Business",
-        "description": "Briefing Item: Park and Recreation Department Update; Briefing Item: Senior Services Strategic Plan Overview",
+        "description": "Briefing Item: Park and Recreation Department Update and Senior Services Strategic Plan Overview",
         "presenter": "Latrice Brown, Jessica Galleshaw, Tabitha Taylor",
         "action_required": null
       },
@@ -82,6 +82,7 @@
     ],
     "keywords": [
       "Senior Affairs Commission",
+      "Dallas City Hall",
       "Public Speakers",
       "Approval of Minutes",
       "Texas Open Meetings Act",

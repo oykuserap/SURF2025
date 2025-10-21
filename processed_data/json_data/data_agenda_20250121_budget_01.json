@@ -34,7 +34,7 @@
       },
       {
         "item_number": "B",
-        "title": "Procurement Process for HR Consultant Services",
+        "title": "Procurement Process for Consultant Services",
         "description": "Consider recommendation to City Council to start procurement process for human resources consultant services for performance evaluations of City Council-appointed positions.",
         "presenter": null,
         "action_required": "discuss"
@@ -46,11 +46,11 @@
       "Administrative Affairs",
       "performance review",
       "City Council",
-      "human resources",
       "consultant services",
+      "human resources",
       "evaluation",
       "procurement",
-      "meeting minutes"
+      "minutes approval"
     ],
     "financial_items": []
   },

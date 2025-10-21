@@ -13,10 +13,11 @@
     "attendees": {
       "chair": "John Kalkanli",
       "presenters": [
-        "John Kalkanli",
         "Tammy Haenftling"
       ],
-      "participants": []
+      "participants": [
+        "Commissioners"
+      ]
     },
     "agenda_items": [
       {
@@ -54,9 +55,9 @@
       "North Texas UN Town Hall",
       "Mobility Management",
       "Video Conference",
+      "Accessibility",
       "Public Participation",
-      "Executive Session",
-      "Handgun Prohibition"
+      "Executive Session"
     ],
     "financial_items": []
   },

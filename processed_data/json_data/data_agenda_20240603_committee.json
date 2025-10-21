@@ -54,7 +54,7 @@
       {
         "item_number": "D",
         "title": "CECAP Considerations for 2024 Bond Program",
-        "description": "Considerations for the 2024 Bond Program related to CECAP.",
+        "description": "Considerations for the 2024 bond program related to CECAP.",
         "presenter": "Majed A. Al-Ghafry",
         "action_required": "discuss"
       },
@@ -79,13 +79,12 @@
       "Environment",
       "Budget",
       "Legislation",
-      "Smoking Ordinance",
+      "Ordinance",
       "Bond Program",
-      "Environmental Commission",
-      "City Council",
-      "Dallas",
-      "Meeting",
-      "Briefing"
+      "Commission",
+      "Update",
+      "Briefing",
+      "City Council"
     ],
     "financial_items": []
   },

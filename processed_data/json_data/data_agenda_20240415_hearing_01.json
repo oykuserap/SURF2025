@@ -32,89 +32,94 @@
         "item_number": "B",
         "title": "Library Strategic + Facilities Plan",
         "description": "Briefing on the Library Strategic and Facilities Plan.",
-        "presenter": "Heather Lowe, Assistant Director, Dallas Public Library",
+        "presenter": "Heather Lowe",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "Horse-Drawn Carriage Update",
         "description": "Update on the Horse-Drawn Carriage program.",
-        "presenter": "Patrick Carreno, Director, Aviation",
+        "presenter": "Patrick Carreno",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "North Texas Municipal Water District Sanitary Sewer Overflow Update",
         "description": "Update on the sanitary sewer overflow from the North Texas Municipal Water District.",
-        "presenter": "Sarah Standifer, Director, Dallas Water Utilities",
+        "presenter": "Sarah Standifer",
         "action_required": "discuss"
       },
       {
         "item_number": "E",
-        "title": "Supplemental Agreement No. 1",
-        "description": "Authorize Supplemental Agreement No. 1 to the architectural services contract with Brown Reynolds Watford Architects, Inc. for soil testing and increase reimbursable expenses for the Dallas Airport System Signage.",
+        "title": "April 24, 2024 City Council Agenda Item 3",
+        "description": "Authorize Supplemental Agreement No. 1 to the architectural services contract with Brown Reynolds Watford Architects, Inc. to provide soil testing and to increase the reimbursable expenses for the Dallas Airport System Signage at Dallas Executive Airport.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "F",
-        "title": "Supplemental Agreement No. 2",
-        "description": "Authorize Supplemental Agreement No. 2 to the engineering services contract with Kimley-Horn and Associates, Inc. for construction phase services for the Lemmon Avenue Streetscape Enhancements Project.",
+        "title": "April 24, 2024 City Council Agenda Item 4",
+        "description": "Authorize Supplemental Agreement No. 2 to the engineering services contract with Kimley-Horn and Associates, Inc. to provide construction phase services for the additional trail limits for the Lemmon Avenue Streetscape Enhancements Project at Dallas Love Field.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "G",
-        "title": "Supplemental Agreement No. 7",
-        "description": "Authorize Supplemental Agreement No. 7 to the professional services contract with M. Arthur Gensler Jr. & Associates, Inc. for maintenance and repairs to Parking Garages A and B.",
+        "title": "April 24, 2024 City Council Agenda Item 5",
+        "description": "Authorize Supplemental Agreement No. 7 to the professional services contract with M. Arthur Gensler Jr. & Associates, Inc. for major maintenance and repairs to Parking Garages A and B at Dallas Love Field.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "H",
-        "title": "Service Contract for Multimedia Messaging",
-        "description": "Authorize a three-year service contract for multimedia messaging services for the Women, Infant, Children Program.",
+        "title": "April 24, 2024 City Council Agenda Item 18",
+        "description": "Authorize the execution of a three-year service contract for providing multimedia messaging services for the City of Dallas’ Women, Infant, Children Program.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "I",
-        "title": "Increase in Construction Services Contract",
-        "description": "Authorize an increase in the construction services contract with BAR Constructors, Inc. for additional work on the new pump station at the Elm Fork Water Treatment Plant.",
+        "title": "April 24, 2024 City Council Agenda Item 33",
+        "description": "Authorize an increase in the construction services contract with BAR Constructors, Inc. for additional work associated with the construction of a new pump station at the Elm Fork Water Treatment Plant.",
         "presenter": null,
         "action_required": "approve"
       }
     ],
     "keywords": [
-      "Dallas City Council",
+      "Dallas",
+      "City Council",
       "Quality of Life",
-      "Arts and Culture",
-      "Library Strategic Plan",
+      "Arts",
+      "Culture",
+      "Library",
+      "Sanitary Sewer",
       "Horse-Drawn Carriage",
-      "Sanitary Sewer Overflow",
-      "Supplemental Agreement",
-      "Construction Services",
-      "Multimedia Messaging",
-      "Public Meeting"
+      "Aviation",
+      "Construction",
+      "Public Services",
+      "Funding",
+      "Committee Meeting",
+      "Broadcast",
+      "Virtual Attendance"
     ],
     "financial_items": [
       {
-        "description": "Supplemental Agreement No. 1 for soil testing and reimbursable expenses for Dallas Airport System Signage.",
+        "description": "Supplemental Agreement No. 1 to the architectural services contract for Dallas Airport System Signage.",
         "amount": "$17,040.00",
         "type": "expenditure"
       },
       {
-        "description": "Supplemental Agreement No. 2 for construction phase services for Lemmon Avenue Streetscape Enhancements Project.",
+        "description": "Supplemental Agreement No. 2 to the engineering services contract for Lemmon Avenue Streetscape Enhancements Project.",
         "amount": "$250,000.00",
         "type": "expenditure"
       },
       {
-        "description": "Supplemental Agreement No. 7 for maintenance and repairs to Parking Garages A and B.",
+        "description": "Supplemental Agreement No. 7 for major maintenance and repairs to Parking Garages A and B.",
         "amount": "$214,453.00",
         "type": "expenditure"
       },
       {
-        "description": "Service contract for multimedia messaging services for Women, Infant, Children Program.",
+        "description": "Three-year service contract for multimedia messaging services for Women, Infant, Children Program.",
         "amount": "$109,877.14",
         "type": "expenditure"
       },

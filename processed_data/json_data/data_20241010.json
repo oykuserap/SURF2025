@@ -24,14 +24,14 @@
         "item_number": "IV",
         "title": "Approval of the September 5, 2024, Community Development Commission Meeting Minutes",
         "description": "",
-        "presenter": null,
+        "presenter": "",
         "action_required": "approve"
       },
       {
         "item_number": "V",
         "title": "CDC Committee Report - Citizen Participation / Policy and Procedure (CPPP) Committee",
         "description": "Update on the meeting outcomes of the CPPP Committee Meeting held on September 24, 2024",
-        "presenter": "Rosanne Mills",
+        "presenter": "Rosanne Mills, CPPP Chair",
         "action_required": "discuss"
       },
       {
@@ -52,28 +52,14 @@
         "item_number": "VIII",
         "title": "Chair’s Report",
         "description": "This report may include general greetings and acknowledgements to staff, commission members and other members of the public; introduction of new commission members; additions/changes to committee assignments, scheduling of committee meetings and consideration of future agenda item.",
-        "presenter": "Melanie Rubin",
+        "presenter": "Melanie Rubin, Chair",
         "action_required": "discuss"
       },
       {
         "item_number": "IX",
         "title": "Vice Chair’s Report",
         "description": "This report includes general acknowledgements to staff, commission members and members of the public",
-        "presenter": "Zhen Barrientos",
-        "action_required": "discuss"
-      },
-      {
-        "item_number": "X",
-        "title": "Public Speakers",
-        "description": "",
-        "presenter": null,
-        "action_required": "discuss"
-      },
-      {
-        "item_number": "XI",
-        "title": "Announcement",
-        "description": "Announcements may include: Expressions of thanks, congratulations, or condolence; Information about holiday schedules; honorary or salutary recognition of public officials, employees, or citizens.",
-        "presenter": null,
+        "presenter": "Zhen Barrientos, Vice Chair",
         "action_required": "discuss"
       }
     ],

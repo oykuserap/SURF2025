@@ -81,17 +81,16 @@
       "Minutes Approval",
       "Staff Reports",
       "Preservation Month",
-      "Ad Hoc Code Amendment Committee",
-      "Resignation"
+      "Ad Hoc Code Amendment"
     ],
     "financial_items": [
       {
-        "description": "Approval of estimated expenditures for rehabilitation prior to issuance of Certificate of Eligibility",
+        "description": "Estimated expenditures for rehabilitation prior to issuance of Certificate of Eligibility",
         "amount": "$52,925",
         "type": "expenditure"
       },
       {
-        "description": "Approval of estimated expenditures for rehabilitation prior to issuance of Certificate of Eligibility",
+        "description": "Estimated expenditures for rehabilitation prior to issuance of Certificate of Eligibility",
         "amount": "$186,000",
         "type": "expenditure"
       }

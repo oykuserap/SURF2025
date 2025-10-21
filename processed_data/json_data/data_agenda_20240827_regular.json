@@ -73,15 +73,18 @@
       "Municipal Library Board",
       "Regular Meeting",
       "Dallas",
-      "Call to Order",
       "Public Speakers",
       "Approval of Minutes",
-      "Reports",
       "Chair’s Report",
       "Director’s Report",
       "Budget Review",
       "New Business",
-      "Adjournment"
+      "Adjournment",
+      "Video Conference",
+      "Accessibility",
+      "Public Participation",
+      "Executive Session",
+      "Financial Information"
     ],
     "financial_items": []
   },

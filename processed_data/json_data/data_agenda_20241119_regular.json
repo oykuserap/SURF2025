@@ -7,7 +7,7 @@
       "date": "November 19, 2024",
       "time": "5:00 P.M.",
       "type": "Regular Meeting",
-      "organization": "City Secretary",
+      "organization": "City of Dallas",
       "location": "Central Library, 1515 Young St. Dallas, TX 75201, Board Room, 2nd floor, Video Conference Link: https://dallascityhall.webex.com/dallascityhall/j.php?MTID=m6712c8915c86e6dae46c128c7947a519"
     },
     "attendees": {
@@ -36,21 +36,21 @@
       {
         "item_number": "III",
         "title": "Approval of Minutes",
-        "description": "Minutes from October 29, 2024",
+        "description": "(October 29, 2024)",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "IV",
         "title": "Reports of Officers, Boards, Standing Committees",
-        "description": "Chair’s Report including Annual Report goals review and Propositions S and U impact on libraries",
+        "description": "Chair’s Report - Annual Report goals review, Propositions S and U impact on libraries",
         "presenter": "Temporary Chair",
         "action_required": null
       },
       {
         "item_number": "V",
         "title": "Staff Reports/Briefings",
-        "description": "Strategic Partnerships/partnership manual and Director’s Report",
+        "description": "Strategic Partnerships/partnership manual, Director’s Report, Special Funds",
         "presenter": "Melissa Dease, Heather Lowe",
         "action_required": null
       },
@@ -65,19 +65,16 @@
     "keywords": [
       "Dallas",
       "Regular Meeting",
-      "City Secretary",
       "Public Speakers",
       "Approval of Minutes",
-      "Reports of Officers",
+      "Reports",
       "Chair’s Report",
+      "Annual Report",
+      "Propositions S and U",
       "Strategic Partnerships",
       "Director’s Report",
-      "Adjournment",
-      "Propositions S and U",
-      "Annual Report",
-      "Library",
-      "Executive Session",
-      "Accommodations"
+      "Special Funds",
+      "Adjournment"
     ],
     "financial_items": []
   },

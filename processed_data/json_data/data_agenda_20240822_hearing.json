@@ -5,7 +5,7 @@
   "extracted_data": {
     "meeting_info": {
       "date": "August 22, 2024",
-      "time": "9:00 AM",
+      "time": "9:00 AM - 12:30 PM",
       "type": "Regular Meeting",
       "organization": "City Plan Commission",
       "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
@@ -14,46 +14,54 @@
       "chair": null,
       "presenters": [
         "Andreq Ruegg",
+        "Teaseia Blue",
         "Rob Baldwin",
         "Connor Roberts",
-        "Giahanna Bridges",
         "Martin Bate",
+        "Giahanna Bridges",
+        "Michael Pepe",
+        "Santos Martinez",
+        "Ramon Suarez",
         "Tina Shone",
         "Audra Buckley",
-        "Santos Martinez",
-        "Michael V. Pepe",
-        "Sarah May, AICP",
+        "Trenton Robertson",
+        "Joe Feagin",
+        "Tommy Mann",
         "Oscar Aguilera",
         "Hema Sharma"
       ],
-      "participants": []
+      "participants": [
+        "Department of Planning and Development",
+        "City Attorney’s Office",
+        "Zoning Ordinance Advisory Committee (ZOAC)"
+      ]
     },
     "agenda_items": [
       {
         "item_number": "1",
         "title": "Development Plans",
-        "description": "An application for a development plan on property zoned Planned Development District No. 1012, on the west line of Stemmons Freeway Service Road, north of Viceroy Drive.",
+        "description": "An application for a development plan on property zoned Planned Development District No. 1012.",
         "presenter": "Andreq Ruegg",
         "action_required": "approve"
       },
       {
         "item_number": "2",
         "title": "Specific Use Permit for Private Recreation Center",
-        "description": "An application for a Specific Use Permit for a private recreation center, club, or area on property zoned an R-7.5(A) Single Family District.",
+        "description": "An application for a Specific Use Permit for a private recreation center on property zoned an R-7.5(A) Single Family District.",
         "presenter": "Rob Baldwin",
         "action_required": "approve"
       },
       {
         "item_number": "3",
         "title": "Amendment to Specific Use Permit No. 2071",
-        "description": "An application for an amendment to Specific Use Permit No. 2071 for a detached non-premise sign (billboard).",
+        "description": "An application for an amendment to Specific Use Permit No. 2071 for a detached non-premise sign.",
         "presenter": "Carlos Talison",
         "action_required": "approve"
       },
       {
         "item_number": "4",
         "title": "Specific Use Permit for Commercial Motor Vehicle Parking",
-        "description": "An application for a Specific Use Permit for commercial motor vehicle parking on property zoned an LI Light Industrial District.",
+        "description": "An application for a Specific Use Permit for commercial motor vehicle parking.",
         "presenter": "Rob Baldwin",
         "action_required": "approve"
       },
@@ -68,35 +76,35 @@
         "item_number": "6",
         "title": "Specific Use Permit for Vehicle Display",
         "description": "An application for a Specific Use Permit for vehicle display, sales, and service.",
-        "presenter": "Salvador Jimenez",
+        "presenter": "Michael Stanley",
         "action_required": "approve"
       },
       {
         "item_number": "7",
         "title": "Amendment to Specific Use Permit No. 2076",
-        "description": "An application for an amendment to an expansion of Specific Use Permit No. 2076 for an inside commercial amusement.",
+        "description": "An application for an amendment to an expansion of Specific Use Permit No. 2076 for a live music venue.",
         "presenter": "Tina Shone",
         "action_required": "approve"
       },
       {
         "item_number": "8",
         "title": "Amendment to Specific Use Permit No. 2211",
-        "description": "An application for an amendment to Specific Use Permit No. 2211 for a bar, lounge, or tavern.",
-        "presenter": "John Larue",
+        "description": "An application for an amendment to Specific Use Permit No. 2211 for a bar and live music venue.",
+        "presenter": "Audra Buckley",
         "action_required": "approve"
       },
       {
         "item_number": "15",
         "title": "Development Code Amendment",
-        "description": "Consideration of amending Chapters 51 and 51A, the Dallas Development Code.",
+        "description": "Consideration of amending Chapters 51 and 51A of the Dallas Development Code.",
         "presenter": "Michael T. Wade",
         "action_required": "approve"
       },
       {
         "item_number": "16",
         "title": "Development Code Amendment - Under Advisement",
-        "description": "Consideration of amending Chapter 51A, the Dallas Development Code.",
-        "presenter": "Sarah May, AICP",
+        "description": "Consideration of amending Chapter 51A of the Dallas Development Code.",
+        "presenter": "Sarah May",
         "action_required": "approve"
       },
       {
@@ -109,27 +117,27 @@
       {
         "item_number": "18",
         "title": "Subdivision Cases - Consent",
-        "description": "An application to create one 55.296-acre lot from a tract of land.",
+        "description": "Various applications for subdivision cases.",
         "presenter": "Hema Sharma",
         "action_required": "approve"
       }
     ],
     "keywords": [
       "City Plan Commission",
-      "Development Plans",
-      "Zoning",
       "Public Hearing",
+      "Development Plans",
+      "Zoning Cases",
       "Specific Use Permit",
       "Amendment",
       "Subdivision",
-      "Dallas",
-      "Planning",
-      "Regulations",
+      "Public Testimony",
+      "Approval of Minutes",
+      "Dallas Development Code",
       "Public Participation",
-      "Community Development",
-      "Land Use",
-      "Zoning Cases",
-      "Code Amendments"
+      "Virtual Meeting",
+      "City Hall",
+      "Planning and Development",
+      "Community Engagement"
     ],
     "financial_items": []
   },

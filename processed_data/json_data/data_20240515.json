@@ -48,18 +48,13 @@
       "Special Bond Election",
       "Biennial Budget",
       "Charter Review",
-      "Executive Session",
-      "Public Participation",
-      "Virtual Meeting",
-      "Rules of Courtesy",
-      "ADA Compliance",
-      "Financial Considerations"
+      "Executive Session"
     ],
     "financial_items": [
       {
-        "description": "No cost consideration to the City",
-        "amount": null,
-        "type": null
+        "description": "Financing for the special bond election",
+        "amount": "No cost consideration to the City",
+        "type": "funding"
       }
     ]
   },

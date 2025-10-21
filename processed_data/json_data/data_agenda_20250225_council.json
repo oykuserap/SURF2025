@@ -5,59 +5,66 @@
   "extracted_data": {
     "meeting_info": {
       "date": "February 25, 2025",
-      "time": null,
+      "time": "2:00 P.M.",
       "type": "Regular Meeting",
-      "organization": "Tx \n\n\n\n                                           Commission",
-      "location": "Dallas City Hall"
+      "organization": "Commission on Disabilities",
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference (Webex)"
     },
     "attendees": {
-      "chair": null,
-      "presenters": [],
+      "chair": "John Kalkanli",
+      "presenters": [
+        "Cynthia Pursley",
+        "Peter Pursley",
+        "Keri M. Stitt"
+      ],
       "participants": []
     },
     "agenda_items": [
       {
-        "item_number": "1",
-        "title": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or a...",
-        "description": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or any matter  \n\n     in which the duty of the attorney to the City Council under the Texas Disciplinary Rules of Professional Conduct  \n\n     of the State Bar of Texas clearly conflicts with the Texas Open Meetings Act. [Tex. Govt. Code §",
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of the January 28, 2025, Commission on Disabilities Meeting Minutes",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
-        "item_number": "2",
-        "title": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open mee...",
-        "description": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open meeting  \n\n     would have a detrimental effect on the position of the city in negotiations with a third person. [Tex. Govt. Code  \n\n     §",
-        "presenter": null,
-        "action_required": "Action"
+        "item_number": "V",
+        "title": "Chairman Report",
+        "description": "Chairman John Kalkanli (Mayor Appointee) Report",
+        "presenter": "John Kalkanli",
+        "action_required": "discuss"
       },
       {
-        "item_number": "3",
-        "title": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in...",
-        "description": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in an open  \n\n     meeting would have a detrimental effect on the position of the city in negotiations with a third person.[Tex. Govt.  \n\n     Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "item_number": "VII",
+        "title": "Understanding the Fentanyl Crisis",
+        "description": "Cynthia Pursley and Peter Pursley will present on Understanding the Fentanyl Crisis.",
+        "presenter": "Cynthia Pursley and Peter Pursley",
+        "action_required": "discuss"
       },
       {
-        "item_number": "4",
-        "title": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal...",
-        "description": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal of a  \n\n     public officer or employee; or to hear a complaint or charge against an officer or employee unless the officer or  \n\n     employee who is the subject of the deliberation or hearing requests a public hearing. [Tex. Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "5",
-        "title": "deliberating the deployment, or specific occasions for implementation, of security personnel or devi...",
-        "description": "deliberating the deployment, or specific occasions for implementation, of security personnel or devices. [Tex.  \n\n     Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "item_number": "VIII",
+        "title": "Youth180 – an Overview",
+        "description": "Keri M. Stitt will provide an overview of Youth180, an innovative leader helping youth & families navigate social & environmental challenges through prevention, intervention, and clinical programs.",
+        "presenter": "Keri M. Stitt",
+        "action_required": "discuss"
       }
     ],
     "keywords": [
-      "tif",
-      "approval",
-      "public",
-      "development",
-      "contract"
+      "Commission on Disabilities",
+      "Regular Meeting",
+      "Approval of Minutes",
+      "Fentanyl Crisis",
+      "Youth180",
+      "Public Comment",
+      "Dallas City Hall",
+      "Cynthia Pursley",
+      "Peter Pursley",
+      "Keri M. Stitt",
+      "Chairman Report",
+      "Equity and Inclusion",
+      "Virtual Meeting",
+      "Community Services",
+      "Social Challenges"
     ],
     "financial_items": []
   },

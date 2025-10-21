@@ -29,56 +29,56 @@
       {
         "item_number": "1",
         "title": "Welcome",
-        "description": "Introduction by the Director of Planning and Urban Design.",
+        "description": "Introduction by Andrea Gilles, AICP, Director of Planning and Urban Design.",
         "presenter": "Andrea Gilles, AICP",
         "action_required": null
       },
       {
         "item_number": "2",
         "title": "New City Plan Commission Orientation & Refresher",
-        "description": "Orientation session for new members.",
+        "description": "Orientation session led by Ryan Mulkey, AICP, Planning Manager.",
         "presenter": "Ryan Mulkey, AICP",
         "action_required": null
       },
       {
         "item_number": "3",
         "title": "Subdivision Platting Process and Street Name Change Process/Ceremonial Street Name",
-        "description": "Overview of the subdivision platting process and street name changes.",
+        "description": "Overview of the subdivision platting process and street name changes presented by Mohammad H. Bordbar.",
         "presenter": "Mohammad H. Bordbar",
         "action_required": null
       },
       {
         "item_number": "4",
         "title": "Code of Ethics and Rules for City Officials",
-        "description": "Discussion on the ethical guidelines for city officials.",
+        "description": "Discussion on ethics and rules for city officials led by Daniel Moore and Baron Eliason.",
         "presenter": "Daniel Moore, Baron Eliason",
         "action_required": null
       },
       {
         "item_number": "5",
         "title": "Keynote Speaker",
-        "description": "Presentation by the President and CEO of Builders of Hope.",
+        "description": "Presentation by James Armstrong, President and CEO of Builders of Hope.",
         "presenter": "James Armstrong",
         "action_required": null
       },
       {
         "item_number": "6",
         "title": "Mixed Income Housing Development Bonus",
-        "description": "Discussion on the mixed income housing development bonus.",
+        "description": "Discussion on mixed income housing development presented by Michael V. Pepe.",
         "presenter": "Michael V. Pepe",
         "action_required": null
       },
       {
         "item_number": "7",
         "title": "City Plan Commission Annual Report FY22-23 Overview",
-        "description": "Overview and discussion on the mission statement of the City Plan Commission.",
+        "description": "Overview and discussion on the City Plan Commission mission statement led by Andreea Udrea.",
         "presenter": "Andreea Udrea, PhD, AICP",
         "action_required": null
       },
       {
         "item_number": "8",
         "title": "Overview of New Process Management System - Accela",
-        "description": "Presentation on the new process management system.",
+        "description": "Presentation on the new process management system by Jennifer Munoz.",
         "presenter": "Jennifer Munoz",
         "action_required": null
       },
@@ -99,8 +99,8 @@
       "Mixed Income Housing",
       "Annual Report",
       "Process Management",
-      "Urban Design",
-      "Planning"
+      "Planning and Urban Design",
+      "Keynote Speaker"
     ],
     "financial_items": []
   },

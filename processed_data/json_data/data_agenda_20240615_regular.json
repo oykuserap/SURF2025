@@ -53,7 +53,7 @@
         "title": "Update and Status of April 1, 2024 NOFA Applications",
         "description": "",
         "presenter": "Regina Onyeibe",
-        "action_required": "discuss"
+        "action_required": "update"
       },
       {
         "item_number": "VI",
@@ -67,7 +67,7 @@
         "title": "Update and Status of SDFPOF Loan Applications",
         "description": "",
         "presenter": "Anthony Barwick",
-        "action_required": "discuss"
+        "action_required": "update"
       },
       {
         "item_number": "VIII",
@@ -81,7 +81,7 @@
         "title": "Small Business Center Operational Update",
         "description": "",
         "presenter": "Joyce Williams",
-        "action_required": "discuss"
+        "action_required": "update"
       },
       {
         "item_number": "X",
@@ -105,15 +105,10 @@
       "NOFA Applications",
       "Loan Applications",
       "Public Speakers",
+      "Sub-Committees",
       "Community Challenges",
       "Small Business Center",
-      "Sub-Committees",
-      "Fair Park Tour",
-      "Meeting Minutes",
-      "Standardization",
-      "Logistics",
-      "Executive Session",
-      "Accommodations"
+      "Fair Park Tour"
     ],
     "financial_items": []
   },

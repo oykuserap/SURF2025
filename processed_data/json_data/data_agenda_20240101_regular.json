@@ -27,49 +27,49 @@
       {
         "item_number": "1",
         "title": "Approval of the June 20, 2024, Arts and Culture Advisory Commission meeting minutes.",
-        "description": "",
+        "description": "Approval of the minutes from the previous meeting.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "2",
-        "title": "Recommendation of seventy-one (71) new panelists to the Office of Arts and Culture’s Funding Programs Review Panel",
-        "description": "",
+        "title": "Recommendation of new panelists to the Funding Programs Review Panel.",
+        "description": "Recommendation of seventy-one (71) new panelists to the Office of Arts and Culture’s Funding Programs Review Panel.",
         "presenter": null,
         "action_required": "recommend"
       },
       {
         "item_number": "3",
-        "title": "Recommendation of the initiation of the Hi Line Trinity Train Design District Public Art Project",
-        "description": "located at 1930 Hi Line, Dallas, TX in Council District 6.",
+        "title": "Hi Line Trinity Train Design District Public Art Project.",
+        "description": "Recommendation of the initiation of the Hi Line Trinity Train Design District Public Art Project, located at 1930 Hi Line, Dallas, TX in Council District 6.",
         "presenter": null,
         "action_required": "recommend"
       },
       {
         "item_number": "4",
-        "title": "Recommendation of the initiation of Kelly Spring Traffic Circle",
-        "description": "Council District 12.",
+        "title": "Kelly Spring Traffic Circle.",
+        "description": "Recommendation of the initiation of Kelly Spring Traffic Circle, Council District 12.",
         "presenter": null,
         "action_required": "recommend"
       },
       {
         "item_number": "5",
-        "title": "Recommendation of the initiation of Dallas Executive Airport Streetscape",
-        "description": "Council District 3.",
+        "title": "Dallas Executive Airport Streetscape.",
+        "description": "Recommendation of the initiation of Dallas Executive Airport Streetscape, Council District 3.",
         "presenter": null,
         "action_required": "recommend"
       },
       {
         "item_number": "6",
-        "title": "Recommendation of the artist, Peyton Harshfield, for the Tipton Park Public Art project",
-        "description": "Council District 6.",
+        "title": "Tipton Park Public Art project.",
+        "description": "Recommendation of the artist, Peyton Harshfield, for the Tipton Park Public Art project, Council District 6.",
         "presenter": null,
         "action_required": "recommend"
       },
       {
         "item_number": "7",
-        "title": "Recommendation in support of Artist’s Design by Sujin Lim for Crockett Dog Park",
-        "description": "",
+        "title": "Artist’s Design for Crockett Dog Park.",
+        "description": "Recommendation in support of Artist’s Design by Sujin Lim for Crockett Dog Park.",
         "presenter": null,
         "action_required": "recommend"
       }
@@ -79,16 +79,17 @@
       "Public Art",
       "Funding Programs",
       "Community Artist Program",
-      "Budget Briefing",
+      "Dallas City Hall",
       "Cultural Spotlights",
-      "Dallas Executive Airport",
-      "Kelly Spring Traffic Circle",
-      "Hi Line Trinity Train",
-      "Crockett Dog Park",
+      "Budget Briefing",
+      "Public Speakers",
       "Commission Meeting",
-      "Panelists",
+      "Executive Session",
+      "Traffic Circle",
+      "Airport Streetscape",
       "Design District",
-      "Public Speakers"
+      "Panelists",
+      "Dog Park"
     ],
     "financial_items": []
   },

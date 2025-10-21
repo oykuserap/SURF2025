@@ -8,7 +8,7 @@
       "time": "5:30 p.m.",
       "type": "Regular Meeting",
       "organization": "Environmental Commission",
-      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference (Webex)"
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
     },
     "attendees": {
       "chair": "Kathryn Bazan",
@@ -74,7 +74,7 @@
       {
         "item_number": "VI",
         "title": "Discussion Items",
-        "description": "Various discussion items including appointment of members to subcommittees and monthly updates.",
+        "description": "Various discussion items including appointments and updates.",
         "presenter": null,
         "action_required": "discuss"
       },
@@ -95,13 +95,13 @@
       "minutes",
       "briefing",
       "demonstration",
+      "voting",
+      "discussion",
       "subcommittees",
       "updates",
       "calendar",
-      "discussion",
-      "adjournment",
-      "public participation",
-      "accessibility"
+      "appointments",
+      "environmental quality"
     ],
     "financial_items": []
   },

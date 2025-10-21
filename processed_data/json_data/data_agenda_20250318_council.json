@@ -46,16 +46,16 @@
       {
         "item_number": "II",
         "title": "Purpose of the CPOB",
-        "description": "Chairman John Mark Davidson presents the mission and purpose of the Community Police Oversight Board.",
+        "description": "Chairman John Mark Davidson discusses the purpose of the Community Police Oversight Board.",
         "presenter": "John Mark Davidson",
         "action_required": null
       },
       {
         "item_number": "III",
         "title": "Update: City of Dallas Recruitment Strategy and Process for the Chief of Police",
-        "description": "Discussion on the recruitment strategy for the next Dallas Police Chief.",
+        "description": "City Manager Kimberly Bizor Tolbert provides an update on the recruitment strategy for the Chief of Police.",
         "presenter": "Kimberly Bizor Tolbert",
-        "action_required": "discuss"
+        "action_required": null
       },
       {
         "item_number": "IV",
@@ -67,28 +67,28 @@
       {
         "item_number": "V",
         "title": "City Council Appointment of Ozzie Smith as CPOB Vice Chair",
-        "description": "Discussion on the appointment of Ozzie Smith.",
-        "presenter": "John Mark Davidson",
-        "action_required": "approve"
+        "description": "Discussion on the appointment of Ozzie Smith as Vice Chair.",
+        "presenter": null,
+        "action_required": "Vote"
       },
       {
         "item_number": "VI",
         "title": "City Council District 11 Re-appointment of Arlene Steinfeld",
         "description": "Discussion on the re-appointment of Arlene Steinfeld.",
-        "presenter": "John Mark Davidson",
-        "action_required": "approve"
+        "presenter": null,
+        "action_required": "Vote"
       },
       {
         "item_number": "VII",
         "title": "Approval of February 11, 2025, CPOB Regular Meeting Minutes",
         "description": "Review and approval of the minutes from the previous meeting.",
-        "presenter": "John Mark Davidson",
-        "action_required": "approve"
+        "presenter": null,
+        "action_required": "Approve"
       },
       {
         "item_number": "VIII",
         "title": "Director Report",
-        "description": "Director Michele Andre presents updates and reports.",
+        "description": "Director Michele Andre provides a report on the activities of the OCPO.",
         "presenter": "Michele Andre",
         "action_required": null
       },
@@ -124,35 +124,35 @@
         "item_number": "XIII",
         "title": "Monthly Activity Reports",
         "description": "Review of monthly activity reports.",
-        "presenter": "Michele Andre",
+        "presenter": null,
         "action_required": null
       },
       {
         "item_number": "XIV",
         "title": "Community Police Oversight Board Reports / Briefings",
         "description": "Reports and briefings from board members.",
-        "presenter": "John Mark Davidson",
+        "presenter": null,
         "action_required": null
       },
       {
         "item_number": "XV",
         "title": "Chairman Report",
-        "description": "Chairman John Mark Davidson presents his report.",
+        "description": "Chairman John Mark Davidson provides updates.",
         "presenter": "John Mark Davidson",
         "action_required": null
       },
       {
         "item_number": "XVI",
         "title": "CPOB Standing Subcommittees Reports",
-        "description": "Reports from various subcommittees.",
-        "presenter": "Various",
+        "description": "Reports from standing subcommittees.",
+        "presenter": null,
         "action_required": null
       },
       {
         "item_number": "XVII",
         "title": "Upcoming CPOB Meetings",
-        "description": "Discussion on upcoming meetings.",
-        "presenter": "John Mark Davidson",
+        "description": "Discussion of upcoming meetings.",
+        "presenter": null,
         "action_required": null
       },
       {
@@ -173,26 +173,26 @@
         "item_number": "XX",
         "title": "Adjournment",
         "description": "Meeting adjournment.",
-        "presenter": "John Mark Davidson",
+        "presenter": null,
         "action_required": null
       }
     ],
     "keywords": [
       "Community Police Oversight Board",
-      "Dallas Police Chief",
-      "Public Comment",
-      "Community Engagement",
+      "Dallas Police Department",
+      "Public Engagement",
+      "Recruitment Strategy",
+      "Chief of Police",
+      "Complaint Intake Specialist",
       "Legislative Updates",
-      "Director Report",
-      "Investigator Report",
-      "Policy Analyst Report",
-      "Subcommittee Reports",
+      "Community Outreach",
+      "Internal Affairs Division",
+      "Public Comment",
+      "Board Reports",
       "Meeting Minutes",
-      "Appointment",
-      "Re-appointment",
+      "Policy Recommendations",
       "Public Safety",
-      "Accountability",
-      "Transparency"
+      "Accountability"
     ],
     "financial_items": []
   },

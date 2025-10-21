@@ -22,56 +22,56 @@
       {
         "item_number": "I",
         "title": "Call to Order",
-        "description": "",
+        "description": "Opening of the meeting by the chair.",
         "presenter": "Max Brenner",
         "action_required": null
       },
       {
         "item_number": "II",
         "title": "Public Speakers",
-        "description": "",
+        "description": "Time allocated for public speakers to address the commission.",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "III",
         "title": "Approval of Minutes",
-        "description": "Approval of minutes from the meeting on March 25",
+        "description": "Approval of the minutes from the previous meeting held on March 25.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "IV",
         "title": "Civic Project Reports",
-        "description": "Reports on Mental Health and Culture of Homelessness",
-        "presenter": null,
+        "description": "Reports on civic projects related to mental health and homelessness.",
+        "presenter": "Max Brenner, Allie Jones",
         "action_required": null
       },
       {
         "item_number": "V",
         "title": "Reports of Committees",
-        "description": "",
+        "description": "Updates and reports from various committees.",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "VI",
         "title": "Staff Reports/Briefings/Discussions",
-        "description": "Staff Update and June WEE Briefing from City Manager’s Office",
-        "presenter": null,
+        "description": "Updates from staff including a briefing from the City Manager’s Office.",
+        "presenter": "June WEE",
         "action_required": null
       },
       {
         "item_number": "VII",
         "title": "New Business",
-        "description": "",
+        "description": "Discussion of new business items.",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "VIII",
         "title": "Adjournment",
-        "description": "",
+        "description": "Closing of the meeting.",
         "presenter": null,
         "action_required": null
       }

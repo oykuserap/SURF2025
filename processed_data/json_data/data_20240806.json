@@ -26,21 +26,21 @@
       {
         "item_number": "IV.a",
         "title": "Civil Services Rules Revision Update",
-        "description": "",
+        "description": "Update on the revisions to the Civil Services Rules.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "IV.b",
         "title": "Department Updates and Announcements",
-        "description": "",
+        "description": "Updates and announcements from the department.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "V",
-        "title": "Action Item(s)",
-        "description": "Take any necessary or appropriate action as result of Executive Session.",
+        "title": "Action Item",
+        "description": "Take any necessary or appropriate action as a result of Executive Session.",
         "presenter": null,
         "action_required": "take action"
       },
@@ -49,7 +49,7 @@
         "title": "Performance Evaluation",
         "description": "Conduct the FY 23 annual performance evaluation of the Secretary to the Civil Service Board.",
         "presenter": null,
-        "action_required": "conduct"
+        "action_required": "conduct evaluation"
       }
     ],
     "keywords": [
@@ -62,7 +62,12 @@
       "Executive Session",
       "Performance Evaluation",
       "Public Speakers",
-      "Action Items"
+      "Action Items",
+      "Accommodations",
+      "Equitable Meeting",
+      "Auxiliary Aid",
+      "Translation Services",
+      "Video Conference"
     ],
     "financial_items": []
   },

@@ -5,81 +5,96 @@
   "extracted_data": {
     "meeting_info": {
       "date": "February 24, 2025",
-      "time": null,
-      "type": "Briefing",
-      "organization": "K Notice  \n\n\n\n             City Secretary              Senior Affairs Commission",
-      "location": "Dallas City Hall"
+      "time": "12:00 P.M.",
+      "type": "Hybrid Meeting",
+      "organization": "Senior Affairs Commission",
+      "location": "Dallas City Hall, L1FN Auditorium and Video Conference"
     },
     "attendees": {
-      "chair": null,
-      "presenters": [],
-      "participants": []
+      "chair": "J. Peter Kline",
+      "presenters": [
+        "Robert Emery",
+        "Mirka Norman",
+        "Tabitha Taylor"
+      ],
+      "participants": [
+        "Commissioner Rob Friedman"
+      ]
     },
     "agenda_items": [
       {
-        "item_number": "113",
-        "title": "luego    de    la   finalización  de    la   reunión    en  \n\nIndividuals and interested parties wis...",
-        "description": "luego    de    la   finalización  de    la   reunión    en  \n\nIndividuals and interested parties wishing to speak must           https://dallastx.new.swagit.com/views/",
-        "presenter": null,
-        "action_required": "Action"
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": null,
+        "presenter": "J. Peter Kline",
+        "action_required": null
       },
       {
-        "item_number": "1",
-        "title": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or a...",
-        "description": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or any matter in which  \n\n     the duty of the attorney to the City Council under the Texas Disciplinary Rules of Professional Conduct of the State  \n\n     Bar of Texas clearly conflicts with the Texas Open Meetings Act. [Tex. Govt. Code §",
+        "item_number": "II",
+        "title": "Public Speakers for items V- VII",
+        "description": "2 minutes per speaker",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": null
       },
       {
-        "item_number": "2",
-        "title": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open mee...",
-        "description": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open meeting would have  \n\n     a detrimental effect on the position of the city in negotiations with a third person. [Tex. Govt. Code §",
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes for the January 27, 2025 Senior Affairs Commission Meeting.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
-        "item_number": "3",
-        "title": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in...",
-        "description": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in an open meeting would  \n\n     have a detrimental effect on the position of the city in negotiations with a third person. [Tex. Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "item_number": "IV",
+        "title": "Chair’s Report",
+        "description": "Reminder of Texas Open Meetings Act Requirements for Videoconference Meeting and Ad Hoc Committees Guidelines.",
+        "presenter": "J. Peter Kline",
+        "action_required": null
       },
       {
-        "item_number": "4",
-        "title": "deliberating  the  appointment,  employment,  evaluation,  reassignment,  duties,  discipline,  or  ...",
-        "description": "deliberating  the  appointment,  employment,  evaluation,  reassignment,  duties,  discipline,  or  dismissal  of  a  public  \n\n     officer or employee; or to hear a complaint or charge against an officer or employee unless the officer or employee  \n\n     who is the subject of the deliberation or hearing requests a public hearing. [Tex. Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "item_number": "V",
+        "title": "New Business: Presentation",
+        "description": "An Introduction and Overview from the Coalition for Aging LGBT. The presentation will explore the needs of LGBT seniors and strategies for fostering inclusivity, equity, and improved support in future senior services.",
+        "presenter": "Robert Emery",
+        "action_required": null
       },
       {
-        "item_number": "5",
-        "title": "deliberating the deployment, or specific occasions for implementation, of security personnel or devi...",
-        "description": "deliberating the deployment, or specific occasions for implementation, of security personnel or devices. [Tex. Govt.  \n\n     Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "item_number": "VI",
+        "title": "Staff Reports/Briefings",
+        "description": "Presentation by the Office of Community Care and Empowerment (OCCE) Senior Services. OCCE will provide a monthly update on services provided, programs, and contracts targeting the older residents of Dallas.",
+        "presenter": "Mirka Norman and Tabitha Taylor",
+        "action_required": null
       },
       {
-        "item_number": "6",
-        "title": "discussing or deliberating commercial or financial information that the city has received from a bus...",
-        "description": "discussing or deliberating commercial or financial information that the city has received from a business prospect  \n\n     that the city seeks to have locate, stay or expand in or near the city and with which the city is conducting economic  \n\n     development negotiations; or deliberating the offer of a financial or other incentive to a business prospect. [Tex Govt  \n\n     . Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "item_number": "VII",
+        "title": "New Business: Discussion",
+        "description": "Commissioner Rob Friedman will lead discussion on 2025 Funding Priorities in preparation for the annual SAC memorandum to the City Council.",
+        "presenter": "Commissioner Rob Friedman",
+        "action_required": "discuss"
       },
       {
-        "item_number": "7",
-        "title": "deliberating security assessments or deployments relating to information resources technology, netwo...",
-        "description": "deliberating security assessments or deployments relating to information resources technology, network security  \n\n     information, or the deployment or specific occasions for implementations of security personnel, critical infrastructure,  \n\n     or security devices. [Tex Govt. Code §",
+        "item_number": "VIII",
+        "title": "Adjournment",
+        "description": null,
         "presenter": null,
-        "action_required": "Action"
+        "action_required": null
       }
     ],
     "keywords": [
-      "tif",
-      "funding",
-      "approval",
-      "public",
-      "development",
-      "contract"
+      "Senior Affairs Commission",
+      "Dallas",
+      "Hybrid Meeting",
+      "LGBT seniors",
+      "inclusivity",
+      "equity",
+      "community care",
+      "funding priorities",
+      "Texas Open Meetings Act",
+      "presentation",
+      "staff reports",
+      "public speakers",
+      "minutes approval",
+      "ad hoc committees",
+      "senior services"
     ],
     "financial_items": []
   },

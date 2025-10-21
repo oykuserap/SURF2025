@@ -6,9 +6,9 @@
     "meeting_info": {
       "date": "October 21, 2024",
       "time": "6:30 P.M.",
-      "type": "Regular Meeting",
+      "type": "Advisory Board Meeting",
       "organization": "Martin Luther King, Jr. Community Center Advisory Board",
-      "location": "Martin Luther King, Jr. Community Center, Activity Room A, 2922 MLK Jr. Blvd. Bldg. A Dallas, TX 75215, Online via WebEx"
+      "location": "Martin Luther King, Jr. Community Center, Activity Room A, Dallas, TX; Online via WebEx"
     },
     "attendees": {
       "chair": "Mrs. Clara Brown-Trimble",
@@ -90,15 +90,15 @@
       },
       {
         "item_number": "10",
-        "title": "Update: 2025 MLK Celebration Week (1.10-1.18)",
-        "description": "Includes various events such as MLK Scholarship period, Candle Lighting Ceremony, etc.",
+        "title": "Update: 2025 MLK Celebration Week",
+        "description": "(1.10-1.18)",
         "presenter": "Dr. Jamel Slaughter",
         "action_required": null
       },
       {
         "item_number": "11",
         "title": "MLK Center Manager Update",
-        "description": "Includes Fresh Produce Distribution, Volunteer Opportunities, and Upcoming Events.",
+        "description": "",
         "presenter": "Ms. Pamela R. Jones",
         "action_required": null
       },
@@ -119,7 +119,6 @@
     ],
     "keywords": [
       "Martin Luther King Jr.",
-      "Community Center",
       "Advisory Board",
       "Public Comments",
       "Approval of Minutes",
@@ -128,10 +127,12 @@
       "Sponsorship Packet",
       "Celebration Week",
       "Center Manager Update",
-      "Volunteer Opportunities",
-      "Upcoming Events",
       "Announcements",
-      "Adjournment"
+      "Dallas",
+      "Community Center",
+      "Public Participation",
+      "Events",
+      "Volunteer Opportunities"
     ],
     "financial_items": []
   },

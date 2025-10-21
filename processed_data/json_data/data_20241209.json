@@ -19,25 +19,46 @@
     },
     "agenda_items": [
       {
+        "item_number": "1",
+        "title": "Call to order and introduction of meeting participants",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "2",
+        "title": "Public comments pertaining to agenda items 3 through 5",
+        "description": "",
+        "presenter": null,
+        "action_required": null
+      },
+      {
         "item_number": "3",
         "title": "Review and consider the Meeting Record of the November 20, 2024, Design District TIF District Board Meeting",
-        "description": "Review and consider the Meeting Record of the November 20, 2024, Design District TIF District Board Meeting.",
+        "description": "",
         "presenter": "Sue Hounsel",
         "action_required": "Approval"
       },
       {
         "item_number": "4",
         "title": "Review and consideration of the Design District TIF District Annual Report for FY 2023-2024",
-        "description": "Review and consideration of the Design District TIF District Annual Report for FY 2023-2024.",
+        "description": "",
         "presenter": "Sue Hounsel",
         "action_required": "Approval and forward a recommendation of approval to the City Council"
       },
       {
         "item_number": "5",
         "title": "Review and consideration of a regular meeting schedule for the Design District TIF District Board of Directors for calendar year 2025",
-        "description": "Review and consideration of a regular meeting schedule for the Design District TIF District Board of Directors for calendar year 2025.",
+        "description": "",
         "presenter": "Sue Hounsel",
         "action_required": "Approval"
+      },
+      {
+        "item_number": "6",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
       }
     ],
     "keywords": [
@@ -48,10 +69,9 @@
       "Board of Directors",
       "Meeting Record",
       "Annual Report",
-      "FY 2023-2024",
       "Regular Meeting Schedule",
-      "City Council",
-      "Economic Development"
+      "Approval",
+      "City Council"
     ],
     "financial_items": []
   },

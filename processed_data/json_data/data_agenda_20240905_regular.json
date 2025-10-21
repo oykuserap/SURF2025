@@ -25,13 +25,13 @@
       {
         "item_number": "I",
         "title": "Call to Order",
-        "description": "Opening of the meeting by the Chair.",
+        "description": "",
         "presenter": "Arun Agarwal",
         "action_required": null
       },
       {
         "item_number": "II",
-        "title": "SPECIAL RECOGNITION",
+        "title": "Special Recognition",
         "description": "Special recognition of Barbara Sneary for her 27 years of service and dedication to the City of Dallas and Park & Recreation Board. Special recognition of Karl Hartford for his 23 years of service and dedication to the City of Dallas and Park & Recreation Board.",
         "presenter": null,
         "action_required": null
@@ -39,7 +39,7 @@
       {
         "item_number": "IV",
         "title": "Approval of Minutes",
-        "description": "Approval of the minutes from the meeting held on August 15, 2024.",
+        "description": "Approval of minutes from the meeting on August 15, 2024.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -108,28 +108,28 @@
       },
       {
         "item_number": "IX.12",
-        "title": "Budget Development Update",
-        "description": "Update on the budget development process.",
+        "title": "Budget Development",
+        "description": "",
         "presenter": "Rachael Berry",
         "action_required": null
       }
     ],
     "keywords": [
       "Dallas",
-      "Park and Recreation",
-      "meeting",
+      "Park and Recreation Board",
       "alcohol permit",
       "public hearing",
-      "budget development",
-      "recognition",
       "Cotton Bowl",
       "Dallas Arboretum",
-      "events",
-      "community",
-      "service",
-      "revenue",
-      "funding",
-      "construction"
+      "budget development",
+      "special recognition",
+      "Katy 5K",
+      "Leukemia & Lymphoma Society",
+      "Norbuck Park",
+      "Flag Pole Hill Park",
+      "Prism Center",
+      "event permits",
+      "community service"
     ],
     "financial_items": [
       {

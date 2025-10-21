@@ -17,93 +17,93 @@
         "Christine Crossley",
         "Wanda Moreland",
         "Darwin Wade",
-        "Albert Gonzalez",
-        "Aaron Eaquinto"
+        "Aaron Eaquinto",
+        "Albert Gonzalez"
       ],
       "participants": []
     },
     "agenda_items": [
       {
-        "item_number": "A 24-1648",
+        "item_number": "A",
         "title": "Approval of the April 23, 2024 Housing and Homelessness Solutions Committee Meeting Minutes",
         "description": "Approval of the minutes from the previous meeting.",
         "presenter": null,
         "action_required": "approve"
       },
       {
-        "item_number": "B 24-1761",
+        "item_number": "B",
         "title": "Economic Cost of Homelessness in Dallas and Collin Counties",
         "description": "Presentation on the economic impact of homelessness in the specified counties.",
         "presenter": "Dr. Phillip Haung, MD, MPH",
         "action_required": "discuss"
       },
       {
-        "item_number": "C 24-1654",
+        "item_number": "C",
         "title": "Temporary and Alternate Housing Best Practices and Recommendation",
-        "description": "Presentation on best practices for temporary and alternate housing solutions.",
+        "description": "Presentation on best practices and recommendations for temporary and alternate housing.",
         "presenter": "Christine Crossley",
         "action_required": "discuss"
       },
       {
-        "item_number": "D 24-1647",
+        "item_number": "D",
         "title": "Office of Homeless Solutions - FY 2024-25 Budget Briefing",
         "description": "Briefing on the budget for the Office of Homeless Solutions for the fiscal year 2024-25.",
-        "presenter": "Christine Crossley, Wanda Moreland",
+        "presenter": "Christine Crossley",
         "action_required": "discuss"
       },
       {
-        "item_number": "E 24-1649",
+        "item_number": "E",
         "title": "Upcoming Agenda Item: Authorize an amendment to the Dallas Housing Resource Catalog",
         "description": "Discussion on amending the Dallas Housing Resource Catalog to implement proposed development program and policy changes.",
         "presenter": "Darwin Wade",
         "action_required": "discuss"
       },
       {
-        "item_number": "F 24-1612",
+        "item_number": "F",
         "title": "Upcoming Agenda Item: Permanent Supportive Housing NOFA - 1950 Fort Worth Avenue",
         "description": "Discussion on the Notice of Funding Availability for Permanent Supportive Housing.",
         "presenter": "Darwin Wade",
         "action_required": "discuss"
       },
       {
-        "item_number": "G 24-1613",
+        "item_number": "G",
         "title": "Upcoming Agenda Item: Notice of Funding Availability Development and Dallas Public Facility Corporation Project",
-        "description": "Discussion on the project to be located at 9999 West Technology Boulevard.",
+        "description": "Discussion on the funding availability for the Park at Northpoint project.",
         "presenter": "Darwin Wade, Albert Gonzalez",
         "action_required": "discuss"
       },
       {
-        "item_number": "H 24-1643",
+        "item_number": "H",
         "title": "Upcoming Agenda Item: Request for a Resolution of No Objection for 4% Non-Competitive Housing Tax Credits",
-        "description": "Discussion on the Legacy on Kiest Project.",
+        "description": "Discussion on the Legacy on Kiest Project and the request for a resolution.",
         "presenter": "Aaron Eaquinto",
         "action_required": "discuss"
       },
       {
-        "item_number": "I 24-1644",
+        "item_number": "I",
         "title": "Upcoming Agenda Item: FY 2023 TDHCA - Homeless Housing and Services Program Reallocation Fund",
-        "description": "Discussion on the reallocation fund for homeless housing and services.",
+        "description": "Discussion on the reallocation fund for the Homeless Housing and Services Program.",
         "presenter": "Christine Crossley",
         "action_required": "discuss"
       },
       {
-        "item_number": "J 24-1645",
+        "item_number": "J",
         "title": "Upcoming Agenda Item: Office of Homeless Solutions - Master Leasing Program Update",
-        "description": "Update on the Master Leasing Program.",
+        "description": "Update on the Master Leasing Program by the Office of Homeless Solutions.",
         "presenter": "Christine Crossley",
         "action_required": "discuss"
       },
       {
-        "item_number": "K 24-1646",
+        "item_number": "K",
         "title": "Upcoming Agenda Item: Office of Homeless Solutions and the Department of Housing and Neighborhood Revitalization Properties Update",
-        "description": "Update on properties managed by the Office of Homeless Solutions and the Department of Housing.",
+        "description": "Update on properties managed by the Office of Homeless Solutions and the Department of Housing and Neighborhood Revitalization.",
         "presenter": "Christine Crossley",
         "action_required": "discuss"
       },
       {
-        "item_number": "L 24-1764",
+        "item_number": "L",
         "title": "Housing and Homelessness Solutions (HHS) Committee Forecast",
-        "description": "Forecast of briefing items for future agendas.",
+        "description": "Forecast of briefing items to be placed on the HHS Committee agendas for upcoming meetings.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -117,11 +117,10 @@
       "Supportive Housing",
       "Economic Cost",
       "Best Practices",
-      "Policy Changes",
       "Public Facility Corporation",
       "Tax Credits",
       "Reallocation Fund",
-      "Master Leasing Program",
+      "Master Leasing",
       "Neighborhood Revitalization",
       "Committee Forecast"
     ],

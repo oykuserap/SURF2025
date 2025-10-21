@@ -8,7 +8,7 @@
       "time": "6:30 P.M.",
       "type": "Regular Meeting",
       "organization": "Dr. Martin Luther King, Jr. Community Center Advisory Board",
-      "location": "Martin Luther King, Jr. Community Center, Dallas, TX and online via WebEx"
+      "location": "Martin Luther King, Jr. Community Center and online via WebEx"
     },
     "attendees": {
       "chair": "Mrs. Clara Brown-Trimble",
@@ -16,8 +16,8 @@
         "Mrs. Clara Brown-Trimble",
         "Ms. Candace Wicks",
         "Dr. Jamel Slaughter",
-        "Mrs. LaRhonda Bacon",
-        "Ms. Pamela R. Jones"
+        "Ms. Pamela R. Jones",
+        "Mrs. LaRhonda Bacon"
       ],
       "participants": [
         "MLK Advisory Board Member",
@@ -77,7 +77,7 @@
       {
         "item_number": "8",
         "title": "Discussion: 2024 MLK Cultural Events",
-        "description": "Planning for upcoming cultural events.",
+        "description": "Discussion on upcoming cultural events.",
         "presenter": "Mrs. Clara Brown-Trimble",
         "action_required": "discuss"
       },
@@ -91,7 +91,7 @@
       {
         "item_number": "10",
         "title": "2024 MLK Center Manager Update",
-        "description": "Updates on various programs and events.",
+        "description": "Update on various programs and events.",
         "presenter": "Ms. Pamela R. Jones",
         "action_required": "discuss"
       },
@@ -105,20 +105,16 @@
     ],
     "keywords": [
       "MLK Advisory Board",
-      "Dallas",
       "Community Center",
+      "Public Comments",
       "Celebration Week",
       "Cultural Events",
-      "Public Comments",
-      "Minutes Approval",
       "Planning",
+      "Minutes Approval",
+      "Public Speakers",
       "Updates",
-      "Events",
       "Discussion",
-      "Vote",
-      "Chair",
-      "Vice Chair",
-      "Public Speakers"
+      "Vote"
     ],
     "financial_items": []
   },

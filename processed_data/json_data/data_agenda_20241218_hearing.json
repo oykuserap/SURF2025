@@ -11,55 +11,55 @@
       "location": "Dallas City Hall, Room 6ES, Videoconference"
     },
     "attendees": {
-      "chair": "Cheri Gambow",
+      "chair": "Cheri Gambow, Vice-Chair",
       "presenters": [],
       "participants": []
     },
     "agenda_items": [
       {
-        "item_number": "1",
+        "item_number": "I",
         "title": "Call to Order",
         "description": "",
         "presenter": "Cheri Gambow, Vice-Chair",
         "action_required": null
       },
       {
-        "item_number": "2",
+        "item_number": "II",
         "title": "Staff Presentation/Briefing",
         "description": "",
         "presenter": null,
         "action_required": null
       },
       {
-        "item_number": "3",
+        "item_number": "III",
         "title": "Public Hearing",
         "description": "Board of Adjustment",
         "presenter": null,
         "action_required": null
       },
       {
-        "item_number": "4",
+        "item_number": "IV",
         "title": "Public Testimony",
         "description": "",
         "presenter": null,
         "action_required": null
       },
       {
-        "item_number": "5",
+        "item_number": "V",
         "title": "Miscellaneous Items",
         "description": "Approval of Panel B Minutes – November 20, 2024",
         "presenter": null,
         "action_required": "approve"
       },
       {
-        "item_number": "6",
+        "item_number": "VI",
         "title": "Case Docket",
         "description": "Uncontested Items, Holdover Items, Individual Items",
-        "presenter": "Board of Adjustment",
+        "presenter": null,
         "action_required": null
       },
       {
-        "item_number": "7",
+        "item_number": "VII",
         "title": "Adjournment",
         "description": "",
         "presenter": null,
@@ -68,20 +68,20 @@
     ],
     "keywords": [
       "Board of Adjustment",
-      "Dallas",
+      "Dallas City Hall",
       "Public Hearing",
+      "Public Testimony",
+      "Miscellaneous Items",
       "Case Docket",
       "Variance",
       "Special Exception",
       "Setback Regulations",
       "Fence Regulations",
-      "Public Testimony",
-      "Minutes Approval",
-      "Uncontested Items",
-      "Holdover Items",
+      "Panel B",
+      "Meeting",
       "Executive Session",
-      "Accommodations",
-      "Video Conference"
+      "Video Conference",
+      "Accessibility"
     ],
     "financial_items": []
   },

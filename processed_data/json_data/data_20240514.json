@@ -20,7 +20,18 @@
       ],
       "participants": [
         "Tony Rodriguez",
-        "Sarah Cruz"
+        "Sarah Cruz",
+        "Brandon Friedman",
+        "Alison Grinter Allen",
+        "David Kitner",
+        "Judge Lander",
+        "Derric Pegram",
+        "Ozzie Smith",
+        "Jonathan E Maples",
+        "Brian Bah",
+        "Walter Higgins",
+        "Deatra Wadsworth",
+        "Dr. Loren Gilbert-Smith"
       ]
     },
     "agenda_items": [
@@ -28,7 +39,7 @@
         "item_number": "I",
         "title": "Approval of Minutes - April 9, 2024",
         "description": "Approval of the minutes from the previous meeting.",
-        "presenter": "John Mark Davidson",
+        "presenter": "David Kitner",
         "action_required": "approve"
       },
       {
@@ -41,8 +52,8 @@
       {
         "item_number": "III",
         "title": "Staff Reports/Briefings",
-        "description": "Various updates including hiring search for new director and reports on police misconduct.",
-        "presenter": "Various",
+        "description": "Various updates including hiring search for new Director/Monitor and reports on police misconduct.",
+        "presenter": "Chairman Davidson",
         "action_required": "discuss"
       },
       {
@@ -56,21 +67,26 @@
         "item_number": "V",
         "title": "Upcoming Meeting",
         "description": "Announcement of the next meeting date.",
-        "presenter": "John Mark Davidson",
-        "action_required": "inform"
+        "presenter": null,
+        "action_required": "note"
       }
     ],
     "keywords": [
       "Community Police Oversight",
       "Dallas Police Department",
       "Administrative Complaints",
-      "Staff Reports",
-      "Monthly Activity Report",
-      "Senate Bill 4",
       "Hiring Search",
-      "Public Comment",
+      "Director",
+      "Policy Review",
+      "Public Safety",
+      "Community Engagement",
+      "Monthly Reports",
+      "Police Misconduct",
       "Outreach",
-      "Policy Review"
+      "Training",
+      "Executive Session",
+      "Civil Rights",
+      "Public Comment"
     ],
     "financial_items": []
   },

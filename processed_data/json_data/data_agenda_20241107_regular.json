@@ -44,14 +44,14 @@
       {
         "item_number": "IV.2",
         "title": "Cotton Bowl",
-        "description": "Authorize Supplemental Agreement No. 4 to the architecture contract for the Cotton Bowl Renovation.",
+        "description": "Authorize Supplemental Agreement No. 4 for additional architectural and engineering services for the Cotton Bowl Renovation.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "V.3",
         "title": "Land Acquisition",
-        "description": "Authorize acquisition from Hildebrand Partnership of land for use as a community park.",
+        "description": "Authorize acquisition of land for use as a community park.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -103,19 +103,18 @@
       "Youth Sports",
       "Budget Development",
       "Grant",
-      "Funding",
-      "Community Park",
       "Architectural Services",
-      "Fair Park"
+      "Community Park",
+      "Meeting Schedule"
     ],
     "financial_items": [
       {
-        "description": "Grant from Texas Parks and Wildlife Department for Crawford Memorial Park",
+        "description": "Grant from the Texas Parks and Wildlife Department for Crawford Memorial Park",
         "amount": "$1,500,000.00",
         "type": "grant"
       },
       {
-        "description": "Supplemental Agreement for Cotton Bowl Renovation",
+        "description": "Additional architectural and engineering services for Cotton Bowl Renovation",
         "amount": "$336,213.00",
         "type": "expenditure"
       },

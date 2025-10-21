@@ -11,7 +11,7 @@
       "location": "Dallas City Hall, 6ES, and Videoconference"
     },
     "attendees": {
-      "chair": "Cherri Gambow, Vice-Chair",
+      "chair": "Cherri Gambow",
       "presenters": [],
       "participants": []
     },
@@ -78,10 +78,10 @@
       "Setback Regulations",
       "Special Exception",
       "Electrical Meter",
-      "Uncontested Items",
-      "Individual Cases",
+      "Lot Coverage",
       "Public Testimony",
-      "Executive Session"
+      "Executive Session",
+      "Handgun Prohibition"
     ],
     "financial_items": []
   },

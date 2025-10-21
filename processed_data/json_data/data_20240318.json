@@ -68,7 +68,7 @@
       {
         "item_number": "7",
         "title": "Discussion: 2025 MLK Celebration Planning",
-        "description": "Discussion on color schemes and themes for the 2025 MLK Celebration.",
+        "description": "Discussion on color schemes, themes, and gala details for the 2025 MLK Celebration.",
         "presenter": "Dr. Jamel Slaughter",
         "action_required": "discuss"
       },
@@ -77,7 +77,7 @@
         "title": "2024 MLK Center Manager Update",
         "description": "Updates on fresh produce distribution, volunteer opportunities, and upcoming events.",
         "presenter": "Ms. Pamela R. Jones",
-        "action_required": "discuss"
+        "action_required": null
       },
       {
         "item_number": "9",
@@ -92,62 +92,18 @@
       "Budget",
       "Planning",
       "Public Comments",
-      "Roll Call",
       "Minutes Approval",
-      "Events",
       "Community Center",
-      "Advisory Board",
-      "Discussion",
-      "Updates",
-      "Themes",
-      "Color Schemes",
-      "Entertainment",
-      "Awards"
+      "Events",
+      "Volunteer Opportunities",
+      "Invocation",
+      "Roll Call",
+      "Discussion"
     ],
     "financial_items": [
       {
         "description": "Keynote Speaker Fees",
         "amount": null,
-        "type": "expenditure"
-      },
-      {
-        "description": "Bernice King Fee",
-        "amount": "$30,000",
-        "type": "expenditure"
-      },
-      {
-        "description": "Naomi Tutu Fee",
-        "amount": "$15,000",
-        "type": "expenditure"
-      },
-      {
-        "description": "Deborah Archer Fee",
-        "amount": "$25,000",
-        "type": "expenditure"
-      },
-      {
-        "description": "Ilyasah Shabazz Fee",
-        "amount": "$20,000",
-        "type": "expenditure"
-      },
-      {
-        "description": "Dr. Mary Frances Berry Fee",
-        "amount": "$20,000",
-        "type": "expenditure"
-      },
-      {
-        "description": "Dr. Keisha N. Blain Fee",
-        "amount": "$20,000",
-        "type": "expenditure"
-      },
-      {
-        "description": "Tomiko Brown-Nagin Fee",
-        "amount": "$25,000",
-        "type": "expenditure"
-      },
-      {
-        "description": "Angela Davis Fee",
-        "amount": "$30,000",
         "type": "expenditure"
       }
     ]

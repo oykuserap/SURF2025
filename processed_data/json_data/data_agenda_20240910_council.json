@@ -14,9 +14,8 @@
       "chair": "John Mark Davidson",
       "presenters": [
         "Kimberly Bizor Tolbert",
-        "John Mark Davidson",
         "Anthony Greer",
-        "Siara Obasuyi"
+        "Siara Montoya Obasuyi"
       ],
       "participants": [
         "Michele Andre",
@@ -61,14 +60,14 @@
       {
         "item_number": "IV",
         "title": "Staff Reports / Briefings",
-        "description": "Updates on various topics including OCPO Director Search and City Council Charter Proposed Amendment.",
+        "description": "Updates from staff on various topics including OCPO Director Search and critical incidents.",
         "presenter": "Various",
         "action_required": null
       },
       {
         "item_number": "V",
         "title": "Reports",
-        "description": "Monthly arrest data and activity report.",
+        "description": "Monthly arrest data and activity reports.",
         "presenter": "Chairman John Mark Davidson",
         "action_required": null
       },
@@ -89,27 +88,27 @@
       {
         "item_number": "VIII",
         "title": "Adjournment",
-        "description": "Formal closure of the meeting.",
+        "description": "Formal closing of the meeting.",
         "presenter": "Judge Lander",
         "action_required": "adjourn"
       }
     ],
     "keywords": [
       "Community Police Oversight",
-      "Dallas City Hall",
-      "Public Comment",
+      "Dallas",
+      "meeting",
+      "public comment",
+      "staff reports",
+      "critical incidents",
+      "arrest data",
       "OCPO Director Search",
-      "City Council Charter",
-      "Critical Incidents",
-      "Monthly Arrest Data",
-      "Community Engagement",
-      "Police Oversight",
-      "Public Safety",
-      "Meeting Minutes",
-      "Board Reports",
-      "Public Participation",
-      "Policy Recommendations",
-      "Community Outreach"
+      "City Council",
+      "amendment",
+      "community engagement",
+      "police oversight",
+      "public safety",
+      "transparency",
+      "accountability"
     ],
     "financial_items": []
   },

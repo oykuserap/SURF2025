@@ -21,21 +21,21 @@
         "title": "2024 Bond Program Update",
         "description": "Presentation regarding the 2024 Bond Program.",
         "presenter": null,
-        "action_required": "discuss"
+        "action_required": null
       },
       {
         "item_number": "B",
         "title": "Discussion of Expanding Housing Development Options",
-        "description": "Discussion of potential regulations for two-four-unit housing and minimum residential lot size.",
+        "description": "Discussion on potential regulations for two-four-unit housing and minimum residential lot size.",
         "presenter": null,
-        "action_required": "discuss"
+        "action_required": null
       },
       {
         "item_number": "C",
         "title": "HUD 5-Year Consolidated Plan for FY 2024-25 through FY 2028-29",
         "description": "Presentation regarding the HUD 5-Year Consolidated Plan.",
         "presenter": null,
-        "action_required": "discuss"
+        "action_required": null
       }
     ],
     "keywords": [
@@ -43,12 +43,12 @@
       "Special Called Meeting",
       "2024 Bond Program",
       "Housing Development",
-      "Regulations",
       "HUD",
       "Consolidated Plan",
-      "Public Affairs",
-      "Videoconference",
-      "City Hall"
+      "Regulations",
+      "Residential Lot Size",
+      "Public Participation",
+      "Videoconference"
     ],
     "financial_items": []
   },

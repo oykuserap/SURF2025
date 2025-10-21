@@ -11,7 +11,7 @@
       "location": "Council Chambers, 6th Floor, City Hall and via video conference"
     },
     "attendees": {
-      "chair": "Jaynie Schultz",
+      "chair": "Jaynine Schultz",
       "presenters": [
         "David Pughes, City Marshal, City Marshal’s Office",
         "Tameka Williams, Manager, City Marshal’s Office",
@@ -42,35 +42,35 @@
       {
         "item_number": "C",
         "title": "Update on Transportation & Public Works Department (TPW) Commercial Driver License (CDL) Program",
-        "description": "Overview of the TPW CDL Program and its impact.",
+        "description": "Overview of the CDL program and its impact on workforce development.",
         "presenter": "Ghassan Khankarli, Ph.D., P.E., Director, Department of Transportation & Public Works",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "Workforce, Education and Equity Committee Proposed 2025 Legislative Priorities / Update",
-        "description": "Discussion on the proposed legislative priorities for 2025.",
+        "description": "Discussion of legislative priorities for the upcoming session.",
         "presenter": "Carrie Rogers, Director, Office of Governmental Affairs",
         "action_required": "discuss"
       },
       {
         "item_number": "E",
         "title": "Upcoming Agenda Item from Office of Community Care for Housing Opportunities for Persons with AIDS (HOPWA) Program Second Renewal",
-        "description": "Consideration of contract renewals for HOPWA programs.",
+        "description": "Consideration of renewal contracts for HOPWA programs.",
         "presenter": "Jessica Galleshaw, Director, Office of Community Care",
         "action_required": "discuss"
       },
       {
         "item_number": "F",
         "title": "Upcoming Agenda Item from Office of Community Care to Accept Additional Grant Funds from Texas Department of Criminal Justice (TDJC) for FY25",
-        "description": "Discussion on acceptance of additional grant funds for re-entry services.",
+        "description": "Discussion on accepting additional grant funds for re-entry services.",
         "presenter": "Jessica Galleshaw, Director, Office of Community Care",
         "action_required": "discuss"
       },
       {
         "item_number": "G",
         "title": "Upcoming Agenda Item from Office of Procurement Services and Office of Community Care for the Purchase of Garden Box Kits",
-        "description": "Consideration of a contract for garden box kits to address food insecurity.",
+        "description": "Consideration of a contract for garden box kits to support food security.",
         "presenter": "Jessica Galleshaw, Director, Office of Community Care",
         "action_required": "discuss"
       },
@@ -105,11 +105,11 @@
       "Public Works",
       "Legislative Priorities",
       "HOPWA",
-      "Community Care",
       "Grant Funds",
-      "Food Insecurity",
+      "Community Care",
       "Housing Assistance",
       "Lactation Support",
+      "Food Security",
       "Re-entry Services",
       "CDL Program"
     ],

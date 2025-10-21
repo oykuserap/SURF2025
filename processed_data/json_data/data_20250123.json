@@ -40,7 +40,7 @@
       {
         "item_number": "4",
         "title": "West Trinity Heights Park",
-        "description": "Authorize the rescission of the authorization of a public hearing to be held on December 11, 2024, and a public hearing to be held on March 26, 2025, to receive comments on the proposed use of a portion of parkland at West Trinity Heights Park.",
+        "description": "Authorize the rescission of the authorization of a public hearing to be held on December 11, 2024, and a public hearing to be held on March 26, 2025.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -94,12 +94,14 @@
       "License Agreement",
       "Concession Contract",
       "Trinity Strand Trail",
-      "Public Hearing",
       "Land Acquisition",
+      "Public Hearing",
       "Kleberg Trail",
-      "L.B. Houston Nature Area",
       "College Park Renaming",
-      "Contract Fee Instructors Program"
+      "Contract Fee Instructors Program",
+      "Financial Items",
+      "Community Engagement",
+      "Public Services"
     ],
     "financial_items": [
       {
@@ -108,7 +110,7 @@
         "type": "funding"
       },
       {
-        "description": "Concession Contract at Kiest Softball Complex",
+        "description": "Concession Contract for Kiest Softball Complex",
         "amount": "$158,774.00",
         "type": "revenue"
       },
@@ -118,7 +120,7 @@
         "type": "expenditure"
       },
       {
-        "description": "Land Acquisition from A+ Charter Schools, Inc.",
+        "description": "Settlement for Land Acquisition from A+ Charter Schools, Inc.",
         "amount": "$985,000.00",
         "type": "expenditure"
       },
@@ -128,7 +130,7 @@
         "type": "expenditure"
       },
       {
-        "description": "Public hearing for L.B. Houston Nature Area",
+        "description": "Public Hearing for L.B. Houston Nature Area",
         "amount": "$755.60",
         "type": "revenue"
       }

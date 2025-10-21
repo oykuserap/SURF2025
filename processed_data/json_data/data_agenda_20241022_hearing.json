@@ -19,49 +19,49 @@
       {
         "item_number": "I",
         "title": "Call to Order",
-        "description": "",
+        "description": "Opening of the meeting by the Vice-Chair.",
         "presenter": "Cherri Gambow, Vice-Chair",
         "action_required": null
       },
       {
         "item_number": "II",
         "title": "Staff Presentation/Briefing",
-        "description": "",
+        "description": "Presentation by staff regarding agenda items.",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "III",
         "title": "Public Hearing",
-        "description": "Board of Adjustment",
-        "presenter": null,
+        "description": "Public hearing conducted by the Board of Adjustment.",
+        "presenter": "Board of Adjustment",
         "action_required": null
       },
       {
         "item_number": "IV",
         "title": "Public Testimony",
-        "description": "",
+        "description": "Opportunity for public testimony on agenda items.",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "V",
         "title": "Miscellaneous Items",
-        "description": "Approval of Panel B Minutes – September 18th, 2024",
+        "description": "Approval of Panel B Minutes – September 18th, 2024.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "VI",
         "title": "Case Docket",
-        "description": "Uncontested Items, Holdover Items, Individual Items",
-        "presenter": null,
+        "description": "Review of uncontested items, holdover items, and individual items.",
+        "presenter": "Board of Adjustment",
         "action_required": null
       },
       {
         "item_number": "VII",
         "title": "Adjournment",
-        "description": "",
+        "description": "Closing of the meeting.",
         "presenter": null,
         "action_required": null
       }
@@ -70,18 +70,14 @@
       "Board of Adjustment",
       "Dallas",
       "Public Hearing",
+      "Testimony",
       "Case Docket",
-      "Visibility Obstruction",
-      "Fence Height Regulations",
       "Special Exception",
       "Variance",
-      "Public Testimony",
-      "Minutes Approval",
-      "Uncontested Items",
-      "Holdover Items",
-      "Individual Cases",
-      "Zoning District",
-      "Executive Session"
+      "Fence Regulations",
+      "Visibility Obstruction",
+      "Meeting Minutes",
+      "Adjournment"
     ],
     "financial_items": []
   },

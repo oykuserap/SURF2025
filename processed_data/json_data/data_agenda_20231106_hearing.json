@@ -5,7 +5,7 @@
   "extracted_data": {
     "meeting_info": {
       "date": "November 6, 2023",
-      "time": "9:00 A.M. and 1:00 P.M.",
+      "time": "Briefing at 9:00 A.M. and the Public Hearing at 1:00 P.M.",
       "type": "Regular Meeting",
       "organization": "Landmark Commission",
       "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
@@ -16,11 +16,7 @@
         "OHP Staff",
         "HR&A Advisors",
         "Marcus Watson",
-        "Rhonda Dunn",
-        "Liz Young",
-        "Robert Ungemach",
-        "Geoffrey Grzymkowski",
-        "Matthew Deyermond"
+        "Rhonda Dunn"
       ],
       "participants": []
     },
@@ -80,17 +76,17 @@
       "Historic Preservation",
       "Certificate of Appropriateness",
       "Public Hearing",
+      "Dallas City Hall",
       "Fair Park Task Force",
       "Tenth Street Task Force",
       "OHP Staff",
-      "Community Park",
-      "Demolition",
+      "HR&A Advisors",
       "Public Speakers",
       "Minutes Approval",
+      "Staff Report",
       "Briefing Items",
       "Consent Items",
-      "Discussion Items",
-      "Executive Session"
+      "Discussion Items"
     ],
     "financial_items": []
   },

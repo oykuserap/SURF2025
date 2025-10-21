@@ -40,7 +40,7 @@
       {
         "item_number": "IV",
         "title": "Approval of Minutes",
-        "description": "Approval of Minutes – October 26 & November 2, 2023",
+        "description": "Approval of minutes from October 26 & November 2, 2023",
         "presenter": null,
         "action_required": "approve"
       },
@@ -61,14 +61,14 @@
       {
         "item_number": "VI.3",
         "title": "Fair Park",
-        "description": "Authorize an application for the Department of the Interior’s (DOI) National Parks Service Save America’s Treasures grant program for the Tower Building Mural Restorations project",
+        "description": "Authorize an application for the Department of the Interior’s National Parks Service Save America’s Treasures grant program for the Tower Building Mural Restorations project",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "VII.4",
         "title": "Fair Park",
-        "description": "Authorize the naming of the Children’s Playground at the new 18-acre Community Park as the Rees-Jones Playground.",
+        "description": "Authorize the naming of the Children’s Playground at the new 18-acre Community Park as the Rees-Jones Playground",
         "presenter": null,
         "action_required": "approve"
       },
@@ -133,42 +133,38 @@
       "Children’s Playground",
       "Cotton Bowl Renovation",
       "Budget Update",
-      "2024 Bond Program",
-      "Public Speakers",
-      "Dallas Arboretum",
-      "Economic Value",
-      "National Cricket League"
+      "2024 Bond Program"
     ],
     "financial_items": [
       {
         "description": "Funding Agreement for feasibility study to connect Bachman Lake to Campion Trail",
         "amount": "$150,000.00",
-        "type": "funding"
+        "type": "Funding"
       },
       {
-        "description": "Application for DOI’s Save America’s Treasures grant program for Tower Building Mural Restorations",
+        "description": "Application for Save America’s Treasures grant program for Tower Building Mural Restorations",
         "amount": "$750,000.00",
-        "type": "grant"
+        "type": "Grant"
       },
       {
-        "description": "Application for NEH Sustaining Cultural Heritage Collections Grant Program",
+        "description": "Application for Sustaining Cultural Heritage Collections Grant Program",
         "amount": "$350,000.00",
-        "type": "grant"
+        "type": "Grant"
       },
       {
         "description": "Construction Manager at Risk Agreement for Cotton Bowl Renovation",
         "amount": "$145,000.00",
-        "type": "expenditure"
+        "type": "Expenditure"
       },
       {
         "description": "Total project construction budget for Cotton Bowl Renovation",
         "amount": "$110,000,000.00",
-        "type": "budget"
+        "type": "Budget"
       },
       {
         "description": "Establishment of appropriations in Fair Park Facilities Venue Project Fund",
         "amount": "$32,145,000.00",
-        "type": "budget"
+        "type": "Funding"
       }
     ]
   },

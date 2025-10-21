@@ -75,7 +75,12 @@
       "Meyerson Symphony Center",
       "Public Art",
       "Cultural Equity",
-      "City Facilities"
+      "Community Engagement",
+      "City Council",
+      "Arts and Culture",
+      "Public Safety",
+      "Economic Development",
+      "Neighborhood Services"
     ],
     "financial_items": [
       {
@@ -84,7 +89,7 @@
         "type": "budget"
       },
       {
-        "description": "Financial support for the Meyerson Symphony Center",
+        "description": "Financial support for the Meyerson Symphony Center operations",
         "amount": "$3,000,000",
         "type": "funding"
       }

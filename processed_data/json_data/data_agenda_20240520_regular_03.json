@@ -41,7 +41,7 @@
       {
         "item_number": "III",
         "title": "Approval of Minutes",
-        "description": "Minutes from April 15, 2024",
+        "description": "(April 15, 2024)",
         "presenter": null,
         "action_required": "approve"
       },
@@ -69,7 +69,7 @@
       {
         "item_number": "VI",
         "title": "Staff Reports/Briefings",
-        "description": "Senior Services Program & Contracts Monthly Update",
+        "description": "Briefing Item: Senior Services Program & Contracts Monthly Update",
         "presenter": "Jessica Galleshaw and Mirka Norman",
         "action_required": null
       },
@@ -77,7 +77,7 @@
         "item_number": "VII",
         "title": "Reports of Officers, Boards, and Standing Committees",
         "description": "Senior Affairs Commissioners District Updates",
-        "presenter": "SAC Commissioners for each District",
+        "presenter": "SAC Commissioners",
         "action_required": null
       },
       {
@@ -90,15 +90,16 @@
     ],
     "keywords": [
       "Senior Affairs Commission",
+      "Dallas City Hall",
       "Public Speakers",
       "Approval of Minutes",
       "Texas Open Meetings Act",
-      "Senior Listening Sessions",
       "Visiting Nurses Association",
-      "Senior Issues",
       "Funding Priorities",
-      "City Budget Process",
-      "Staff Reports",
+      "Senior Citizens",
+      "Budget Process",
+      "Senior Services Program",
+      "Contracts",
       "District Updates",
       "Adjournment"
     ],

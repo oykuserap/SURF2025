@@ -26,28 +26,49 @@
       {
         "item_number": "2",
         "title": "Authorize a one-year extension for Community Development Block Grant (CDBG) Funds",
-        "description": "Authorize (1) a one-year extension for CDBG Funds in the amount of $3,634,013 in CDBG funded projects that have not met the City’s twelve-month obligation or twenty-four-month expenditure requirement for the period September 30, 2024 through September 30, 2025; (2) preliminary adoption of Reprogramming Budget No. 1 (Substantial Amendment No. 1) to the FY 2024-25 Action Plan to use unspent prior year CDBG Funds in the amount of $1,335,555 for one time use for repairs and renovations at public facilities; and (3) a public hearing to be held on February 26, 2025, to receive comments on the proposed use of funds for Reprogramming Budget No. 1 (Substantial Amendment No. 1) to the FY 2024-25 Action Plan.",
+        "description": "Authorize a one-year extension for CDBG funded projects that have not met the City’s twelve-month obligation or twenty-four-month expenditure requirement.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "3",
-        "title": "Authorize the acceptance of a grant from the U.S. Department of Justice (DOJ)",
-        "description": "Authorize the (1) acceptance of a grant from the U.S. Department of Justice for the FY 2024 Edward Byrne Memorial Justice Assistance Grant (JAG) Program in the amount of $1,020,731.00 to support a broad range of activities to prevent and control crime and to improve the criminal justice system for the period October 1, 2023 through September 30, 2027.",
+        "title": "Authorize the acceptance of a grant from the U.S. Department of Justice",
+        "description": "Authorize acceptance of a grant for the FY 2024 Edward Byrne Memorial Justice Assistance Grant Program.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Authorize settlement of bodily injury claims",
+        "description": "Authorize settlement of claims brought by Kristian McCullough in the lawsuit against the City of Dallas.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Authorize settlement of lawsuit styled, Evelyn McKeller v. City of Dallas",
+        "description": "Authorize settlement of the lawsuit against the City of Dallas.",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Authorize Supplemental Agreement No. 1 for additional legal services",
+        "description": "Authorize additional legal services regarding Triple D Trademark District Court Litigation.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "41",
         "title": "Consideration of appointments to boards and commissions",
-        "description": "Consideration of appointments to boards and commissions and the evaluation and duties of board and commission members.",
+        "description": "Consider appointments to boards and commissions.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "42",
-        "title": "Authorize the second step of acquisition for condemnation by eminent domain",
-        "description": "Authorize the second step of acquisition for condemnation by eminent domain to acquire a drainage easement containing approximately 3,644 square feet of land from A.J. Wallace and wife, Marilyn Wallace.",
+        "title": "Authorize the second step of acquisition for condemnation",
+        "description": "Authorize acquisition of a drainage easement by eminent domain.",
         "presenter": null,
         "action_required": "approve"
       }
@@ -57,12 +78,17 @@
       "Dallas",
       "CDBG Funds",
       "Justice Assistance Grant",
-      "Public Hearing",
-      "Acquisition",
-      "Eminent Domain",
-      "Community Development",
-      "Board Appointments",
-      "Regular Meeting"
+      "settlement",
+      "legal services",
+      "acquisition",
+      "public hearing",
+      "zoning",
+      "community development",
+      "budget",
+      "public safety",
+      "infrastructure",
+      "housing",
+      "economic development"
     ],
     "financial_items": [
       {
@@ -71,22 +97,22 @@
         "type": "budget"
       },
       {
-        "description": "Grant from the U.S. Department of Justice (DOJ)",
+        "description": "Grant from the U.S. Department of Justice",
         "amount": "$1,020,731",
         "type": "grant"
       },
       {
-        "description": "Settlement of bodily injury claims",
+        "description": "Settlement for bodily injury claims",
         "amount": "$55,000",
         "type": "expenditure"
       },
       {
-        "description": "Settlement of lawsuit",
+        "description": "Settlement for lawsuit against the City of Dallas",
         "amount": "$34,000",
         "type": "expenditure"
       },
       {
-        "description": "Supplemental Agreement for legal services",
+        "description": "Additional legal services for Triple D Trademark District Court Litigation",
         "amount": "$100,000",
         "type": "expenditure"
       }

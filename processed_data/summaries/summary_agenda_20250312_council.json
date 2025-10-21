@@ -2,8 +2,8 @@
   "agenda_identifier": "agenda_20250312_council",
   "agenda_number": 20250312,
   "source_file": "agenda_20250312_council.txt",
-  "summary": "Error generating summary: Connection error.",
+  "summary": "**Meeting Overview**:  \nThe scheduled City Council meeting for the City of Dallas on March 12, 2025, has been cancelled. This meeting was intended for the City Council to convene and discuss various municipal matters.\n\n**Key Agenda Items**:  \nDue to the cancellation, there are no agenda items or discussions to summarize. Typically, such meetings would cover city policies, community projects, and budget considerations.\n\n**Important Details**:  \nNo significant proposals, budget items, policy changes, or projects were presented as the meeting was cancelled.\n\n**Action Items**:  \nAs the meeting has been cancelled, there are no decisions or approvals being sought from the City Council at this time. Future meetings will likely address pending matters once rescheduled. \n\nThis summary reflects the cancellation of the meeting and highlights the absence of agenda items or decisions.",
   "original_length": 1617,
-  "summary_length": 43,
-  "processed_at": "270759.952471166"
+  "summary_length": 884,
+  "processed_at": "290321.252415"
 }

@@ -5,162 +5,101 @@
   "extracted_data": {
     "meeting_info": {
       "date": "August 1, 2024",
-      "time": "10:00 A.M.",
+      "time": null,
       "type": "Regular Meeting",
-      "organization": "Dallas Park and Recreation Board",
-      "location": "Dallas City Hall, 6FN Conference Room and Videoconference"
+      "organization": "Texas                           Dallas Park And Recreation Board",
+      "location": "Dallas City Hall"
     },
     "attendees": {
-      "chair": "Arun Agarwal",
-      "presenters": [
-        "Christina Turner-Noteware",
-        "Rachael Berry"
-      ],
+      "chair": null,
+      "presenters": [],
       "participants": []
     },
     "agenda_items": [
       {
-        "item_number": "I",
-        "title": "Call to Order",
-        "description": "",
-        "presenter": "Arun Agarwal",
-        "action_required": null
-      },
-      {
-        "item_number": "II",
-        "title": "Public Speakers",
-        "description": "",
+        "item_number": "113",
+        "title": "la finalización de la reunión en https://dallastx.new.swagit.com/views/",
+        "description": "la finalización de la reunión en https://dallastx.new.swagit.com/views/",
         "presenter": null,
-        "action_required": null
+        "action_required": "Action"
       },
       {
-        "item_number": "III",
-        "title": "Approval of Minutes – June 20, 2024",
-        "description": "",
+        "item_number": "8",
+        "title": "Planning  &  Design  – Work  Plan  for  Current  Projects –  Christina  Turner-Noteware,  \n\n        ...",
+        "description": "Planning  &  Design  – Work  Plan  for  Current  Projects –  Christina  Turner-Noteware,  \n\n            Assistant Director  \n\n\n\nVI. UPDATE",
         "presenter": null,
-        "action_required": "approve"
+        "action_required": "Action"
       },
       {
-        "item_number": "IV.1",
-        "title": "Authorize an alcohol permit to Lee Ann Yarbor",
-        "description": "To serve alcohol at the USA Women’s Half Marathon to be held at T. P. Hill, located at 3240 West Lawther Road on September 21, 2024.",
+        "item_number": "9",
+        "title": "Budget Development – Rachael Berry, Assistant Director  \n\n              \n\n\n\nVII. WORKSHOP",
+        "description": "Budget Development – Rachael Berry, Assistant Director  \n\n              \n\n\n\nVII. WORKSHOP",
         "presenter": null,
-        "action_required": "approve"
+        "action_required": "Action"
       },
       {
-        "item_number": "IV.2",
-        "title": "Authorize an alcohol permit to Juan Contreras",
-        "description": "To serve alcohol at the Texas Latino Pride event to be held at Reverchon Park on September 14, 2024.",
+        "item_number": "1",
+        "title": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or a...",
+        "description": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or any matter in which  \n\n      the duty of the attorney to the City Council under the Texas Disciplinary Rules of Professional Conduct of the State  \n\n      Bar of Texas clearly conflicts with the Texas Open Meetings Act. [Tex. Govt. Code §",
         "presenter": null,
-        "action_required": "approve"
+        "action_required": "Action"
       },
       {
-        "item_number": "IV.3",
-        "title": "Authorize acquisition from Revolver Investment",
-        "description": "Of approximately 9,000 square feet of improved land located at 902 South Waverly Drive for development of a future park.",
+        "item_number": "2",
+        "title": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open mee...",
+        "description": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open meeting would have  \n\n      a detrimental effect on the position of the city in negotiations with a third person. [Tex. Govt. Code §",
         "presenter": null,
-        "action_required": "approve"
+        "action_required": "Action"
       },
       {
-        "item_number": "IV.4",
-        "title": "Authorize the placement of a dedication plaque",
-        "description": "At the Paul D. Dyer Administration Building and Service Center located at 10031 East Northwest Highway.",
+        "item_number": "3",
+        "title": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in...",
+        "description": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in an open meeting  \n\n      would have a detrimental effect on the position of the city in negotiations with a third person. [Tex. Govt. Code  \n\n      §",
         "presenter": null,
-        "action_required": "approve"
+        "action_required": "Action"
       },
       {
-        "item_number": "IV.5",
-        "title": "Authorize an art installation on park property",
-        "description": "Located at 3400 Fairmont Avenue.",
+        "item_number": "4",
+        "title": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal...",
+        "description": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal of a public  \n\n      officer or employee; or to hear a complaint or charge against an officer or employee unless the officer or employee  \n\n      who is the subject of the deliberation or hearing requests a public hearing. [Tex. Govt. Code §",
         "presenter": null,
-        "action_required": "approve"
+        "action_required": "Action"
       },
       {
-        "item_number": "IV.6",
-        "title": "Authorize a public hearing on Chapter 12 City Youth Program Standards of Care",
-        "description": "To receive public comments on readopting and continuing in Chapter 12, 'City Youth Program Standards of Care.'",
+        "item_number": "5",
+        "title": "deliberating the deployment, or specific occasions for implementation, of security personnel or devi...",
+        "description": "deliberating the deployment, or specific occasions for implementation, of security personnel or devices. [Tex. Govt.  \n\n      Code §",
         "presenter": null,
-        "action_required": "approve"
+        "action_required": "Action"
       },
       {
-        "item_number": "IV.7",
-        "title": "Authorize a two-year Interlocal Agreement",
-        "description": "With Dallas Independent School District to provide after school programs and conduct summer camp programs.",
+        "item_number": "6",
+        "title": "discussing or deliberating commercial or financial information that the city has received from a bus...",
+        "description": "discussing or deliberating commercial or financial information that the city has received from a business prospect  \n\n      that the city seeks to have locate, stay or expand in or near the city and with which the city is conducting economic  \n\n      development negotiations; or deliberating the offer of a financial or other incentive to a business prospect. [Tex  \n\n      Govt . Code §",
         "presenter": null,
-        "action_required": "approve"
+        "action_required": "Action"
       },
       {
-        "item_number": "V",
-        "title": "Planning & Design – Work Plan for Current Projects",
-        "description": "",
-        "presenter": "Christina Turner-Noteware",
-        "action_required": null
-      },
-      {
-        "item_number": "VI",
-        "title": "Budget Development",
-        "description": "",
-        "presenter": "Rachael Berry",
-        "action_required": null
-      },
-      {
-        "item_number": "VII",
-        "title": "2024 Bond Program: Implementation Plan",
-        "description": "",
-        "presenter": "Christina Turner-Noteware",
-        "action_required": null
-      },
-      {
-        "item_number": "VIII",
-        "title": "Other/Non-Action Items",
-        "description": "Staff Announcements – Upcoming Park and Recreation Department Events.",
+        "item_number": "7",
+        "title": "deliberating security assessments or deployments relating to information resources technology, netwo...",
+        "description": "deliberating security assessments or deployments relating to information resources technology, network security  \n\n      information,   or   the   deployment   or  specific   occasions   for   implementations   of   security   personnel,   critical  \n\n      infrastructure, or security devices. [Tex Govt. Code §",
         "presenter": null,
-        "action_required": null
-      },
-      {
-        "item_number": "IX",
-        "title": "Next Park Board meeting",
-        "description": "Scheduled for 10:00 am Thursday, August 15, 2024.",
-        "presenter": null,
-        "action_required": null
-      },
-      {
-        "item_number": "X",
-        "title": "Adjournment",
-        "description": "",
-        "presenter": null,
-        "action_required": null
+        "action_required": "Action"
       }
     ],
     "keywords": [
-      "Dallas Park and Recreation Board",
-      "Regular Meeting",
-      "Alcohol Permit",
-      "Public Hearing",
-      "Land Acquisition",
-      "Dedication Plaque",
-      "Art Installation",
-      "Interlocal Agreement",
-      "Budget Development",
-      "2024 Bond Program",
-      "Public Speakers",
-      "Approval of Minutes",
-      "Upcoming Events",
-      "Equitable Meeting",
-      "Community Access"
+      "tif",
+      "district",
+      "budget",
+      "approval",
+      "public",
+      "development",
+      "planning",
+      "ordinance",
+      "contract",
+      "agreement"
     ],
-    "financial_items": [
-      {
-        "description": "Estimated Revenue from alcohol permits for events",
-        "amount": "$250.00",
-        "type": "revenue"
-      },
-      {
-        "description": "Acquisition of land for future park development",
-        "amount": "$216,000.00",
-        "type": "expenditure"
-      }
-    ]
+    "financial_items": []
   },
   "extraction_method": "openai_gpt",
   "original_length": 12454

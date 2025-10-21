@@ -6,12 +6,12 @@
     "meeting_info": {
       "date": "March 26, 2024",
       "time": "9:00 AM",
-      "type": "Quality of Life, Arts, and Culture Committee Meeting",
-      "organization": "City Council",
+      "type": "Regular Meeting",
+      "organization": "Quality of Life, Arts, and Culture Committee",
       "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
     },
     "attendees": {
-      "chair": "Bazaldua",
+      "chair": "Mendelsohn",
       "presenters": [
         "Carrie Rogers",
         "Kevin Oden",
@@ -20,8 +20,8 @@
         "Rosa Fleming",
         "Jaqulin Justice",
         "Laura Flores",
-        "Martine Philippe",
-        "M. Elizabeth (Liz) Cedillo-Pereira"
+        "M. Elizabeth (Liz) Cedillo-Pereira",
+        "Martine Philippe"
       ],
       "participants": []
     },
@@ -50,21 +50,21 @@
       {
         "item_number": "D",
         "title": "Chapter 42A: High Impact Areas Survey Results and Recommendations",
-        "description": "Presentation on the survey results and recommendations regarding high impact areas.",
+        "description": "Presentation of survey results and recommendations regarding high impact areas.",
         "presenter": "Rosa Fleming, Jaqulin Justice, Laura Flores",
         "action_required": "briefing"
       },
       {
         "item_number": "E",
         "title": "Dallas Arts Month",
-        "description": "Presentation on Dallas Arts Month.",
+        "description": "Discussion on Dallas Arts Month.",
         "presenter": "Martine Philippe",
         "action_required": "briefing"
       },
       {
         "item_number": "F",
         "title": "FY 2024-25 Community Artist Program Guidelines",
-        "description": "Presentation of the guidelines for the FY 2024-25 Community Artist Program.",
+        "description": "Presentation of the guidelines for the Community Artist Program.",
         "presenter": "M. Elizabeth (Liz) Cedillo-Pereira",
         "action_required": "briefing"
       },
@@ -77,14 +77,14 @@
       },
       {
         "item_number": "H",
-        "title": "Ordinance Amending Chapter 17",
+        "title": "Ordinance Amending Chapter 17, Food Establishments",
         "description": "An ordinance amending Chapter 17, 'Food Establishments,' of the Dallas City Code.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "I",
-        "title": "Service Price Agreement for Scrap Tires Removal",
+        "title": "Service Price Agreement for Scrap Tire Removal",
         "description": "Authorize a three-year service price agreement for removal and disposal of scrap tires.",
         "presenter": null,
         "action_required": "approve"
@@ -101,16 +101,20 @@
       "Community Artist Program",
       "ArtsActivate 2025",
       "Food Establishments",
-      "Scrap Tires"
+      "Scrap Tire Removal",
+      "City Council",
+      "Dallas",
+      "Public Safety",
+      "Interdepartmental Strategies"
     ],
     "financial_items": [
       {
-        "description": "Estimated amount for removal and disposal of scrap tires.",
+        "description": "Estimated amount for removal and disposal of scrap tires",
         "amount": "$1,217,020",
         "type": "expenditure"
       },
       {
-        "description": "Ordinance amending Chapter 17 with a penalty not to exceed $500.00.",
+        "description": "Ordinance amendment with no cost consideration",
         "amount": null,
         "type": "budget"
       }

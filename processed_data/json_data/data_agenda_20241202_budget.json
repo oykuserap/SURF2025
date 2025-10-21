@@ -30,15 +30,15 @@
       {
         "item_number": "A",
         "title": "FIFA World Cup 2026 Planning Update",
-        "description": "Update on planning for the FIFA World Cup 2026.",
+        "description": "Update on the planning for the FIFA World Cup 2026",
         "presenter": "Monica Paul",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "Upcoming Agenda Item: Proposed FIFA World Cup 2026 International Broadcast Center Overview and Staff Recommendations",
-        "description": "Overview and staff recommendations regarding the proposed International Broadcast Center for FIFA World Cup 2026.",
-        "presenter": "Rosa Fleming; Brett Wilkinson",
+        "description": "Overview and staff recommendations regarding the proposed International Broadcast Center for FIFA World Cup 2026",
+        "presenter": "Rosa Fleming, Brett Wilkinson",
         "action_required": "discuss"
       }
     ],
@@ -50,9 +50,14 @@
       "FIFA World Cup 2026",
       "Planning Update",
       "Broadcast Center",
-      "Minutes Approval",
-      "Public Meeting",
-      "Video Conference"
+      "Event Services",
+      "Public Affairs",
+      "Meeting Minutes",
+      "Executive Session",
+      "Economic Development",
+      "City Hall",
+      "Virtual Meeting",
+      "Public Participation"
     ],
     "financial_items": []
   },

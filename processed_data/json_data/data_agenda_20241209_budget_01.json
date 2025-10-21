@@ -11,7 +11,7 @@
       "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
     },
     "attendees": {
-      "chair": "Ridley",
+      "chair": "Mendelsohn",
       "presenters": [
         "Pollyana Ashford",
         "Delridge Williams",
@@ -49,7 +49,7 @@
       {
         "item_number": "B",
         "title": "Violent Crime Reduction Plan Update",
-        "description": "Update on the current strategies and effectiveness of the violent crime reduction plan.",
+        "description": "Update on the strategies and effectiveness of the violent crime reduction plan.",
         "presenter": "Nathan Swyers, Major of Police, Dallas Police Department",
         "action_required": "discuss"
       },
@@ -63,21 +63,21 @@
       {
         "item_number": "D",
         "title": "Overview of Police and Fire Wellness Programs",
-        "description": "Discussion on wellness programs available for police and fire personnel.",
+        "description": "Discussion on wellness programs for police and fire personnel.",
         "presenter": "Teena Schultz, Assistant Chief, Dallas Police Department; James Russ, Executive Deputy Chief (I), Dallas Fire-Rescue Department; Robert Borse, Captain, Dallas Fire-Rescue Department",
         "action_required": "discuss"
       },
       {
         "item_number": "E",
         "title": "Dallas Fire-Rescue EMS Update",
-        "description": "Update on the operations and performance of the EMS division of Dallas Fire-Rescue.",
+        "description": "Update on the EMS operations and initiatives of Dallas Fire-Rescue.",
         "presenter": "Scott Clumpner, Deputy Chief, Dallas Fire Rescue Department; Chris Chiara, Section Chief, Dallas Fire-Rescue Department; Marshall Isaacs, Medical Director, Dallas Fire-Rescue Department",
         "action_required": "discuss"
       },
       {
         "item_number": "F",
         "title": "Overview of Personal Delivery Devices - Avride",
-        "description": "Presentation on the implementation and regulation of personal delivery devices.",
+        "description": "Presentation on the use and regulation of personal delivery devices.",
         "presenter": "Ghassan (Gus) Khankarli, PhD, PE, Director, Department of Transportation and Public Works",
         "action_required": "discuss"
       }
@@ -87,11 +87,11 @@
       "Dallas City Council",
       "Police Department",
       "Fire Department",
-      "Recruiting",
-      "Retention",
-      "Violent Crime",
       "Crisis Response",
       "Wellness Programs",
+      "Violent Crime",
+      "Recruiting",
+      "Retention",
       "Emergency Management",
       "Personal Delivery Devices",
       "Funding",
@@ -113,7 +113,7 @@
       {
         "description": "Consultant contract for data analysis and support for the Dallas Police Department",
         "amount": "$425,000.00",
-        "type": "contract"
+        "type": "consultant contract"
       },
       {
         "description": "Grant from the Texas Office of the Governor for Internet Crimes Against Children",
@@ -126,7 +126,7 @@
         "type": "grant"
       },
       {
-        "description": "Homeland Security Grant Program funding for preparedness activities",
+        "description": "Grant from the U.S. Department of Homeland Security for Homeland Security Grant Program",
         "amount": "$5,842,198.40",
         "type": "grant"
       },

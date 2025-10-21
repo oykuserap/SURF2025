@@ -5,126 +5,94 @@
   "extracted_data": {
     "meeting_info": {
       "date": "January 8, 2025",
-      "time": "9:00 AM",
-      "type": "Regular Meeting",
-      "organization": "City of Dallas",
-      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas 75201"
+      "time": null,
+      "type": "Briefing",
+      "organization": "Citizens  Can  Find  Out               Persona      Que    Desee      Hablar    Durante      La   Asamblea       Del  \n\nThe  Name  Of  Their  Representative  And  Their  Voting  District",
+      "location": "Dallas City Hall"
     },
     "attendees": {
       "chair": null,
-      "presenters": [
-        "City Attorney's Office",
-        "Dallas Police Department",
-        "Department of Aviation",
-        "Department of Facilities and Real Estate Management",
-        "Department of Information and Technology Services",
-        "Department of Transportation and Public Works",
-        "Office of Equity and Inclusion",
-        "Office of Government Affairs",
-        "Office of Procurement Services",
-        "Park & Recreation Department"
-      ],
+      "presenters": [],
       "participants": []
     },
     "agenda_items": [
       {
-        "item_number": "1",
-        "title": "Approval of Minutes of the December 11, 2024 City Council Meeting",
-        "description": "",
+        "item_number": "16",
+        "title": "Briefing   meetings   are   held   the        primer    y   tercer   miércoles    del   mes.    Esta...",
+        "description": "Briefing   meetings   are   held   the        primer    y   tercer   miércoles    del   mes.    Estas    audiencias     se  \n\nfirst  and   third   Wednesdays       of   each    month.         Council         transmiten      en    vivo     por    la    bit.ly/cityofdallastv   y    por  \n\nagenda     (voting)   meetings     are   held   on    the   second     and        cablevisión    en   la  estación    Time    Warner     City  Cable    Canal  \n\nfourth   Wednesdays.           Anyone     wishing     to   speak    at   a",
         "presenter": null,
-        "action_required": "approve"
+        "action_required": "Action"
+      },
+      {
+        "item_number": "311",
+        "title": "Ciudad    de   Dallas    se  esfuerza     por  cumplir    con   el  decreto  \n\n                     ...",
+        "description": "Ciudad    de   Dallas    se  esfuerza     por  cumplir    con   el  decreto  \n\n                                                                                  que   protege    a   las   personas    con    impedimentos,      Americans  \n\n                                                                                  with   Disabilities  Act.      La   agenda     del   Ayuntamiento       está  \n\n                                                                                  disponible en formatos alternos si lo solicita.  \n\n\n\n                                                                                  Si  tiene   preguntas     sobre    esta   agenda,    o   si  desea     hacer  \n\n                                                                                  comentarios   o   presentar   quejas   con   respecto   a   servicios   de  \n\n                                                                                  la Ciudad, llame al",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "1",
+        "title": "seeking      the    advice      of   its   attorney      about     pending       or    contemplated ...",
+        "description": "seeking      the    advice      of   its   attorney      about     pending       or    contemplated        litigation,  \n\n            settlement  offers,  or  any  matter  in  which  the  duty  of  the  attorney  to  the  City  Council  \n\n            under  the  Texas  Disciplinary  Rules  of  Professional  Conduct  of  the  State  Bar  of  Texas  \n\n            clearly conflicts with the Texas Open Meetings Act.  [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
         "item_number": "2",
-        "title": "Authorize settlement of the lawsuit styled, David Walters, et al. v. City of Dallas",
-        "description": "Not to exceed $600,000.00 - Financing: Liability Reserve Fund",
-        "presenter": "City Attorney's Office",
-        "action_required": "approve"
+        "title": "deliberating  the  purchase,  exchange,  lease,  or  value  of  real  property  if  deliberation  in...",
+        "description": "deliberating  the  purchase,  exchange,  lease,  or  value  of  real  property  if  deliberation  in  \n\n            an   open     meeting     would     have    a   detrimental      effect   on    the   position    of   the   city   in  \n\n            negotiations with a third person.  [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
         "item_number": "3",
-        "title": "Authorize settlement of the lawsuit styled, Donna Jean Berry v. Precious Yusha Mangum and City of Dallas",
-        "description": "Not to exceed $55,000.00 - Financing: Liability Reserve Fund",
-        "presenter": "City Attorney's Office",
-        "action_required": "approve"
+        "title": "deliberating     a   negotiated     contract    for   a   prospective      gift  or   donation     t...",
+        "description": "deliberating     a   negotiated     contract    for   a   prospective      gift  or   donation     to  the    city  if  \n\n            deliberation  in  an  open  meeting  would  have  a  detrimental  effect  on  the  position  of  the  \n\n            city in negotiations with a third person. [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
         "item_number": "4",
-        "title": "Authorize a three-year master agreement for the purchase of protective gas masks",
-        "description": "Estimated amount not to exceed $520,725.15 - Financing: 2023 Homeland Security-Urban Area Security Initiative Fund and General Fund",
-        "presenter": "Dallas Police Department",
-        "action_required": "approve"
+        "title": "deliberating       the     appointment,         employment,          evaluation,       reassignment,...",
+        "description": "deliberating       the     appointment,         employment,          evaluation,       reassignment,          duties,  \n\n            discipline,   or   dismissal   of   a   public   officer   or   employee;   or   to   hear   a   complaint   or  \n\n            charge   against   an   officer   or   employee   unless   the   officer   or   employee   who   is   the  \n\n            subject   of   the   deliberation   or   hearing   requests   a   public   hearing.      [ Tex.   Govt.   Code  \n\n            §",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
         "item_number": "5",
-        "title": "Authorize a three-year sole source services agreement for an open-source intelligence solution",
-        "description": "Not to exceed $299,999.58 - Financing: FY 2024 BJA OJP Byrne Discretionary Grant Program Fund",
-        "presenter": "Dallas Police Department",
-        "action_required": "approve"
+        "title": "deliberating     the    deployment,       or   specific    occasions      for   implementation,     ...",
+        "description": "deliberating     the    deployment,       or   specific    occasions      for   implementation,        of   security  \n\n            personnel or devices.  [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
         "item_number": "6",
-        "title": "Authorize an amendment to Resolution No. 24-0842 for an Interlocal Agreement with TxDOT",
-        "description": "Modify the City’s estimated share of the project costs from $1,234,600.00 to $1,321,500.00 - Amount of $1,321,500.00 - Financing: Aviation Construction Fund",
-        "presenter": "Department of Aviation",
-        "action_required": "approve"
+        "title": "discussing      or   deliberating      commercial       or   financial     information      that   t...",
+        "description": "discussing      or   deliberating      commercial       or   financial     information      that   the    city   has  \n\n            received  from  a  business  prospect  that  the  city  seeks  to  have  locate,  stay  or  expand  \n\n            in  or   near    the   city   and    with    which    the   city   is  conducting      economic       development  \n\n            negotiations;   or   deliberating   the   offer   of   a   financial   or   other   incentive   to   a   business  \n\n            prospect.  [Tex Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
-        "item_number": "40",
-        "title": "Authorize a one-year policy for excess workers’ compensation insurance",
-        "description": "Not to exceed $750,000.00 - Financing: Workers’ Compensation Fund",
-        "presenter": "Office of Risk Management",
-        "action_required": "approve"
+        "item_number": "7",
+        "title": "deliberating     security    assessments        or   deployments        relating    to   information...",
+        "description": "deliberating     security    assessments        or   deployments        relating    to   information     resources  \n\n            technology,   network   security   information,   or   the   deployment   or   specific   occasions   for  \n\n            implementations        of    security     personnel,      critical   infrastructure,     or    security     devices .   \n\n            [Tex Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       }
     ],
     "keywords": [
-      "Dallas City Council",
-      "meeting",
-      "settlement",
-      "lawsuit",
-      "protective gear",
-      "interlocal agreement",
-      "workers' compensation",
+      "tif",
+      "district",
       "budget",
       "funding",
-      "public hearing",
-      "zoning",
-      "economic development",
-      "community development",
-      "incentive policy"
+      "approval",
+      "recommendation",
+      "public",
+      "development",
+      "improvement",
+      "transportation"
     ],
-    "financial_items": [
-      {
-        "description": "Settlement of the lawsuit styled, David Walters, et al. v. City of Dallas",
-        "amount": "$600,000.00",
-        "type": "settlement"
-      },
-      {
-        "description": "Settlement of the lawsuit styled, Donna Jean Berry v. Precious Yusha Mangum and City of Dallas",
-        "amount": "$55,000.00",
-        "type": "settlement"
-      },
-      {
-        "description": "Purchase of protective gas masks for the Dallas Police Department",
-        "amount": "$520,725.15",
-        "type": "purchase"
-      },
-      {
-        "description": "Sole source services agreement for an open-source intelligence solution",
-        "amount": "$299,999.58",
-        "type": "services"
-      },
-      {
-        "description": "Amendment to Resolution No. 24-0842 for TxDOT project costs",
-        "amount": "$1,321,500.00",
-        "type": "amendment"
-      },
-      {
-        "description": "Excess workers’ compensation insurance policy",
-        "amount": "$750,000.00",
-        "type": "insurance"
-      }
-    ]
+    "financial_items": []
   },
   "extraction_method": "openai_gpt",
   "original_length": 84970

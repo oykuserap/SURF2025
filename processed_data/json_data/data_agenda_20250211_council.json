@@ -25,11 +25,13 @@
         "Alison Grinter-Allen",
         "Jonathan Maples",
         "Derric Pegram",
-        "Brian Bah",
         "Ozzie Smith",
+        "Timothy Jackson",
         "Judge C. Lander",
+        "Brian Bah",
         "David Kitner",
-        "Mark Davidson",
+        "Brandon Friedman",
+        "Changa Higgins",
         "Jennifer King"
       ]
     },
@@ -51,21 +53,21 @@
       {
         "item_number": "III",
         "title": "Public Comment / Open Microphone",
-        "description": "Opportunity for the public to provide comments and feedback.",
+        "description": "Opportunity for the public to comment for up to three minutes each.",
         "presenter": "John Mark Davidson",
         "action_required": "None"
       },
       {
         "item_number": "IV",
         "title": "Recruitment Strategy and Process for the Chief of Police",
-        "description": "Discussion on the recruitment process for the next Dallas Police Chief.",
+        "description": "Discussion on the search for the next Dallas Police Chief.",
         "presenter": "Kimberly Bizor Tolbert",
         "action_required": "Discuss"
       },
       {
         "item_number": "V",
         "title": "Approval of Meeting Minutes",
-        "description": "Review and approval of the minutes from the January 14, 2025 meeting.",
+        "description": "Approval of the minutes from the January 14, 2025, CPOB Regular Meeting.",
         "presenter": "John Mark Davidson",
         "action_required": "Approve"
       },
@@ -86,51 +88,44 @@
       {
         "item_number": "VIII",
         "title": "Reports / Briefings",
-        "description": "Various reports from board members and staff.",
-        "presenter": "Michele Andre, Greg Huff, Siara Obasuyi",
-        "action_required": "Discuss"
+        "description": "Reports from the Director and Special Investigator.",
+        "presenter": "Michele Andre and Greg Huff",
+        "action_required": "None"
       },
       {
         "item_number": "IX",
-        "title": "Dallas Police Department Reports / Briefings",
-        "description": "Reports from the Dallas Police Department.",
-        "presenter": "Major Anthony Greer",
-        "action_required": "Discuss"
+        "title": "Community Police Oversight Board Reports / Briefings",
+        "description": "Reports from the Chairman and Standing Subcommittees.",
+        "presenter": "John Mark Davidson",
+        "action_required": "None"
       },
       {
         "item_number": "X",
-        "title": "Community Police Oversight Board Reports / Briefings",
-        "description": "Updates from the Community Police Oversight Board.",
-        "presenter": "John Mark Davidson",
-        "action_required": "Discuss"
-      },
-      {
-        "item_number": "XI",
         "title": "Announcements",
         "description": "Upcoming events and meetings.",
         "presenter": "John Mark Davidson",
         "action_required": "None"
       },
       {
-        "item_number": "XII",
+        "item_number": "XI",
         "title": "Public Comment/Open Microphone",
-        "description": "Final opportunity for public comments.",
+        "description": "Second opportunity for public comments.",
         "presenter": "John Mark Davidson",
         "action_required": "None"
       },
       {
-        "item_number": "XIII",
+        "item_number": "XII",
         "title": "Board Members Comments",
-        "description": "Comments and feedback from board members.",
+        "description": "Comments from board members.",
         "presenter": "Board Members",
         "action_required": "None"
       },
       {
-        "item_number": "XIV",
+        "item_number": "XIII",
         "title": "Adjournment",
-        "description": "Formal adjournment of the meeting.",
+        "description": "Motion to adjourn the meeting.",
         "presenter": "John Mark Davidson",
-        "action_required": "Adjourn"
+        "action_required": "Approve"
       }
     ],
     "keywords": [
@@ -140,15 +135,10 @@
       "Recruitment Strategy",
       "Training",
       "Reports",
-      "Community Engagement",
-      "Accountability",
-      "Transparency",
-      "Public Trust",
-      "Board Members",
-      "Meeting Minutes",
       "Announcements",
-      "Public Safety",
-      "Civilian Oversight"
+      "Board Members",
+      "Transparency",
+      "Accountability"
     ],
     "financial_items": []
   },

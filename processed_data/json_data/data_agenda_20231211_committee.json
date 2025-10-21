@@ -31,12 +31,15 @@
       "participants": [
         "Mendelsohn",
         "Moreno",
-        "Stewart",
+        "Gracey",
+        "Johnson",
+        "Schultz",
+        "Ridley",
         "Bazaldua",
+        "West",
+        "Narvaez",
         "Blackmon",
         "Resendez",
-        "Gracey",
-        "Arnold",
         "Willis"
       ]
     },
@@ -51,14 +54,14 @@
       {
         "item_number": "B",
         "title": "Public Safety Recruiting and Retention Update",
-        "description": "Update on the recruitment and retention strategies for public safety personnel.",
+        "description": "Update on the recruitment and retention efforts within the Public Safety departments.",
         "presenter": "William H. Griffith",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "Violent Crime Reduction Plan Update",
-        "description": "Update on the strategies and progress of the violent crime reduction plan.",
+        "description": "Update on the strategies and effectiveness of the violent crime reduction plan.",
         "presenter": "Jason Scoggins",
         "action_required": "discuss"
       },
@@ -72,7 +75,7 @@
       {
         "item_number": "E",
         "title": "Single Role Paramedic/Welfare Critical Response Team Update",
-        "description": "Update on the Single Role Paramedic and Welfare Critical Response Team.",
+        "description": "Update on the operations and effectiveness of the Single Role Paramedic/Welfare Critical Response Team.",
         "presenter": "Scott Clumpner",
         "action_required": "discuss"
       },
@@ -87,13 +90,13 @@
         "item_number": "G",
         "title": "Memorials for Fallen First Responders Update",
         "description": "Update on the memorials for fallen first responders.",
-        "presenter": "Robert Borse",
+        "presenter": "Robert Borse, Stephen Williams",
         "action_required": "discuss"
       },
       {
         "item_number": "H",
         "title": "2025 Proposed Legislative Priorities - Public Safety",
-        "description": "Discussion on the proposed legislative priorities for public safety in 2025.",
+        "description": "Discussion on the proposed legislative priorities for public safety for the year 2025.",
         "presenter": "Carrie Rogers",
         "action_required": "discuss"
       }
@@ -101,14 +104,14 @@
     "keywords": [
       "Public Safety",
       "Dallas Police Department",
-      "Fire-Rescue",
-      "Violent Crime",
+      "Dallas Fire-Rescue",
       "Recruitment",
       "Retention",
-      "Legislative Priorities",
+      "Violent Crime",
       "Transparency",
-      "Emergency Services",
+      "Legislative Priorities",
       "First Responders",
+      "Emergency Services",
       "Community Safety",
       "Grant Funding",
       "Public Affairs",
@@ -118,12 +121,12 @@
       {
         "description": "FY 2023 Homeland Security Grant Program funding for preparedness activities",
         "amount": "$6,598,577.53",
-        "type": "grant"
+        "type": "grant funding"
       },
       {
         "description": "First amendment to the FY 2022 Homeland Security Grant for additional funding",
         "amount": "$156,246.26",
-        "type": "grant"
+        "type": "grant funding"
       },
       {
         "description": "Cooperative purchasing agreement for Fire Rescue Department apparatus parts",
@@ -143,30 +146,30 @@
       {
         "description": "Dallas Police Department Victim Services/21 Grant funding",
         "amount": "$104,568.96",
-        "type": "grant"
+        "type": "grant funding"
       },
       {
         "description": "COPS Technology and Equipment Program Grant for record management system upgrade",
         "amount": "$935,000.00",
-        "type": "grant"
+        "type": "grant funding"
       },
       {
         "description": "Rifle Resistant Body Armor Grant for Dallas Police Department",
         "amount": "$961,684.00",
-        "type": "grant"
+        "type": "grant funding"
       },
       {
         "description": "Sexual Assault Evidence Testing Grant for forensic analysis",
         "amount": "$248,500.00",
-        "type": "grant"
+        "type": "grant funding"
       },
       {
-        "description": "State of Texas Internet Crimes Against Children Grant for funding detectives",
+        "description": "Internet Crimes Against Children Grant for funding personnel and training",
         "amount": "$303,159.40",
-        "type": "grant"
+        "type": "grant funding"
       },
       {
-        "description": "Interlocal Agreement for forensic analysis services",
+        "description": "Interlocal Agreement for forensic services with Dallas County",
         "amount": "$12,300,000.00",
         "type": "service agreement"
       }

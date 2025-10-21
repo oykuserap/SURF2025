@@ -2,8 +2,8 @@
   "agenda_identifier": "agenda_20250320_regular",
   "agenda_number": 20250320,
   "source_file": "agenda_20250320_regular.txt",
-  "summary": "**Meeting Overview**:  \nThe Dallas Park and Recreation Board will hold a regular meeting on March 20, 2025, at 10:00 A.M. at Dallas City Hall, with options for videoconference participation. The meeting aims to discuss various park-related matters, including event permits, service agreements, and updates on ongoing initiatives.\n\n**Key Agenda Items**:  \n1. Special recognition of Certified Park and Recreation Professionals and NRPA Directors School Graduates.\n2. Approval of minutes from the previous meeting on March 6, 2025.\n3. Consent agenda items involving alcohol permits for events at various parks, including Reverchon Park and White Rock Lake.\n4. Individual consideration of service agreements for janitorial services and the installation of a splash pad at Forest Audelia Park.\n\n**Important Details**:  \n- Alcohol permits for events at Reverchon Park, White Rock Lake, and Flag Pole Hill Park are expected to generate estimated revenues of $250 each.\n- A three-year service price agreement for janitorial services at aquatic spraygrounds is proposed for $496,470.\n- A splash pad installation at Forest Audelia Park is budgeted at $776,000, funded through Capital Gifts Donations.\n\n**Action Items**:  \nThe board will seek approval for the alcohol permits, the janitorial services agreement, and the splash pad installation. Additionally, updates on the Dallas Greening Initiative and the upcoming Aquatics 2025 Season Operation will be presented. The next meeting is scheduled for April 3, 2025.",
+  "summary": "Error generating summary: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-d8v1FzUXCcTCoM04EVDqEBc2 on tokens per min (TPM): Limit 200000, Used 200000, Requested 2725. Please try again in 817ms. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}",
   "original_length": 13536,
-  "summary_length": 1505,
-  "processed_at": "270943.670417541"
+  "summary_length": 377,
+  "processed_at": "290449.417932958"
 }

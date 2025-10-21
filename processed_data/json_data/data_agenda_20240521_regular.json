@@ -22,14 +22,14 @@
       {
         "item_number": "I",
         "title": "Call to Order",
-        "description": null,
+        "description": "",
         "presenter": "Thomas Perryman",
         "action_required": null
       },
       {
         "item_number": "II",
         "title": "Public Speakers",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       },
@@ -51,20 +51,20 @@
         "item_number": "V",
         "title": "Staff Reports/Briefings",
         "description": "Meeting Room Overview and Director’s Report",
-        "presenter": "Jordan Bock and Jo Giudice",
+        "presenter": "Jordan Bock, Jo Giudice",
         "action_required": null
       },
       {
         "item_number": "VI",
         "title": "New Business",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "VII",
         "title": "Adjournment",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       }
@@ -76,6 +76,7 @@
       "Call to Order",
       "Public Speakers",
       "Approval of Minutes",
+      "Reports",
       "Chair’s Report",
       "Staff Reports",
       "New Business",

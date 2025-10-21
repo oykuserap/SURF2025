@@ -23,28 +23,28 @@
       {
         "item_number": "1",
         "title": "Approval of the January 18, 2024, Arts and Culture Advisory Commission meeting minutes",
-        "description": "",
+        "description": "Approval of the minutes from the previous meeting.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "2",
         "title": "Approval of the remaining two (2) resident Public Art Committee Nominations and Appointments for a term ending September 30, 2024",
-        "description": "",
+        "description": "Approval of nominations and appointments for the Public Art Committee.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "3",
         "title": "Recommendation in Support of Calcium Project as the lead artist for Watershed Floodgates Public Art Project located in Council District 7",
-        "description": "",
+        "description": "Recommendation for the Calcium Project to lead the public art project.",
         "presenter": null,
         "action_required": "recommend"
       },
       {
         "item_number": "4",
         "title": "Recommendation in support of the FY 2024-25 Cultural Organizations Program Guidelines",
-        "description": "",
+        "description": "Recommendation for the guidelines of the Cultural Organizations Program.",
         "presenter": null,
         "action_required": "recommend"
       }
@@ -53,18 +53,13 @@
       "Arts and Culture",
       "Public Art",
       "Cultural Organizations",
-      "Commission Meeting",
       "Nominations",
       "Appointments",
       "Calcium Project",
       "Watershed Floodgates",
-      "Black History Month",
-      "Cultural Spotlight",
-      "Executive Session",
-      "Public Speakers",
-      "Dallas City Hall",
-      "Accommodations",
-      "Equity"
+      "Guidelines",
+      "Commission Meeting",
+      "Dallas City Hall"
     ],
     "financial_items": []
   },

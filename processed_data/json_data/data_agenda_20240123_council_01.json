@@ -35,7 +35,7 @@
       {
         "item_number": "V",
         "title": "Officer Reports",
-        "description": "Reports from the Chair and other officers regarding their activities and representation.",
+        "description": "Reports from the Chair and other officers regarding recent activities and events.",
         "presenter": "Christina Puga",
         "action_required": "discuss"
       },
@@ -55,14 +55,9 @@
       "Officer Reports",
       "Briefings",
       "By-Laws",
-      "Rules",
-      "Process",
       "Accessibility",
-      "Public Participation",
-      "Equity and Inclusion",
-      "Disability Rights",
-      "Community Resources",
-      "Employment"
+      "Public Speakers",
+      "Equity & Inclusion"
     ],
     "financial_items": []
   },

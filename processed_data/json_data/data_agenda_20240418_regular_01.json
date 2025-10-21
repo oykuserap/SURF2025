@@ -30,7 +30,7 @@
       },
       {
         "item_number": "II",
-        "title": "SPECIAL RECOGNITION",
+        "title": "Special Recognition",
         "description": "Special recognition of Sergio Pena and Adalberto Rodriguez for their years of service and dedication to the City and Park and Recreation Department.",
         "presenter": null,
         "action_required": null
@@ -38,54 +38,54 @@
       {
         "item_number": "IV",
         "title": "Approval of Minutes",
-        "description": "Approval of minutes from April 4, 2024.",
+        "description": "Approval of Minutes – April 4, 2024",
         "presenter": null,
         "action_required": "approve"
       },
       {
-        "item_number": "V.1",
+        "item_number": "V1",
         "title": "Trinity Forest Spine Trail",
         "description": "Authorize Amendment #1 to the Project Specific Agreement with Dallas County for funding for the Trinity Forest Spine Trail Phase 2.",
         "presenter": null,
         "action_required": "approve"
       },
       {
-        "item_number": "V.2",
+        "item_number": "V2",
         "title": "Trinity Forest Spine Trail Correction",
         "description": "Authorize a correction to Resolution No. 21-1020 regarding funding for the Trinity Spine Trail.",
         "presenter": null,
         "action_required": "approve"
       },
       {
-        "item_number": "V.3",
+        "item_number": "V3",
         "title": "Land Acquisition",
         "description": "Authorize acquisition from Dallas Independent School District of approximately 360,143 square feet of residential unimproved land for development as a community park.",
         "presenter": null,
         "action_required": "approve"
       },
       {
-        "item_number": "V.4",
+        "item_number": "V4",
         "title": "Glencoe Park Site Approval",
         "description": "Authorize a site approval for the installation of Four Chromatic Gates art piece at Glencoe Park.",
         "presenter": null,
         "action_required": "approve"
       },
       {
-        "item_number": "VI.5",
+        "item_number": "VI5",
         "title": "Juanita J. Craft Park",
         "description": "Authorize a construction services contract for installation of playground equipment and Independent Safety Audit.",
         "presenter": null,
         "action_required": "approve"
       },
       {
-        "item_number": "X.10",
+        "item_number": "X10",
         "title": "Budget Update & Workshop",
         "description": "",
         "presenter": "Rachael Berry",
         "action_required": null
       },
       {
-        "item_number": "XII.12",
+        "item_number": "X12",
         "title": "2024 Bond Program",
         "description": "Final Proposed Bond Program Lists.",
         "presenter": "Christina Turner-Noteware",
@@ -94,6 +94,7 @@
     ],
     "keywords": [
       "Dallas Park and Recreation Board",
+      "Regular Meeting",
       "Trinity Forest Spine Trail",
       "Land Acquisition",
       "Glencoe Park",
@@ -104,29 +105,28 @@
       "Public Speakers",
       "Approval of Minutes",
       "Construction Services Contract",
-      "Community Park Development",
+      "Community Park",
       "Art Installation",
-      "Funding",
-      "Dallas Independent School District"
+      "Funding"
     ],
     "financial_items": [
       {
-        "description": "Funding for Trinity Forest Spine Trail Phase 2 from Dallas County.",
+        "description": "Funding for the Trinity Forest Spine Trail Phase 2",
         "amount": "$2,000,000.00",
         "type": "Funding"
       },
       {
-        "description": "Correction to funding for Trinity Spine Trail.",
+        "description": "Correction to funding for the Trinity Spine Trail",
         "amount": "$2,923,878.00",
         "type": "Funding"
       },
       {
-        "description": "Acquisition of land for community park.",
+        "description": "Acquisition of land for community park",
         "amount": "$4,240,740.00",
         "type": "Expenditure"
       },
       {
-        "description": "Construction services contract for playground equipment.",
+        "description": "Construction services contract for playground equipment",
         "amount": "$217,228.00",
         "type": "Expenditure"
       }

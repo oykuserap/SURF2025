@@ -2,8 +2,8 @@
   "agenda_identifier": "agenda_20250320_regular_02",
   "agenda_number": 20250320,
   "source_file": "agenda_20250320_regular_02.txt",
-  "summary": "**Meeting Overview**:  \nThe Arts and Culture Advisory Commission of Dallas, Texas, will hold a regular meeting on March 20, 2025, at 4:30 PM at Dallas City Hall and via videoconference. The meeting aims to discuss various arts and culture initiatives, provide updates, and make recommendations regarding public art and community programs.\n\n**Key Agenda Items**:  \n1. Approval of the minutes from the February 20, 2025, meeting.\n2. Recommendation to support artist Anaisa Franco for the Singing Hills Rec Center Public Art project.\n3. Recommendation for the FY 2025-26 Community Artist Program (CAP) and its guidelines.\n\n**Important Details**:  \n- The Chair will provide a welcome address and announcements, including details about the upcoming April 10, 2025, meeting.\n- A cultural spotlight will feature the Dallas Holocaust & Human Rights Museum.\n- An amendment to the Dallas Museum of Art lease agreement will be discussed.\n- Updates on Dallas Arts Month and attendance policies for boards and commissions will be provided.\n\n**Action Items**:  \nThe Commission will seek approval for the meeting minutes, support for the public art project, and endorsement of the Community Artist Program and its guidelines. Public speakers will have the opportunity to comment on agenda items, with registration required by the day prior to the meeting.",
+  "summary": "Error generating summary: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-d8v1FzUXCcTCoM04EVDqEBc2 on tokens per min (TPM): Limit 200000, Used 200000, Requested 2036. Please try again in 610ms. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}",
   "original_length": 11253,
-  "summary_length": 1340,
-  "processed_at": "270966.889848333"
+  "summary_length": 377,
+  "processed_at": "290453.91624025"
 }

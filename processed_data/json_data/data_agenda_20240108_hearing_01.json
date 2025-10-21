@@ -38,49 +38,49 @@
       {
         "item_number": "A",
         "title": "Public Safety Recruiting and Retention Update",
-        "description": "Update on public safety recruiting and retention efforts.",
+        "description": "Update on the recruiting and retention efforts within the public safety departments.",
         "presenter": "William H. Griffith, Delridge Williams",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "Violent Crime Reduction Plan Update",
-        "description": "Update on the violent crime reduction plan.",
+        "description": "Update on the strategies and effectiveness of the violent crime reduction plan.",
         "presenter": "Jason Scoggins, Kevin Oden",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "Human Trafficking Update",
-        "description": "Update on human trafficking initiatives.",
+        "description": "Update on the current status and initiatives regarding human trafficking.",
         "presenter": "Devon Palk, Cyrus Zafrani, Dr. Brita Andercheck",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "Dallas Fire-Rescue’s Proposed Changes to Promotional Standards",
-        "description": "Discussion on proposed changes to promotional standards in Dallas Fire-Rescue.",
+        "description": "Discussion on proposed changes to the promotional standards within Dallas Fire-Rescue.",
         "presenter": "Robert Borse",
         "action_required": "discuss"
       },
       {
         "item_number": "E",
         "title": "Public Safety Dashboards",
-        "description": "Overview of public safety dashboards.",
+        "description": "Presentation on the public safety dashboards.",
         "presenter": "Jon Fortune",
         "action_required": "discuss"
       },
       {
         "item_number": "F",
         "title": "Dallas Fire-Rescue Facility Construction Update",
-        "description": "Update on construction of Dallas Fire-Rescue facilities.",
+        "description": "Update on the construction of Dallas Fire-Rescue facilities.",
         "presenter": "Dominique Artis",
         "action_required": "discuss"
       },
       {
         "item_number": "G",
         "title": "Dallas Fire-Rescue Fleet Maintenance Update",
-        "description": "Update on fleet maintenance for Dallas Fire-Rescue.",
+        "description": "Update on the maintenance of the Dallas Fire-Rescue fleet.",
         "presenter": "Dominique Artis",
         "action_required": "discuss"
       },
@@ -101,14 +101,14 @@
       {
         "item_number": "J",
         "title": "Authorize a three-year service contract for ambulance supplemental payment program",
-        "description": "Authorize a service contract for the implementation and operation of the ambulance supplemental payment program.",
+        "description": "Authorize a contract for the implementation and operation of the ambulance supplemental payment program.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "K",
-        "title": "Authorize Supplemental Agreement No. 1 to the professional services contract",
-        "description": "Authorize an increase in the contract for an expansion of scope.",
+        "title": "Authorize Supplemental Agreement No. 1 for professional services contract",
+        "description": "Authorize an increase in the contract for an expansion of scope and extension of the contract term.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -121,8 +121,8 @@
       },
       {
         "item_number": "M",
-        "title": "Authorize application for and acceptance of a grant from the U.S. Department of Justice",
-        "description": "Authorize the application for a grant for equipping officers with de-escalation skills.",
+        "title": "Authorize application for and acceptance of a grant for de-escalation initiative",
+        "description": "Authorize the application for a grant to equip officers with de-escalation skills.",
         "presenter": null,
         "action_required": "approve"
       }
@@ -138,11 +138,11 @@
       "Fleet Maintenance",
       "Rape Kit Testing",
       "Violence Intervention",
-      "Grant Application",
+      "De-escalation",
       "Construction Update",
-      "Dashboards",
+      "Public Safety Dashboards",
       "Supplemental Payment Program",
-      "Promotional Standards"
+      "Grant Application"
     ],
     "financial_items": [
       {
@@ -151,7 +151,7 @@
         "type": "revenue"
       },
       {
-        "description": "Increase in contract for professional services with Innovative Emergency Management",
+        "description": "Increase in contract for professional services",
         "amount": "122,244.00",
         "type": "expenditure"
       },
@@ -161,7 +161,7 @@
         "type": "expenditure"
       },
       {
-        "description": "Grant from the U.S. Department of Justice for de-escalation training",
+        "description": "Grant from U.S. Department of Justice for de-escalation initiative",
         "amount": "792,862.00",
         "type": "grant"
       }

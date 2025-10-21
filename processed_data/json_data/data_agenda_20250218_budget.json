@@ -8,15 +8,16 @@
       "time": "9:00 AM",
       "type": "Regular Meeting",
       "organization": "Quality of Life, Arts, and Culture Committee",
-      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas 75201"
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
     },
     "attendees": {
       "chair": "Paul E. Ridley",
       "presenters": [
         "Kyle Ogden, President and Chief Executive Officer, The Thanks-Giving Foundation",
         "Heather Lowe, Interim Director, Dallas Public Library",
-        "Martine Elyse Philippe, Director, Office of Arts and Culture",
-        "Jennifer Nicewander, Director, Office of Bond and Construction Management"
+        "Martine Eylse Philippe, Director, Office of Arts and Culture",
+        "Jennifer Nicewander, Director, Office of Bond and Construction Management",
+        "Dr. Lindsey Wilson, Director, Office of Equity and Inclusion"
       ],
       "participants": [
         "Sean McGrew, Assistant Director, Dallas Public Library",
@@ -38,7 +39,7 @@
       {
         "item_number": "2",
         "title": "Developing a Quality of Life Strategy - Library Strategic Plan",
-        "description": "Updates on the Library's Strategic Plan and its alignment with city priorities.",
+        "description": "Updates on the Library's strategic plan and its alignment with city priorities.",
         "presenter": "Heather Lowe",
         "action_required": "Review and discuss progress"
       },
@@ -46,8 +47,8 @@
         "item_number": "3",
         "title": "City Facilities Partners Update - Dallas Museum of Art",
         "description": "Update on the partnership and management agreement with the Dallas Museum of Art.",
-        "presenter": "Martine Elyse Philippe",
-        "action_required": "Review and discuss"
+        "presenter": "Martine Eylse Philippe",
+        "action_required": "Review and discuss updates"
       },
       {
         "item_number": "4",
@@ -55,6 +56,13 @@
         "description": "Request to authorize a design-build construction contract for restroom accessibility renovations.",
         "presenter": "Jennifer Nicewander",
         "action_required": "Authorize contract"
+      },
+      {
+        "item_number": "5",
+        "title": "Acceptance of NLC FY25 Cities Addressing Fines and Fees Equitably (CAFFE) Initiative Grant",
+        "description": "Discussion on the acceptance of a grant to address fines and fees with an equity-informed lens.",
+        "presenter": "Dr. Lindsey Wilson",
+        "action_required": "Accept grant"
       }
     ],
     "keywords": [
@@ -64,16 +72,21 @@
       "Library Strategic Plan",
       "Dallas Museum of Art",
       "Public Restroom Accessibility",
+      "Equity",
       "Community Engagement",
-      "Cultural Programming",
-      "City Facilities",
-      "Equity and Inclusion"
+      "Cultural Partnerships",
+      "City Facilities"
     ],
     "financial_items": [
       {
-        "description": "Design-build construction contract for public restroom accessibility renovations",
+        "description": "Design-build construction contract for restroom accessibility renovations",
         "amount": "$567,224.00",
         "type": "expenditure"
+      },
+      {
+        "description": "NLC FY25 CAFFE Initiative Grant",
+        "amount": "$10,000.00",
+        "type": "grant"
       }
     ]
   },

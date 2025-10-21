@@ -25,14 +25,13 @@
         "Mendelsohn",
         "Moreno",
         "Stewart",
-        "West",
         "Bazaldua",
+        "West",
         "Ridley",
         "Blackmon",
         "Resendez",
         "Gracey",
-        "Schultz",
-        "Willis"
+        "Schultz"
       ]
     },
     "agenda_items": [
@@ -46,14 +45,14 @@
       {
         "item_number": "A",
         "title": "Status Update of Review of City Real Estate for Development and Redevelopment Opportunities",
-        "description": "Discussion on the current status of city real estate reviews.",
+        "description": "Discussion on the status of city real estate review for potential development.",
         "presenter": "City Manager’s Office",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "Annual Review of Property Tax Exemptions for Over-65/ Disabled Homeowners",
-        "description": "Review of property tax exemptions for eligible homeowners.",
+        "description": "Review of property tax exemptions available for senior and disabled homeowners.",
         "presenter": "Janette Weedon",
         "action_required": "discuss"
       },
@@ -74,14 +73,14 @@
       {
         "item_number": "E",
         "title": "Atmos Dallas Annual Rate Review",
-        "description": "Review of the annual rates for Atmos Dallas.",
+        "description": "Review of the annual rate for Atmos Dallas.",
         "presenter": "Nick Fehrenbach",
         "action_required": "discuss"
       },
       {
         "item_number": "F",
         "title": "GPFM Two-Month Forecast",
-        "description": "Forecast for the Government Performance and Financial Management Committee.",
+        "description": "Presentation of the two-month financial forecast.",
         "presenter": null,
         "action_required": "discuss"
       },
@@ -109,7 +108,7 @@
       {
         "item_number": "J",
         "title": "Quarterly Investment Report - 2nd Quarter FY 2023-24",
-        "description": "Report on investments for the second quarter of FY 2023-24.",
+        "description": "Presentation of the quarterly investment report.",
         "presenter": "City Controller’s Office",
         "action_required": "discuss"
       }
@@ -125,9 +124,11 @@
       "Investment Report",
       "Technology Services",
       "City Auditor",
-      "Forecast",
-      "Banking Services",
-      "Accountability Report"
+      "Public Safety",
+      "Economic Development",
+      "Housing Solutions",
+      "Workforce Equity",
+      "Community Engagement"
     ],
     "financial_items": []
   },

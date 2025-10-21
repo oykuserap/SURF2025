@@ -6,8 +6,8 @@
     "meeting_info": {
       "date": "February 20, 2024",
       "time": "9:00 AM",
-      "type": "Regular Meeting",
-      "organization": "Quality of Life, Arts, and Culture Committee",
+      "type": "Quality of Life, Arts, and Culture Committee Meeting",
+      "organization": "City Council",
       "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
     },
     "attendees": {
@@ -24,7 +24,7 @@
     "agenda_items": [
       {
         "item_number": "A",
-        "title": "Approval of Minutes",
+        "title": "Approval of the minutes",
         "description": "Approval of the minutes of the December 5, 2023 meeting of the Quality of Life, Arts and Culture Committee.",
         "presenter": null,
         "action_required": "approve"
@@ -63,13 +63,13 @@
       "Arts",
       "Culture",
       "Dallas",
-      "Committee",
+      "City Council",
       "Zoning",
       "Animal Services",
       "Sanitation",
-      "Recycle",
       "Cultural Organizations",
-      "Guidelines"
+      "Committee Meeting",
+      "February 2024"
     ],
     "financial_items": []
   },

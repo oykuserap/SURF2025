@@ -19,17 +19,13 @@
         "Andrew Ruegg",
         "Cherrell Caldwell",
         "Jami Russell",
-        "Lori Levy",
-        "Audra Buckley",
-        "Martin Bate",
-        "LeQuan Clinton"
-      ],
-      "participants": [
-        "Yolanda Hernandez",
+        "Lindsay Mayer",
         "Marcus Watson",
-        "Sarah May",
-        "Hema Sharma"
-      ]
+        "LeQuan Clinton",
+        "Martin Bate",
+        "Victoria Morris"
+      ],
+      "participants": []
     },
     "agenda_items": [
       {
@@ -42,42 +38,53 @@
       {
         "item_number": "2",
         "title": "Zoning Case - Specific Use Permit",
-        "description": "An application for the sale of alcoholic beverages in conjunction with a general merchandise or food store greater than 3,500 square feet.",
+        "description": "An application for a Specific Use Permit for the sale of alcoholic beverages in conjunction with a general merchandise or food store greater than 3,500 square feet.",
         "presenter": "Karl A. Crawley",
         "action_required": "approve"
       },
       {
         "item_number": "3",
         "title": "Zoning Case - Specific Use Permit",
-        "description": "An application for a commercial amusement (inside) on property zoned Planned Development District No. 619.",
+        "description": "An application for a Specific Use Permit for a commercial amusement (inside).",
+        "presenter": "Rob Baldwin",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "4",
+        "title": "Zoning Case - Specific Use Permit",
+        "description": "An application for the amendment to and renewal of Specific Use Permit No. 2115 for an office showroom/warehouse.",
+        "presenter": "Andrew Ruegg",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "5",
+        "title": "Zoning Case - Specific Use Permit",
+        "description": "An application for the amendment to and renewal of Specific Use Permit No. 1981 for a bar, lounge, or tavern.",
         "presenter": "Rob Baldwin",
         "action_required": "approve"
       },
       {
         "item_number": "39",
         "title": "Landmark Appeal",
-        "description": "An appeal of the Landmark Commission’s decision of denial without prejudice to replace eighteen (18) of the historic wood windows on the main structure with vinyl units.",
+        "description": "An appeal of the Landmark Commission’s decision of denial without prejudice to replace eighteen (18) of the historic wood windows.",
         "presenter": "Marcus Watson",
         "action_required": "deny without prejudice"
-      },
-      {
-        "item_number": "Other Matters",
-        "title": "Consideration of Appointments to CPC Committees",
-        "description": "Discussion regarding appointments to various committees.",
-        "presenter": null,
-        "action_required": "discuss"
       }
     ],
     "keywords": [
       "City Plan Commission",
-      "Zoning Cases",
-      "Specific Use Permit",
+      "Zoning",
       "Public Hearing",
+      "Specific Use Permit",
+      "Amendment",
       "Landmark Appeal",
       "Dallas",
-      "Planning and Development",
-      "Community Retail District",
+      "Planning",
+      "Development",
+      "Community",
       "Public Testimony",
+      "Approval",
+      "Consent",
       "Committee Appointments"
     ],
     "financial_items": []

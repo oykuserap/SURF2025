@@ -31,19 +31,19 @@
         "Robert Borse"
       ],
       "participants": [
-        "Narvaez",
-        "Arnold",
-        "Bazaldua",
-        "Ridley",
-        "Stewart",
-        "West",
         "Mendelsohn",
         "Moreno",
-        "Resendez",
+        "Stewart",
+        "West",
+        "Ridley",
+        "Bazaldua",
+        "Blackmon",
+        "Narvaez",
         "Gracey",
-        "Willis",
+        "Resendez",
         "Schultz",
-        "Blackmon"
+        "Willis",
+        "Johnson"
       ]
     },
     "agenda_items": [
@@ -64,7 +64,7 @@
       {
         "item_number": "B",
         "title": "Violent Crime Reduction Plan Update",
-        "description": "Update on the strategies and progress of the violent crime reduction plan.",
+        "description": "Update on the strategies and effectiveness of the violent crime reduction plan.",
         "presenter": "Jason Scoggins, Kevin Oden",
         "action_required": "discuss"
       },
@@ -78,7 +78,7 @@
       {
         "item_number": "D",
         "title": "Sobering Center Update",
-        "description": "Update on the operations and status of the Sobering Center.",
+        "description": "Update on the operations and effectiveness of the Sobering Center.",
         "presenter": "David Pughes, Scott Whitworth, Kristen Kubat",
         "action_required": "discuss"
       },
@@ -92,7 +92,7 @@
       {
         "item_number": "F",
         "title": "Public Safety Dashboards",
-        "description": "Presentation of public safety dashboards.",
+        "description": "Presentation of the public safety dashboards.",
         "presenter": "Jon Fortune",
         "action_required": "discuss"
       },
@@ -142,21 +142,20 @@
       "Retention",
       "Facial Recognition",
       "Sobering Center",
-      "Dashboards",
+      "Public Safety Dashboards",
       "Municipal Court",
       "Fleet Maintenance",
       "Violence Intervention",
-      "First Responder",
-      "Construction"
+      "First Responder"
     ],
     "financial_items": [
       {
-        "description": "Amendment to the contract with Dallas College for instructional services for police academy training",
+        "description": "Amendment to the contract with Dallas College for instructional services for police academy training.",
         "amount": "$415,000.00",
         "type": "budget"
       },
       {
-        "description": "Service contract for maintenance, support, and licenses for an audio and video recording system for the Dallas Police Department",
+        "description": "Service contract for maintenance, support, and licenses for an audio and video recording system for the Dallas Police Department.",
         "amount": "$148,584.60",
         "type": "contract"
       }

@@ -43,7 +43,7 @@
         "item_number": "III",
         "title": "Staff Reports/Briefings/Special Committees",
         "description": "Survey Updates/Strategy Testing, Town Hall Debrief, Thanksgiving Event Updates, YC-wide retreat Date Release, Dallas Youth Scholarship Gala Night, Candidate Forum Event Debrief, Environmental Youth Town Hall",
-        "presenter": null,
+        "presenter": "Commissioner Hawkins, Commissioner Okon, Commissioner Martinez, Commissioner Tamfu, Commissioner Nelson, Commissioner Moreno",
         "action_required": "discuss"
       },
       {
@@ -78,8 +78,12 @@
       "Youth Scholarship",
       "Candidate Forum",
       "Environmental Youth",
+      "Unfinished Business",
       "Announcements",
-      "Adjournment"
+      "Videoconference",
+      "Access Code",
+      "Auxiliary Aid",
+      "Equitable Meeting"
     ],
     "financial_items": []
   },

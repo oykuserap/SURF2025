@@ -4,81 +4,84 @@
   "source_file": "agenda_20250219_hearing.txt",
   "extracted_data": {
     "meeting_info": {
-      "date": "February 18, 2025",
-      "time": null,
-      "type": "Briefing",
-      "organization": "Tx \n\n                                       Board",
-      "location": "Dallas City Hall"
+      "date": "February 19, 2025",
+      "time": "10:30 A.M. and 1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Board of Adjustment (Panel B)",
+      "location": "Dallas City Hall, Room 6ES, Videoconference"
     },
     "attendees": {
-      "chair": null,
+      "chair": "Cheri Gambow",
       "presenters": [],
       "participants": []
     },
     "agenda_items": [
       {
-        "item_number": "113",
-        "title": "finalización       de         la        reunión         en  \n\n\n\n       Individuals  and  interested ...",
-        "description": "finalización       de         la        reunión         en  \n\n\n\n       Individuals  and  interested  parties  wishing  to  speak     https://dallastx.new.swagit.com/views/",
-        "presenter": null,
-        "action_required": "Action"
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Cheri Gambow, Vice-Chair",
+        "action_required": null
       },
       {
-        "item_number": "1",
-        "title": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or a...",
-        "description": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or any matter in  \n\n      which the duty of the attorney to the City Council under the Texas Disciplinary Rules of Professional Conduct of  \n\n      the State Bar of Texas clearly conflicts with the Texas Open Meetings Act. [Tex. Govt. Code §",
+        "item_number": "II",
+        "title": "Staff Presentation/Briefing",
+        "description": "",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": null
       },
       {
-        "item_number": "2",
-        "title": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open mee...",
-        "description": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open meeting would  \n\n      have  a  detrimental  effect  on  the  position  of  the  city  in  negotiations  with  a  third  person.  [Tex.  Govt.  Code  \n\n      §",
+        "item_number": "III",
+        "title": "Public Hearing",
+        "description": "Board of Adjustment",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": null
       },
       {
-        "item_number": "3",
-        "title": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in...",
-        "description": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in an open meeting  \n\n      would have a detrimental effect on the position of the city in negotiations with a third person. [Tex. Govt. Code  \n\n      §",
+        "item_number": "IV",
+        "title": "Public Testimony",
+        "description": "",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": null
       },
       {
-        "item_number": "4",
-        "title": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal...",
-        "description": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal of a public  \n\n      officer  or  employee;  or  to  hear  a  complaint  or  charge  against  an  officer  or  employee  unless  the  officer  or  \n\n      employee who is the subject of the deliberation or hearing requests a public hearing. [Tex. Govt. Code §",
+        "item_number": "V",
+        "title": "Miscellaneous Items",
+        "description": "Approval of Panel B Minutes – January 22, 2025",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
-        "item_number": "5",
-        "title": "deliberating the deployment, or specific occasions for implementation, of security personnel or devi...",
-        "description": "deliberating the deployment, or specific occasions for implementation, of security personnel or devices. [Tex.  \n\n      Govt. Code §",
+        "item_number": "VI",
+        "title": "Case Docket",
+        "description": "Uncontested Items, Holdover Items, Individual Items",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": null
       },
       {
-        "item_number": "6",
-        "title": "discussing or deliberating commercial or financial information that the city has received from a bus...",
-        "description": "discussing or deliberating commercial or financial information that the city has received from a business prospect  \n\n      that the  city  seeks  to  have  locate,  stay  or  expand  in  or  near  the  city  and  with  which  the  city  is conducting  \n\n      economic development negotiations; or  deliberating  the  offer  of  a  financial or  other  incentive  to  a business  \n\n      prospect. [Tex Govt. Code §",
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "",
         "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "7",
-        "title": "deliberating security assessments or deployments relating to information resources technology, netwo...",
-        "description": "deliberating security assessments or deployments relating to information resources technology, network security  \n\n      information,  or  the  deployment  or  specific  occasions  for  implementations  of  security  personnel,  critical  \n\n      infrastructure, or security devices. [Tex Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "action_required": null
       }
     ],
     "keywords": [
-      "tif",
-      "approval",
-      "public",
-      "development",
-      "contract"
+      "Board of Adjustment",
+      "Public Hearing",
+      "Case Docket",
+      "Miscellaneous Items",
+      "Approval of Minutes",
+      "Variance",
+      "Special Exception",
+      "Setback Regulations",
+      "Public Testimony",
+      "Dallas City Hall",
+      "Executive Session",
+      "Handgun Prohibition",
+      "Accessibility",
+      "Auxiliary Aid",
+      "Video Conference"
     ],
     "financial_items": []
   },

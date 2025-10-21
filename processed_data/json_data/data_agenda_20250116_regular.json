@@ -22,63 +22,63 @@
     "agenda_items": [
       {
         "item_number": "1",
-        "title": "Approval of the November 21, 2024, Arts and Culture Advisory Commission meeting minutes.",
-        "description": null,
+        "title": "Approval of Meeting Minutes",
+        "description": "Approval of the November 21, 2024, Arts and Culture Advisory Commission meeting minutes.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "2",
-        "title": "Vote to recommend new selection panelists to the Office of Arts and Culture’s Public Art Review Panel Roster.",
-        "description": null,
+        "title": "Recommendation of Selection Panelists",
+        "description": "Vote to recommend new selection panelists to the Office of Arts and Culture’s Public Art Review Panel Roster.",
         "presenter": null,
-        "action_required": "vote"
+        "action_required": "approve"
       },
       {
         "item_number": "3",
-        "title": "Recommendation in support of the initiation of the City-Wide, Sidewalk Poetry Public Art Project.",
-        "description": "To begin in the Esperanza District located in Council District 11.",
+        "title": "Sidewalk Poetry Public Art Project",
+        "description": "Recommendation in support of the initiation of the City-Wide, Sidewalk Poetry Public Art Project, to begin in the Esperanza District located in Council District 11.",
         "presenter": null,
         "action_required": "recommend"
       },
       {
         "item_number": "4",
-        "title": "Recommendation in support of the Arts and Culture Advisory Commission’s FY 2023-24 Annual Report.",
-        "description": null,
+        "title": "FY 2023-24 Annual Report",
+        "description": "Recommendation in support of the Arts and Culture Advisory Commission’s FY 2023-24 Annual Report.",
         "presenter": null,
         "action_required": "recommend"
       },
       {
         "item_number": "5",
-        "title": "Recommendation in support of the FY 2025-26 Cultural Organizations Program (COP) Guidelines.",
-        "description": null,
+        "title": "Cultural Organizations Program Guidelines",
+        "description": "Recommendation in support of the FY 2025-26 Cultural Organizations Program (COP) Guidelines.",
         "presenter": null,
         "action_required": "recommend"
       },
       {
         "item_number": "6",
-        "title": "Vote to recommend additional panelists to the Office of Arts and Culture’s Funding Programs Review Panel Roster.",
-        "description": null,
+        "title": "Additional Panelists Recommendation",
+        "description": "Vote to recommend additional panelists to the Office of Arts and Culture’s Funding Programs Review Panel Roster.",
         "presenter": null,
-        "action_required": "vote"
+        "action_required": "approve"
       }
     ],
     "keywords": [
       "Arts and Culture",
-      "Advisory Commission",
+      "Commission",
       "Public Art",
-      "Sidewalk Poetry",
       "Cultural Organizations",
       "Annual Report",
-      "Panelists",
+      "Sidewalk Poetry",
+      "Selection Panelists",
+      "Funding Programs",
       "Dallas City Hall",
-      "Meeting Minutes",
-      "Community Engagement",
+      "Regular Meeting",
       "Public Speakers",
       "Executive Session",
-      "Cultural Plan",
-      "Equity Committee",
-      "Funding Programs"
+      "Accommodations",
+      "Equity",
+      "Community Engagement"
     ],
     "financial_items": []
   },

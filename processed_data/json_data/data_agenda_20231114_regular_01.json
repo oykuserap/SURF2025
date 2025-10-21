@@ -53,21 +53,21 @@
       {
         "item_number": "VI",
         "title": "Action Item: Resolutions for The Mondello",
-        "description": "Resolutions for financing, acquisition, and rehabilitation of The Mondello.",
+        "description": "Resolutions for a multifamily residential development at 2000 Highland Road.",
         "presenter": "Aaron Eaquinto",
         "action_required": "approve"
       },
       {
         "item_number": "VII",
         "title": "Review and Discussion of Dallas HFC Pipeline Report",
-        "description": "Discussion on the current pipeline report of the Dallas HFC.",
+        "description": "Discussion on the current pipeline report.",
         "presenter": "Aaron Eaquinto",
         "action_required": "discuss"
       },
       {
         "item_number": "VIII",
         "title": "Adjourn",
-        "description": "Closing of the meeting.",
+        "description": "Closing of the meeting by the President.",
         "presenter": "Marcy Helfand",
         "action_required": null
       }
@@ -78,16 +78,12 @@
       "Estates at Ferguson",
       "The Mondello",
       "multifamily residential development",
-      "financing",
-      "acquisition",
-      "rehabilitation",
       "resolution",
+      "approval",
+      "financing",
+      "construction",
       "public comments",
-      "pipeline report",
-      "minutes approval",
-      "action items",
-      "Dallas City Hall",
-      "videoconference"
+      "pipeline report"
     ],
     "financial_items": [
       {

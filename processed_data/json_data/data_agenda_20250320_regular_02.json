@@ -5,60 +5,82 @@
   "extracted_data": {
     "meeting_info": {
       "date": "March 20, 2025",
-      "time": "4:30 P.M.",
+      "time": null,
       "type": "Regular Meeting",
-      "organization": "Arts and Culture Advisory Commission",
-      "location": "Dallas City Hall, 6FN - Park and Recreation Board Room and Videoconference, 1500 Marilla Street"
+      "organization": "Tx \n\n\n\n                                           Arts And Culture Advisory Commission",
+      "location": "Dallas City Hall"
     },
     "attendees": {
-      "chair": "David Small",
-      "presenters": [
-        "David Small",
-        "Mary Pat Higgins",
-        "Martine Philippe",
-        "Glenn Ayars"
-      ],
+      "chair": null,
+      "presenters": [],
       "participants": []
     },
     "agenda_items": [
       {
-        "item_number": "1",
-        "title": "Approval of the February 20, 2025, Arts and Culture Advisory Commission meeting minutes",
-        "description": "",
+        "item_number": "2",
+        "title": "Recommendation in support of artist finalist, Anaisa Franco, Singing Hills Rec Center  \n\n     Public...",
+        "description": "Recommendation in support of artist finalist, Anaisa Franco, Singing Hills Rec Center  \n\n     Public Art, CD",
         "presenter": null,
-        "action_required": "approve"
+        "action_required": "Action"
+      },
+      {
+        "item_number": "1",
+        "title": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or a...",
+        "description": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or any matter in which the  \n\n       duty of the attorney to the City Council under the Texas Disciplinary Rules of Professional Conduct of the State Bar of  \n\n       Texas clearly conflicts with the Texas Open Meetings Act.   [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
         "item_number": "2",
-        "title": "Recommendation in support of artist finalist, Anaisa Franco, Singing Hills Rec Center Public Art, CD8",
-        "description": "",
+        "title": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open mee...",
+        "description": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open meeting would have a  \n\n       detrimental effect on the position of the city in negotiations with a third person. [Tex. Govt. Code §",
         "presenter": null,
-        "action_required": "recommend"
+        "action_required": "Action"
       },
       {
         "item_number": "3",
-        "title": "Recommendation in support of the FY 2025-26 Community Artist Program (CAP) and CAP Guidelines",
-        "description": "",
+        "title": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in...",
+        "description": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in an open meeting would  \n\n       have a detrimental effect on the position of the city in negotiations with a third person. [Tex. Govt. Code §",
         "presenter": null,
-        "action_required": "recommend"
+        "action_required": "Action"
+      },
+      {
+        "item_number": "4",
+        "title": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal...",
+        "description": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal of a public officer or  \n\n       employee; or to hear a complaint or charge against an officer or employee unless the officer or employee who is the  \n\n       subject of the deliberation or hearing requests a public hearing. [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "5",
+        "title": "deliberating the deployment, or specific occasions for implementation, of security personnel or devi...",
+        "description": "deliberating the deployment, or specific occasions for implementation, of security personnel or devices. [Tex. Govt. Code  \n\n       §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "6",
+        "title": "discussing or deliberating commercial or financial information that the city has received from a bus...",
+        "description": "discussing or deliberating commercial or financial information that the city has received from a business prospect that the  \n\n       city seeks to have locate, stay or expand in or near the city and with which the city is conducting economic development  \n\n       negotiations; or deliberating the offer of a financial or other incentive to a business prospect. [Tex Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "7",
+        "title": "deliberating security assessments or deployments relating                              to informatio...",
+        "description": "deliberating security assessments or deployments relating                              to information resources technology, network security  \n\n       information, or the deployment or specific occasions for implementations of security personnel, critical infrastructure, or  \n\n       security devices.  [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       }
     ],
     "keywords": [
-      "Arts and Culture",
-      "Dallas",
-      "Commission",
-      "Public Art",
-      "Community Artist Program",
-      "Minutes Approval",
-      "Cultural Spotlight",
-      "Dallas Museum of Art",
-      "Executive Session",
-      "Public Speakers",
-      "Inclusivity",
-      "Accessibility",
-      "Meeting Guidelines",
-      "Recommendations",
-      "Chair's Report"
+      "tif",
+      "approval",
+      "recommendation",
+      "public",
+      "development",
+      "contract",
+      "agreement"
     ],
     "financial_items": []
   },

@@ -68,8 +68,13 @@
       "Attorney Briefing",
       "Appointments",
       "Boards and Commissions",
+      "Public Participation",
+      "Virtual Meeting",
+      "City Hall",
+      "Closed Session",
       "Voting Agenda",
-      "Closed Session"
+      "Financial Status",
+      "Public Meeting"
     ],
     "financial_items": []
   },

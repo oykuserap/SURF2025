@@ -24,50 +24,50 @@
       {
         "item_number": "I",
         "title": "Call to Order",
-        "description": "Call to order by the Chair.",
+        "description": null,
         "presenter": "J. Peter Kline",
         "action_required": null
       },
       {
         "item_number": "II",
-        "title": "Public Speakers",
-        "description": "Public speakers for items V-VII (2 minutes per speaker).",
+        "title": "Public Speakers for items V- VII",
+        "description": "2 minutes per speaker",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "III",
         "title": "Approval of Minutes",
-        "description": "Approval of minutes for the February 24, 2025 Senior Affairs Commission Meeting.",
+        "description": "Approval of Minutes for the February 24, 2025 Senior Affairs Commission (SAC) Meeting.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "IV",
         "title": "Chair’s Report",
-        "description": "Reminder of Texas Open Meetings Act Requirements for Videoconference Meeting.",
-        "presenter": "J. Peter Kline",
+        "description": "Reminder of Texas Open Meetings Act (TOMA) Requirements for Videoconference Meeting.",
+        "presenter": null,
         "action_required": null
       },
       {
         "item_number": "V",
-        "title": "New Business: Presentation from Senior Source",
-        "description": "An Introduction and Overview from Senior Source Caregiver Support Program. This presentation will explore the most pressing support needs of caregivers in our community, new initiatives, cultural factors, and how effective current systems are in addressing caregiver challenges.",
-        "presenter": "Kimberly Knight",
+        "title": "New Business: Presentation from Senior Source Caregiver Support Program",
+        "description": "This presentation will explore the most pressing support needs of caregivers in our community, new initiatives, cultural factors, and how effective current systems are in addressing caregiver challenges.",
+        "presenter": "Kimberly Knight, MSSW, Director of Caregiver Support Program, Senior Source",
         "action_required": "discuss"
       },
       {
         "item_number": "VI",
-        "title": "New Business: Presentation from Parkland Center",
-        "description": "An Introduction and Overview from Parkland Center for Geriatric Care and Healthy Aging. The presentation will address key health challenges faced by older adults, including preventive measures, caregiver support needs, resource gaps, and the impact of social factors on the healthcare system.",
-        "presenter": "Chiffon Kinney",
+        "title": "New Business: Presentation from Parkland Center for Geriatric Care and Healthy Aging",
+        "description": "The presentation will address key health challenges faced by older adults, including preventive measures, caregiver support needs, resource gaps, and the impact of social factors on the healthcare system.",
+        "presenter": "Chiffon Kinney, RN, CGN, CM, BAAS, Senior Registered Nurse, Parkland Health, Community Senior’s Care",
         "action_required": "discuss"
       },
       {
         "item_number": "VII",
         "title": "Staff Reports/Briefings",
         "description": "Presentation by the Office of Community Care and Empowerment (OCCE) Senior Services. OCCE will provide a monthly update on services provided, programs, and contracts targeting the older residents of Dallas.",
-        "presenter": "Mirka Norman and Tabitha Taylor",
+        "presenter": "Mirka Norman, Supervisor- Community Care Services and Tabitha Taylor, Age-Friendly Officer, Office of Community Care and Empowerment",
         "action_required": null
       },
       {
@@ -80,7 +80,7 @@
       {
         "item_number": "IX",
         "title": "Adjournment",
-        "description": "Adjournment of the meeting.",
+        "description": null,
         "presenter": null,
         "action_required": null
       }
@@ -89,15 +89,18 @@
       "Dallas",
       "Senior Affairs Commission",
       "Caregiver Support",
-      "Public Speakers",
-      "Texas Open Meetings Act",
       "Health Challenges",
       "Community Care",
-      "Aging",
+      "Public Speakers",
+      "Texas Open Meetings Act",
+      "Hybrid Meeting",
       "Presentations",
       "Updates",
-      "Commissioners",
-      "Adjournment"
+      "Older Adults",
+      "Resource Gaps",
+      "Social Factors",
+      "Equitable Access",
+      "Community Services"
     ],
     "financial_items": []
   },

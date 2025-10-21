@@ -41,7 +41,7 @@
       {
         "item_number": "III",
         "title": "Introductions",
-        "description": "Introductions of members and alternates.",
+        "description": "Introduction of members and alternates.",
         "presenter": null,
         "action_required": null
       },
@@ -69,7 +69,7 @@
       {
         "item_number": "VII",
         "title": "Board Training",
-        "description": "Training on ethics, conflict of interests, and other topics.",
+        "description": "Training session covering various topics.",
         "presenter": null,
         "action_required": null
       },
@@ -83,7 +83,7 @@
       {
         "item_number": "IX",
         "title": "Action Items",
-        "description": "Review and approval of previous meeting minutes, meeting calendar, annual report, and amendments to rules.",
+        "description": "Review and approval of various items including meeting minutes and annual report.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -102,15 +102,15 @@
       "Quorum",
       "Public Testimony",
       "Training",
-      "Ethics",
       "Action Items",
       "Meeting Minutes",
       "Annual Report",
-      "Rules of Procedure",
-      "City Council",
+      "Ethics",
+      "Conflict of Interests",
+      "City Code Authority",
       "Variances",
       "Texas Open Meetings Act",
-      "Financial Compliance"
+      "Feedback"
     ],
     "financial_items": []
   },

@@ -11,7 +11,7 @@
       "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
     },
     "attendees": {
-      "chair": "Atkins",
+      "chair": "Ridley",
       "presenters": [
         "Pollyana Ashford",
         "Delridge Williams",
@@ -37,14 +37,14 @@
       {
         "item_number": "A",
         "title": "Overview of Police and Fire Recruiting and Retention",
-        "description": "Discussion on the recruitment and retention strategies for police and fire departments.",
+        "description": "A briefing on the recruiting and retention strategies for police and fire departments.",
         "presenter": "Pollyana Ashford, Major of Police, Dallas Police Department; Delridge Williams, Assistant Chief, Dallas Fire-Rescue Department",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "Violent Crime Reduction Plan Update",
-        "description": "Update on the strategies and effectiveness of the violent crime reduction plan.",
+        "description": "An update on the strategies and effectiveness of the violent crime reduction plan.",
         "presenter": "Nathan Swyers, Major of Police, Violent Crime Division, Dallas Police Department",
         "action_required": "discuss"
       },
@@ -58,14 +58,14 @@
       {
         "item_number": "D",
         "title": "Overview of Dallas Police Department Animal Cruelty Unit",
-        "description": "Presentation on the operations and initiatives of the Animal Cruelty Unit.",
+        "description": "A briefing on the operations and initiatives of the Animal Cruelty Unit.",
         "presenter": "Patricia Mora, Deputy Chief, Patrol East Group Dallas Police Department",
         "action_required": "discuss"
       },
       {
         "item_number": "E",
         "title": "Public Safety Dashboards",
-        "description": "Overview of public safety dashboards and their implications.",
+        "description": "Presentation on the public safety dashboards and their usage.",
         "presenter": "Dominique Artis, Chief of Public Safety (I), City Manager’s Office",
         "action_required": "discuss"
       },
@@ -93,7 +93,7 @@
       {
         "item_number": "I",
         "title": "Marshal’s Homeless Action Response Team Activity Report",
-        "description": "Report on the activities of the Marshal’s Homeless Action Response Team.",
+        "description": "Report on the activities of the Marshal's Homeless Action Response Team.",
         "presenter": "David Pughes, City Marshal, Dallas Marshal’s Office",
         "action_required": "discuss"
       },
@@ -106,22 +106,22 @@
       },
       {
         "item_number": "K",
-        "title": "Authorize the acceptance of a grant from the U.S. Department of Justice",
-        "description": "Authorize acceptance of a grant to support crime prevention and control activities.",
+        "title": "Authorize acceptance of a grant from the U.S. Department of Justice",
+        "description": "Authorize the acceptance of a grant to support crime prevention and control activities.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "L",
         "title": "Authorize a three-year cooperative purchasing agreement for web-based law enforcement data integration",
-        "description": "Authorize a purchasing agreement for a law enforcement data integration platform.",
+        "description": "Authorize a purchasing agreement for a data integration platform for the Dallas Police Department.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "M",
         "title": "Authorize a three-year purchasing agreement for a web-based intelligence investigative platform",
-        "description": "Authorize a purchasing agreement for an intelligence investigative platform.",
+        "description": "Authorize a purchasing agreement for an investigative platform for the Dallas Police Department.",
         "presenter": null,
         "action_required": "approve"
       }
@@ -135,13 +135,13 @@
       "Animal Cruelty",
       "Public Safety Dashboards",
       "Grant Acceptance",
-      "Purchasing Agreement",
-      "Recruiting and Retention",
+      "Data Integration",
+      "Investigative Platform",
+      "Community Engagement",
       "Facility Construction",
       "Fleet Maintenance",
       "Homeless Action Response",
-      "Public Safety Priority",
-      "Election"
+      "Public Safety Priorities"
     ],
     "financial_items": [
       {

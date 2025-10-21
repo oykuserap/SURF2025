@@ -30,7 +30,7 @@
       {
         "item_number": "III",
         "title": "Approval of Minutes",
-        "description": "Approval of minutes from May 2, 2024",
+        "description": "Approval of minutes from May 2, 2024.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -43,28 +43,28 @@
       },
       {
         "item_number": "IV.2",
-        "title": "Cypress Waters Trail",
+        "title": "Cypress Waters Trail - Encroachment Agreement",
         "description": "Authorize a hike and bike trail encroachment agreement with Oncor for use of a portion of the Oncor easement for the construction, operation, and maintenance of the Cypress Waters Trail.",
         "presenter": null,
         "action_required": "authorize"
       },
       {
         "item_number": "IV.3",
-        "title": "Cypress Waters Trail",
+        "title": "Cypress Waters Trail - Interlocal Agreement",
         "description": "Authorize an Interlocal Agreement with Dallas County for designing, constructing, and maintaining a portion of the Cypress Waters Trail.",
         "presenter": null,
         "action_required": "authorize"
       },
       {
         "item_number": "IV.4",
-        "title": "Cypress Water Trail",
+        "title": "Cypress Water Trail - Easement Acquisition",
         "description": "Authorize acquisition of three easements of approximately 885,529 square feet of land for the Cypress Waters Trail project.",
         "presenter": null,
         "action_required": "authorize"
       },
       {
         "item_number": "IV.5",
-        "title": "Rosemeade Park",
+        "title": "Rosemeade Park - Funding Application",
         "description": "Authorize an application for the USFWS Invasive Species Eradication Funding Program in an amount of $250,000 for Rosemeade Park.",
         "presenter": null,
         "action_required": "authorize"
@@ -104,15 +104,16 @@
       "Golf Course Greens Fees",
       "Cypress Waters Trail",
       "Rosemeade Park",
+      "Annual Report",
       "Budget Update",
-      "Dallas Zoo Annual Report",
-      "Downtown Parks Collaboration Initiative",
-      "2024 Bond Program",
+      "Bond Program",
+      "Interlocal Agreement",
+      "Easement Acquisition",
+      "Funding Application",
       "Public Speakers",
       "Approval of Minutes",
-      "Interlocal Agreement",
-      "Capital Improvement Fund",
-      "Invasive Species Eradication Funding"
+      "Video Conference",
+      "Dallas Zoo"
     ],
     "financial_items": [
       {
@@ -126,7 +127,7 @@
         "type": "funding"
       },
       {
-        "description": "Estimated Revenue from fee structure for reservable spaces at Old City Park",
+        "description": "Estimated Revenue from Old City Park fee structure",
         "amount": "$60,000.00",
         "type": "revenue"
       }

@@ -6,9 +6,9 @@
     "meeting_info": {
       "date": "October 7, 2024",
       "time": "1:00 PM",
-      "type": "Economic Development Committee Meeting",
-      "organization": "Dallas City Council",
-      "location": "Council Chambers, 6th Floor, City Hall and via videoconference"
+      "type": "Regular Meeting",
+      "organization": "Economic Development Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
     },
     "attendees": {
       "chair": "Atkins",
@@ -23,7 +23,14 @@
         "Bazaldua",
         "Ridley",
         "Stewart",
-        "West"
+        "West",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Willis",
+        "Blackmon",
+        "Schultz"
       ]
     },
     "agenda_items": [
@@ -65,22 +72,27 @@
       {
         "item_number": "E",
         "title": "Oversize Motor Vehicle Regulation Updates",
-        "description": "Updates on regulations concerning oversize motor vehicles.",
+        "description": "Updates on regulations regarding oversize motor vehicles.",
         "presenter": "Emily Liu",
         "action_required": "discuss"
       }
     ],
     "keywords": [
       "Economic Development",
-      "Dallas City Council",
+      "Dallas",
+      "City Council",
       "Business Owners Survey",
-      "East Dock Redevelopment",
+      "Redevelopment Project",
       "Board of Directors",
-      "Self-Certification Program",
-      "Oversize Motor Vehicle Regulations",
+      "Self-Certification",
+      "Motor Vehicle Regulations",
       "Community Research",
-      "Planning and Development",
-      "Executive Session"
+      "Planning & Development",
+      "Executive Session",
+      "Public Participation",
+      "Virtual Meeting",
+      "City Hall",
+      "Committee Minutes"
     ],
     "financial_items": []
   },

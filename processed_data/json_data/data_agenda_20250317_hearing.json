@@ -17,49 +17,49 @@
     },
     "agenda_items": [
       {
-        "item_number": "I",
+        "item_number": "1",
         "title": "Call to Order",
         "description": "",
         "presenter": "Robert Agnich, Vice-Chair",
         "action_required": null
       },
       {
-        "item_number": "II",
+        "item_number": "2",
         "title": "Staff Presentation/Briefing",
         "description": "",
         "presenter": null,
         "action_required": null
       },
       {
-        "item_number": "III",
+        "item_number": "3",
         "title": "Public Hearing",
         "description": "Board of Adjustment",
         "presenter": null,
         "action_required": null
       },
       {
-        "item_number": "IV",
+        "item_number": "4",
         "title": "Public Testimony",
         "description": "",
         "presenter": null,
         "action_required": null
       },
       {
-        "item_number": "V",
+        "item_number": "5",
         "title": "Miscellaneous Items",
         "description": "",
         "presenter": null,
         "action_required": null
       },
       {
-        "item_number": "VI",
+        "item_number": "6",
         "title": "Case Docket",
         "description": "Uncontested Items, Holdover Items, Individual Items",
         "presenter": "Board of Adjustment",
         "action_required": null
       },
       {
-        "item_number": "VII",
+        "item_number": "7",
         "title": "Adjournment",
         "description": "",
         "presenter": null,
@@ -71,8 +71,6 @@
       "Board of Adjustment",
       "Public Hearing",
       "Case Docket",
-      "Uncontested Items",
-      "Holdover Items",
       "Variance",
       "Special Exception",
       "Fence Height Regulations",
@@ -80,8 +78,10 @@
       "Setback Regulations",
       "Public Testimony",
       "Executive Session",
-      "Accommodations",
-      "Meeting Access"
+      "Meeting Accommodations",
+      "Video Conference",
+      "Registration",
+      "Minutes Approval"
     ],
     "financial_items": []
   },

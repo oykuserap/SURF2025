@@ -11,34 +11,26 @@
       "location": "Council Briefing Room, 6th Floor at City Hall, and via video conference"
     },
     "attendees": {
-      "chair": "Atkins",
+      "chair": "Donzell Gipson",
       "presenters": [
         "Donzell Gipson",
         "City Attorney’s Office",
         "Planning and Development Department"
       ],
-      "participants": [
-        "Moreno",
-        "Mendelsohn",
-        "Schultz",
-        "Ligon",
-        "Davis",
-        "Narvaez",
-        "Gipson"
-      ]
+      "participants": []
     },
     "agenda_items": [
       {
         "item_number": "A",
         "title": "City-Leased Properties & Budgetary Implications for the City",
-        "description": "Discussion on the implications of city-leased properties on the budget.",
+        "description": "Discussion on city-leased properties and their budgetary implications.",
         "presenter": "Donzell Gipson, Assistant City Manager(I)",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "Update on Proposed Private Game Club Land Use",
-        "description": "Discussion on budget implications and legal case regarding the proposed private game club.",
+        "description": "Update on proposed private game club land use, budget implications, and related legal case.",
         "presenter": "City Attorney’s Office & Planning and Development Department",
         "action_required": "discuss"
       }
@@ -47,18 +39,13 @@
       "City Council",
       "Government Performance",
       "Financial Management",
-      "Budget",
+      "Budgetary Implications",
       "City-Leased Properties",
       "Private Game Club",
       "Land Use",
       "Legal Case",
-      "Public Safety",
-      "Economic Development",
-      "Housing",
-      "Homelessness Solutions",
-      "Transportation",
-      "Infrastructure",
-      "Education"
+      "Public Meeting",
+      "Video Conference"
     ],
     "financial_items": []
   },

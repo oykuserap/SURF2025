@@ -5,7 +5,7 @@
   "extracted_data": {
     "meeting_info": {
       "date": "March 21, 2024",
-      "time": "4:30 P.M.",
+      "time": "4:30 P. M.",
       "type": "Regular Meeting",
       "organization": "Arts and Culture Advisory Commission",
       "location": "Dallas City Hall, 6FN - Park and Recreation Board Room and Videoconference"
@@ -33,14 +33,14 @@
         "title": "Recommendation in support of the FY 2024-25 Community Artist Program Guidelines",
         "description": "",
         "presenter": null,
-        "action_required": "discuss"
+        "action_required": "recommend"
       },
       {
         "item_number": "3",
         "title": "Recommendation in support of the ArtsActivate 2025 Guidelines",
         "description": "",
         "presenter": null,
-        "action_required": "discuss"
+        "action_required": "recommend"
       }
     ],
     "keywords": [
@@ -50,12 +50,15 @@
       "Community Artist Program",
       "ArtsActivate 2025",
       "Public Speakers",
-      "Executive Session",
+      "Chair's Report",
       "Cultural Spotlight",
-      "Pegasus Media Project",
       "Director's Update",
       "Bond",
-      "Dallas Arts Month"
+      "Political Activity Memo",
+      "Dallas Arts Month",
+      "Executive Session",
+      "Public Participation",
+      "Meeting Minutes"
     ],
     "financial_items": []
   },

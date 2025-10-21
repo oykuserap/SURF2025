@@ -53,7 +53,7 @@
       },
       {
         "item_number": "E",
-        "title": "Allow boards and commissions to elect vice chairs",
+        "title": "Allow boards to elect vice chairs",
         "description": "Allow city boards and commissions to elect their own vice chairs.",
         "presenter": null,
         "action_required": "discuss"
@@ -67,29 +67,29 @@
       },
       {
         "item_number": "G",
-        "title": "Amend language for City Secretary's hiring ability",
+        "title": "Amend City Secretary hiring authority",
         "description": "Amend language to allow the City Secretary to hire all staff within their office.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "H",
-        "title": "Delete requirement for assistant city attorneys",
+        "title": "Delete assistant city attorneys' time requirement",
         "description": "Delete the requirement that all assistant city attorneys shall devote their entire time to the service of the city.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "I",
-        "title": "Delete provisions for opening and inspection of bids",
+        "title": "Delete provisions for bid procedures",
         "description": "Delete provisions pertaining to the procedures for the opening and public inspection of bids.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "J",
-        "title": "Abolish Mayor Pro Tem and Deputy Mayor Pro Tem positions",
-        "description": "Abolish or amend the appointment process of the Mayor Pro Tem and Deputy Mayor Pro Tem positions.",
+        "title": "Abolish Mayor Pro Tem positions",
+        "description": "Abolish the Mayor Pro Tem and Deputy Mayor Pro Tem positions or amend the appointment process.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -104,12 +104,12 @@
       "Vice Chairs",
       "Thoroughfare Plan",
       "Assistant City Attorneys",
-      "Bids",
       "Mayor Pro Tem",
+      "Public Meeting",
       "Executive Session",
-      "Public Participation",
+      "Dallas",
       "City Council",
-      "Dallas"
+      "Public Participation"
     ],
     "financial_items": []
   },

@@ -8,7 +8,7 @@
       "time": "12:00 PM",
       "type": "Ad Hoc Committee Meeting",
       "organization": "City Council Ad Hoc Committee on Legislative Affairs",
-      "location": "Council Briefing Room, 6ES City Hall and via videoconference"
+      "location": "Council Briefing Room, 6ES City Hall, Dallas, Texas; also available via videoconference"
     },
     "attendees": {
       "chair": null,
@@ -29,14 +29,14 @@
       {
         "item_number": "A",
         "title": "Review of legislative priorities and recommendations for removal/addition of items for City Council consideration",
-        "description": "Discussion on legislative priorities and recommendations for changes.",
+        "description": "Discussion on legislative priorities and recommendations for the City Council.",
         "presenter": "James Anderson, Director (I), Office of Government Affairs; Bart Bevers, Inspector General (I), Office of the Inspector General",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "Discussion of legislative testimony assignments by councilmembers",
-        "description": "Discussion regarding assignments for legislative testimony.",
+        "description": "Discussion regarding the assignments of legislative testimony for councilmembers.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -51,11 +51,7 @@
       "minutes approval",
       "government affairs",
       "inspector general",
-      "public meeting",
-      "executive session",
-      "Dallas",
-      "Texas",
-      "councilmembers"
+      "Dallas"
     ],
     "financial_items": []
   },

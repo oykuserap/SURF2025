@@ -13,42 +13,42 @@
     "attendees": {
       "chair": null,
       "presenters": [
-        "Dorcy Clark"
+        "Dorcy Clark, District Manager, Office of Economic Development"
       ],
       "participants": []
     },
     "agenda_items": [
       {
         "item_number": "1",
-        "title": "Call to order and introduction of meeting participants.",
+        "title": "Call to order and introduction of meeting participants",
         "description": null,
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "2",
-        "title": "Public comments pertaining to agenda items 3 through 5.",
+        "title": "Public comments pertaining to agenda items 3 through 5",
         "description": null,
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "3",
-        "title": "Review and consideration of the Meeting Record of the December 12, 2022 Farmers Market TIF District Board Meeting.",
+        "title": "Review and consideration of the Meeting Record of the December 12, 2022 Farmers Market TIF District Board Meeting",
         "description": null,
-        "presenter": "Dorcy Clark",
+        "presenter": "Dorcy Clark, District Manager, Office of Economic Development",
         "action_required": "Approval"
       },
       {
         "item_number": "4",
-        "title": "Review and consideration of the Farmers Market TIF District Annual Report for FY 2022-2023.",
+        "title": "Review and consideration of the Farmers Market TIF District Annual Report for FY 2022-2023",
         "description": null,
-        "presenter": "Dorcy Clark",
+        "presenter": "Dorcy Clark, District Manager, Office of Economic Development",
         "action_required": "Approval and forward a recommendation of approval to City Council"
       },
       {
         "item_number": "5",
-        "title": "Review and consideration of a regular meeting schedule for the Farmers Market TIF District Board of Directors for calendar year 2024.",
+        "title": "Review and consideration of a regular meeting schedule for the Farmers Market TIF District Board of Directors for calendar year 2024",
         "description": null,
         "presenter": null,
         "action_required": "Approval"
@@ -71,7 +71,7 @@
       "Regular Meeting Schedule",
       "City Council",
       "Public Comments",
-      "Adjournment"
+      "Dallas City Hall"
     ],
     "financial_items": []
   },

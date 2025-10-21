@@ -24,21 +24,21 @@
       {
         "item_number": "I",
         "title": "Call to Order, Pledge of Allegiance, and Roll Call",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "II",
         "title": "Public Comments on Items III – VI",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "III",
         "title": "Vote to Approve the April 25th, 2024 Meeting Minutes",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": "approve"
       },
@@ -59,7 +59,7 @@
       {
         "item_number": "VI",
         "title": "Adjournment",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       }
@@ -69,12 +69,12 @@
       "Dallas City Hall",
       "meeting minutes",
       "presentation",
-      "Veteran’s Community Project",
+      "community project",
       "public comments",
       "announcements",
-      "equitable meeting",
-      "accessibility",
-      "community service"
+      "equitable access",
+      "inclusion",
+      "veterans"
     ],
     "financial_items": []
   },

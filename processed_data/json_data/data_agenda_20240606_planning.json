@@ -46,42 +46,35 @@
       {
         "item_number": "V",
         "title": "Community Development Division Report",
-        "description": "Report from the Budget & Management Services including updates and acknowledgements.",
+        "description": "Report from the Budget & Management Services including updates and acknowledgments.",
         "presenter": "Budget & Management Services (BMS)",
         "action_required": null
       },
       {
         "item_number": "V.1",
         "title": "Staff Update on City Managers’ Proposed FY 2024-25 U.S Department of Housing and Urban Development (HUD) Consolidated Plan Budget",
-        "description": "Update on the proposed budget from the City Manager.",
+        "description": "Update on the proposed budget for the upcoming fiscal year.",
         "presenter": "Chan Williams",
         "action_required": null
       },
       {
         "item_number": "V.2",
         "title": "Staff presentation on the potential impact of budget reductions in the FY 2024-25 Community Development Block Grant (CDBG), Public Services Category",
-        "description": "Discussion on the impact of budget cuts.",
+        "description": "Discussion on the implications of budget cuts.",
         "presenter": "Holly Holt",
         "action_required": null
       },
       {
         "item_number": "VI",
         "title": "Chair’s Report",
-        "description": "Report from the chair including acknowledgements and updates.",
+        "description": "Report from the chair including acknowledgments and updates.",
         "presenter": "Melanie Rubin",
         "action_required": null
       },
       {
         "item_number": "VII",
         "title": "Vice Chair’s Report",
-        "description": "Report from the vice chair including acknowledgements.",
-        "presenter": null,
-        "action_required": null
-      },
-      {
-        "item_number": "VIII",
-        "title": "Public Speakers",
-        "description": "Opportunity for public comments.",
+        "description": "Report from the vice chair including acknowledgments.",
         "presenter": null,
         "action_required": null
       },
@@ -108,14 +101,14 @@
       "HUD",
       "CDBG",
       "Public Services",
-      "Chair's Report",
-      "Vice Chair's Report",
-      "Public Speakers",
+      "Chair Report",
+      "Vice Chair Report",
       "Announcements",
-      "Adjournment",
       "Meeting Minutes",
       "Staff Update",
-      "Budget Reductions"
+      "Executive Session",
+      "Public Speakers",
+      "Community Engagement"
     ],
     "financial_items": []
   },

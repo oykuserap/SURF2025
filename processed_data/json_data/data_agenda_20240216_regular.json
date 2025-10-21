@@ -25,9 +25,11 @@
       "Executive Session",
       "Attorney Advice",
       "Real Property",
+      "Negotiated Contract",
       "Public Officer",
       "Security Personnel",
-      "Economic Development"
+      "Economic Development",
+      "Financial Information"
     ],
     "financial_items": []
   },

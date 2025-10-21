@@ -65,7 +65,7 @@
       {
         "item_number": "7",
         "title": "Subcommittee Updates",
-        "description": "Updates from subcommittee chairs",
+        "description": "Updates from Subcommittee Chairs",
         "presenter": null,
         "action_required": null
       },
@@ -84,17 +84,25 @@
       "Economic Development",
       "Funding",
       "Human Development",
-      "Subcommittee Updates",
       "Public Speakers",
-      "Minutes Approval",
+      "Subcommittee Updates",
+      "Approval of Minutes",
       "Staff Update",
-      "City Funding",
-      "NOFA Awardees"
+      "NOFA Awardees",
+      "Dallas",
+      "Community Engagement",
+      "Board Liaison",
+      "City Funding"
     ],
     "financial_items": [
       {
         "description": "SDFPOF Human Development awards to qualified applicants",
-        "amount": "$95,000",
+        "amount": "$35,000 to For Them",
+        "type": "funding"
+      },
+      {
+        "description": "SDFPOF Human Development awards to qualified applicants",
+        "amount": "$60,000 for Dallas Prestige Group",
         "type": "funding"
       }
     ]

@@ -42,7 +42,7 @@
         "title": "Action Item(s)",
         "description": "Adopt the amended Code of Rules and Regulations of the Civil Service Board and take any necessary or appropriate action as a result of Executive Session.",
         "presenter": null,
-        "action_required": "adopt"
+        "action_required": "approve"
       },
       {
         "item_number": "EXECUTIVE SESSION",
@@ -59,8 +59,8 @@
       "Public Hearing",
       "Code of Rules",
       "Regulations",
-      "Civil Services Rules",
-      "Department Updates",
+      "Briefing",
+      "Discussion",
       "Action Items",
       "Performance Evaluation",
       "Executive Session"

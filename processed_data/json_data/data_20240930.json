@@ -95,9 +95,9 @@
         "type": "loan"
       },
       {
-        "description": "Human Development awards to qualified applicants",
+        "description": "SDFPOF Human Development awards",
         "amount": "$35,000 to For Them, $30,000 for BCL, $60,000 for Dallas",
-        "type": "funding"
+        "type": "awards"
       }
     ]
   },

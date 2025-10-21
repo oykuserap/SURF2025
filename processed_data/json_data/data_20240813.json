@@ -6,7 +6,7 @@
     "meeting_info": {
       "date": "August 13, 2024",
       "time": "9:00 AM",
-      "type": "Council Briefing",
+      "type": "Budget Workshop",
       "organization": "Dallas City Council",
       "location": "Council Chambers, 6th Floor, City Hall and via videoconference"
     },
@@ -20,7 +20,7 @@
     "agenda_items": [
       {
         "item_number": "A",
-        "title": "Budget Workshop",
+        "title": "24-817 Budget Workshop",
         "description": "City Manager’s Recommended Budget for FY 2024-25 and FY 2025-26",
         "presenter": "City Manager",
         "action_required": "discuss"
@@ -37,11 +37,11 @@
       "public participation",
       "open microphone",
       "executive session",
-      "rules of courtesy",
-      "Americans with Disabilities Act",
       "financial information",
       "real property",
-      "public officer"
+      "public officer",
+      "security personnel",
+      "economic development"
     ],
     "financial_items": []
   },

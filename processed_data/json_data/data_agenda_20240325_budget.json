@@ -40,35 +40,35 @@
       {
         "item_number": "A",
         "title": "Impact of AI in Local Government Permit Review",
-        "description": "Discussion on the impact of AI technology in local government permit review processes.",
-        "presenter": "John Mirkin, Sabrina Dugan",
+        "description": "Discussion on the impact of AI technologies in local government permit review processes.",
+        "presenter": "John Mirkin, Vice President of Corporate Strategy, AutoReview.AI; Sabrina Dugan, Vice President of Research and Development, AutoReview.AI",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "2023 External Audit Presentation and Discussion",
-        "description": "Presentation and discussion regarding the external audit for the year 2023.",
-        "presenter": "Sara Dempsey, Jeff Wada",
+        "description": "Presentation and discussion regarding the findings of the 2023 external audit.",
+        "presenter": "Sara Dempsey, Partner-In-Charge, Weaver; Jeff Wada, Senior Manager, Weaver",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "Inspector General Division Update",
         "description": "Update from the Inspector General regarding ongoing investigations and activities.",
-        "presenter": "Bart Bevers",
+        "presenter": "Bart Bevers, Inspector General, City Attorney’s Office",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "Annual Investment Policy Review",
-        "description": "Review of the annual investment policy by the Assistant Director of Treasury.",
-        "presenter": "Jenny Kerzman",
+        "description": "Review of the annual investment policy as required by city regulations.",
+        "presenter": "Jenny Kerzman, Assistant Director of Treasury, City Controller’s Office",
         "action_required": "discuss"
       },
       {
         "item_number": "E",
         "title": "Development Services - Monthly Performance Update & Process Map Improvements",
-        "description": "Monthly performance update and discussion on process map improvements.",
+        "description": "Monthly performance update from Development Services and discussion on process map improvements.",
         "presenter": "Development Services",
         "action_required": "discuss"
       },
@@ -88,9 +88,10 @@
       "Inspector General",
       "Investment Policy",
       "Development Services",
-      "City Real Estate",
-      "Performance Update",
-      "Redevelopment Opportunities"
+      "Real Estate",
+      "Budget Accountability",
+      "Technology Accountability",
+      "City Auditor"
     ],
     "financial_items": []
   },

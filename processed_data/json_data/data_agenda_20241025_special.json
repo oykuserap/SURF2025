@@ -19,7 +19,7 @@
       {
         "item_number": "I",
         "title": "Depart City Hall",
-        "description": "Departure from City Hall to the first business tour location.",
+        "description": "Departure from City Hall.",
         "presenter": null,
         "action_required": null
       },
@@ -40,7 +40,7 @@
       {
         "item_number": "IV",
         "title": "Adjournment",
-        "description": "Closing of the meeting.",
+        "description": "End of the meeting.",
         "presenter": null,
         "action_required": null
       }
@@ -51,11 +51,11 @@
       "Business Tour",
       "After8 to Educate",
       "Cornerstone Crossroads Academy",
-      "Economic Development",
       "Special Meeting",
-      "Accessibility",
+      "Economic Development",
       "Public Participation",
-      "Equitable Meeting"
+      "Accessibility",
+      "Equity"
     ],
     "financial_items": []
   },

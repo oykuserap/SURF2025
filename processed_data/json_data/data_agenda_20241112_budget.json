@@ -22,10 +22,7 @@
         "Glenn Ayars",
         "Emily Liu",
         "Rafael Tamoya",
-        "Augustine Jalomo",
-        "Donna Miller",
-        "Jessica Galleshaw",
-        "Holly Holt"
+        "Jessica Galleshaw"
       ],
       "participants": [
         "Jaime Resendez",
@@ -47,28 +44,28 @@
       {
         "item_number": "A",
         "title": "Periodic Weekend Street Closures to Create Vehicle-Free Zones",
-        "description": "Discussion on the implementation of periodic street closures to promote vehicle-free zones.",
+        "description": "Discussion on the administration of Chapter 42A of the Dallas City Code to facilitate temporary outdoor activities.",
         "presenter": "Rosa Flemming",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "Adult Learning Initiatives at Dallas Public Library",
-        "description": "Overview of adult learning initiatives and programs at the Dallas Public Library.",
+        "description": "Overview of adult learning programs and initiatives at the Dallas Public Library.",
         "presenter": "Heather Lowe",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "City Facilities Partners Update - Sammons Center for the Arts",
-        "description": "Update on the partnership and activities at the Sammons Center for the Arts.",
+        "description": "Update on the partnership and activities related to the Sammons Center for the Arts.",
         "presenter": "Martine Elyse Philippe",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "Amendment to the Dallas Development Code to align with Texas Senate Bill 929",
-        "description": "Discussion on amendments to the Dallas Development Code in compliance with SB 929.",
+        "description": "Discussion on amendments to the Dallas Development Code as required by Texas Senate Bill 929.",
         "presenter": "Emily Liu",
         "action_required": "discuss"
       },
@@ -84,12 +81,12 @@
         "title": "Second of Two One-year Renewal Options for the Service Contracts with the Senior Citizens of Greater Dallas, Inc.",
         "description": "Consideration of the renewal of service contracts for the Senior Services Ombudsman Program.",
         "presenter": "Jessica Galleshaw",
-        "action_required": "approve"
+        "action_required": "discuss"
       },
       {
         "item_number": "G",
         "title": "Quality of Life, Arts, and Culture Committee Forecast",
-        "description": "Forecast of upcoming agenda items and initiatives for the committee.",
+        "description": "Forecast of upcoming agenda items and initiatives for the Quality of Life, Arts, and Culture Committee.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -98,18 +95,18 @@
       "Quality of Life",
       "Arts",
       "Culture",
-      "Dallas Public Library",
+      "Dallas",
+      "Committee",
+      "Public Library",
       "Cultural District",
-      "Sammons Center for the Arts",
-      "Adult Learning",
       "Street Closures",
       "Ombudsman Program",
-      "Texas Senate Bill 929",
+      "Development Code",
       "Community Engagement",
-      "Public Safety",
       "Economic Development",
-      "Cultural Initiatives",
-      "Public Art"
+      "Public Safety",
+      "Cultural Organizations",
+      "Adult Learning"
     ],
     "financial_items": [
       {

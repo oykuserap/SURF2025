@@ -5,165 +5,94 @@
   "extracted_data": {
     "meeting_info": {
       "date": "January 10, 2024",
-      "time": "9:00 AM",
-      "type": "Regular Meeting",
-      "organization": "City of Dallas",
-      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
+      "time": null,
+      "type": "Briefing",
+      "organization": "Citizens  Can  Find  Out               Persona      Que    Desee      Hablar    Durante      La   Asamblea       Del  \n\nThe  Name  Of  Their  Representative  And  Their  Voting  District",
+      "location": "Dallas City Hall"
     },
     "attendees": {
       "chair": null,
-      "presenters": [
-        "City Attorney's Office",
-        "Department of Aviation",
-        "Department of Public Works",
-        "Department of Transportation",
-        "Fire-Rescue Department",
-        "Office of Economic Development",
-        "Office of Emergency Management",
-        "Office of Procurement Services",
-        "Office of Risk Management",
-        "Park & Recreation Department",
-        "Water Utilities Department",
-        "City Secretary's Office"
-      ],
+      "presenters": [],
       "participants": []
     },
     "agenda_items": [
       {
+        "item_number": "16",
+        "title": "Briefing   meetings   are   held   the        primer    y   tercer   miércoles    del   mes.    Esta...",
+        "description": "Briefing   meetings   are   held   the        primer    y   tercer   miércoles    del   mes.    Estas    audiencias     se  \n\nfirst  and   third   Wednesdays       of   each    month.         Council         transmiten      en    vivo     por    la    bit.ly/cityofdallastv   y    por  \n\nagenda     (voting)   meetings     are   held   on    the   second     and        cablevisión    en   la  estación    Time    Warner     City  Cable    Canal  \n\nfourth   Wednesdays.           Anyone     wishing     to   speak    at   a",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "311",
+        "title": "Ciudad    de   Dallas    se  esfuerza     por  cumplir    con   el  decreto  \n\n                     ...",
+        "description": "Ciudad    de   Dallas    se  esfuerza     por  cumplir    con   el  decreto  \n\n                                                                                  que   protege    a   las   personas    con    impedimentos,      Americans  \n\n                                                                                  with   Disabilities  Act.      La   agenda     del   Ayuntamiento       está  \n\n                                                                                  disponible en formatos alternos si lo solicita.  \n\n\n\n                                                                                  Si  tiene   preguntas     sobre    esta   agenda,    o   si  desea     hacer  \n\n                                                                                  comentarios   o   presentar   quejas   con   respecto   a   servicios   de  \n\n                                                                                  la Ciudad, llame al",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
         "item_number": "1",
-        "title": "Approval of Minutes of the December 13, 2023 City Council Meeting",
-        "description": "",
-        "presenter": "City Attorney's Office",
-        "action_required": "approve"
+        "title": "seeking      the    advice      of   its   attorney      about     pending       or    contemplated ...",
+        "description": "seeking      the    advice      of   its   attorney      about     pending       or    contemplated        litigation,  \n\n            settlement  offers,  or  any  matter  in  which  the  duty  of  the  attorney  to  the  City  Council  \n\n            under  the  Texas  Disciplinary  Rules  of  Professional  Conduct  of  the  State  Bar  of  Texas  \n\n            clearly conflicts with the Texas Open Meetings Act.  [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
         "item_number": "2",
-        "title": "Authorize partial settlement of the lawsuit styled Chanda Runnels, Individually and as Next Friend of D .D., a Minor, and Roy Heidelberg",
-        "description": "Total not to exceed $140,000.00 ($65,000.00 for the settlement of the claims of Chanda Runnels and $75,000.00 for the settlement of the claims of Roy Heidelberg)",
-        "presenter": "City Attorney's Office",
-        "action_required": "approve"
+        "title": "deliberating  the  purchase,  exchange,  lease,  or  value  of  real  property  if  deliberation  in...",
+        "description": "deliberating  the  purchase,  exchange,  lease,  or  value  of  real  property  if  deliberation  in  \n\n            an   open     meeting     would     have    a   detrimental      effect   on    the   position    of   the   city   in  \n\n            negotiations with a third person.  [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
         "item_number": "3",
-        "title": "Authorize a Second Amendment to the concession contract with Air Star-Bush-LTS Marquis DAL, LLC",
-        "description": "For food and beverage concession services at Dallas Love Field Airport, to extend the term of the contract by an additional seven years and increase pricing.",
-        "presenter": "Department of Aviation",
-        "action_required": "approve"
+        "title": "deliberating     a   negotiated     contract    for   a   prospective      gift  or   donation     t...",
+        "description": "deliberating     a   negotiated     contract    for   a   prospective      gift  or   donation     to  the    city  if  \n\n            deliberation  in  an  open  meeting  would  have  a  detrimental  effect  on  the  position  of  the  \n\n            city in negotiations with a third person. [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
         "item_number": "4",
-        "title": "Authorize a Third Amendment to the concession contract with Host International, Inc.",
-        "description": "For food and beverage concession services at Dallas Love Field Airport to extend the term of the contract by an additional seven years and increase pricing.",
-        "presenter": "Department of Aviation",
-        "action_required": "approve"
+        "title": "deliberating       the     appointment,         employment,          evaluation,       reassignment,...",
+        "description": "deliberating       the     appointment,         employment,          evaluation,       reassignment,          duties,  \n\n            discipline,   or   dismissal   of   a   public   officer   or   employee;   or   to   hear   a   complaint   or  \n\n            charge   against   an   officer   or   employee   unless   the   officer   or   employee   who   is   the  \n\n            subject   of   the   deliberation   or   hearing   requests   a   public   hearing.      [ Tex.   Govt.   Code  \n\n            §",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
         "item_number": "5",
-        "title": "Authorize a Fourth Amendment to the concession contract with Air Star Concessions, Ltd.",
-        "description": "For food and beverage concessions services at Dallas Love Field Airport to extend the term of the contract by an additional seven years and increase pricing.",
-        "presenter": "Department of Aviation",
-        "action_required": "approve"
+        "title": "deliberating     the    deployment,       or   specific    occasions      for   implementation,     ...",
+        "description": "deliberating     the    deployment,       or   specific    occasions      for   implementation,        of   security  \n\n            personnel or devices.  [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
         "item_number": "6",
-        "title": "Authorize a Fourth Amendment to the concession contract with Air Star-LTS/Marquis DAL, LLC",
-        "description": "For food and beverage concessions services at Dallas Love Field Airport to extend the term of the contract by an additional seven years and increase pricing.",
-        "presenter": "Department of Aviation",
-        "action_required": "approve"
+        "title": "discussing      or   deliberating      commercial       or   financial     information      that   t...",
+        "description": "discussing      or   deliberating      commercial       or   financial     information      that   the    city   has  \n\n            received  from  a  business  prospect  that  the  city  seeks  to  have  locate,  stay  or  expand  \n\n            in  or   near    the   city   and    with    which    the   city   is  conducting      economic       development  \n\n            negotiations;   or   deliberating   the   offer   of   a   financial   or   other   incentive   to   a   business  \n\n            prospect.  [Tex Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
         "item_number": "7",
-        "title": "Authorize amendments to four concession contracts with Hudson Dallas Love Field Concessionaires, LLC",
-        "description": "To mitigate the increased costs of providing products and services to the traveling public and airport employees.",
-        "presenter": "Department of Aviation",
-        "action_required": "approve"
-      },
-      {
-        "item_number": "8",
-        "title": "Authorize a five-year service price agreement for transportation for hire services",
-        "description": "For passenger drop-off and pick-up at Dallas Love Field Airport.",
-        "presenter": "Department of Aviation",
-        "action_required": "approve"
-      },
-      {
-        "item_number": "9",
-        "title": "An ordinance abandoning a detention area easement to Vivante Turtle Creek, LLC",
-        "description": "Containing approximately 2,019 square feet of land.",
-        "presenter": "Department of Public Works",
-        "action_required": "approve"
-      },
-      {
-        "item_number": "10",
-        "title": "An ordinance abandoning a portion of an alley to McDonald's Real Estate Company",
-        "description": "Containing approximately 2,520 square feet of land.",
-        "presenter": "Department of Public Works",
-        "action_required": "approve"
+        "title": "deliberating     security    assessments        or   deployments        relating    to   information...",
+        "description": "deliberating     security    assessments        or   deployments        relating    to   information     resources  \n\n            technology,   network   security   information,   or   the   deployment   or   specific   occasions   for  \n\n            implementations        of    security     personnel,      critical   infrastructure,     or    security     devices .   \n\n            [Tex Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       }
     ],
     "keywords": [
-      "City Council",
-      "Dallas",
-      "meeting",
-      "agenda",
-      "concession contracts",
-      "settlement",
-      "lawsuit",
-      "aviation",
-      "public works",
-      "transportation",
-      "zoning",
-      "public hearings",
-      "financial items",
+      "tif",
+      "district",
       "budget",
-      "funding"
+      "funding",
+      "approval",
+      "recommendation",
+      "public",
+      "development",
+      "improvement",
+      "transportation"
     ],
-    "financial_items": [
-      {
-        "description": "Partial settlement of the lawsuit styled Chanda Runnels, Individually and as Next Friend of D .D., a Minor, and Roy Heidelberg",
-        "amount": "$140,000.00",
-        "type": "settlement"
-      },
-      {
-        "description": "Estimated Revenue from concession contracts at Dallas Love Field Airport",
-        "amount": "$488,815.00",
-        "type": "revenue"
-      },
-      {
-        "description": "Estimated Revenue from concession contracts at Dallas Love Field Airport",
-        "amount": "$4,617,845.00",
-        "type": "revenue"
-      },
-      {
-        "description": "Estimated Revenue from concession contracts at Dallas Love Field Airport",
-        "amount": "$3,668,268.00",
-        "type": "revenue"
-      },
-      {
-        "description": "Estimated Revenue from concession contracts at Dallas Love Field Airport",
-        "amount": "$801,968.00",
-        "type": "revenue"
-      },
-      {
-        "description": "Estimated Revenue from concession contracts at Dallas Love Field Airport",
-        "amount": "$9,117,042.00",
-        "type": "revenue"
-      },
-      {
-        "description": "Estimated Revenue from transportation for hire services at Dallas Love Field Airport",
-        "amount": "$509,852.00",
-        "type": "revenue"
-      },
-      {
-        "description": "Revenue from abandoning a detention area easement",
-        "amount": "$7,800.00",
-        "type": "revenue"
-      },
-      {
-        "description": "Revenue from abandoning a portion of an alley",
-        "amount": "$54,970.00",
-        "type": "revenue"
-      }
-    ]
+    "financial_items": []
   },
   "extraction_method": "openai_gpt",
   "original_length": 69281

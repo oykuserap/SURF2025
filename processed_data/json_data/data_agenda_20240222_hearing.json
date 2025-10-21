@@ -6,7 +6,7 @@
     "meeting_info": {
       "date": "February 22nd, 2024",
       "time": "10:30 A.M. and 1:00 P.M.",
-      "type": "Briefing and Public Hearing",
+      "type": "Board of Adjustment Meeting",
       "organization": "Board of Adjustment (Panel C)",
       "location": "Dallas City Hall, Room 6ES, and Videoconference"
     },
@@ -19,49 +19,49 @@
       {
         "item_number": "I",
         "title": "Call to Order",
-        "description": "Opening of the meeting by the Vice-Chair.",
+        "description": "",
         "presenter": "Robert Agnich, Vice-Chair",
         "action_required": null
       },
       {
         "item_number": "II",
         "title": "Staff Presentation/Briefing",
-        "description": "Presentation by staff regarding agenda items.",
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "III",
         "title": "Public Hearing",
-        "description": "Hearing for public input on agenda items.",
-        "presenter": "Board of Adjustment",
+        "description": "Board of Adjustment",
+        "presenter": null,
         "action_required": null
       },
       {
         "item_number": "IV",
         "title": "Public Testimony",
-        "description": "Opportunity for public testimony on agenda items.",
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "V",
         "title": "Miscellaneous Items",
-        "description": "Approval of Panel C Minutes – December 11, 2023.",
+        "description": "Approval of Panel C Minutes – December 11, 2023",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "VI",
         "title": "Case Docket",
-        "description": "Review of uncontested items, holdover items, and individual items.",
-        "presenter": "Board of Adjustment",
+        "description": "Uncontested Items, Holdover Items, Individual Items",
+        "presenter": null,
         "action_required": null
       },
       {
         "item_number": "VII",
         "title": "Adjournment",
-        "description": "Closing of the meeting.",
+        "description": "",
         "presenter": null,
         "action_required": null
       }
@@ -70,18 +70,18 @@
       "Board of Adjustment",
       "Public Hearing",
       "Dallas City Hall",
-      "Case Docket",
       "Variance",
       "Special Exception",
+      "Setback Regulations",
+      "Fence Standards",
       "Public Testimony",
       "Minutes Approval",
+      "Case Docket",
       "Uncontested Items",
       "Holdover Items",
       "Individual Items",
-      "Meeting Accommodations",
-      "Videoconference",
-      "Public Participation",
-      "Regulations"
+      "Auxiliary Aid",
+      "Video Conference"
     ],
     "financial_items": []
   },

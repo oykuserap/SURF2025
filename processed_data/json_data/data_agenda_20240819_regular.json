@@ -7,8 +7,8 @@
       "date": "August 19, 2024",
       "time": "12:00 P.M.",
       "type": "Regular Meeting",
-      "organization": "Dallas City Hall",
-      "location": "Dallas City Hall, L1FN Auditorium; Video Conference Link: https://dallascityhall.webex.com/dallascityhall/j.php?MTID=m22e443a6f996b76a30fc7ccf61b113e2"
+      "organization": "City of Dallas Senior Affairs Commission",
+      "location": "Dallas City Hall, L1FN Auditorium, Video Conference"
     },
     "attendees": {
       "chair": "Peter Kline",
@@ -42,57 +42,36 @@
       {
         "item_number": "III",
         "title": "Approval of Minutes",
-        "description": "Approval of Minutes for the June 17, 2024 Senior Affairs Commission (SAC) Meeting",
+        "description": "Approval of Minutes for the June 17, 2024 Senior Affairs Commission Meeting",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "IV",
         "title": "Chair’s Report",
-        "description": "Reminder of Texas Open Meetings Act (TOMA) Requirements for Videoconference Meeting - Update on Senior Listening Sessions",
+        "description": "Reminder of Texas Open Meetings Act Requirements for Videoconference Meeting and Update on Senior Listening Sessions",
         "presenter": "Peter Kline",
         "action_required": null
       },
       {
         "item_number": "V",
         "title": "New Business",
-        "description": "Briefing Item: Overview of Homelessness among Older Adults",
-        "presenter": "Sarah Kahn",
-        "action_required": null
-      },
-      {
-        "item_number": "V",
-        "title": "New Business",
-        "description": "Briefing Item: Overview of Senior Programs in Multiple Departments in the Proposed City Budget for FY25",
-        "presenter": "Jessica Galleshaw",
+        "description": "Briefing Items on Homelessness among Older Adults and Senior Programs in Proposed City Budget",
+        "presenter": null,
         "action_required": null
       },
       {
         "item_number": "VI",
         "title": "Staff Reports/Briefings",
-        "description": "Briefing Item: Housing and Neighborhood Revitalization: Home Improvement and Preservation Program and Major Systems Repair Program Application- Process and FAQ",
-        "presenter": "Jasmine Bazley and Kenesha Greer",
-        "action_required": null
-      },
-      {
-        "item_number": "VI",
-        "title": "Staff Reports/Briefings",
-        "description": "Briefing Item: Age-Friendly Officer Updates and Insights",
-        "presenter": "Tabitha Taylor",
-        "action_required": null
-      },
-      {
-        "item_number": "VI",
-        "title": "Staff Reports/Briefings",
-        "description": "Briefing Item: Senior Services Programs & Contracts Monthly Update",
-        "presenter": "Mirka Norman",
+        "description": "Briefing Items on Housing and Neighborhood Revitalization, Age-Friendly Officer Updates, and Senior Services Programs & Contracts Monthly Update",
+        "presenter": null,
         "action_required": null
       },
       {
         "item_number": "VII",
         "title": "Reports of Officers, Boards, and Standing Committees",
         "description": "Senior Affairs Commissioners District Updates",
-        "presenter": "SAC Commissioners",
+        "presenter": null,
         "action_required": null
       },
       {
@@ -104,18 +83,20 @@
       }
     ],
     "keywords": [
-      "Dallas City Hall",
+      "Dallas",
       "Senior Affairs Commission",
       "Public Speakers",
       "Approval of Minutes",
       "Texas Open Meetings Act",
       "Homelessness",
+      "Older Adults",
       "Senior Programs",
-      "Budget FY25",
-      "Housing and Neighborhood Revitalization",
+      "Budget",
+      "Housing",
+      "Neighborhood Revitalization",
       "Age-Friendly",
       "Senior Services",
-      "Commissioners District Updates",
+      "Commissioners",
       "Adjournment"
     ],
     "financial_items": []

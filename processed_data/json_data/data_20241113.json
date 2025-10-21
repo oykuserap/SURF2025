@@ -32,23 +32,23 @@
       },
       {
         "item_number": "3",
-        "title": "Authorize Supplemental Agreement No. 3",
-        "description": "To provide additional legal services related to the enforcement of the Hensley Field settlement agreement.",
+        "title": "Authorize Supplemental Agreement No. 3 to the professional services contract",
+        "description": "Provide additional legal services related to the enforcement of the Hensley Field settlement agreement.",
         "presenter": "City Attorney's Office",
         "action_required": "approve"
       },
       {
         "item_number": "4",
-        "title": "An ordinance authorizing the issuance and sale of City of Dallas General Obligation Refunding and Improvement Bonds",
-        "description": "Issuance and sale of bonds in an aggregate principal amount not to exceed $353,000,000.00.",
+        "title": "An ordinance authorizing the issuance and sale of General Obligation Refunding and Improvement Bonds",
+        "description": "Issuance of bonds in an aggregate principal amount not to exceed $353,000,000.00.",
         "presenter": "City Controller's Office",
         "action_required": "approve"
       },
       {
         "item_number": "5",
-        "title": "Authorize a five-year sole source services agreement",
-        "description": "For online investigative solutions and criminal activity database services for the Dallas Police Department.",
-        "presenter": "Dallas Police Department",
+        "title": "Authorize a Construction Manager-at-Risk Agreement",
+        "description": "Provide pre-construction and construction services for the Elm Fork Water Treatment Plant Water Quality Improvements Program.",
+        "presenter": "Dallas Water Utilities Department",
         "action_required": "approve"
       }
     ],
@@ -58,11 +58,11 @@
       "meeting",
       "agenda",
       "grant",
-      "bonds",
+      "bond issuance",
+      "construction",
+      "water treatment",
       "legal services",
-      "police department",
-      "voting",
-      "public hearing"
+      "voting"
     ],
     "financial_items": [
       {
@@ -71,13 +71,13 @@
         "type": "grant"
       },
       {
-        "description": "Issuance of General Obligation Refunding and Improvement Bonds",
+        "description": "General Obligation Refunding and Improvement Bonds",
         "amount": "$353,000,000.00",
         "type": "bond issuance"
       },
       {
-        "description": "Sole source services agreement for investigative solutions",
-        "amount": "$498,645.00",
+        "description": "Construction services for Elm Fork Water Treatment Plant",
+        "amount": "$4,087,120.00",
         "type": "contract"
       }
     ]

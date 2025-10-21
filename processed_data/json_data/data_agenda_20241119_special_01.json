@@ -37,19 +37,19 @@
       "City Council",
       "Special Called Meeting",
       "November 19, 2024",
-      "Canvassing Committee",
-      "election results",
-      "Interim Inspector General",
+      "Ad Hoc City Council Canvassing Committee",
       "resolution",
-      "adoption",
+      "Interim Inspector General",
+      "election results",
       "videoconference",
-      "public attendance"
+      "public participation",
+      "General Fund"
     ],
     "financial_items": [
       {
         "description": "Appointment of Interim Inspector General",
         "amount": null,
-        "type": "General Fund"
+        "type": "budget"
       }
     ]
   },

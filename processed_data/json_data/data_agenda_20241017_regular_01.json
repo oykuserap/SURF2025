@@ -27,7 +27,7 @@
       },
       {
         "item_number": "II",
-        "title": "SPECIAL RECOGNITION",
+        "title": "Special Recognition",
         "description": "Special recognition of former Park Board Member Priscilla Rice for her service to the Park & Recreation Board",
         "presenter": null,
         "action_required": null
@@ -40,37 +40,37 @@
         "action_required": "approve"
       },
       {
-        "item_number": "V.1",
+        "item_number": "V1",
         "title": "Kidd Springs Park",
-        "description": "Authorize issuing an alcohol permit to Alison Matis, to serve alcohol at the Blues, Bandits & BBQ event to be held at Kidd Springs Park.",
+        "description": "Authorize issuing an alcohol permit to Alison Matis, to serve alcohol at the Blues, Bandits & BBQ event to be held at Kidd Springs Park, located at 711 West Canty Street.",
         "presenter": null,
         "action_required": "approve"
       },
       {
-        "item_number": "V.2",
+        "item_number": "V2",
         "title": "Bachman Lake",
         "description": "Authorize issuing an alcohol permit to Taryn Federer, to serve alcohol at the Super Sam's 5k & Dino Dash event to be held at Bachman Lake.",
         "presenter": null,
         "action_required": "approve"
       },
       {
-        "item_number": "V.3",
+        "item_number": "V3",
         "title": "Interlocal Agreement",
-        "description": "Authorize a 20-year interlocal agreement between the City of Dallas and the Richardson Independent School District for shared access of campus grounds.",
+        "description": "Authorize a 20-year interlocal agreement between the City of Dallas and the Richardson Independent School District (RISD) for shared access of campus grounds and the design, construction and maintenance of park improvements at Dobie Pre-Kindergarten School.",
         "presenter": null,
         "action_required": "approve"
       },
       {
-        "item_number": "V.4",
+        "item_number": "V4",
         "title": "Preston Green Park",
         "description": "Authorize adoption of the Preston Green Park Master Plan.",
         "presenter": null,
         "action_required": "approve"
       },
       {
-        "item_number": "V.5",
+        "item_number": "V5",
         "title": "Bachman Creek Greenbelt",
-        "description": "Authorize a public hearing to be held on December 11, 2024, regarding the proposed use of a portion of parkland.",
+        "description": "Authorize a public hearing to be held on December 11, 2024, to receive comments on the proposed use of a portion of parkland at Bachman Creek Greenbelt.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -91,35 +91,28 @@
       {
         "item_number": "VIII",
         "title": "Executive Session",
-        "description": "Seeking advice of the City Attorney regarding various matters.",
+        "description": "Seeking advice of the City Attorney regarding the City’s management contract with Fair Park First.",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "IX",
-        "title": "UPDATE",
+        "title": "Update",
         "description": "Budget Development Update",
         "presenter": "Rachael Berry",
         "action_required": null
       },
       {
         "item_number": "X",
-        "title": "OTHER/NON-ACTION ITEMS",
-        "description": "Staff Announcements and Park & Recreation Board Members liaison reports.",
+        "title": "Other/Non-Action Items",
+        "description": "Staff Announcements – Upcoming Park & Recreation Department Events",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "XI",
-        "title": "Next Park Board meeting",
+        "title": "Next Park Board Meeting",
         "description": "10:00 am Thursday, November 7, 2024",
-        "presenter": null,
-        "action_required": null
-      },
-      {
-        "item_number": "XII",
-        "title": "Adjournment",
-        "description": "",
         "presenter": null,
         "action_required": null
       }

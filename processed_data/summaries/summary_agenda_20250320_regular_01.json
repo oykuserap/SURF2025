@@ -2,8 +2,8 @@
   "agenda_identifier": "agenda_20250320_regular_01",
   "agenda_number": 20250320,
   "source_file": "agenda_20250320_regular_01.txt",
-  "summary": "**Meeting Overview**:  \nThe Citizen Homelessness Commission (CHC) of the City of Dallas, Texas, is scheduled for a regular meeting on March 20, 2025, at 1:00 PM. The primary purpose of this meeting is to discuss ongoing initiatives and strategies to address homelessness in the city.\n\n**Key Agenda Items**:  \nThe agenda includes discussions on current homelessness statistics, updates on existing programs, and the evaluation of new initiatives aimed at reducing homelessness. The commission will also review community feedback and assess the effectiveness of current policies.\n\n**Important Details**:  \nSignificant proposals under consideration include the expansion of temporary housing facilities and the introduction of new outreach programs targeting vulnerable populations. Budget allocations for these initiatives will be discussed, with a focus on securing additional funding sources to support enhanced services.\n\n**Action Items**:  \nThe commission is seeking approval for the proposed budget adjustments and the implementation of new outreach strategies. Additionally, decisions will be made regarding the prioritization of projects aimed at improving the overall effectiveness of homelessness interventions in Dallas.\n\n(Note: The meeting has been marked as \"CANCELLED,\" indicating that no further action or discussion will take place on the scheduled date.)",
+  "summary": "Error generating summary: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-d8v1FzUXCcTCoM04EVDqEBc2 on tokens per min (TPM): Limit 200000, Used 200000, Requested 213. Please try again in 63ms. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}",
   "original_length": 1163,
-  "summary_length": 1368,
-  "processed_at": "270961.83562375"
+  "summary_length": 375,
+  "processed_at": "290451.86823375"
 }

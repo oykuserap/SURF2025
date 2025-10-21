@@ -6,7 +6,7 @@
     "meeting_info": {
       "date": "December 5, 2023",
       "time": "1:00 PM",
-      "type": "Council Committee Meeting",
+      "type": "Regular Meeting",
       "organization": "Transportation and Infrastructure Committee",
       "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
     },
@@ -29,7 +29,10 @@
         "Moreno",
         "Resendez",
         "Gracey",
-        "Willis"
+        "Willis",
+        "Blackmon",
+        "Schultz",
+        "Johnson"
       ]
     },
     "agenda_items": [
@@ -79,11 +82,11 @@
       "Snow and Ice Preparation",
       "City Council",
       "Dallas",
-      "Committee Meeting"
+      "Meeting Minutes"
     ],
     "financial_items": [
       {
-        "description": "Building Services: Authorize Supplemental Agreement No. 1 to the construction services contract with Chamberlin Dallas LLC.",
+        "description": "Building Services: Authorize Supplemental Agreement No. 1 to the construction services contract with Chamberlin Dallas LLC",
         "amount": "$1,000,000.00",
         "type": "budget"
       },
@@ -93,17 +96,17 @@
         "type": "budget"
       },
       {
-        "description": "Water Utilities: Authorize an increase in the construction services contract with Douglas Dailey Construction, LLC.",
+        "description": "Water Utilities: Authorize an increase in the construction services contract with Douglas Dailey Construction, LLC",
         "amount": "$2,491,279.00",
         "type": "budget"
       },
       {
-        "description": "Water Utilities: Authorize a construction services contract for the installation of a 2.0-million-gallon elevated water storage tank.",
+        "description": "Water Utilities: Authorize a construction services contract for the installation of a 2.0-million-gallon elevated water storage tank",
         "amount": "$16,790,000.00",
         "type": "budget"
       },
       {
-        "description": "Water Utilities: Authorize settlement of a condemnation proceeding.",
+        "description": "Water Utilities: Authorize settlement of a condemnation proceeding styled City of Dallas v. Pamela Samantha Keats",
         "amount": "$340,600.00",
         "type": "expenditure"
       }

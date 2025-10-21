@@ -16,7 +16,18 @@
       "participants": []
     },
     "agenda_items": [],
-    "keywords": [],
+    "keywords": [
+      "Building Inspection",
+      "Advisory Board",
+      "Meeting Cancelled",
+      "Development Services",
+      "Dallas",
+      "January 16, 2024",
+      "No Business",
+      "Examining Board",
+      "Appeals Board",
+      "Inspection Division"
+    ],
     "financial_items": []
   },
   "extraction_method": "openai_gpt",

@@ -54,7 +54,7 @@
       {
         "item_number": "6",
         "title": "Case Docket",
-        "description": "Uncontested Items - Holdover Items - Individual Items",
+        "description": "Uncontested Items, Holdover Items, Individual Items",
         "presenter": null,
         "action_required": null
       },
@@ -73,15 +73,15 @@
       "Special Exception",
       "Setback Regulations",
       "Fence Height Regulations",
-      "Parking Regulations",
-      "Dallas City Hall",
-      "Council Chambers",
-      "Videoconference",
       "Public Testimony",
-      "Approval of Minutes",
+      "Minutes Approval",
+      "Dallas City Hall",
+      "Videoconference",
       "Uncontested Items",
       "Holdover Items",
-      "Individual Cases"
+      "Individual Items",
+      "Accommodations",
+      "Executive Session"
     ],
     "financial_items": []
   },

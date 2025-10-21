@@ -28,7 +28,7 @@
       {
         "item_number": "I",
         "title": "Call to Order",
-        "description": null,
+        "description": "",
         "presenter": "Commissioner Mercado-Cruz",
         "action_required": null
       },
@@ -42,56 +42,56 @@
       {
         "item_number": "III",
         "title": "D-Town Showdown Event Update",
-        "description": null,
+        "description": "",
         "presenter": "Commissioner Tenner",
         "action_required": "discuss"
       },
       {
         "item_number": "IV",
         "title": "Quarterly Newsletter Update",
-        "description": null,
+        "description": "",
         "presenter": "Commissioner Hawkins",
         "action_required": "discuss"
       },
       {
         "item_number": "V",
         "title": "Healthy Futures of Texas Symposium Recap",
-        "description": null,
+        "description": "",
         "presenter": "Commissioner Tamfu and Jeffus",
         "action_required": "discuss"
       },
       {
         "item_number": "VI",
         "title": "Reports of Special Committees",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "VII",
         "title": "Committee Expectations/Rules",
-        "description": null,
+        "description": "",
         "presenter": "Taylor Moody",
         "action_required": null
       },
       {
         "item_number": "VIII",
         "title": "Unfinished Business/General Orders",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "IX",
         "title": "Announcements",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "X",
         "title": "Adjournment",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       }
@@ -99,13 +99,13 @@
     "keywords": [
       "Dallas Youth Commission",
       "Regular Meeting",
+      "Call to Order",
+      "Approval of Minutes",
       "D-Town Showdown",
       "Quarterly Newsletter",
-      "Healthy Futures of Texas",
-      "Committee Reports",
-      "Community Engagement",
-      "Youth Programs",
-      "Event Updates",
+      "Healthy Futures",
+      "Symposium Recap",
+      "Special Committees",
       "Committee Expectations",
       "Unfinished Business",
       "Announcements",

@@ -54,7 +54,7 @@
       {
         "item_number": "6",
         "title": "Case Docket",
-        "description": "Uncontested Items, Holdover Items, Individual Items",
+        "description": "Uncontested Items - Holdover Items - Individual Items",
         "presenter": null,
         "action_required": null
       },
@@ -70,18 +70,18 @@
       "Dallas",
       "Board of Adjustment",
       "Public Hearing",
+      "Miscellaneous Items",
+      "Case Docket",
       "Variance",
       "Special Exception",
       "Fence Regulations",
       "Setback Regulations",
-      "Minutes Approval",
       "Public Testimony",
-      "Case Docket",
-      "Uncontested Items",
-      "Holdover Items",
-      "Individual Items",
+      "Minutes Approval",
+      "Executive Session",
       "Accommodations",
-      "Executive Session"
+      "Video Conference",
+      "Registration"
     ],
     "financial_items": []
   },

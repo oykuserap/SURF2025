@@ -2,8 +2,8 @@
   "agenda_identifier": "agenda_20250324_budget",
   "agenda_number": 20250324,
   "source_file": "agenda_20250324_budget.txt",
-  "summary": "**Meeting Overview**:  \nThe Government Performance and Financial Management Committee of the Dallas City Council will convene on March 24, 2025, at 1:00 PM. The meeting will be held both in-person at City Hall and via video conference, with the purpose of discussing various financial and operational matters affecting the city.\n\n**Key Agenda Items**:  \n1. Approval of the minutes from the February 24, 2025, meeting.\n2. Briefings on the Dallas Central Appraisal District’s proposed budget, procurement process improvements, and updates on the City’s Artificial Intelligence initiatives.\n3. Review of real estate developments, including the Cadillac Heights project and upcoming budget ordinance amendments related to public safety and solid waste services.\n\n**Important Details**:  \n- The proposed budget overview from the Dallas Central Appraisal District will outline financial expectations for FY 2025-26.\n- The Office of Procurement Services will present findings on contract management improvements.\n- Updates on the City’s AI plan will include governance and best practices.\n- Significant upcoming agenda items include amendments to solid waste franchises and a cooperative purchasing agreement for budgeting software.\n\n**Action Items**:  \nThe committee will seek approval for the meeting minutes and will discuss several upcoming agenda items requiring council decisions, including budget amendments and procurement agreements. Additionally, the committee will review reports on various city projects and financial accountability measures.",
+  "summary": "Error generating summary: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-d8v1FzUXCcTCoM04EVDqEBc2 on tokens per min (TPM): Limit 200000, Used 200000, Requested 4171. Please try again in 1.251s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}",
   "original_length": 25790,
-  "summary_length": 1547,
-  "processed_at": "270976.223548541"
+  "summary_length": 378,
+  "processed_at": "290458.392085791"
 }

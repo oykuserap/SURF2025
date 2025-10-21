@@ -39,29 +39,29 @@
       },
       {
         "item_number": "4",
-        "title": "Amendment to Abandonment Regulations",
+        "title": "Abandonment Regulations",
         "description": "An ordinance amending Ordinance No. 32863, previously approved on September 18, 2024 to add regulations regarding abandonment of public rights-of-way.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "5",
-        "title": "Rescission of CDBG Contract",
+        "title": "CDBG Contract Rescission",
         "description": "Authorize an amendment to Resolution No. 22-0984, previously authorized on June 22, 2022 authorizing the rescission of the Community Development Block Grant (CDBG) Contract.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "6",
-        "title": "Cooperative Purchasing Agreement",
-        "description": "Authorize a three-year cooperative purchasing service price agreement for litigation and pre-litigation support.",
+        "title": "Litigation Support Services",
+        "description": "Authorize a three-year cooperative purchasing service price agreement for litigation and pre-litigation support including legal document reproduction services.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "7",
-        "title": "Supplemental Agreement for Legal Representation",
-        "description": "Authorize Supplemental Agreement No. 2 to the professional services contract for continued legal representation.",
+        "title": "Legal Representation for Firefighter",
+        "description": "Authorize Supplemental Agreement No. 2 to the professional services contract for continued legal representation to Dallas Firefighter Brad Alan Cox.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -74,7 +74,7 @@
       },
       {
         "item_number": "9",
-        "title": "Grant Application for Internet Crimes Against Children",
+        "title": "Internet Crimes Against Children Grant",
         "description": "Authorize the application for and acceptance of supplemental funding from the U.S. Department of Justice for the Internet Crimes Against Children Grant.",
         "presenter": null,
         "action_required": "approve"
@@ -82,7 +82,7 @@
       {
         "item_number": "10",
         "title": "Cooperative Working Agreements",
-        "description": "Authorize cooperative working agreements through the Internet Crimes Against Children Grant.",
+        "description": "Authorize cooperative working agreements through the Internet Crimes Against Children Grant with various Police Departments.",
         "presenter": null,
         "action_required": "approve"
       }
@@ -92,11 +92,11 @@
       "Regular Meeting",
       "Ordinance",
       "Budget",
-      "Appropriations",
       "CDBG",
       "Grant",
-      "Legal Representation",
-      "Public Rights-of-Way",
+      "Legal Services",
+      "Public Hearing",
+      "Zoning",
       "Community Development"
     ],
     "financial_items": [
@@ -106,19 +106,24 @@
         "type": "budget"
       },
       {
-        "description": "Funding for litigation and pre-litigation support",
+        "description": "Funding for litigation support services",
         "amount": "$300,000.00",
         "type": "expenditure"
       },
       {
-        "description": "Supplemental funding for Internet Crimes Against Children Grant",
-        "amount": "$925,369.00",
-        "type": "grant"
+        "description": "Legal representation for firefighter lawsuit",
+        "amount": "$50,000.00",
+        "type": "expenditure"
       },
       {
-        "description": "Issuance of Combination Tax and Revenue Certificates of Obligation",
+        "description": "Issuance of Certificates of Obligation",
         "amount": "$40,000,000",
         "type": "funding"
+      },
+      {
+        "description": "Internet Crimes Against Children Grant funding",
+        "amount": "$925,369.00",
+        "type": "grant"
       }
     ]
   },

@@ -26,7 +26,7 @@
       {
         "item_number": "A",
         "title": "Approval of Minutes",
-        "description": "Approval of Minutes of the March 26, 2024 Special Called Joint Meeting of the Council Ad Hoc Committee on Professional Sports Recruitment and Retention and Council Economic Development Committee. Approval of the April 1, 2024 Economic Development Committee Meeting Minutes.",
+        "description": "Approval of the Minutes of the March 26, 2024 Special Called Joint Meeting of the Council Ad Hoc Committee on Professional Sports Recruitment and Retention and Council Economic Development Committee. Approval of the April 1, 2024 Economic Development Committee Meeting Minutes.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -34,49 +34,49 @@
         "item_number": "B",
         "title": "FY 24-25 Budget Briefings",
         "description": "Briefings on Convention & Event Services and Planning & Urban Design.",
-        "presenter": "Rosa Fleming, Andrea Gilles",
+        "presenter": "Rosa Fleming, Director, Convention & Event Services; Andrea Gilles, Interim Director, Planning & Urban Design",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "Media Production Development Zone",
         "description": "Discussion on South Side Studios Dallas, LLC.",
-        "presenter": "Heather Lepeska",
+        "presenter": "Heather Lepeska, Assistant Director",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "Development Services Monthly Technology and Metrics Review",
         "description": "Review of monthly technology and metrics by Development Services.",
-        "presenter": "Andrew Espinoza",
+        "presenter": "Andrew Espinoza, Director/Chief Building Official, Development Services",
         "action_required": "discuss"
       },
       {
         "item_number": "E",
         "title": "Small Business Center Partnership",
         "description": "Discussion on partnership with Small Business Administration.",
-        "presenter": "Joyce Williams",
+        "presenter": "Joyce Williams, Director, Small Business Center",
         "action_required": "discuss"
       },
       {
         "item_number": "F",
         "title": "D CEO’s 2024 Commercial Real Estate Awards",
-        "description": "Presentation on the 2024 Commercial Real Estate Awards.",
-        "presenter": "Kevin Spath",
+        "description": "Discussion on the 2024 Commercial Real Estate Awards.",
+        "presenter": "Kevin Spath, Interim Director, Office of Economic Development",
         "action_required": "discuss"
       },
       {
         "item_number": "G",
         "title": "Dallas Business Journal’s 2024 Best Real Estate Deals",
-        "description": "Presentation on the 2024 Best Real Estate Deals.",
-        "presenter": "Kevin Spath",
+        "description": "Discussion on the 2024 Best Real Estate Deals.",
+        "presenter": "Kevin Spath, Interim Director, Office of Economic Development",
         "action_required": "discuss"
       },
       {
         "item_number": "H",
         "title": "Upcoming Agenda Item for Proposed Amendments",
         "description": "Discussion on proposed amendments for Shops at RedBird Project Development Agreement.",
-        "presenter": "Kevin Spath",
+        "presenter": "Kevin Spath, Interim Director, Office of Economic Development",
         "action_required": "discuss"
       }
     ],
@@ -87,10 +87,10 @@
       "Media Production",
       "Development Services",
       "Real Estate Awards",
-      "Partnerships",
-      "Technology Review",
-      "Commercial Real Estate",
-      "Shops at RedBird"
+      "Best Real Estate Deals",
+      "Shops at RedBird",
+      "City Council",
+      "Dallas"
     ],
     "financial_items": []
   },

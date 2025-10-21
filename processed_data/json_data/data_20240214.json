@@ -8,7 +8,7 @@
       "time": "5:30 PM",
       "type": "Briefing",
       "organization": "Environmental Commission",
-      "location": "Council Chambers, 6th Floor, City of Dallas, 1500 Marilla Street, Dallas, Texas 75201"
+      "location": "Council Chambers, 6th Floor, Dallas, Texas"
     },
     "attendees": {
       "chair": null,
@@ -19,15 +19,14 @@
     "keywords": [
       "Environmental Commission",
       "Dallas",
-      "briefing",
       "executive session",
       "litigation",
       "real property",
       "contract",
       "employment",
       "security",
-      "economic development",
-      "financial information"
+      "financial information",
+      "economic development"
     ],
     "financial_items": []
   },

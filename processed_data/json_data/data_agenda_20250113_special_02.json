@@ -46,21 +46,21 @@
       {
         "item_number": "V",
         "title": "Community Development Division Report",
-        "description": "Briefing on FY 2023-24 Community Development Commission Annual Report, Community Development Block Grant, and FY 2025-26 HUD Budget Development Process.",
+        "description": "Overview of FY 2023-24 Community Development Commission Annual Report, Community Development Block Grant: Timely Expenditure of Funds, and the FY 2025-26 HUD Budget Development Process.",
         "presenter": "Chan Williams",
         "action_required": null
       },
       {
         "item_number": "VI",
         "title": "Chair’s Report",
-        "description": "General greetings and acknowledgements by the Chair.",
+        "description": "General greetings and acknowledgements to staff, commission members and other members of the public.",
         "presenter": "Melanie Rubin",
         "action_required": null
       },
       {
         "item_number": "VII",
         "title": "Vice Chair’s Report",
-        "description": "General acknowledgements by the Vice Chair.",
+        "description": "General acknowledgements to staff, commission members and members of the public.",
         "presenter": "Zhen Barrientos",
         "action_required": null
       },
@@ -74,7 +74,7 @@
       {
         "item_number": "X",
         "title": "Announcements",
-        "description": "Expressions of thanks, congratulations, or condolence; information about holiday schedules and upcoming events.",
+        "description": "Expressions of thanks, congratulations, or condolence; information about holiday schedules; honorary or salutary recognition of public officials.",
         "presenter": null,
         "action_required": null
       },
@@ -95,12 +95,13 @@
       "CDBG",
       "Financial Monitoring",
       "Performance Standards",
+      "Public Speakers",
       "Announcements",
       "Dallas City Hall",
       "Videoconference",
-      "Public Speakers",
-      "Chair's Report",
-      "Vice Chair's Report"
+      "Equitable Access",
+      "Inclusion",
+      "Community Services"
     ],
     "financial_items": [
       {

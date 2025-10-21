@@ -12,14 +12,10 @@
     },
     "attendees": {
       "chair": "Matthew McDougal",
-      "presenters": [],
-      "participants": [
-        "Ellen Stafford",
-        "Erika Guerrero",
-        "Karen Gonzalez",
-        "Preston Robinson",
-        "Rodney Patten"
-      ]
+      "presenters": [
+        "Matthew L. McDougal"
+      ],
+      "participants": []
     },
     "agenda_items": [
       {

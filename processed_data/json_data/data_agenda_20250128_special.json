@@ -8,7 +8,7 @@
       "time": "1:00 P.M.",
       "type": "Special Called Meeting",
       "organization": "Government Performance and Financial Management Committee",
-      "location": "City Hall and via video conference"
+      "location": "City Hall, Dallas, Texas (also available via video conference)"
     },
     "attendees": {
       "chair": "Chad West",
@@ -43,7 +43,7 @@
       {
         "item_number": "C",
         "title": "Performance Review for City Auditor",
-        "description": "Review of the performance of the City Auditor.",
+        "description": "Performance review for the City Auditor.",
         "presenter": "Chad West",
         "action_required": "discuss"
       },
@@ -56,7 +56,7 @@
       },
       {
         "item_number": "E",
-        "title": "Technology Accountability Report",
+        "title": "Technology Accountability Report (Information as of Dec 30, 2024)",
         "description": "Report on technology accountability as of December 30, 2024.",
         "presenter": "Information & Technology Services",
         "action_required": "discuss"
@@ -64,28 +64,28 @@
       {
         "item_number": "F",
         "title": "Office of the City Auditor Monthly Internal Update on Internal Audit Reports",
-        "description": "Update on internal audit reports released between November 23, 2024, and January 17, 2025.",
+        "description": "Monthly update on internal audit reports released between November 23, 2024, and January 17, 2025.",
         "presenter": "City Auditor",
         "action_required": "discuss"
       },
       {
         "item_number": "G",
-        "title": "Office of the City Auditor Annual Report - Fiscal Year 2024",
+        "title": "Office of the City Auditor Annual Report - Fiscal Year 2024 Annual Report",
         "description": "Annual report from the Office of the City Auditor for fiscal year 2024.",
         "presenter": "City Auditor",
         "action_required": "discuss"
       },
       {
         "item_number": "H",
-        "title": "Report on Progress of Family Gateway Property Repairs",
-        "description": "Update on the progress of repairs for Family Gateway properties as of December 2024.",
+        "title": "Report on Progress of Family Gateway Property Repairs as of December 2024",
+        "description": "Update on the progress of repairs for Family Gateway properties.",
         "presenter": "Office of Homeless Solutions",
         "action_required": "discuss"
       },
       {
         "item_number": "I",
-        "title": "Report on the 70th and 71st Supplemental Bond Ordinance",
-        "description": "Report authorizing Dallas Fort Worth International Airport to issue up to $3 billion of debt.",
+        "title": "Report on the 70th Supplemental Bond Ordinance and 71st Supplemental Bond Ordinance",
+        "description": "Discussion on the bond ordinances authorizing Dallas Fort Worth International Airport to issue up to $3 billion of debt.",
         "presenter": "Office of Government Affairs",
         "action_required": "discuss"
       },
@@ -105,8 +105,8 @@
       },
       {
         "item_number": "L",
-        "title": "Upcoming Agenda Item for the Feb 12, 2025, City Council Meeting",
-        "description": "Seeking authorization of a three-year contract with West Publishing Corporation for online legal research.",
+        "title": "Upcoming Agenda Item # 25-206A for the Feb 12, 2025, City Council Meeting",
+        "description": "Seeking authorization of a three-year contract with West Publishing Corporation for online legal research and associated services.",
         "presenter": "City Attorney’s Office",
         "action_required": "discuss"
       },
@@ -119,8 +119,8 @@
       },
       {
         "item_number": "N",
-        "title": "Real Estate Closed Session",
-        "description": "Deliberation on the purchase, exchange, lease, or value of real property.",
+        "title": "Real Estate",
+        "description": "Closed session to deliberate the purchase, exchange, lease, or value of real property.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -138,8 +138,7 @@
       "Bond Ordinance",
       "City Hall",
       "Housing Finance",
-      "Real Estate",
-      "Closed Session"
+      "Real Estate"
     ],
     "financial_items": []
   },

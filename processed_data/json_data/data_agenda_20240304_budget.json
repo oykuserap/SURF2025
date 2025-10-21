@@ -32,14 +32,14 @@
       {
         "item_number": "B",
         "title": "Update on City of Dallas Economic Development Corporation",
-        "description": "Presentation on the current status and updates regarding the Economic Development Corporation.",
+        "description": "Presentation on the current status and activities of the Economic Development Corporation.",
         "presenter": "John Stephen",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "Development Services Monthly Technology and Metrics",
-        "description": "Presentation on the monthly technology updates and metrics from Development Services.",
+        "description": "Overview of technology and metrics related to development services.",
         "presenter": "Andrew Espinoza",
         "action_required": "discuss"
       },
@@ -53,14 +53,14 @@
       {
         "item_number": "E",
         "title": "Proposed Amendments to City of Dallas Economic Development Incentive Policy",
-        "description": "Discussion on proposed amendments to the economic development incentive policy.",
+        "description": "Review of proposed changes to the economic development incentive policy.",
         "presenter": "Robin Bentley",
         "action_required": "discuss"
       },
       {
         "item_number": "F",
         "title": "South Dallas Fair Park Opportunity Fund - Human Development NOFA Awards",
-        "description": "Discussion on the awards related to the South Dallas Fair Park Opportunity Fund.",
+        "description": "Presentation on the awards related to the South Dallas Fair Park Opportunity Fund.",
         "presenter": "Joyce Williams",
         "action_required": "discuss"
       }
@@ -72,15 +72,14 @@
       "Meeting Minutes",
       "Loan Agreement",
       "Incentive Policy",
-      "Technology Metrics",
-      "Fair Park",
-      "Public Affairs",
-      "Committee Meeting",
       "Development Services",
-      "Small Business Center",
-      "Executive Session",
-      "Videoconference",
-      "Public Participation"
+      "Technology",
+      "Metrics",
+      "Fair Park",
+      "Opportunity Fund",
+      "Human Development",
+      "Public Affairs",
+      "Executive Session"
     ],
     "financial_items": []
   },

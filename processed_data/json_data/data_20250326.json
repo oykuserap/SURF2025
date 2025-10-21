@@ -19,71 +19,71 @@
       {
         "item_number": "1",
         "title": "Approval of Minutes of the February 26, 2025 City Council Meeting",
-        "description": "Approval of the minutes from the previous meeting.",
+        "description": "",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "2",
         "title": "Authorize revisions to the Financial Management Performance Criteria",
-        "description": "Revisions include establishing an Employee Benefit Reserve, clarifying pension benefit adjustments, and other financial management updates.",
-        "presenter": "Budget and Management Services",
+        "description": "Add language that establishes an Employee Benefit Reserve in Unassigned Fund Balance; clarify the pension benefit adjustment approval process; change the comparison of the disabled and over 65 property tax exemption; exclude certificate of obligation debt repaid by Enterprise Funds; add language for systematic funding of retirement systems.",
+        "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "3",
-        "title": "Amendment to Ordinance No. 32861",
-        "description": "Amendments for transfers and appropriation adjustments for FY 2024-25.",
-        "presenter": "Budget and Management Services",
+        "title": "An ordinance amending Ordinance No. 32861",
+        "description": "Authorize certain transfers and appropriation adjustments for FY 2024-25 for various departments.",
+        "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "4",
-        "title": "Authorize settlement of lawsuit Jon Puryear EMS CE LLC v. City of Dallas",
-        "description": "Settlement of the lawsuit not to exceed $100,000.",
-        "presenter": "City Attorney's Office",
+        "title": "Authorize settlement of the lawsuit styled, Jon Puryear EMS CE LLC v. City of Dallas",
+        "description": "",
+        "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "5",
-        "title": "Authorize settlement of lawsuit Laura Alonzo v. City of Dallas",
-        "description": "Settlement of the lawsuit not to exceed $82,000.",
-        "presenter": "City Attorney's Office",
+        "title": "Authorize settlement of the lawsuit styled, Laura Alonzo, Individually, and as Next Friend of M.A.",
+        "description": "",
+        "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "6",
-        "title": "Authorize settlement of bodily injury claims by Sterling Bradshaw",
-        "description": "Settlement of claims not to exceed $30,000.",
-        "presenter": "City Attorney's Office",
+        "title": "Authorize settlement of bodily injury claims brought by Sterling Bradshaw",
+        "description": "",
+        "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "7",
-        "title": "Increase in joint election agreement with Collin County",
-        "description": "Increase in election services contract for the November 5, 2024 special election.",
-        "presenter": "City Secretary's Office",
+        "title": "A resolution authorizing an increase in the joint election agreement",
+        "description": "Increase in the joint election agreement and election services contract for the November 5, 2024, special election.",
+        "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "8",
-        "title": "Interlocal agreement with Dallas Independent School District",
-        "description": "Agreement for emergency medical services during District events.",
-        "presenter": "Dallas Fire-Rescue Department",
+        "title": "Authorize a three-year interlocal agreement with Dallas Independent School District",
+        "description": "Provide emergency medical services during football games and other District events.",
+        "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "9",
-        "title": "Sole source services agreement for asset tracking system",
-        "description": "Agreement for equipment, maintenance, and support for the Dallas Police Department.",
-        "presenter": "Dallas Police Department",
+        "title": "Authorize a five-year sole source services agreement for asset tracking system equipment",
+        "description": "",
+        "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "10",
-        "title": "Standard Utility Agreement with the State of Texas",
-        "description": "Agreement for water pipeline encasement extensions.",
-        "presenter": "Dallas Water Utilities Department",
+        "title": "Authorize a Standard Utility Agreement with the State of Texas",
+        "description": "For water pipeline encasement extensions in State Highway 205.",
+        "presenter": null,
         "action_required": "approve"
       }
     ],
@@ -92,33 +92,33 @@
       "meeting",
       "agenda",
       "financial management",
-      "settlement",
-      "lawsuit",
+      "lawsuit settlements",
       "election agreement",
-      "emergency services",
+      "emergency medical services",
       "asset tracking",
-      "utility agreement"
+      "utility agreement",
+      "public hearings"
     ],
     "financial_items": [
       {
-        "description": "Settlement of lawsuit Jon Puryear EMS CE LLC v. City of Dallas",
+        "description": "Settlement of the lawsuit styled, Jon Puryear EMS CE LLC v. City of Dallas",
         "amount": "$100,000.00",
-        "type": "settlement"
+        "type": "expenditure"
       },
       {
-        "description": "Settlement of lawsuit Laura Alonzo v. City of Dallas",
+        "description": "Settlement of the lawsuit styled, Laura Alonzo, Individually, and as Next Friend of M.A.",
         "amount": "$82,000.00",
-        "type": "settlement"
+        "type": "expenditure"
       },
       {
-        "description": "Settlement of bodily injury claims by Sterling Bradshaw",
+        "description": "Settlement of bodily injury claims brought by Sterling Bradshaw",
         "amount": "$30,000.00",
-        "type": "settlement"
+        "type": "expenditure"
       },
       {
-        "description": "Increase in joint election agreement with Collin County",
+        "description": "Increase in the joint election agreement for the November 5, 2024, special election",
         "amount": "$21,738.51",
-        "type": "election services"
+        "type": "expenditure"
       }
     ]
   },

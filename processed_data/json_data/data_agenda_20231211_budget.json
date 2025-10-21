@@ -8,7 +8,7 @@
       "time": "3:01 PM",
       "type": "Ad Hoc Committee Meeting",
       "organization": "Ad Hoc Committee on Legislative Affairs",
-      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; Virtual via Webex"
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
     },
     "attendees": {
       "chair": "Atkins",
@@ -52,7 +52,8 @@
       "Public Meeting",
       "Government Affairs",
       "City Attorney",
-      "Economic Development"
+      "Economic Development",
+      "Public Participation"
     ],
     "financial_items": []
   },

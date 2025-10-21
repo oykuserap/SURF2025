@@ -13,7 +13,7 @@
     "attendees": {
       "chair": "Temporary Chair",
       "presenters": [
-        "Heather Lowe",
+        "Heather Lowe, Director",
         "Debra Jonhson",
         "Shannon Adams"
       ],
@@ -37,7 +37,7 @@
       {
         "item_number": "III",
         "title": "Approval of Minutes",
-        "description": "Approval of the minutes from the meeting on September 24, 2024.",
+        "description": "Approval of minutes from the meeting on September 24, 2024.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -52,7 +52,7 @@
         "item_number": "V",
         "title": "Staff Reports/Briefings",
         "description": "Director’s Report including Library’s Strategic & Facilities Plan update and Adult Learning overview.",
-        "presenter": "Heather Lowe",
+        "presenter": "Heather Lowe, Director",
         "action_required": null
       },
       {
@@ -74,7 +74,11 @@
       "Strategic Plan",
       "Facilities Plan",
       "Adult Learning",
-      "Adjournment"
+      "Library",
+      "Community",
+      "Access",
+      "Equity",
+      "Inclusion"
     ],
     "financial_items": []
   },

@@ -8,7 +8,7 @@
       "time": "3:00 PM",
       "type": "Ad Hoc Committee Meeting",
       "organization": "City Council Ad Hoc Committee on General Investigating and Ethics",
-      "location": "Council Briefing Room, 6th Floor at City Hall and via videoconference"
+      "location": "Council Briefing Room, 6th Floor at City Hall, Dallas, Texas; also held by videoconference"
     },
     "attendees": {
       "chair": null,
@@ -35,7 +35,7 @@
         "title": "Request for Audit or Investigation",
         "description": "Consider requesting the Office of the City Auditor to conduct or facilitate a limited-scope audit or investigation of the City’s due diligence process for the purchase of the 7800 N. Stemmons Freeway office building and subsequent improvements, inspections, and permitting activities completed before the decision to start moving employees into the building, including comparing the practices observed to industry practices.",
         "presenter": null,
-        "action_required": "consider"
+        "action_required": "discuss"
       }
     ],
     "keywords": [
@@ -49,7 +49,11 @@
       "investigation",
       "due diligence",
       "real property",
-      "executive session"
+      "executive session",
+      "public meeting",
+      "videoconference",
+      "City Hall",
+      "minutes approval"
     ],
     "financial_items": []
   },

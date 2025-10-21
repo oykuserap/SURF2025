@@ -29,91 +29,76 @@
       {
         "item_number": "I",
         "title": "Call to Order",
-        "description": "",
+        "description": "Opening of the meeting by the Chair.",
         "presenter": "Melanie Rubin",
         "action_required": null
       },
       {
         "item_number": "II",
         "title": "Roll Call",
-        "description": "Community Development Coordinator",
+        "description": "Attendance check by the Community Development Coordinator.",
         "presenter": "Community Development Coordinator",
         "action_required": null
       },
       {
         "item_number": "IV",
-        "title": "Approval of the March 6, 2025, Meeting Minutes",
-        "description": "",
+        "title": "Approval of Minutes",
+        "description": "Approval of the March 6, 2025, Community Development Commission Meeting Minutes.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "V",
         "title": "Community Development Division Reports",
-        "description": "Updates on City Managers’ Proposed FY 2025-26 HUD Consolidated Plan Budget and other reports.",
-        "presenter": "Chan Williams, Shayna Toney",
+        "description": "Reports on various community development activities.",
+        "presenter": null,
         "action_required": null
       },
       {
         "item_number": "VI",
         "title": "Chair’s Report",
-        "description": "General greetings and acknowledgements.",
+        "description": "General greetings and acknowledgements by the Chair.",
         "presenter": "Melanie Rubin",
         "action_required": null
       },
       {
         "item_number": "VII",
         "title": "Vice Chair’s Report",
-        "description": "General acknowledgements.",
+        "description": "General acknowledgements by the Vice Chair.",
         "presenter": "Zhen Barrientos",
         "action_required": null
       },
       {
         "item_number": "VIII",
-        "title": "CDC Committee Reports and Recommendations",
-        "description": "Reports from various committees regarding the HUD Consolidated Plan Budget.",
-        "presenter": "Oliver Black, Todd Howard, Arnulfo Garza, Zhen Barrientos",
+        "title": "CDC Committee Reports",
+        "description": "Reports and recommendations from various committees regarding the HUD Consolidated Plan Budget.",
+        "presenter": null,
         "action_required": null
       },
       {
         "item_number": "IX",
-        "title": "Action Item: Review and Approve City Managers’ Proposed FY 2025-26 HUD Consolidated Plan Budget",
-        "description": "",
+        "title": "Action Item: Review and Approve HUD Budget",
+        "description": "Review and approval of the City Managers’ Proposed FY 2025-26 HUD Consolidated Plan Budget.",
         "presenter": "Melanie Rubin",
         "action_required": "approve"
       },
       {
         "item_number": "X",
         "title": "CDC Citizen Participation / Policy & Procedures Committee Report",
-        "description": "Updates on Outreach and Engagement Outcomes.",
+        "description": "Updates on outreach and engagement outcomes for the HUD FY 2025-26 Consolidated Plan.",
         "presenter": "Rosanne Mills",
         "action_required": null
       },
       {
-        "item_number": "XI",
-        "title": "Public Speakers",
-        "description": "",
-        "presenter": null,
-        "action_required": null
-      },
-      {
-        "item_number": "XII",
-        "title": "Announcement",
-        "description": "Expressions of thanks and information about upcoming events.",
-        "presenter": null,
-        "action_required": null
-      },
-      {
-        "item_number": "XIII",
-        "title": "Adjournment",
-        "description": "",
-        "presenter": null,
-        "action_required": null
+        "item_number": "X",
+        "title": "Action Item: Review and Approve Outreach Outcomes",
+        "description": "Review and approval of outreach and engagement outcomes for the HUD FY 2025-26 Consolidated Plan.",
+        "presenter": "Rosanne Mills",
+        "action_required": "approve"
       }
     ],
     "keywords": [
       "Community Development",
-      "CDC",
       "HUD",
       "Budget",
       "Meeting Minutes",
@@ -122,11 +107,7 @@
       "Outreach",
       "Committee Reports",
       "Action Items",
-      "Vice Chair",
-      "Chair",
-      "Dallas City Hall",
-      "April 2025",
-      "Consolidated Plan"
+      "Citizen Participation"
     ],
     "financial_items": [
       {

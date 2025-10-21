@@ -131,11 +131,13 @@ class EmbeddingGenerator:
             
             print(f"   ✅ Embedding generated ({len(embedding)} dimensions)")
             
-            # Create document ID
-            doc_id = f"summary_{summary_data.get('agenda_number', uuid.uuid4())}"
+            # Create document ID using new agenda_identifier format
+            agenda_identifier = summary_data.get('agenda_identifier', f"agenda_{summary_data.get('agenda_number', uuid.uuid4())}")
+            doc_id = f"summary_{agenda_identifier}"
             
             # Add to ChromaDB with safe metadata (no None values)
             metadata = {
+                "agenda_identifier": str(agenda_identifier),
                 "agenda_number": str(summary_data.get("agenda_number", "unknown")),
                 "source_file": str(summary_data.get("source_file", "unknown")),
                 "type": "summary",
@@ -193,8 +195,9 @@ class EmbeddingGenerator:
             
             print(f"   ✅ Embedding generated ({len(embedding)} dimensions)")
             
-            # Create document ID
-            doc_id = f"json_{json_data.get('agenda_number', uuid.uuid4())}"
+            # Create document ID using new agenda_identifier format
+            agenda_identifier = json_data.get('agenda_identifier', f"agenda_{json_data.get('agenda_number', uuid.uuid4())}")
+            doc_id = f"json_{agenda_identifier}"
             
             # Extract metadata
             extracted = json_data.get("extracted_data", {})
@@ -202,6 +205,7 @@ class EmbeddingGenerator:
             
             # Add to ChromaDB with safe metadata (no None values)
             metadata = {
+                "agenda_identifier": str(agenda_identifier),
                 "agenda_number": str(json_data.get("agenda_number", "unknown")),
                 "source_file": str(json_data.get("source_file", "unknown")),
                 "type": "structured_data",

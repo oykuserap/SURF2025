@@ -31,14 +31,14 @@
         "title": "Call Meeting to Order and Roll Call",
         "description": "Declare A Quorum Present and Declare Legal Notice Posted and Meeting Duly Called",
         "presenter": "David King",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "II",
         "title": "Public Comments",
         "description": "Limit 2 minutes per speaker",
         "presenter": "David King",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "III",
@@ -57,21 +57,21 @@
       {
         "item_number": "V",
         "title": "Office of Homeless Solutions Agenda/Contract Forecast",
-        "description": "Substantial Amendment No. 1 to FY 2023-24 Annual Action Plan (HOME ARPA Grant Reallocation)",
-        "presenter": "Sarah Kahn",
+        "description": "Discussion on the forecast and substantial amendment",
+        "presenter": "Christine Crossley",
         "action_required": "discuss"
       },
       {
         "item_number": "VI",
         "title": "Citizen Homelessness Commission: Subcommittee Reports",
         "description": "Reports from various subcommittees",
-        "presenter": null,
-        "action_required": null
+        "presenter": "Various Chairs",
+        "action_required": "discuss"
       },
       {
         "item_number": "VII",
         "title": "Dallas City Code Article XX – Citizen Homelessness Commission",
-        "description": "Discussion on the purpose, duties, and functions of the commission",
+        "description": "Discussion on the purpose and duties of the commission",
         "presenter": "David King",
         "action_required": "discuss"
       },
@@ -92,41 +92,37 @@
       {
         "item_number": "X",
         "title": "Proposed Items for Next/Future Meetings",
-        "description": "No discussion, debate, and/or vote",
+        "description": "Discussion on future meeting items",
         "presenter": "David King",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "XI",
         "title": "Announcement of Upcoming Meetings",
         "description": "Details of upcoming meetings",
         "presenter": "David King",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "XII",
         "title": "Adjournment",
-        "description": null,
+        "description": "Closing of the meeting",
         "presenter": "David King",
-        "action_required": null
+        "action_required": "adjourn"
       }
     ],
     "keywords": [
       "Citizen Homelessness Commission",
       "Dallas City Hall",
-      "Temporary Housing Pilot",
       "Public Comments",
-      "Annual Report",
+      "Approval of Minutes",
+      "Temporary Housing Pilot",
+      "Office of Homeless Solutions",
       "Subcommittee Reports",
-      "Homeless Solutions",
-      "Action Plan",
-      "Housing",
-      "Equity",
-      "Community Engagement",
-      "Public Meeting",
-      "Homelessness Prevention",
-      "Support Services",
-      "City Code"
+      "Dallas City Code",
+      "Annual Report",
+      "Future Meetings",
+      "Adjournment"
     ],
     "financial_items": []
   },

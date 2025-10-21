@@ -50,8 +50,8 @@
       },
       {
         "item_number": "5",
-        "title": "Review and consider a request by the City’s Department of Transportation and Public Works for a dedication of funds.",
-        "description": "Dedication of up to $1,100,000 in the Skillman Corridor TIF District district-wide set-aside funds to support the construction of median improvements and parkway edge landscaping on Skillman Street between Church Road and Sedgwick Street.",
+        "title": "Review and consider a request by the City’s Department of Transportation and Public Works for a dedication of up to $1,100,000 in the Skillman Corridor TIF District district-wide set-aside funds.",
+        "description": "To support the construction of median improvements and parkway edge landscaping on Skillman Street between Church Road and Sedgwick Street in accordance with the Lake Highlands Public Improvement District (“LHPID”) Skillman Street Master Plan.",
         "presenter": "Cameron Anderson, P.E., Program Manager, Department of Transportation and Public Works",
         "action_required": "Approve and forward a recommendation of Approval to City Council"
       },
@@ -74,18 +74,21 @@
       "Skillman Corridor TIF District",
       "Dallas",
       "Board of Directors",
-      "meeting record",
-      "dedication of funds",
-      "median improvements",
-      "landscaping",
-      "strategic implementation plan",
-      "public comments",
-      "quorum",
-      "economic development"
+      "Economic Development",
+      "Transportation",
+      "Public Works",
+      "Median Improvements",
+      "Landscaping",
+      "Strategic Implementation Plan",
+      "Public Comments",
+      "Meeting Record",
+      "Set-aside Funds",
+      "Approval",
+      "Discussion"
     ],
     "financial_items": [
       {
-        "description": "Dedication of funds for median improvements and landscaping.",
+        "description": "Dedication of funds to support construction of median improvements and landscaping.",
         "amount": "$1,100,000",
         "type": "budget"
       }

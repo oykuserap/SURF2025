@@ -34,7 +34,7 @@
       {
         "item_number": "A",
         "title": "Regional Electric Vehicle (EV) Charging Infrastructure Investments Annual Update",
-        "description": "Update on the investments in regional electric vehicle charging infrastructure.",
+        "description": "Annual update on investments in regional electric vehicle charging infrastructure.",
         "presenter": "Lori Clark",
         "action_required": "discuss"
       },
@@ -55,7 +55,7 @@
       {
         "item_number": "D",
         "title": "Upcoming Agenda Item for Council Acceptance of Energy Efficiency and Conservation Block Grant (EECBG)",
-        "description": "Discussion on the upcoming agenda item regarding EECBG.",
+        "description": "Discussion on the upcoming agenda item regarding the acceptance of EECBG.",
         "presenter": "Donzell Gipson",
         "action_required": "discuss"
       },
@@ -69,7 +69,7 @@
       {
         "item_number": "F",
         "title": "Parks, Trails, and Environment Committee Forecast",
-        "description": "Forecast for upcoming items in the Parks, Trails, and Environment Committee.",
+        "description": "Forecast for the Parks, Trails, and Environment Committee.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -84,8 +84,8 @@
       "Energy Efficiency",
       "Conservation",
       "Environmental Commission",
-      "Committee Meeting",
-      "Dallas"
+      "Committee Minutes",
+      "Infrastructure"
     ],
     "financial_items": []
   },

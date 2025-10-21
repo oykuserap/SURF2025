@@ -33,7 +33,7 @@
       {
         "item_number": "B",
         "title": "Dallas Housing Needs Assessment",
-        "description": "Presentation on the Dallas Housing Needs Assessment.",
+        "description": "Briefing on the Dallas Housing Needs Assessment.",
         "presenter": "Thor Erickson",
         "action_required": "discuss"
       },
@@ -68,16 +68,16 @@
       {
         "item_number": "G",
         "title": "Amendment to Council Resolution 19-1495",
-        "description": "Authorization for payment for legal services provided to DHADC.",
+        "description": "Authorize payment for legal services provided to DHADC.",
         "presenter": "Darwin Wade",
-        "action_required": "discuss"
+        "action_required": "approve"
       },
       {
         "item_number": "H",
         "title": "Amendment to Council Resolution 19-1497",
-        "description": "Reallocation of unobligated Bond Funds for land acquisition and fees.",
+        "description": "Reallocate unobligated Bond Funds for land acquisition and fees.",
         "presenter": "Darwin Wade",
-        "action_required": "discuss"
+        "action_required": "approve"
       },
       {
         "item_number": "I",
@@ -89,49 +89,49 @@
       {
         "item_number": "J",
         "title": "Authorize the Dallas Public Facility Corporation to acquire Oakhouse Apartment Homes",
-        "description": "Authorization for the acquisition and development of Oakhouse Apartment Homes.",
+        "description": "Authorize acquisition and development of Oakhouse Apartment Homes.",
         "presenter": "Cynthia Rogers-Ellickson",
-        "action_required": "discuss"
+        "action_required": "approve"
       },
       {
         "item_number": "K",
         "title": "Office of Homeless Solutions- Give Responsibly Campaign",
-        "description": "Discussion on the Give Responsibly Campaign.",
+        "description": "Update on the Give Responsibly Campaign.",
         "presenter": "Christine Crossley",
         "action_required": "discuss"
       },
       {
         "item_number": "L",
         "title": "Office of Homeless Solutions- Upcoming City Council Agenda Items",
-        "description": "Discussion on upcoming agenda items for the City Council.",
+        "description": "Discussion of upcoming agenda items.",
         "presenter": "Christine Crossley",
         "action_required": "discuss"
       },
       {
         "item_number": "M",
         "title": "Authorize the City Manager to exercise renewal options",
-        "description": "Authorization for the City Manager to renew the facility management services contract.",
+        "description": "Authorize renewal options for facility management services contract.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "N",
-        "title": "Authorize the first of two renewal options to the service contract",
-        "description": "Authorization for the service contract with Austin Street Center.",
+        "title": "Authorize renewal options to the service contract with Austin Street Center",
+        "description": "Authorize service contract for homeless recovery services.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "O",
         "title": "Authorize a one-year service contract for housing rental subsidies",
-        "description": "Authorization for a service contract for housing rental subsidies for seniors.",
+        "description": "Authorize service contract for housing rental subsidies for seniors.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "P",
         "title": "Authorize an Interlocal Agreement with Dallas County",
-        "description": "Authorization to accept funds for homeless assistance services.",
+        "description": "Accept funds for homeless assistance services.",
         "presenter": null,
         "action_required": "approve"
       }
@@ -141,17 +141,17 @@
       "Homelessness",
       "Dallas",
       "Committee",
-      "Public Safety",
-      "Community Development",
+      "Public Services",
       "Real Estate",
       "Funding",
-      "Support Services",
+      "Community Development",
+      "Supportive Services",
       "City Council",
       "Renewal Options",
-      "Interlocal Agreement",
-      "Public Facility Corporation",
+      "Legal Services",
       "Bridge Housing",
-      "Inclusive Housing"
+      "Task Force",
+      "Interlocal Agreement"
     ],
     "financial_items": [
       {
@@ -160,7 +160,7 @@
         "type": "budget"
       },
       {
-        "description": "Funding for service contract with Austin Street Center.",
+        "description": "Funding for homeless recovery services contract with Austin Street Center.",
         "amount": "$575,000.00",
         "type": "budget"
       },
@@ -170,7 +170,7 @@
         "type": "budget"
       },
       {
-        "description": "Funds for homeless assistance services at The Bridge.",
+        "description": "Funds from Dallas County for homeless assistance services.",
         "amount": "$1,000,000.00",
         "type": "funding"
       }

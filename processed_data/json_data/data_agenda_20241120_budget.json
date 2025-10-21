@@ -19,8 +19,8 @@
       {
         "item_number": "1",
         "title": "Approval of the June 25, 2024 Minutes",
-        "description": "Consideration of the minutes from the previous meeting.",
-        "presenter": "Paul E. Ridley",
+        "description": "Approval of the minutes from the previous meeting.",
+        "presenter": null,
         "action_required": "approve"
       },
       {
@@ -41,8 +41,7 @@
       "Recommendations",
       "Appointment",
       "Employment",
-      "Minutes",
-      "Action Items"
+      "Open Meetings Act"
     ],
     "financial_items": []
   },

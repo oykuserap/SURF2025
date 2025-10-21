@@ -5,9 +5,9 @@
   "extracted_data": {
     "meeting_info": {
       "date": "September 17, 2024",
-      "time": "10:30 A.M. for briefing and 1:00 P.M. for public hearing",
+      "time": "10:30 A.M. and 1:00 P.M.",
       "type": "Regular Meeting",
-      "organization": "Dallas Board of Adjustment (Panel A)",
+      "organization": "Board of Adjustment (Panel A)",
       "location": "Dallas City Hall, Room 6EN Council Chambers and Videoconference"
     },
     "attendees": {
@@ -67,7 +67,6 @@
       }
     ],
     "keywords": [
-      "Dallas",
       "Board of Adjustment",
       "Public Hearing",
       "Variance",
@@ -75,21 +74,16 @@
       "Fence Height",
       "Tree Conservation",
       "Fee Reimbursement",
+      "Administrative Official",
       "Public Testimony",
       "Minutes Approval",
+      "Dallas City Hall",
+      "Videoconference",
       "Uncontested Items",
       "Holdover Items",
-      "Individual Cases",
-      "Executive Session",
-      "Accommodations"
+      "Individual Cases"
     ],
-    "financial_items": [
-      {
-        "description": "Fee reimbursement for fees paid to appeal the decision of the administrative official.",
-        "amount": null,
-        "type": "fee reimbursement"
-      }
-    ]
+    "financial_items": []
   },
   "extraction_method": "openai_gpt",
   "original_length": 15263

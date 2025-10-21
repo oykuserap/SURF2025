@@ -7,8 +7,8 @@
       "date": "October 15, 2024",
       "time": "9:00 AM",
       "type": "Regular Meeting",
-      "organization": "Workforce, Education, and Equity Committee",
-      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; also available via video conference"
+      "organization": "City Council Workforce, Education, and Equity Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
     },
     "attendees": {
       "chair": "Carolyn King Arnold",
@@ -22,8 +22,8 @@
       ],
       "participants": [
         "Carlos Evans, Director, Environmental Quality and Sustainability",
-        "John D. Jenkins, Director, Parks and Recreation",
         "Heather Lowe, Interim Director, Dallas Public Library",
+        "John D. Jenkins, Director, Parks and Recreation",
         "Martine Elyse Philippe, Director, Office of Arts and Culture"
       ]
     },
@@ -31,21 +31,21 @@
       {
         "item_number": "1",
         "title": "Approval of the September 9, 2024, Workforce, Education, and Equity Committee Meeting Minutes",
-        "description": "Approval of minutes from the previous meeting.",
+        "description": "Approval of the minutes from the previous meeting.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "A",
         "title": "Closing Disparities: Department Progress Measures Update - Vibrant Portfolio",
-        "description": "An update on the progress measures related to closing disparities across various departments.",
+        "description": "Update on progress measures related to closing disparities across various departments.",
         "presenter": "Dr. Lindsey Wilson",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "October 2024 Upskilling Pilot Program Update and Next Steps",
-        "description": "Update on the Upskilling Pilot Program aimed at enhancing employee skills.",
+        "description": "Update on the Upskilling Pilot Program and its objectives.",
         "presenter": "Nina Arias",
         "action_required": "discuss"
       },
@@ -83,17 +83,17 @@
       "Education",
       "Equity",
       "Disparities",
-      "Youth Survey",
+      "Youth",
       "Human Rights",
-      "Upskilling",
       "Community Care",
-      "Martin Luther King Jr.",
-      "Collaboration",
+      "Upskilling",
+      "Dallas",
       "Public Engagement",
+      "Civic Engagement",
       "Diversity",
       "Inclusion",
-      "Economic Development",
-      "Civic Engagement"
+      "Public Safety",
+      "Cultural Events"
     ],
     "financial_items": []
   },

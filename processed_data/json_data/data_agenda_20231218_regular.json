@@ -63,7 +63,7 @@
       {
         "item_number": "6",
         "title": "2024 MLK Celebration Week Update",
-        "description": "Includes updates on various events related to the MLK Celebration Week.",
+        "description": "Updates on various events related to the MLK Celebration Week.",
         "presenter": null,
         "action_required": null
       },
@@ -84,7 +84,7 @@
       {
         "item_number": "9",
         "title": "2023 MLK Center Manager Update",
-        "description": "Update on various programs and events at the MLK Center.",
+        "description": "Updates on various programs and services at the MLK Center.",
         "presenter": "Ms. Pamela R. Jones",
         "action_required": null
       },
@@ -107,11 +107,8 @@
       "Minutes Approval",
       "Updates",
       "Events",
-      "Volunteer Opportunities",
-      "Legal Aid",
-      "Fitness Programs",
-      "Candle Lighting Ceremony",
-      "Scholarship"
+      "Discussion",
+      "Vote"
     ],
     "financial_items": []
   },

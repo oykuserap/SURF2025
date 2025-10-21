@@ -13,15 +13,15 @@
     "attendees": {
       "chair": "Moreno",
       "presenters": [
-        "Christine Crossley, Director, Office of Homeless Solutions",
-        "Brenda Snitzer, Executive Director, The Stewpot",
-        "Sarah Kahn, CEO, Housing Forward",
-        "Darwin Wade, Assistant Director, Department of Housing & Community Development",
-        "Thor Erickson, Assistant Director, Housing & Community Development",
-        "Cynthia Rogers-Ellickson, Director, Housing & Community Development",
-        "Lisa Mares, Section Chief - Economic and Community Development, City Attorney’s Office",
-        "Jaclyn Schroeder, Administrator (I), Housing & Community Development",
-        "Aaron Eaquinto, General Manager, Dallas Housing Finance Corporation"
+        "Christine Crossley",
+        "Brenda Snitzer",
+        "Sarah Kahn",
+        "Darwin Wade",
+        "Thor Erickson",
+        "Cynthia Rogers-Ellickson",
+        "Lisa Mares",
+        "Jaclyn Schroeder",
+        "Aaron Eaquinto"
       ],
       "participants": []
     },
@@ -36,7 +36,7 @@
       {
         "item_number": "A",
         "title": "The Stewpot Acquisition of CitySquare Update and Overview",
-        "description": "Update and overview on the acquisition by The Stewpot.",
+        "description": "Update on the acquisition of CitySquare by The Stewpot.",
         "presenter": "Christine Crossley",
         "action_required": "discuss"
       },
@@ -64,7 +64,7 @@
       {
         "item_number": "E",
         "title": "Discussion of the Recommended Changes to Policy, Operations, and Bylaws",
-        "description": "Discussion on recommended changes for the Dallas Housing Finance Corporation and the Dallas Public Facility Corporation.",
+        "description": "Discussion on recommended changes to policies and bylaws.",
         "presenter": "Cynthia Rogers-Ellickson",
         "action_required": "discuss"
       },
@@ -78,7 +78,7 @@
       {
         "item_number": "G",
         "title": "Department of Housing & Community Development FY 2024-2025 Quarter One Performance Measures",
-        "description": "Discussion on performance measures for the first quarter.",
+        "description": "Review of performance measures for the first quarter.",
         "presenter": "Thor Erickson",
         "action_required": "discuss"
       },
@@ -101,18 +101,13 @@
       "Housing",
       "Homelessness",
       "CitySquare",
-      "The Stewpot",
+      "Stewpot",
       "Street to Home Initiative",
       "Policy Changes",
+      "Housing Production",
       "Performance Measures",
-      "Dallas Housing Finance Corporation",
-      "Community Development",
-      "Low Income Housing Tax Credits",
-      "Affordable Housing",
-      "Executive Session",
-      "City Council",
-      "Public Meeting",
-      "Texas Department of Housing"
+      "City Council Agenda",
+      "Low Income Housing Tax Credits"
     ],
     "financial_items": [
       {

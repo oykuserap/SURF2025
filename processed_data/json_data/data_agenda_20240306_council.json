@@ -43,38 +43,52 @@
         "action_required": "approve"
       },
       {
-        "item_number": "V",
-        "title": "Voting Items",
-        "description": "Vote to pass a special recognition honoring the life, work, and legacy of Raúl Reyes, Jr. and other recommendations.",
+        "item_number": "V.a",
+        "title": "Vote to pass a special recognition honoring the life, work, and legacy of Raúl Reyes, Jr.",
+        "description": null,
         "presenter": null,
         "action_required": "vote"
       },
       {
-        "item_number": "VI",
-        "title": "Briefing Items",
-        "description": "Updates on Keep Dallas Beautiful and the 2024 Water Conservation Plans.",
-        "presenter": "Kevin Mondy; Alicia Lee",
+        "item_number": "V.b",
+        "title": "Recommendation that Council adopt a proclamation supporting Lights Out DFW",
+        "description": null,
+        "presenter": "Heather Bullock",
+        "action_required": "recommend"
+      },
+      {
+        "item_number": "V.c",
+        "title": "Consideration of approval of January 27, 2024 Strategic Planning Workshop Report",
+        "description": null,
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI.a",
+        "title": "Keep Dallas Beautiful Update",
+        "description": "Update on the Keep Dallas Beautiful program and its recent achievements.",
+        "presenter": "Kevin Mondy",
         "action_required": "discuss"
       },
       {
-        "item_number": "VII",
-        "title": "Discussion Items",
-        "description": "Monthly updates from subcommittees and upcoming meetings.",
-        "presenter": null,
-        "action_required": "discuss"
+        "item_number": "VI.b",
+        "title": "Drafts of 2024 Five-Year Water Conservation Work Plan & 2024 Water Conservation Plan",
+        "description": "Presentation on the need for water conservation and the proposed plans.",
+        "presenter": "Alicia Lee",
+        "action_required": "seek support"
       }
     ],
     "keywords": [
       "Environmental Commission",
-      "Dallas",
-      "Water Conservation",
+      "Dallas City Hall",
+      "water conservation",
       "Keep Dallas Beautiful",
-      "Public Awareness Campaign",
-      "Solar Siting Study",
-      "Community Engagement",
-      "Sustainability",
-      "Environmental Justice",
-      "Climate Action"
+      "Lights Out DFW",
+      "public speakers",
+      "strategic planning",
+      "community engagement",
+      "environmental quality",
+      "sustainability"
     ],
     "financial_items": [
       {

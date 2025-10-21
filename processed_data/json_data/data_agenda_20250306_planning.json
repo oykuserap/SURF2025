@@ -5,131 +5,95 @@
   "extracted_data": {
     "meeting_info": {
       "date": "March 6, 2025",
-      "time": null,
-      "type": "Briefing",
-      "organization": "Tx \n\n\n\n                                Community Development Commission",
-      "location": "Dallas City Hall"
+      "time": "6:00 P.M.",
+      "type": "Monthly Meeting",
+      "organization": "Community Development Commission (CDC)",
+      "location": "Dallas City Hall, Conference Room 6ES, and by Videoconference"
     },
     "attendees": {
-      "chair": null,
-      "presenters": [],
-      "participants": []
+      "chair": "Melanie Rubin",
+      "presenters": [
+        "Chan Williams"
+      ],
+      "participants": [
+        "Zhen Barrientos",
+        "Community Development Coordinator"
+      ]
     },
     "agenda_items": [
       {
-        "item_number": "113",
-        "title": "disponible  dos  días  hábiles  luego  de  la  finalización  de  la  \n\n                             ...",
-        "description": "disponible  dos  días  hábiles  luego  de  la  finalización  de  la  \n\n                                                                               reunión en https://dallastx.new.swagit.com/views/",
-        "presenter": null,
-        "action_required": "Action"
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "Opening of the meeting by the chair.",
+        "presenter": "Melanie Rubin",
+        "action_required": null
       },
       {
-        "item_number": "1",
-        "title": "seeking  the  advice  of  its  attorney  about  pending  or  contemplated",
-        "description": "seeking  the  advice  of  its  attorney  about  pending  or  contemplated",
-        "presenter": null,
-        "action_required": "Action"
+        "item_number": "II",
+        "title": "Roll Call",
+        "description": "Attendance check by the Community Development Coordinator.",
+        "presenter": "Community Development Coordinator",
+        "action_required": null
       },
       {
-        "item_number": "1",
-        "title": "Buscar   el  consejo   de   su   abogado   sobre  litigios   pendientes   o  \n\n       litigation,  s...",
-        "description": "Buscar   el  consejo   de   su   abogado   sobre  litigios   pendientes   o  \n\n       litigation,  settlement  offers,  or  any  matter  in  which  the  duty  of  the               contemplados, ofertas de conciliación o cualquier asunto en el que el  \n\n      attorney  to  the  City  Council  under  the  Texas  Disciplinary  Rules  of                    deber  del  abogado  ante  el  Concejo  Municipal  bajo  las  Reglas  \n\n       Professional Conduct of the State Bar of Texas clearly conflicts with                          Disciplinarias de Conducta Profesional del Colegio de Abogados del  \n\n      the Texas Open Meetings Act. [Tex. Govt. Code §",
+        "item_number": "IV",
+        "title": "Approval of Minutes",
+        "description": "Approval of the February 6, 2025, Community Development Commission Meeting Minutes.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
-        "item_number": "2",
-        "title": "deliberating the purchase, exchange, lease, or value of real property                           Reun...",
-        "description": "deliberating the purchase, exchange, lease, or value of real property                           Reuniones  Abiertas  de  Texas.  [Código  de  Gobierno  de  Texas  \n\n       if deliberation in an open meeting would have a detrimental effect on                          §",
-        "presenter": null,
-        "action_required": "Action"
+        "item_number": "V",
+        "title": "Community Development Division Reports",
+        "description": "Reports including updates regarding proposed committee meetings, agenda items, presentations, and updates for the Consolidated Plan.",
+        "presenter": "Chan Williams",
+        "action_required": null
       },
       {
-        "item_number": "2",
-        "title": "Deliberar sobre la compra, el intercambio, el arrendamiento o el valor  \n\n      Code §",
-        "description": "Deliberar sobre la compra, el intercambio, el arrendamiento o el valor  \n\n      Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "item_number": "VI",
+        "title": "Chair’s Report",
+        "description": "General greetings and acknowledgements to staff, commission members and other members of the public.",
+        "presenter": "Melanie Rubin",
+        "action_required": null
       },
       {
-        "item_number": "3",
-        "title": "deliberating a negotiated contract for a prospective gift or donation to                        con ...",
-        "description": "deliberating a negotiated contract for a prospective gift or donation to                        con una tercera persona. [Código de Gobierno de Texas §",
-        "presenter": null,
-        "action_required": "Action"
+        "item_number": "VII",
+        "title": "Vice Chair’s Report",
+        "description": "General acknowledgements to staff, commission members and members of the public.",
+        "presenter": "Zhen Barrientos",
+        "action_required": null
       },
       {
-        "item_number": "3",
-        "title": "Deliberar  sobre  un  contrato  negociado  para  un  posible  regalo  o  \n\n      effect on the posit...",
-        "description": "Deliberar  sobre  un  contrato  negociado  para  un  posible  regalo  o  \n\n      effect on the position of the city in negotiations with a third person.                         donación a la Ciudad si la deliberación en una reunión abierta tendría  \n\n       [Tex. Govt. Code §",
+        "item_number": "IX",
+        "title": "Announcement",
+        "description": "Expressions of thanks, congratulations, or condolence; information about holiday schedules; honorary or salutary recognition.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": null
       },
       {
-        "item_number": "4",
-        "title": "deliberating the appointment, employment, evaluation, reassignment,",
-        "description": "deliberating the appointment, employment, evaluation, reassignment,",
+        "item_number": "X",
+        "title": "Adjournment",
+        "description": "Closing of the meeting.",
         "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "4",
-        "title": "Deliberar sobre el nombramiento, empleo, evaluación, reasignación,  \n\n      duties, discipline, or d...",
-        "description": "Deliberar sobre el nombramiento, empleo, evaluación, reasignación,  \n\n      duties, discipline, or dismissal of a public officer or employee; or to                         deberes,  disciplina  o  destitución  de  un  funcionario  o  empleado  \n\n       hear a complaint or charge against an officer or employee unless the                           público; o para escuchar una queja o acusación contra un funcionario  \n\n      officer or employee who is the subject of the deliberation or hearing                           o empleado, a menos que el funcionario o empleado que es objeto  \n\n       requests a public hearing. [Tex. Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "5",
-        "title": "deliberating the deployment, or specific occasions for implementation,                          de G...",
-        "description": "deliberating the deployment, or specific occasions for implementation,                          de Gobierno de Texas §",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "5",
-        "title": "Deliberar sobre el despliegue, o las ocasiones específicas para su  \n\n                              ...",
-        "description": "Deliberar sobre el despliegue, o las ocasiones específicas para su  \n\n                                                                                                      implementación, de personal o dispositivos de seguridad. [Código de",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "6",
-        "title": "discussing or deliberating commercial or financial information that the                         Gobi...",
-        "description": "discussing or deliberating commercial or financial information that the                         Gobierno de Texas §",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "6",
-        "title": "Discutir o deliberar información comercial o financiera que la Ciudad  \n\n       locate, stay or expa...",
-        "description": "Discutir o deliberar información comercial o financiera que la Ciudad  \n\n       locate, stay or expand in or near the city and with which the city is                          ha recibido de un prospecto de negocios que la Ciudad busca que se  \n\n      conducting economic development negotiations; or deliberating the                               ubique, permanezca o se expanda en o cerca de la Ciudad y con el  \n\n      offer of a financial or other incentive to a business prospect. [Tex Govt                       cual  la  Ciudad  está  llevando  a  cabo  negociaciones  de  desarrollo  \n\n       . Code §",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "7",
-        "title": "deliberating      security    assessments        or   deployments       relating    to  \n\n          ...",
-        "description": "deliberating      security    assessments        or   deployments       relating    to  \n\n                                                                                                      §",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "7",
-        "title": "Deliberar      sobre      las    evaluaciones         de     seguridad       o    las  \n\n      deplo...",
-        "description": "Deliberar      sobre      las    evaluaciones         de     seguridad       o    las  \n\n      deployment  or  specific  occasions  for  implementations  of  security  \n\n                                                                                                      implementaciones relacionadas con la tecnología de los recursos de  \n\n       personnel, critical infrastructure, or security devices. [Tex Govt. Code  \n\n                                                                                                      información,      la   información      de    seguridad      de    la   red    o    la  \n\n      §",
-        "presenter": null,
-        "action_required": "Action"
+        "action_required": null
       }
     ],
     "keywords": [
-      "tif",
-      "budget",
-      "approval",
-      "public",
-      "development",
-      "planning",
-      "contract"
+      "Community Development",
+      "Commission",
+      "Meeting Minutes",
+      "Budget",
+      "Management Services",
+      "Reports",
+      "Chair's Report",
+      "Vice Chair's Report",
+      "Public Speakers",
+      "Announcements",
+      "Dallas City Hall",
+      "Videoconference",
+      "Consolidated Plan",
+      "HUD",
+      "Community Events"
     ],
     "financial_items": []
   },

@@ -47,12 +47,12 @@
       {
         "item_number": "V",
         "title": "Community Development Division Report",
-        "description": "Report may include greetings, acknowledgements, and future agenda items.",
+        "description": "Report from the Budget & Management Services including various updates.",
         "presenter": "Budget & Management Services (BMS)",
         "action_required": null
       },
       {
-        "item_number": "V. Briefing Item",
+        "item_number": "V - Briefing Item",
         "title": "Community Development Block Grant: Timely Expenditure of Funds",
         "description": "Discussion on the timely expenditure of funds related to the Community Development Block Grant.",
         "presenter": "Chan Williams",
@@ -61,21 +61,21 @@
       {
         "item_number": "VI",
         "title": "Chair’s Report",
-        "description": "Report by the Chair including acknowledgements and future agenda items.",
+        "description": "Report from the Chair including acknowledgements and updates.",
         "presenter": "Melanie Rubin",
         "action_required": null
       },
       {
         "item_number": "VII",
         "title": "Vice Chair’s Report",
-        "description": "Report by the Vice Chair including acknowledgements.",
+        "description": "Report from the Vice Chair including acknowledgements.",
         "presenter": "Zhen Barrientos",
         "action_required": null
       },
       {
         "item_number": "VIII",
         "title": "CDC Committees Reports",
-        "description": "Reports from various committees.",
+        "description": "Reports from various CDC committees.",
         "presenter": null,
         "action_required": null
       },

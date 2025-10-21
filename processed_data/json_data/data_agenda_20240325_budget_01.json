@@ -24,14 +24,14 @@
       {
         "item_number": "A1",
         "title": "Approval of the January 18, 2024 Special Called Housing and Homelessness Solutions Committee Meeting Minutes",
-        "description": "Approval of the minutes from the previous special called meeting.",
+        "description": "Approval of the minutes from the special called meeting.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "A2",
         "title": "Approval of the January 22, 2024 Housing and Homelessness Solutions Committee Meeting Minutes",
-        "description": "Approval of the minutes from the previous meeting.",
+        "description": "Approval of the minutes from the regular meeting.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -52,7 +52,7 @@
       {
         "item_number": "C",
         "title": "Development Program Updates",
-        "description": "Updates on new construction, substantial rehabilitation, land transfer, and homeownership development requirements.",
+        "description": "Updates on new construction, substantial rehabilitation program, land transfer, and land bank program.",
         "presenter": "Darwin Wade",
         "action_required": "discuss"
       },
@@ -94,28 +94,28 @@
       {
         "item_number": "I",
         "title": "HHS Committee Forecast",
-        "description": "Forecast for upcoming items for the Housing and Homelessness Solutions Committee.",
+        "description": "Forecast for the Housing and Homelessness Solutions Committee.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "J",
-        "title": "Office of Procurement Services - Upcoming Agenda Item #25",
-        "description": "Authorize a one-year service contract for encampment clean-up.",
+        "title": "Upcoming Agenda Item - Encampment Clean-up Service Contract",
+        "description": "Authorize a service contract for encampment clean-up.",
         "presenter": "Christine Crossley",
         "action_required": "authorize"
       },
       {
         "item_number": "K",
-        "title": "Upcoming Agenda Item File # 24-763",
-        "description": "Public hearing on Substantial Amendment No. 3 to the FY 2023-24 Action Plan.",
+        "title": "Upcoming Agenda Item - Substantial Amendment No. 3 to the FY 2023-24 Action Plan",
+        "description": "Public hearing on the substantial amendment to the action plan.",
         "presenter": "Thor Erickson",
         "action_required": "authorize"
       },
       {
         "item_number": "L",
-        "title": "Upcoming Agenda Item File # 24-762",
-        "description": "Authorize an amendment to the Dallas Housing Resource Catalog.",
+        "title": "Upcoming Agenda Item - Amendment to the Dallas Housing Resource Catalog",
+        "description": "Authorize an amendment to the housing resource catalog.",
         "presenter": "Thor Erickson",
         "action_required": "authorize"
       }
@@ -128,23 +128,23 @@
       "Development",
       "Performance Measures",
       "Land Transfer",
+      "Community Development",
       "Public Hearing",
       "Encampment Clean-up",
       "Temporary Housing",
-      "Community Development",
-      "CDBG Funds",
-      "Economic Development",
-      "Neighborhood Revitalization",
-      "Quarterly Report"
+      "Quarterly Report",
+      "Updates",
+      "Action Item",
+      "Recommendations"
     ],
     "financial_items": [
       {
-        "description": "Service contract for encampment clean-up for the Office of Homeless Solutions",
+        "description": "Service contract for encampment clean-up",
         "amount": "$212,447.06",
         "type": "expenditure"
       },
       {
-        "description": "Reprogram unspent prior year CDBG funds",
+        "description": "Reprogramming of unspent prior year CDBG funds",
         "amount": "$4,500,000.00",
         "type": "funding"
       }

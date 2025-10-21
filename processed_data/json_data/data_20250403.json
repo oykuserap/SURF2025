@@ -50,21 +50,21 @@
       {
         "item_number": "V.1",
         "title": "Kiest Park",
-        "description": "Authorize a professional services contract with AEC Holdco, LLC DBA Grace Herbert Curtis Architects, LLC for architectural and engineering services for the schematic design, design development, construction documents, bidding and negotiation, and construction administration for the renovation of three recreation center facilities.",
+        "description": "Authorize a professional services contract with AEC Holdco, LLC DBA Grace Herbert Curtis Architects, LLC for architectural and engineering services for the renovation of three recreation center facilities.",
         "presenter": null,
         "action_required": "approve"
       },
       {
-        "item_number": "V.2",
+        "item_number": "VI.2",
         "title": "Halperin Park",
-        "description": "Authorize the naming of the H-E-B Main Stage Fountain at Halperin Park. This is a 20-year naming opportunity which is in compliance with the Park Board Naming Policy.",
+        "description": "Authorize the naming of the H-E-B Main Stage Fountain at Halperin Park.",
         "presenter": null,
         "action_required": "approve"
       },
       {
-        "item_number": "V.3",
+        "item_number": "VI.3",
         "title": "Aquatic Fees",
-        "description": "Authorize an increase to the specified aquatic fees at all City of Dallas aquatics facilities and Dallas Independent School District Partnership Program.",
+        "description": "Authorize an increase to the specified aquatic fees at all City of Dallas aquatics facilities.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -85,7 +85,7 @@
       {
         "item_number": "IX",
         "title": "Other/Non-Action Items",
-        "description": "Park and Recreation Board Members liaison reports and Staff Announcements – Upcoming Park and Recreation Department Events",
+        "description": "Park and Recreation Board Members liaison reports and Staff Announcements.",
         "presenter": null,
         "action_required": null
       },
@@ -95,35 +95,42 @@
         "description": "Next Park Board Meeting will be on Thursday, April 17, 2025, at 10:00 a.m.",
         "presenter": null,
         "action_required": null
+      },
+      {
+        "item_number": "XI",
+        "title": "Adjournment",
+        "description": "",
+        "presenter": null,
+        "action_required": null
       }
     ],
     "keywords": [
       "Dallas",
       "Park and Recreation",
-      "meeting",
+      "Regular Meeting",
       "Kiest Park",
       "Halperin Park",
-      "aquatic fees",
-      "budget",
-      "recognition",
-      "public speakers",
-      "contract",
-      "facilities",
-      "renovation",
-      "workshop",
-      "briefing",
-      "minutes"
+      "Aquatic Fees",
+      "Budget Briefing",
+      "Public Speakers",
+      "Approval of Minutes",
+      "Michael Haynes",
+      "Retirement",
+      "Architectural Services",
+      "Naming Policy",
+      "Revenue",
+      "Facilities"
     ],
     "financial_items": [
       {
-        "description": "Authorize a professional services contract for architectural and engineering services for the renovation of three recreation center facilities.",
+        "description": "Professional services contract for architectural and engineering services for the renovation of three recreation center facilities.",
         "amount": "$537,632.00",
         "type": "expenditure"
       },
       {
-        "description": "Authorize an increase to the specified aquatic fees at all City of Dallas aquatics facilities.",
+        "description": "Estimated revenue from increased aquatic fees at all City of Dallas aquatics facilities.",
         "amount": "$185,536.00",
-        "type": "estimated revenue"
+        "type": "revenue"
       }
     ]
   },

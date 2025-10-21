@@ -43,21 +43,21 @@
         "item_number": "B",
         "title": "Human Rights Commission April 2024 Update",
         "description": "Follow-up, engagement, feedback, and findings from the Human Rights Commission.",
-        "presenter": "Dr. Lindsey Wilson; Christina Da Silva; Chris Graves",
+        "presenter": "Dr. Lindsey Wilson, Christina Da Silva, Chris Graves",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "Presentation Regarding the Impact of Equity in the Dallas Business Sector",
-        "description": "Discussion on the impact of equity in the business sector.",
-        "presenter": "Sarah Cotton Nelson; Coda Rayo-Garza; Drexell Owusu",
+        "description": "Discussion on the impact of equity in the Dallas business sector.",
+        "presenter": "Sarah Cotton Nelson, Coda Rayo-Garza, Drexell Owusu",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "Welcoming Strategy Update",
         "description": "Insights from the Certified Welcoming Dallas Audit and Welcoming Interactive Conference.",
-        "presenter": "Dr. Lindsey Wilson; Christina Da Silva",
+        "presenter": "Dr. Lindsey Wilson, Christina Da Silva",
         "action_required": "discuss"
       },
       {
@@ -90,12 +90,14 @@
       "Human Rights",
       "Business Sector",
       "Contract",
-      "Housing",
       "WIC",
+      "HOPWA",
       "Community Engagement",
-      "Equity Efforts",
+      "Diversity",
+      "Inclusion",
       "Public Affairs",
-      "Committee Forecast"
+      "Strategy",
+      "Update"
     ],
     "financial_items": [
       {

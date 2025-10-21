@@ -72,29 +72,25 @@
     ],
     "keywords": [
       "Landmark Commission",
+      "Dallas",
       "Historic Preservation",
       "Certificate of Eligibility",
       "Public Hearing",
-      "Dallas City Hall",
-      "Regular Meeting",
-      "Evelyn Montgomery",
-      "Minutes Approval",
+      "Meeting Calendar",
+      "Approval of Minutes",
+      "Staff Reports",
       "Consent Items",
       "Discussion Items",
-      "Public Speakers",
-      "Staff Reports",
-      "Meeting Calendar",
-      "Accommodations",
-      "Videoconference"
+      "Public Speakers"
     ],
     "financial_items": [
       {
-        "description": "Approval of estimated expenditures for rehabilitation prior to issuance of Certificate of Eligibility",
+        "description": "Approval of an estimated $113,850 in expenditures for rehabilitation prior to the issuance of the Certificate of Eligibility for 5634 Tremont St.",
         "amount": "$113,850",
         "type": "expenditure"
       },
       {
-        "description": "Approval of estimated expenditures for rehabilitation prior to issuance of Certificate of Eligibility",
+        "description": "Approval of an estimated $324,836 in expenditures for rehabilitation prior to the issuance of the Certificate of Eligibility for 5727 Victor St.",
         "amount": "$324,836",
         "type": "expenditure"
       }

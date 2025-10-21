@@ -47,14 +47,14 @@
       {
         "item_number": "5",
         "title": "Authorize an amendment to the Other Transaction Agreement with the FAA",
-        "description": "Authorize an amendment to the Other Transaction Agreement with the Federal Aviation Administration in connection with the Rehabilitation of Taxiway A.",
+        "description": "Authorize an amendment to the Other Transaction Agreement with the FAA in connection with the Rehabilitation of Taxiway A.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "6",
         "title": "An ordinance amending Chapter 7A, Anti-Litter Regulations",
-        "description": "An ordinance amending Chapter 7A, 'Anti-Litter Regulations,' of the Dallas City Code.",
+        "description": "An ordinance amending Chapter 7A, Anti-Litter Regulations, of the Dallas City Code.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -81,8 +81,8 @@
       },
       {
         "item_number": "10",
-        "title": "Authorize an amendment to the Dallas Housing Resource Catalog",
-        "description": "Authorize an amendment to the Dallas Housing Resource Catalog regarding the Land Transfer Program.",
+        "title": "Authorize a Resolution of Support for Palladium USA International, Inc.",
+        "description": "Authorize a Resolution of Support for Palladium USA International, Inc. related to its application for 2024 9% Low Income Housing Tax Credits.",
         "presenter": null,
         "action_required": "approve"
       }
@@ -90,15 +90,14 @@
     "keywords": [
       "Dallas City Council",
       "meeting",
-      "February 14, 2024",
-      "General Obligation Bonds",
-      "child-care facilities exemption",
-      "College Advisory Commission",
-      "FAA agreement",
-      "Anti-Litter Regulations",
-      "Community Development Block Grant",
-      "Housing Tax Credits",
-      "Land Transfer Program"
+      "agenda",
+      "housing",
+      "tax credits",
+      "public hearing",
+      "budget",
+      "exemption",
+      "ordinance",
+      "resolution"
     ],
     "financial_items": [
       {
@@ -112,9 +111,24 @@
         "type": "funding"
       },
       {
-        "description": "Amendment to FAA agreement for Taxiway A",
+        "description": "Amendment to Other Transaction Agreement with FAA",
         "amount": "$55,433.14",
         "type": "expenditure"
+      },
+      {
+        "description": "Resolution of Support for Generation Housing Partners, LLC",
+        "amount": "$500",
+        "type": "funding"
+      },
+      {
+        "description": "Resolution of Support for O-SDA Industries, LLC",
+        "amount": "$500",
+        "type": "funding"
+      },
+      {
+        "description": "Resolution of Support for Palladium USA International, Inc.",
+        "amount": "$500",
+        "type": "funding"
       }
     ]
   },

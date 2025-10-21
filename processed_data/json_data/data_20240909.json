@@ -14,10 +14,10 @@
       "chair": "Commissioner Hawkins",
       "presenters": [
         "Commissioner Hawkins",
-        "Commission Nelson",
-        "Commission Moreno",
-        "Commission Tamfu",
-        "Commission Okon"
+        "Commissioner Nelson",
+        "Commissioner Moreno",
+        "Commissioner Tamfu",
+        "Commissioner Okon"
       ],
       "participants": []
     },
@@ -25,49 +25,49 @@
       {
         "item_number": "I",
         "title": "Call to Order",
-        "description": "Opening of the meeting by the chair.",
+        "description": null,
         "presenter": "Commissioner Hawkins",
         "action_required": null
       },
       {
         "item_number": "II",
         "title": "Approval of Minutes",
-        "description": "Approval of the minutes from August 2024.",
+        "description": "(Aug 2024)",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "III",
         "title": "City of Dallas Presentations",
-        "description": "Presentations by various commissioners.",
+        "description": null,
         "presenter": "Commissioner Hawkins",
         "action_required": null
       },
       {
         "item_number": "IV",
         "title": "Staff Reports/Briefings/Special Committees",
-        "description": "Updates from various committees.",
-        "presenter": null,
+        "description": "Various updates including Survey Update, Youth Democracy Committee Update, Branding Committee Update, Environmental Committee Update, Scholarship Committee Update, Adamson Community Closet Update, YC Awareness Week Reflection, D11 Town Hall Reflection.",
+        "presenter": "Various",
         "action_required": null
       },
       {
         "item_number": "V",
         "title": "Unfinished Business/General Orders",
-        "description": "Discussion of deadlines and tasks.",
+        "description": "Reading of Deadlines and Tasks",
         "presenter": "Commissioner Tamfu",
         "action_required": null
       },
       {
         "item_number": "VI",
         "title": "Announcements",
-        "description": "General announcements.",
+        "description": null,
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "VII",
         "title": "Adjournment",
-        "description": "Closing of the meeting.",
+        "description": null,
         "presenter": null,
         "action_required": null
       }
@@ -78,11 +78,16 @@
       "City of Dallas",
       "Presentations",
       "Staff Reports",
-      "Committees",
+      "Youth Democracy Committee",
+      "Branding Committee",
+      "Environmental Committee",
+      "Scholarship Committee",
+      "Community Closet",
+      "YC Awareness Week",
+      "Town Hall",
       "Unfinished Business",
       "Announcements",
-      "Adjournment",
-      "Community Engagement"
+      "Adjournment"
     ],
     "financial_items": []
   },

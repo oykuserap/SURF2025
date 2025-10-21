@@ -58,7 +58,7 @@
       },
       {
         "item_number": "V.5",
-        "title": "Fair Park Lease Extension",
+        "title": "Fair Park",
         "description": "Authorize the third amendment to extend the lease and use agreement between Fair Park First and Live Nation Worldwide for an additional ten years plus two additional 5-year extension options.",
         "presenter": null,
         "action_required": "approve"
@@ -66,28 +66,28 @@
       {
         "item_number": "VI.6",
         "title": "Southwest Showcase Golf Tournament",
-        "description": "Briefing on the Southwest Showcase Golf Tournament.",
+        "description": null,
         "presenter": "John Lawrence",
         "action_required": null
       },
       {
         "item_number": "VI.7",
         "title": "Planning & Construction Project Update",
-        "description": "Update on planning and vertical construction projects.",
+        "description": null,
         "presenter": "Christina Turner-Noteware",
         "action_required": null
       },
       {
         "item_number": "VI.8",
         "title": "Citywide Trail Initiative",
-        "description": "Briefing on the Citywide Trail Initiative.",
+        "description": null,
         "presenter": "M. Renee Johnson",
         "action_required": null
       },
       {
         "item_number": "VIII.9",
         "title": "Budget Development",
-        "description": "Update on budget development.",
+        "description": null,
         "presenter": "Rachael Berry",
         "action_required": null
       }
@@ -99,20 +99,24 @@
       "Kevin W. Sloan Park",
       "West Trinity Heights Park",
       "Fair Park East Dallas Trail",
-      "Lease Extension",
-      "Golf Tournament",
-      "Citywide Trail Initiative",
-      "Budget Development",
+      "Lease Agreement",
       "Public Hearing",
-      "Funding Agreement",
-      "Acquisition",
-      "Revenue",
-      "Public Drainage Project"
+      "Budget Development",
+      "Citywide Trail Initiative",
+      "Recognition",
+      "Public Speakers",
+      "Consent Agenda",
+      "Financial Items"
     ],
     "financial_items": [
       {
         "description": "Estimated Revenue from Sunset Inn",
         "amount": "$5,000",
+        "type": "revenue"
+      },
+      {
+        "description": "Revenue from West Trinity Heights Park for public drainage project",
+        "amount": "$657.77",
         "type": "revenue"
       },
       {
@@ -123,11 +127,6 @@
       {
         "description": "Estimated Revenue from Fair Park Surcharge & Excess Revenues Fund",
         "amount": "$1,000,000.00",
-        "type": "revenue"
-      },
-      {
-        "description": "Revenue from West Trinity Heights Park",
-        "amount": "$657.77",
         "type": "revenue"
       }
     ]

@@ -33,35 +33,34 @@
       {
         "item_number": "3",
         "title": "Grant Acceptance",
-        "description": "Authorize the acceptance of a grant from the U.S. Department of Health and Human Services for Substance Abuse and Mental Health Services Administration (SAMHSA) for the South Dallas Drug Court Expansion project in the amount of $379,294.00.",
+        "description": "Authorize the acceptance of a grant from the U.S. Department of Health and Human Services for Substance Abuse and Mental Health Services Administration (SAMHSA) for the South Dallas Drug Court Expansion project in the amount of $379,294.00",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "4",
         "title": "Cooperative Purchasing Agreement",
-        "description": "Authorize a three-year cooperative purchasing agreement for web-based managed security system software, hosting, maintenance, and support.",
+        "description": "Authorize a three-year cooperative purchasing agreement for web-based managed security system software, hosting, maintenance, and support to obtain the Palo Alto Networks Unit 42 Managed Detection and Response system for the Department of Aviation",
         "presenter": "Department of Aviation",
         "action_required": "approve"
       },
       {
         "item_number": "5",
         "title": "Construction Services Contract",
-        "description": "Authorize a construction services contract to provide construction to demolish existing rooftop units and install new units.",
+        "description": "Authorize a construction services contract to provide construction to demolish the existing rooftop units, boilers, and air handling units and install new units for the Dallas Love Field Garage A & B Pedestrian Concourse",
         "presenter": "Department of Facilities and Real Estate Management",
         "action_required": "approve"
       },
       {
         "item_number": "56",
         "title": "Real Estate Deliberation",
-        "description": "Deliberate the purchase, exchange, lease, or value of real property located at 7800 Stemmons.",
+        "description": "Deliberate the purchase, exchange, lease, or value of real property located at 7800 Stemmons",
         "presenter": null,
         "action_required": "discuss"
       }
     ],
     "keywords": [
-      "City Council",
-      "Dallas",
+      "Dallas City Council",
       "meeting",
       "agenda",
       "grant",
@@ -69,7 +68,8 @@
       "construction",
       "cooperative purchasing",
       "real estate",
-      "public hearing"
+      "public hearing",
+      "budget"
     ],
     "financial_items": [
       {
@@ -85,12 +85,12 @@
       {
         "description": "Cooperative purchasing agreement for managed security system software",
         "amount": "$1,027,256.24",
-        "type": "contract"
+        "type": "expenditure"
       },
       {
-        "description": "Construction services contract for rooftop units installation",
+        "description": "Construction services contract for Dallas Love Field Garage",
         "amount": "$7,199,214.61",
-        "type": "contract"
+        "type": "expenditure"
       }
     ]
   },

@@ -54,7 +54,7 @@
       {
         "item_number": "VI",
         "title": "Case Docket",
-        "description": "Uncontested Items - Holdover Items - Individual Items",
+        "description": "Uncontested Items, Holdover Items, Individual Items",
         "presenter": null,
         "action_required": null
       },
@@ -74,14 +74,14 @@
       "Case Docket",
       "Uncontested Items",
       "Holdover Items",
-      "Minutes Approval",
+      "Individual Items",
+      "Approval of Minutes",
       "Dallas City Hall",
       "Videoconference",
       "Accessibility",
       "Executive Session",
       "Landscaping Regulations",
-      "Fence Height Regulations",
-      "Fee Reimbursement"
+      "Fence Height Regulations"
     ],
     "financial_items": []
   },

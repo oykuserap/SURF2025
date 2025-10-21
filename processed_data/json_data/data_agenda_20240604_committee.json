@@ -42,14 +42,14 @@
       {
         "item_number": "C",
         "title": "Consider Judicial Nominating Commission Recommendation to Consider a 3% Increase for the Municipal Judges",
-        "description": "Consideration of the recommendation for a 3% increase for municipal judges.",
+        "description": "Consideration of the recommendation for a 3% increase.",
         "presenter": "Paul E. Ridley",
         "action_required": "consider"
       },
       {
         "item_number": "D",
         "title": "Consider Judicial Nominating Commission Recommendations for Selection of Full-time Municipal Judge including the Administrative Judge and Associate Judge Positions",
-        "description": "Consideration of recommendations for the selection of full-time municipal judges.",
+        "description": "Consideration of recommendations for full-time municipal judges.",
         "presenter": "Paul E. Ridley",
         "action_required": "consider"
       }
@@ -61,14 +61,15 @@
       "Full-time Municipal Judge",
       "Administrative Judge",
       "Associate Judge",
-      "City Council",
-      "Dallas",
+      "Dallas City Council",
       "Meeting Minutes",
       "Recommendations",
       "Approval",
       "Discussion",
       "Action Items",
-      "Executive Session"
+      "Executive Session",
+      "Public Participation",
+      "Videoconference"
     ],
     "financial_items": []
   },

@@ -53,7 +53,7 @@
       {
         "item_number": "IV",
         "title": "Public Speakers",
-        "description": "Opportunity for public speakers to address the commission.",
+        "description": "Opportunity for public speakers.",
         "presenter": null,
         "action_required": null
       },
@@ -106,15 +106,16 @@
       "Fair Housing",
       "Infrastructure Improvements",
       "Disability Awareness",
+      "Equity",
       "Accessibility",
       "Handicap Parking",
       "Community Engagement",
-      "Equity",
       "Veterans",
       "Service Animals",
       "Public Speakers",
-      "Commission Reports",
-      "Sub-Committee Reports"
+      "Commissioners' Reports",
+      "Sub-Committee Reports",
+      "Racial Equity Plan"
     ],
     "financial_items": []
   },

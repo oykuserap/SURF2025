@@ -8,7 +8,7 @@
       "time": "6:30 P.M.",
       "type": "Regular Meeting",
       "organization": "MLK Advisory Board",
-      "location": "Dr. Martin Luther King, Jr. Community Center, Activity Room A, TX and online via WebEx"
+      "location": "Activity Room A, Dr. Martin Luther King, Jr. Community Center, Dallas, Texas; Online via WebEx"
     },
     "attendees": {
       "chair": "Mrs. Clara Brown-Trimble",
@@ -72,7 +72,7 @@
       {
         "item_number": "8",
         "title": "MLK Center Manager Update",
-        "description": "Updates on various programs and events at the MLK Jr. Community Center.",
+        "description": "Update on various programs and events at the MLK Jr. Community Center.",
         "presenter": "Ms. Pamela R. Jones",
         "action_required": null
       },
@@ -94,12 +94,12 @@
       "Themes",
       "Speakers",
       "Trail Blazer nominees",
-      "Updates",
-      "Events",
       "Volunteer Opportunities",
+      "Events",
       "Legal Aid",
       "AIDS Walk",
-      "Remembrance Service"
+      "Remembrance Service",
+      "Spring Egg-stravaganza"
     ],
     "financial_items": []
   },

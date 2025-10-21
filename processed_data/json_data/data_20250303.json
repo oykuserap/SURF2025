@@ -5,7 +5,7 @@
   "extracted_data": {
     "meeting_info": {
       "date": "March 3, 2025",
-      "time": "9:30 A.M. and 1:00 P.M.",
+      "time": "Briefing at 9:30 A.M. and the Public Hearing at 1:00 P.M.",
       "type": "Regular Meeting",
       "organization": "Landmark Commission",
       "location": "Dallas City Hall, 6ES Briefing Room and Videoconference"
@@ -47,7 +47,7 @@
         "item_number": "IV",
         "title": "Staff Reports/Briefings",
         "description": "Historic Preservation Staff",
-        "presenter": null,
+        "presenter": "Historic Preservation Staff",
         "action_required": null
       },
       {
@@ -74,20 +74,15 @@
     ],
     "keywords": [
       "Landmark Commission",
+      "Dallas City Hall",
       "Historic Preservation",
-      "Certificate of Eligibility",
       "Certificate of Appropriateness",
       "Public Hearing",
-      "Dallas City Hall",
       "Designations",
       "Historic District",
       "Expenditures",
       "Accommodations",
-      "Public Speakers",
-      "Minutes Approval",
-      "Staff Reports",
-      "Briefing Items",
-      "Adjournment"
+      "Community Engagement"
     ],
     "financial_items": [
       {

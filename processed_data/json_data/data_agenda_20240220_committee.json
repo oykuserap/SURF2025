@@ -6,7 +6,7 @@
     "meeting_info": {
       "date": "February 20, 2024",
       "time": "1:00 PM",
-      "type": "Regular Meeting",
+      "type": "Council Committee Meeting",
       "organization": "Transportation and Infrastructure Committee",
       "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
     },
@@ -26,11 +26,9 @@
         "Mendelsohn",
         "Moreno",
         "Resendez",
-        "Gracey",
-        "Blackmon",
-        "Willis",
         "Schultz",
-        "Johnson"
+        "Willis",
+        "Blackmon"
       ]
     },
     "agenda_items": [
@@ -58,7 +56,7 @@
       {
         "item_number": "D 24-631",
         "title": "TxDOT Multiple Use Agreement for the DART Victory Station Pedestrian Crossing",
-        "description": "Discussion on the agreement for pedestrian crossing.",
+        "description": "Discussion on the TxDOT agreement for pedestrian crossing.",
         "presenter": "Ghassan Khankarli, Ph.D., P.E.",
         "action_required": "authorize"
       },
@@ -74,57 +72,57 @@
       "Transportation",
       "Infrastructure",
       "Dallas",
-      "City Council",
+      "Council Committee",
       "Public Works",
       "Vision Zero",
+      "LED Replacement",
       "Streetlighting",
       "DART",
       "Pedestrian Crossing",
-      "LED Replacement",
+      "Monthly Update",
       "Committee Meeting",
-      "January Minutes",
+      "City Hall",
       "Public Safety",
-      "Community Development",
-      "Funding"
+      "Community Development"
     ],
     "financial_items": [
       {
-        "description": "Five-year master agreement for airfield lighting fixtures",
+        "description": "Five-year master agreement for the purchase of airfield lighting fixtures.",
         "amount": "$932,500.00",
         "type": "budget"
       },
       {
-        "description": "Sale of unwanted City-owned land",
+        "description": "Sale of unwanted City-owned land.",
         "amount": "$13,344.00",
         "type": "revenue"
       },
       {
-        "description": "Abandonment of storm sewer easements",
+        "description": "Abandonment of storm sewer easements.",
         "amount": "$7,800.00",
         "type": "revenue"
       },
       {
-        "description": "Construction services contract for Five Mile Infrastructure Improvements",
+        "description": "Construction services contract for infrastructure improvements.",
         "amount": "$11,564,976.75",
         "type": "expenditure"
       },
       {
-        "description": "Construction services contract for Streetscape/Urban Design",
+        "description": "Construction services contract for Streetscape/Urban Design.",
         "amount": "$2,642,465.00",
         "type": "expenditure"
       },
       {
-        "description": "Increase in construction services contract for alley pavement",
+        "description": "Increase in construction services contract for alley pavement.",
         "amount": "$243,003.00",
         "type": "expenditure"
       },
       {
-        "description": "Payment to Dallas Area Rapid Transit for streetcar operation",
+        "description": "Payment to Dallas Area Rapid Transit for streetcar operation.",
         "amount": "$1,887,492.00",
         "type": "expenditure"
       },
       {
-        "description": "Supplemental Agreement for construction management services",
+        "description": "Supplemental Agreement for construction management services.",
         "amount": "$5,507,000.00",
         "type": "expenditure"
       }

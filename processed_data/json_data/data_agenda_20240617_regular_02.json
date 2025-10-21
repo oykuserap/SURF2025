@@ -7,19 +7,19 @@
       "date": "August 19, 2024",
       "time": "6:30 P.M.",
       "type": "Regular Meeting",
-      "organization": "Martin Luther King, Jr. Community Center Advisory Board",
-      "location": "Martin Luther King, Jr. Community Center, Activity Room A, Dallas, TX; Online via WebEx"
+      "organization": "MLK Community Center Advisory Board",
+      "location": "Martin Luther King, Jr. Community Center, Activity Room A, Dallas, TX and online via WebEx"
     },
     "attendees": {
       "chair": "Mrs. Clara Brown-Trimble",
       "presenters": [
         "Dr. Jamel Slaughter",
-        "Ms. Pamela R. Jones"
+        "Ms. Pamela R. Jones",
+        "Mrs. LaRhonda Bacon"
       ],
       "participants": [
-        "Mrs. LaRhonda Bacon",
-        "Public Speakers",
-        "MLK Advisory Board Member"
+        "MLK Advisory Board Member",
+        "Public Speakers"
       ]
     },
     "agenda_items": [
@@ -27,7 +27,7 @@
         "item_number": "1",
         "title": "Call to Order/Welcome",
         "description": "",
-        "presenter": "Mrs. Clara Brown-Trimble",
+        "presenter": "Mrs. Clara Brown-Trimble, Chair",
         "action_required": null
       },
       {
@@ -41,7 +41,7 @@
         "item_number": "3",
         "title": "Advisory Board Member & City Staff Roll Call",
         "description": "",
-        "presenter": "Mrs. LaRhonda Bacon",
+        "presenter": "Mrs. LaRhonda Bacon, Supervisor",
         "action_required": null
       },
       {
@@ -55,21 +55,21 @@
         "item_number": "5",
         "title": "Approval of June 17, 2024, Minutes",
         "description": "",
-        "presenter": "Mrs. Clara Brown-Trimble",
+        "presenter": "Mrs. Clara Brown-Trimble, Chair",
         "action_required": "approve"
       },
       {
         "item_number": "6",
         "title": "Update: 2025 MLK Celebration Week",
-        "description": "Discussion on marketing, keynote speaker, tickets, and venue.",
-        "presenter": "Dr. Jamel Slaughter",
+        "description": "Discussion on marketing, keynote speaker, tickets, and venue for the MLK Celebration Week.",
+        "presenter": "Dr. Jamel Slaughter, Program Administrator",
         "action_required": "discuss"
       },
       {
         "item_number": "7",
         "title": "2024 MLK Center Manager Update",
-        "description": "Updates on fresh produce distribution, volunteer opportunities, and events.",
-        "presenter": "Ms. Pamela R. Jones",
+        "description": "Updates on fresh produce distribution, volunteer opportunities, and upcoming events.",
+        "presenter": "Ms. Pamela R. Jones, Center Manager",
         "action_required": "discuss"
       },
       {
@@ -81,16 +81,19 @@
       }
     ],
     "keywords": [
-      "MLK Advisory Board",
-      "Community Center",
+      "MLK Community Center",
+      "Advisory Board",
       "Public Comments",
-      "Celebration Week",
-      "Fresh Produce Distribution",
+      "June Minutes",
+      "2025 Celebration",
+      "Marketing",
+      "Keynote Speaker",
+      "Tickets",
       "Volunteer Opportunities",
+      "Events",
       "Legal Aid",
       "Back to School Drive",
-      "Events",
-      "Minutes Approval"
+      "Fresh Produce Distribution"
     ],
     "financial_items": []
   },

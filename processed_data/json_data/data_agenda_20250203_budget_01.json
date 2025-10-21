@@ -35,51 +35,51 @@
     },
     "agenda_items": [
       {
-        "item_number": "1",
+        "item_number": "25-445A",
         "title": "Approval of January 6, 2025 Economic Development Committee Meeting Minutes",
-        "description": "Approval of the minutes from the previous Economic Development Committee meeting.",
+        "description": "Approval of the minutes from the previous meeting.",
         "presenter": null,
         "action_required": "approve"
       },
       {
-        "item_number": "A",
-        "title": "Upcoming Agenda Items: February 26, 2025: FY 2023-2024 Tax Increment Financing (TIF) District Annual Reports",
+        "item_number": "25-446A",
+        "title": "Upcoming Agenda Items: FY 2023-2024 Tax Increment Financing (TIF) District Annual Reports",
         "description": "Discussion on the annual reports for the TIF District.",
         "presenter": "Tamara Leak",
         "action_required": "discuss"
       },
       {
-        "item_number": "B",
-        "title": "Upcoming Agenda Items: February 26, 2025: New Markets Tax Credit Transaction for St. Philip’s School and Community Center",
+        "item_number": "25-447A",
+        "title": "Upcoming Agenda Items: New Markets Tax Credit Transaction for St. Philip’s School and Community Center",
         "description": "Discussion on the New Markets Tax Credit transaction.",
         "presenter": "Heather Lepeska",
         "action_required": "discuss"
       },
       {
-        "item_number": "C",
+        "item_number": "25-448A",
         "title": "Quarterly Update: Economic Development Incentives Awarded via Administrative Action",
         "description": "Quarterly update on economic development incentives.",
         "presenter": "Heather Lepeska",
         "action_required": "discuss"
       },
       {
-        "item_number": "D",
+        "item_number": "25-449A",
         "title": "Update: Small Business Microgrants Program",
         "description": "Update on the Small Business Microgrants Program.",
         "presenter": "Heather Lepeska",
         "action_required": "discuss"
       },
       {
-        "item_number": "E",
-        "title": "Upcoming Agenda Items: February 12, 2025: Amendment and Restatement of Chapter 380 economic development loan agreement",
+        "item_number": "25-451A",
+        "title": "Upcoming Agenda Items: Amendment and Restatement of Chapter 380 economic development loan agreement",
         "description": "Discussion on the amendment and restatement of the economic development loan agreement.",
         "presenter": "Heather Lepeska",
         "action_required": "discuss"
       },
       {
-        "item_number": "F",
-        "title": "Upcoming Agenda Items: February 12, 2025: Construction Services Contract for Trinity Strand Trail Hi-Line Span Project",
-        "description": "Discussion on the construction services contract for the Trinity Strand Trail project.",
+        "item_number": "25-453A",
+        "title": "Upcoming Agenda Items: Construction Services Contract for Trinity Strand Trail Hi-Line Span Project",
+        "description": "Discussion on the construction services contract for the project.",
         "presenter": "Tamara Leak",
         "action_required": "discuss"
       }
@@ -87,19 +87,19 @@
     "keywords": [
       "Economic Development",
       "City Council",
-      "TIF District",
       "Tax Increment Financing",
       "New Markets Tax Credit",
       "Small Business Microgrants",
       "Construction Services",
-      "Economic Development Incentives",
-      "Chapter 380",
+      "Administrative Action",
+      "Loan Agreement",
       "Community Center",
       "Trinity Strand Trail",
       "Meeting Minutes",
-      "Administrative Action",
-      "Public Affairs",
-      "Executive Session"
+      "Executive Session",
+      "Public Participation",
+      "Virtual Meeting",
+      "Dallas"
     ],
     "financial_items": []
   },

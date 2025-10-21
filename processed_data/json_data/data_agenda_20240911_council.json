@@ -7,7 +7,7 @@
       "date": "September 11, 2024",
       "time": "9:00 AM",
       "type": "Regular Meeting",
-      "organization": "City of Dallas",
+      "organization": "City of Dallas City Council",
       "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
     },
     "attendees": {
@@ -47,66 +47,36 @@
       {
         "item_number": "5",
         "title": "An ordinance amending sections of the Dallas City Code, Chapter 7, 'Animals'",
-        "description": "Amending ownership requirements for a dangerous or aggressive dog.",
-        "presenter": null,
-        "action_required": "approve"
-      },
-      {
-        "item_number": "6",
-        "title": "An ordinance abandoning a portion of a utility easement",
-        "description": "Abandoning a portion of a utility easement to CP Hollow, LP.",
-        "presenter": null,
-        "action_required": "approve"
-      },
-      {
-        "item_number": "7",
-        "title": "An ordinance abandoning all of two water easements",
-        "description": "Abandoning all of two water easements and a portion of a drainage easement to Victory Block M LP.",
-        "presenter": null,
-        "action_required": "approve"
-      },
-      {
-        "item_number": "8",
-        "title": "An ordinance abandoning a water easement",
-        "description": "Abandoning a water easement to St. Mark's School of Texas.",
-        "presenter": null,
-        "action_required": "approve"
-      },
-      {
-        "item_number": "9",
-        "title": "Authorize an amendment to an existing lease agreement",
-        "description": "Extend the lease agreement for an additional 25 years for approximately 20,000 square feet of land.",
-        "presenter": null,
-        "action_required": "approve"
-      },
-      {
-        "item_number": "10",
-        "title": "Authorize a resolution to delegate authority to issue Qualified Mortgage Revenue Bonds",
-        "description": "To finance home mortgage loans for persons of low and moderate income.",
+        "description": "Amending ownership requirements for dangerous or aggressive dogs.",
         "presenter": null,
         "action_required": "approve"
       }
     ],
     "keywords": [
       "Dallas City Council",
-      "Regular Meeting",
-      "Construction Contracts",
-      "Airport System",
-      "Animal Control",
-      "Utility Easements",
-      "Lease Agreements",
-      "Housing Finance",
-      "Public Hearings",
-      "Zoning"
+      "meeting",
+      "agenda",
+      "construction",
+      "funding",
+      "ordinance",
+      "public hearing",
+      "zoning",
+      "animal services",
+      "transportation",
+      "emergency services",
+      "financial services",
+      "community care",
+      "public safety",
+      "environmental services"
     ],
     "financial_items": [
       {
-        "description": "Construction services for Dallas Airport System Signage Project",
+        "description": "Construction services contract for Dallas Airport System Signage Project",
         "amount": "$1,218,633.00",
         "type": "expenditure"
       },
       {
-        "description": "Supplemental Agreement for engineering services",
+        "description": "Supplemental Agreement No. 1 for engineering services contract",
         "amount": "$55,300.00",
         "type": "expenditure"
       },
@@ -116,14 +86,14 @@
         "type": "funding"
       },
       {
-        "description": "Abandoning utility easement to CP Hollow, LP",
-        "amount": "$7,800.00",
-        "type": "revenue"
+        "description": "Emergency post-collections transfer station hauling support",
+        "amount": "$515,650.00",
+        "type": "expenditure"
       },
       {
-        "description": "Abandoning water easement to St. Mark's School of Texas",
-        "amount": "$7,800.00",
-        "type": "revenue"
+        "description": "Emergency debris monitoring services",
+        "amount": "$225,000.00",
+        "type": "expenditure"
       }
     ]
   },

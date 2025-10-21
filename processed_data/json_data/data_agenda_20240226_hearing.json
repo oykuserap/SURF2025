@@ -13,8 +13,7 @@
     "attendees": {
       "chair": "Matthew McDougal",
       "presenters": [
-        "Karen Gonzalez",
-        "Matthew McDougal"
+        "Karen Gonzalez"
       ],
       "participants": []
     },
@@ -22,7 +21,7 @@
       {
         "item_number": "1",
         "title": "Approval of the April 7, 2022 Minutes",
-        "description": "Approval of the minutes from the previous meeting held on April 7, 2022.",
+        "description": "Approval of the minutes from the previous meeting.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -36,7 +35,7 @@
       {
         "item_number": "B",
         "title": "Discuss the Municipal Judge Selection Process",
-        "description": "Discussion led by the chair regarding the municipal judge selection process.",
+        "description": "Discussion led by the Chair regarding the selection process.",
         "presenter": "Matthew McDougal",
         "action_required": "discuss"
       },
@@ -55,10 +54,10 @@
       "Approval",
       "Minutes",
       "Job Advertisement",
-      "Presentation",
-      "Discussion",
-      "City Council",
-      "Videoconference"
+      "City Hall",
+      "Videoconference",
+      "Dallas",
+      "Meeting"
     ],
     "financial_items": []
   },

@@ -17,20 +17,6 @@
     },
     "agenda_items": [
       {
-        "item_number": "I",
-        "title": "Call to Order",
-        "description": "",
-        "presenter": null,
-        "action_required": null
-      },
-      {
-        "item_number": "II",
-        "title": "Public Speakers",
-        "description": "",
-        "presenter": null,
-        "action_required": null
-      },
-      {
         "item_number": "III",
         "title": "Approval of Minutes",
         "description": "Approve minutes from the February 4, 2025, Regular Civil Service Board Meeting.",
@@ -38,22 +24,43 @@
         "action_required": "approve"
       },
       {
-        "item_number": "IV",
-        "title": "Hearing Item(s)",
-        "description": "Hear the rehire eligibility appeal of Mr. Ramón Ruvalcaba, a former employee in the Dallas Fire Department and Mr. Devon Sheets, a former employee in the Dallas Fire Department.",
+        "item_number": "IV.a",
+        "title": "Hearing Item",
+        "description": "Hear the rehire eligibility appeal of Mr. Ramón Ruvalcaba, a former employee in the Dallas Fire Department.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
-        "item_number": "V",
-        "title": "Briefing and Discussion Item(s)",
-        "description": "Civil Services Rules Revision Update, Sworn Promotional Forecast, Department Updates and Announcements.",
+        "item_number": "IV.b",
+        "title": "Hearing Item",
+        "description": "Hear the rehire eligibility appeal of Mr. Devon Sheets, a former employee in the Dallas Fire Department.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
-        "item_number": "VI",
-        "title": "Action Item(s)",
+        "item_number": "V.a",
+        "title": "Briefing and Discussion Item",
+        "description": "Civil Services Rules Revision Update",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V.b",
+        "title": "Briefing and Discussion Item",
+        "description": "Sworn Promotional Forecast",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V.c",
+        "title": "Briefing and Discussion Item",
+        "description": "Department Updates and Announcements",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VI.a",
+        "title": "Action Item",
         "description": "Take any necessary or appropriate action as result of Executive Session.",
         "presenter": null,
         "action_required": "take action"
@@ -63,14 +70,7 @@
         "title": "Performance Evaluation",
         "description": "Conduct the FY 24 annual performance evaluation of the Secretary to the Civil Service Board.",
         "presenter": null,
-        "action_required": null
-      },
-      {
-        "item_number": "VII",
-        "title": "Adjournment",
-        "description": "",
-        "presenter": null,
-        "action_required": null
+        "action_required": "conduct"
       }
     ],
     "keywords": [
@@ -79,15 +79,16 @@
       "Special Called Meeting",
       "rehire eligibility",
       "performance evaluation",
-      "public speakers",
       "minutes approval",
+      "Civil Services Rules",
+      "Department Updates",
+      "Executive Session",
+      "public speakers",
+      "action items",
       "briefing",
       "discussion",
-      "action items",
-      "executive session",
-      "department updates",
-      "civil services rules",
-      "sworn promotional forecast"
+      "appeal",
+      "forecast"
     ],
     "financial_items": []
   },

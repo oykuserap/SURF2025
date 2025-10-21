@@ -4,7 +4,7 @@
   "source_file": "agenda_20231115_hearing.txt",
   "extracted_data": {
     "meeting_info": {
-      "date": "November 15, 2023",
+      "date": "November 15th, 2023",
       "time": "10:30 A.M. and 1:00 P.M.",
       "type": "Regular Meeting",
       "organization": "Board of Adjustment (Panel B)",
@@ -12,73 +12,82 @@
     },
     "attendees": {
       "chair": "Cherri Gambow, Vice-Chair",
-      "presenters": [],
+      "presenters": [
+        "Krystina Paige",
+        "Jennifer Hiromoto",
+        "Itamar David",
+        "Ryan Smiegiel",
+        "James Thrower",
+        "Peter Kavanagh",
+        "Trenton Robertson",
+        "Laguna Homes Inc."
+      ],
       "participants": []
     },
     "agenda_items": [
       {
         "item_number": "I",
         "title": "Call to Order",
-        "description": "",
+        "description": "Opening of the meeting by the Vice-Chair.",
         "presenter": "Cherri Gambow, Vice-Chair",
-        "action_required": null
+        "action_required": "none"
       },
       {
         "item_number": "II",
         "title": "Staff Presentation/Briefing",
-        "description": "",
+        "description": "Presentation by staff regarding agenda items.",
         "presenter": null,
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "III",
         "title": "Public Hearing",
-        "description": "Board of Adjustment",
-        "presenter": null,
-        "action_required": null
+        "description": "Public hearing for agenda items.",
+        "presenter": "Board of Adjustment",
+        "action_required": "discuss"
       },
       {
         "item_number": "IV",
         "title": "Public Testimony",
-        "description": "",
+        "description": "Opportunity for public testimony on agenda items.",
         "presenter": null,
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "V",
         "title": "Miscellaneous Items",
-        "description": "Approval of Special Call Meeting Minutes – October 31, 2023 and Approval of Panel B Minutes – October 18th, 2023",
+        "description": "Approval of previous meeting minutes.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "VI",
         "title": "Case Docket",
-        "description": "Uncontested Items, Holdover Items, Individual Items",
+        "description": "Review of uncontested items, holdover items, and individual items.",
         "presenter": "Board of Adjustment",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "VII",
         "title": "Adjournment",
-        "description": "",
+        "description": "Closing of the meeting.",
         "presenter": null,
-        "action_required": null
+        "action_required": "none"
       }
     ],
     "keywords": [
       "Board of Adjustment",
       "Public Hearing",
-      "Miscellaneous Items",
-      "Case Docket",
       "Variance",
       "Special Exception",
       "Landscaping Regulations",
       "Fence Height Regulations",
+      "Setback Regulations",
+      "Electrical Meter",
       "Public Testimony",
+      "Meeting Minutes",
       "Dallas City Hall",
       "Videoconference",
-      "Meeting Minutes",
       "Uncontested Items",
       "Holdover Items",
       "Individual Items"

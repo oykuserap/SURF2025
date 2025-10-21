@@ -62,31 +62,23 @@
         "description": "Amendments to the DFW International Airport Code.",
         "presenter": "Paul Tomme",
         "action_required": "approve"
-      },
-      {
-        "item_number": "E 25-258A",
-        "title": "Committee Forecast",
-        "description": "Forecast for upcoming committee activities.",
-        "presenter": null,
-        "action_required": "discuss"
       }
     ],
     "keywords": [
       "Transportation",
       "Infrastructure",
-      "Dallas Bike Plan",
-      "High-Speed Rail",
-      "DFW Airport",
-      "Committee Meeting",
-      "Public Works",
-      "Engineering Services",
-      "Urban Design",
-      "Grant Funding",
-      "Eminent Domain",
+      "Dallas",
       "City Council",
-      "Budget",
-      "Public Safety",
-      "Community Development"
+      "Bike Plan",
+      "High-Speed Rail",
+      "Airport Code",
+      "Public Works",
+      "Funding",
+      "Easement",
+      "Grant",
+      "Engineering",
+      "Community Project",
+      "Safety Improvement"
     ],
     "financial_items": [
       {
@@ -100,22 +92,12 @@
         "type": "expenditure"
       },
       {
-        "description": "Execution of an Airport Project Participation Agreement with TxDOT",
+        "description": "Match for Airport Layout Plan Update and drainage study at Dallas Executive Airport",
         "amount": "$40,158.00",
         "type": "expenditure"
       },
       {
-        "description": "Engineering services contract for the expansion of airside ramp space at Dallas Executive Airport",
-        "amount": "$223,950.00",
-        "type": "expenditure"
-      },
-      {
-        "description": "Supplemental Agreement for continued purchase of firewalls and equipment for the Department of Aviation",
-        "amount": "$769,922.51",
-        "type": "expenditure"
-      },
-      {
-        "description": "Professional engineering services contract for new sidewalks and traffic signal upgrades",
+        "description": "Engineering services contract for sidewalk and traffic signal improvements",
         "amount": "$412,860.00",
         "type": "expenditure"
       },
@@ -127,16 +109,6 @@
       {
         "description": "Advance Funding Agreement with TxDOT for Highway Safety Improvement Program grant",
         "amount": "$5,342,996.93",
-        "type": "funding"
-      },
-      {
-        "description": "Notice of Intent to establish Quiet Zones along the DART Silver Line corridor",
-        "amount": null,
-        "type": "no cost consideration"
-      },
-      {
-        "description": "Amendment to the Advance Funding Agreement for intersection reconstruction",
-        "amount": "$24,780,000.00",
         "type": "funding"
       }
     ]

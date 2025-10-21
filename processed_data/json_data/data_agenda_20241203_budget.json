@@ -28,9 +28,9 @@
         "Bazaldua",
         "Blackmon",
         "Resendez",
+        "Schultz",
         "Willis",
         "Gracey",
-        "Schultz",
         "Johnson"
       ]
     },
@@ -58,23 +58,16 @@
       },
       {
         "item_number": "D 24-3708",
-        "title": "Dallas City Council Agenda Item #24-3561, US Army Corps of Engineers Dallas Floodway Project Partnership Agreement",
-        "description": "Memorandum",
+        "title": "Dallas Floodway Project Partnership Agreement",
+        "description": "Information on the US Army Corps of Engineers Dallas Floodway Project",
         "presenter": "Sarah Standifer",
         "action_required": "discuss"
       },
       {
         "item_number": "E 24-3717",
         "title": "Information on the planned launch of Personal Delivery Devices - Avride",
-        "description": "Memorandum",
+        "description": "Details regarding the launch of Personal Delivery Devices",
         "presenter": "Ghassan Khankarli, Ph.D., P.E.",
-        "action_required": "discuss"
-      },
-      {
-        "item_number": "F 24-3710",
-        "title": "Committee Forecast",
-        "description": null,
-        "presenter": null,
         "action_required": "discuss"
       }
     ],
@@ -84,52 +77,42 @@
       "Dallas",
       "Water Supply",
       "Floodway Project",
+      "Personal Delivery Devices",
+      "City Council",
+      "Capital Improvement",
       "Public Works",
       "Aviation",
-      "Capital Improvement",
-      "City Council",
-      "Meeting Minutes",
-      "Personal Delivery Devices",
-      "Master Plan",
-      "Budget",
+      "Storm Drainage",
+      "Construction",
+      "Engineering",
       "Grant",
-      "Construction"
+      "Budget"
     ],
     "financial_items": [
       {
-        "description": "Increase in appropriations for the Project Partnership Agreement with the U.S. Army Corps of Engineers",
+        "description": "Increase in appropriations for the Modified Dallas Floodway Project",
         "amount": "$90,090,000",
         "type": "budget"
       },
       {
-        "description": "Acquisition of a drainage easement for the Sanford Avenue Storm Drainage Relief System Project",
-        "amount": "$95,649.00",
+        "description": "Acquisition of drainage easement for the Sanford Avenue Storm Drainage Relief System Project",
+        "amount": "$95,649",
         "type": "expenditure"
       },
       {
-        "description": "Increase in construction services contract for wastewater interceptor installation",
-        "amount": "$7,557,510.00",
+        "description": "Construction services contract for wastewater interceptor installation",
+        "amount": "$7,557,510",
         "type": "expenditure"
       },
       {
-        "description": "Increase in construction services contract for improvements at water meter vaults",
-        "amount": "$303,585.00",
+        "description": "Increase in construction services contract for water meter vault improvements",
+        "amount": "$303,585",
         "type": "expenditure"
       },
       {
-        "description": "Acceptance of FY 2025 grant for Routine Airport Maintenance Program Project at Dallas Executive Airport",
-        "amount": "$100,000.00",
-        "type": "grant"
-      },
-      {
-        "description": "Acceptance of FY 2025 grant for Routine Airport Maintenance Program Project at Dallas CBD Vertiport Airport",
-        "amount": "$100,000.00",
-        "type": "grant"
-      },
-      {
-        "description": "Architectural services contract for consulting services within the Dallas Airport System",
-        "amount": "$250,000.00",
-        "type": "expenditure"
+        "description": "Acceptance of FY 2025 grant for Routine Airport Maintenance Program Project",
+        "amount": "$100,000",
+        "type": "funding"
       }
     ]
   },

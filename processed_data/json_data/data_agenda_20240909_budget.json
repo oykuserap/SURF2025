@@ -42,14 +42,14 @@
       {
         "item_number": "C",
         "title": "Upskilling Pilot Program September 2024 Update and Next Steps",
-        "description": "Update on the Upskilling Pilot Program and its impact.",
+        "description": "Update on the Upskilling Pilot Program and its outcomes.",
         "presenter": "Nina Arias",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "Office of Equity and Inclusion - Update on Workshop for Possible Creation of Human Rights Task Force",
-        "description": "Update on the progress of the human rights workshop.",
+        "description": "Update on the human rights workshop and potential task force.",
         "presenter": "Christopher Graves",
         "action_required": "discuss"
       },
@@ -83,28 +83,28 @@
       "Human Rights",
       "Youth Commission",
       "Civic Engagement",
-      "Childcare Services",
       "Upskilling",
-      "Diversity",
-      "Inclusion",
+      "Childcare",
+      "American Rescue Plan",
+      "Procurement",
+      "Dallas City Council",
       "Public Safety",
       "Social Services",
-      "Housing",
-      "Health"
+      "Equity Indicators"
     ],
     "financial_items": [
       {
-        "description": "Funding for Early Childhood and Out-of-School Time Services Program Contracts",
+        "description": "Funding for childcare services through the ECOSTS Program.",
         "amount": "$550,000.00",
         "type": "budget"
       },
       {
-        "description": "Funding for Vogel Alcove to provide childcare services for homeless children",
+        "description": "Funding for Vogel Alcove to provide childcare services for homeless children.",
         "amount": "$150,000.00",
         "type": "budget"
       },
       {
-        "description": "Funding for Open Arms, Inc. to provide childcare services for special needs children",
+        "description": "Funding for Open Arms, Inc. to provide childcare services for special needs children.",
         "amount": "$150,000.00",
         "type": "budget"
       }

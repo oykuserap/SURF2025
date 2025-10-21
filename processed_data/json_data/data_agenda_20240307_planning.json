@@ -46,14 +46,14 @@
       {
         "item_number": "V",
         "title": "Community Development Division Report",
-        "description": "Report including updates regarding proposed committee meetings and agenda items.",
+        "description": "Report including updates regarding proposed committee meetings, agenda items, and updates for the Consolidated Plan.",
         "presenter": "Budget & Management Services (BMS)",
         "action_required": null
       },
       {
         "item_number": "VI",
         "title": "Chair’s Report",
-        "description": "General greetings and acknowledgements, introduction of new commission members.",
+        "description": "General greetings and acknowledgements, introduction of new commission members, and scheduling of committee meetings.",
         "presenter": "Melanie Rubin",
         "action_required": null
       },
@@ -67,7 +67,7 @@
       {
         "item_number": "IX",
         "title": "Announcement",
-        "description": "Expressions of thanks, information about holiday schedules, and upcoming events.",
+        "description": "Expressions of thanks, congratulations, or condolence; information about holiday schedules and upcoming events.",
         "presenter": null,
         "action_required": null
       },
@@ -86,15 +86,15 @@
       "Monthly Meeting",
       "Budget",
       "Management Services",
-      "Chair Report",
-      "Vice Chair Report",
-      "Public Speakers",
       "Consolidated Plan",
-      "HUD",
-      "Community Development Week",
+      "Chair’s Report",
+      "Vice Chair’s Report",
+      "Public Speakers",
       "Announcements",
-      "Minutes Approval",
-      "Executive Session"
+      "Meeting Minutes",
+      "Community Tour Sites",
+      "Executive Session",
+      "Accommodations"
     ],
     "financial_items": []
   },

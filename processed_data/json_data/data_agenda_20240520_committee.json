@@ -41,14 +41,14 @@
       {
         "item_number": "A",
         "title": "South Dallas Fair Park Area Plan",
-        "description": "Briefing on the South Dallas Fair Park Area Plan.",
+        "description": "Presentation on the South Dallas Fair Park Area Plan.",
         "presenter": "Andrea Gilles",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "Overview of Community Courts",
-        "description": "Briefing on the overview of community courts.",
+        "description": "Presentation on the overview of community courts.",
         "presenter": "Matthew Saliba",
         "action_required": "discuss"
       },
@@ -76,7 +76,7 @@
       {
         "item_number": "F",
         "title": "Quality of Life, Arts, and Culture Committee Forecast",
-        "description": "Forecast for the Quality of Life, Arts, and Culture Committee.",
+        "description": "Presentation on the forecast for the committee.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -89,14 +89,14 @@
       "Committee",
       "Budget Review",
       "Community Courts",
-      "Fair Park",
-      "Senate Bill 4",
       "Public Library",
+      "Senate Bill 4",
+      "Fair Park",
       "Planning",
+      "Urban Design",
       "Code Compliance",
       "Executive Session",
-      "Meeting Minutes",
-      "Forecast"
+      "Meeting Minutes"
     ],
     "financial_items": []
   },

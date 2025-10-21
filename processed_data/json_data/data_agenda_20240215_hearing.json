@@ -33,14 +33,14 @@
       {
         "item_number": "1",
         "title": "Briefing and Discussion on the ForwardDallas Comprehensive Land Use Plan",
-        "description": "Discussion on the comprehensive land use plan.",
+        "description": "Discussion on the ForwardDallas Comprehensive Land Use Plan.",
         "presenter": "Lawrence Agu, III, AICP, Assoc AIA",
         "action_required": "discuss"
       },
       {
         "item_number": "2",
         "title": "Consideration of amending the notice requirements for zoning cases",
-        "description": "Amendment of notice requirements for zoning cases and code amendments.",
+        "description": "Discussion on amending the notice requirements for zoning cases and code amendments.",
         "presenter": "Sarah May, Chief Planner",
         "action_required": "discuss"
       },
@@ -54,7 +54,7 @@
       {
         "item_number": "4",
         "title": "Minor Amendment to Development Plan",
-        "description": "Application for a minor amendment to an existing development plan.",
+        "description": "Application for a minor amendment to an existing development plan and landscape plan.",
         "presenter": "Andrew Ruegg",
         "action_required": "approve"
       },
@@ -69,98 +69,98 @@
         "item_number": "6",
         "title": "Minor Amendment to Development Plan",
         "description": "Application for a minor amendment to an existing development plan.",
-        "presenter": "Tasfia Zahin",
+        "presenter": "Rob Baldwin",
         "action_required": "approve"
       },
       {
         "item_number": "7",
         "title": "Development Plan Application",
         "description": "Application for a development plan on property zoned Planned Development District No. 521.",
-        "presenter": "Sheila Alcantara Segovia",
+        "presenter": "Kartavya Patel",
         "action_required": "approve"
       },
       {
         "item_number": "8",
         "title": "Minor Amendment Under Advisement",
         "description": "Application for a minor amendment to an existing development plan.",
-        "presenter": "Tasfia Zahin",
+        "presenter": "Zion Lutheran Church of Dallas",
         "action_required": "approve"
       },
       {
         "item_number": "9",
-        "title": "Zoning Case Under Advisement",
+        "title": "Specific Use Permit for Auto Service Center",
         "description": "Application for a Specific Use Permit for an auto service center.",
-        "presenter": "Michael Pepe",
-        "action_required": "discuss"
+        "presenter": "Daniel Marquez",
+        "action_required": "deny"
       },
       {
         "item_number": "10",
         "title": "Amendment to Specific Use Permit for Fueling Station",
         "description": "Application for an amendment to Specific Use Permit for a motor vehicle fueling station.",
-        "presenter": "Audra Buckley",
+        "presenter": "AMA Corporation",
         "action_required": "approve"
       },
       {
         "item_number": "11",
-        "title": "Application for Multifamily District",
+        "title": "Application for MF-2(A) Multifamily District",
         "description": "Application for an MF-2(A) Multifamily District.",
-        "presenter": "Michael Pepe",
+        "presenter": "Raul Estrada",
         "action_required": "approve"
       },
       {
         "item_number": "12",
-        "title": "Application for Mixed Use District",
+        "title": "Application for MU-1 Mixed Use District",
         "description": "Application for an MU-1 Mixed Use District.",
-        "presenter": "Sherry Flewellen",
+        "presenter": "Uptown Reinvestment, LLC",
         "action_required": "approve"
       },
       {
         "item_number": "13",
-        "title": "Application for Townhouse District",
-        "description": "Application for a TH-3(A) Townhouse District.",
-        "presenter": "Rik Adamski",
+        "title": "Application for MU-2 Mixed Use District",
+        "description": "Application for an MU-2 Mixed Use District.",
+        "presenter": "935 Clarendon LLC",
         "action_required": "approve"
       },
       {
         "item_number": "14",
-        "title": "Amendment to Specific Use Permit for Historic House Museum",
-        "description": "Application for an amendment to Specific Use Permit for an extended hours historic house museum.",
-        "presenter": "Rob Baldwin",
+        "title": "Application for TH-3(A) Townhouse District",
+        "description": "Application for a TH-3(A) Townhouse District.",
+        "presenter": "Jack Rowe",
         "action_required": "approve"
       },
       {
         "item_number": "15",
-        "title": "Specific Use Permit for Child-Care Facility",
-        "description": "Application for a Specific Use Permit for a child-care facility.",
-        "presenter": "Elsie Thurman",
+        "title": "Amendment to Specific Use Permit for Historic House Museum",
+        "description": "Application for an amendment to Specific Use Permit for an extended hours historic house museum.",
+        "presenter": "Dallas County Medical Society Alliance Foundation",
         "action_required": "approve"
       },
       {
         "item_number": "16",
-        "title": "Application for Mixed Use District",
-        "description": "Application for an MU-1 Mixed Use District.",
-        "presenter": "Wanda Summers",
+        "title": "Specific Use Permit for Child-Care Facility",
+        "description": "Application for a Specific Use Permit for a child-care facility.",
+        "presenter": "Jessica Gonzales",
         "action_required": "approve"
       },
       {
         "item_number": "17",
-        "title": "Application for Mixed Use District",
-        "description": "Application for an MU-2 Mixed Use District.",
-        "presenter": "Paul Carden",
+        "title": "Application for MU-1 Mixed Use District",
+        "description": "Application for an MU-1 Mixed Use District.",
+        "presenter": "Manolo Design Studio",
         "action_required": "approve"
       },
       {
         "item_number": "18",
         "title": "Specific Use Permit for Alcoholic Beverage Establishment",
         "description": "Application for a Specific Use Permit for an alcoholic beverage establishment.",
-        "presenter": "Giahanna Bridges",
+        "presenter": "Cee Gilmore",
         "action_required": "hold under advisement"
       },
       {
         "item_number": "19",
         "title": "Amendment to Planned Development District",
         "description": "Application for an amendment to Planned Development District No. 729.",
-        "presenter": "Karl A. Crawley",
+        "presenter": "YMCA of Dallas",
         "action_required": "approve"
       }
     ],
@@ -176,10 +176,10 @@
       "urban design",
       "Dallas",
       "planning",
-      "public testimony",
       "executive session",
+      "public testimony",
       "committee appointments",
-      "public participation"
+      "housing"
     ],
     "financial_items": []
   },

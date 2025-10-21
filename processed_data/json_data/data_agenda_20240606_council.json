@@ -8,7 +8,7 @@
       "time": "3:00 PM",
       "type": "Ad Hoc Committee Meeting",
       "organization": "City Council Ad Hoc Committee on Pensions",
-      "location": "City Council Chambers, 6th Floor, Dallas, Texas; Video Conference"
+      "location": "City Council Chambers, 6th Floor, Dallas, Texas; Virtual via Webex"
     },
     "attendees": {
       "chair": null,
@@ -58,11 +58,10 @@
       "Investment Portfolio",
       "Funding Soundness",
       "Retirement Fund",
-      "Discussion",
-      "Recommendations",
       "City Council",
-      "Video Conference",
-      "Public Meeting"
+      "Executive Session",
+      "Public Meeting",
+      "Virtual Attendance"
     ],
     "financial_items": []
   },

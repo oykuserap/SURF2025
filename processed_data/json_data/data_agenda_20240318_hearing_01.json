@@ -7,7 +7,7 @@
       "date": "March 18th, 2024",
       "time": "12:00 P.M.",
       "type": "Hybrid Meeting",
-      "organization": "Senior Affairs Commission",
+      "organization": "Dallas Senior Affairs Commission",
       "location": "Dallas City Hall, L1FN Auditorium and Videoconference"
     },
     "attendees": {
@@ -53,8 +53,8 @@
       },
       {
         "item_number": "V",
-        "title": "New Business",
-        "description": "Briefing Item: Senior Source- A Provider’s Perspective On Senior Issues and Resources",
+        "title": "New Business - Briefing Item",
+        "description": "Senior Source- A Provider’s Perspective On Senior Issues and Resources",
         "presenter": "Stacey Malcolmson, CEO/President/ Senior Source",
         "action_required": null
       },
@@ -81,18 +81,19 @@
       }
     ],
     "keywords": [
-      "Senior Affairs",
       "Dallas",
+      "Senior Affairs Commission",
       "Hybrid Meeting",
       "Public Speakers",
       "Approval of Minutes",
-      "Chair's Report",
       "Texas Open Meetings Act",
-      "Senior Source",
+      "Senior Issues",
+      "Resources",
       "Park and Recreation",
       "Active Senior Adult Program",
       "Senior Services",
-      "Commissioners District Updates",
+      "Contracts",
+      "District Updates",
       "Adjournment"
     ],
     "financial_items": []

@@ -68,7 +68,7 @@
     ],
     "keywords": [
       "Board of Adjustment",
-      "Dallas",
+      "Dallas City Hall",
       "Public Hearing",
       "Variance",
       "Height Regulations",
@@ -86,11 +86,6 @@
     "financial_items": [
       {
         "description": "Application of Baldwin Associates for a fee reimbursement for fees paid for variances.",
-        "amount": null,
-        "type": "fee reimbursement"
-      },
-      {
-        "description": "Application of Daniel Le for a fee reimbursement for fees paid for variances.",
         "amount": null,
         "type": "fee reimbursement"
       }

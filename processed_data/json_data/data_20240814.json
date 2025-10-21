@@ -12,40 +12,33 @@
     },
     "attendees": {
       "chair": null,
-      "presenters": [
-        "Department of Planning and Development"
-      ],
+      "presenters": [],
       "participants": []
     },
     "agenda_items": [
       {
         "item_number": "PH1",
         "title": "Street Name Change",
-        "description": "A public hearing to receive comments and to approve an ordinance granting a request to change the name of S. Central Expressway (SH 310/US 175) between C .F. Hawn Freeway (US 175) and Al Lipscomb Way to 'S.M. Wright Freeway (FWY)'",
+        "description": "A public hearing to receive comments and to approve an ordinance granting a request to change the name of S. Central Expressway (SH 310/US 175) between C.F. Hawn Freeway (US 175) and Al Lipscomb Way to 'S.M. Wright Freeway (FWY)'",
         "presenter": "Department of Planning and Development",
         "action_required": "approve"
       }
     ],
     "keywords": [
-      "Dallas City Council",
+      "Dallas",
+      "City Council",
       "Special Called Meeting",
       "Street Name Change",
       "Public Hearing",
       "Ordinance",
       "S.M. Wright Freeway",
       "C.F. Hawn Freeway",
-      "S. Central Expressway",
       "General Fund",
-      "Financing",
-      "City Hall",
-      "Videoconference",
-      "Public Participation",
-      "City Secretary",
-      "Meeting Procedures"
+      "Financing"
     ],
     "financial_items": [
       {
-        "description": "Financing for the street name change ordinance",
+        "description": "Financing for the street name change",
         "amount": "$29,608.00",
         "type": "expenditure"
       }

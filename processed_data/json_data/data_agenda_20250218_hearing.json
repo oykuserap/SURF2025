@@ -4,81 +4,66 @@
   "source_file": "agenda_20250218_hearing.txt",
   "extracted_data": {
     "meeting_info": {
-      "date": "February 17, 2025",
-      "time": null,
-      "type": "Briefing",
-      "organization": "Tx \n\n                                                        Agenda  \n\n\n\n                                     Board",
-      "location": "Dallas City Hall"
+      "date": "February 18, 2025",
+      "time": "10:30 A.M. and 1:00 P.M.",
+      "type": "Regular Meeting",
+      "organization": "Board of Adjustment (Panel A)",
+      "location": "Dallas City Hall, Council Briefing 6ES and Videoconference"
     },
     "attendees": {
-      "chair": null,
+      "chair": "David A. Neumann",
       "presenters": [],
       "participants": []
     },
     "agenda_items": [
       {
-        "item_number": "113",
-        "title": "finalización       de         la       reunión         en  \n\n                                       ...",
-        "description": "finalización       de         la       reunión         en  \n\n                                                                 https://dallastx.new.swagit.com/views/",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
         "item_number": "1",
-        "title": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or a...",
-        "description": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or any matter in which  \n\n      the duty of the attorney to the City Council under the Texas Disciplinary Rules of Professional Conduct of the State  \n\n      Bar of Texas clearly conflicts with the Texas Open Meetings Act. [Tex. Govt. Code §",
+        "title": "Approval of Panel A Minutes",
+        "description": "Approval of Panel A Minutes – January 21, 2025",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
         "item_number": "2",
-        "title": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open mee...",
-        "description": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open meeting would have  \n\n      a detrimental effect on the position of the city in negotiations with a third person. [Tex. Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "title": "Uncontested Case: BDA245-016(BT)",
+        "description": "Application of Rob Baldwin for (1) a special exception to the fence height regulations.",
+        "presenter": "Rob Baldwin",
+        "action_required": "discuss"
       },
       {
         "item_number": "3",
-        "title": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in...",
-        "description": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in an open meeting  \n\n      would have a detrimental effect on the position of the city in negotiations with a third person. [Tex. Govt. Code  \n\n      §",
-        "presenter": null,
-        "action_required": "Action"
+        "title": "Uncontested Case: BDA245-021(CJ)",
+        "description": "Application of Mike Prezioso for (1) a special exception to the sign regulations.",
+        "presenter": "Mike Prezioso",
+        "action_required": "discuss"
       },
       {
         "item_number": "4",
-        "title": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal...",
-        "description": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal of a public  \n\n      officer or employee; or to hear a complaint or charge against an officer or employee unless the officer or employee  \n\n      who is the subject of the deliberation or hearing requests a public hearing. [Tex. Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "title": "Uncontested Case: BDA245-022(CJ)",
+        "description": "Application of Monica Hernandez for (1) a special exception to the fence height regulations.",
+        "presenter": "Monica Hernandez",
+        "action_required": "discuss"
       },
       {
         "item_number": "5",
-        "title": "deliberating the deployment, or specific occasions for implementation, of security personnel or devi...",
-        "description": "deliberating the deployment, or specific occasions for implementation, of security personnel or devices. [Tex. Govt.  \n\n      Code §",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "6",
-        "title": "discussing or deliberating commercial or financial information that the city has received from a bus...",
-        "description": "discussing or deliberating commercial or financial information that the city has received from a business prospect  \n\n      that the city seeks to have locate, stay or expand in or near the city and with which the city is conducting economic  \n\n      development negotiations; or deliberating the offer of a financial or other incentive to a business prospect. [Tex  \n\n      Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "7",
-        "title": "deliberating security assessments or deployments relating to information resources technology, netwo...",
-        "description": "deliberating security assessments or deployments relating to information resources technology, network  security  \n\n      information,  or   the   deployment   or   specific   occasions   for   implementations   of   security  personnel,  critical  \n\n      infrastructure, or security devices. [Tex Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "title": "Holdover Case: BDA245-011(CJ)",
+        "description": "Application of Tracy Jordan for (1) a variance to the maximum building height regulations.",
+        "presenter": "Tracy Jordan",
+        "action_required": "discuss"
       }
     ],
     "keywords": [
-      "tif",
-      "approval",
-      "public",
-      "development",
-      "contract"
+      "Board of Adjustment",
+      "Dallas City Hall",
+      "public hearing",
+      "special exception",
+      "fence height regulations",
+      "sign regulations",
+      "variance",
+      "minutes approval",
+      "uncontested cases",
+      "holdover items",
+      "public testimony"
     ],
     "financial_items": []
   },

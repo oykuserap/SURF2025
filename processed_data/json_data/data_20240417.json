@@ -11,7 +11,7 @@
       "location": "Dallas City Hall, Room 6ES, and Videoconference"
     },
     "attendees": {
-      "chair": "Cherri Gambow, Vice-Chair",
+      "chair": "Cherri Gambow",
       "presenters": [],
       "participants": []
     },
@@ -75,13 +75,13 @@
       "Case Docket",
       "Minutes Approval",
       "Uncontested Items",
-      "Variance",
-      "Special Exception",
-      "Fence Regulations",
-      "Building Height Regulations",
+      "Holdover Items",
+      "Individual Items",
       "Dallas City Hall",
       "Videoconference",
-      "Accessibility"
+      "Accessibility",
+      "Executive Session",
+      "Fence Regulations"
     ],
     "financial_items": []
   },

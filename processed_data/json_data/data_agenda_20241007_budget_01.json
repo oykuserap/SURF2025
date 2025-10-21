@@ -60,7 +60,7 @@
       {
         "item_number": "C",
         "title": "Upcoming Agenda Item - Brownfields Redevelopment Program (BRP) Revolving Loan Fund Grant Award",
-        "description": "Discussion on the upcoming agenda item regarding the BRP grant award.",
+        "description": "Discussion on the upcoming agenda item regarding the BRP grant.",
         "presenter": "Liz Cedillo-Pereira",
         "action_required": "discuss"
       },
@@ -74,7 +74,7 @@
       {
         "item_number": "E",
         "title": "Parks, Trails, and Environment Committee Forecast",
-        "description": "Forecast of upcoming items for the committee.",
+        "description": "Forecast for upcoming initiatives and projects.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -89,7 +89,11 @@
       "Environmental Commission",
       "Recognition",
       "Committee Meeting",
-      "Dallas City Council"
+      "Dallas City Council",
+      "Sustainability",
+      "Community Engagement",
+      "Public Safety",
+      "City Hall"
     ],
     "financial_items": []
   },

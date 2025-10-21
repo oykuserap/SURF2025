@@ -7,7 +7,7 @@
       "date": "February 12, 2025",
       "time": "5:30 p.m.",
       "type": "Regular Meeting",
-      "organization": "Dallas Environmental Commission",
+      "organization": "Environmental Commission",
       "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference (Webex)"
     },
     "attendees": {
@@ -44,51 +44,51 @@
       {
         "item_number": "IV.a",
         "title": "Equipment and Fleet Management Goal 3 CECAP Update",
-        "description": "Briefing on the Equipment and Fleet Management Goal 3 CECAP Update",
+        "description": "Update on the Equipment and Fleet Management Goal 3 CECAP.",
         "presenter": "Vince Olsen, Director (I), Equipment and Fleet Management; Matthew Amend, Assistant Director, Equipment and Fleet Management",
         "action_required": "discuss"
       },
       {
         "item_number": "V.a",
         "title": "City of Dallas Water Conservation Minor Plumbing Repair (MPR) Program",
-        "description": "Briefing Memorandum on the City of Dallas Water Conservation Minor Plumbing Repair Program",
+        "description": "Briefing on the City of Dallas Water Conservation Minor Plumbing Repair Program.",
         "presenter": "Paul White II, Director (I), Office of Environmental Quality and Sustainability",
         "action_required": "discuss"
       },
       {
         "item_number": "V.b",
         "title": "Updated Equity Indicators Report, Including Environmental Justice Indicators",
-        "description": "Briefing Memorandum on the Updated Equity Indicators Report",
+        "description": "Presentation of the updated equity indicators report.",
         "presenter": "M. Elizabeth Cedillo-Pereira, Assistant City Manager",
         "action_required": "discuss"
       },
       {
         "item_number": "VI.a",
         "title": "Monthly Subcommittee Updates",
-        "description": "Updates from various subcommittees including Environmental Health, Environmental Justice, Implementation, Outreach & Engagement, Strategic Partnerships & Innovation",
+        "description": "Updates from various subcommittees including Environmental Health, Environmental Justice, Implementation, Outreach & Engagement, and Strategic Partnerships & Innovation.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "VI.b",
         "title": "Monthly District Updates from Commissioners",
-        "description": "Updates from the commissioners regarding their respective districts",
+        "description": "Updates from commissioners regarding their respective districts.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "VI.c.i",
         "title": "Upcoming Meetings - Parks, Trails, & the Environment Council Committee",
-        "description": "Announcement of the upcoming meeting on March 3, 2025, from 9:00 a.m. to 11:00 a.m.",
+        "description": "Announcement of the upcoming Parks, Trails, & the Environment Council Committee meeting.",
         "presenter": null,
-        "action_required": "announce"
+        "action_required": "inform"
       },
       {
         "item_number": "VI.c.ii",
         "title": "Upcoming Meetings - Environmental Commission",
-        "description": "Announcement of the upcoming meeting on March 12, 2025, from 5:30 p.m. to 7:30 p.m.",
+        "description": "Announcement of the upcoming Environmental Commission meeting.",
         "presenter": null,
-        "action_required": "announce"
+        "action_required": "inform"
       }
     ],
     "keywords": [
@@ -101,11 +101,11 @@
       "Subcommittee Updates",
       "District Updates",
       "Parks and Trails",
-      "Meeting Announcements",
+      "Meeting Minutes",
       "CECAP Update",
-      "Fleet Management",
       "Sustainability",
       "Public Participation",
+      "Videoconference",
       "Accessibility"
     ],
     "financial_items": []

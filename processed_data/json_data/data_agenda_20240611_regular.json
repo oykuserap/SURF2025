@@ -25,21 +25,21 @@
       {
         "item_number": "IV",
         "title": "Approval of the minutes for the May 14, 2024 Meeting",
-        "description": "Approval of the minutes for the previous meeting of the City of Dallas Housing Finance Corporation.",
+        "description": "Approval of the minutes for the previous meeting.",
         "presenter": "Marcy Helfand",
         "action_required": "approve"
       },
       {
         "item_number": "V",
         "title": "Resolutions for West Virginia Apartments",
-        "description": "Consider and adopt a financing resolution authorizing the issuance, sale and delivery of the City of Dallas Housing Finance Corporation Multifamily Tax-Exempt Bonds Series 2024A and Multifamily Housing Revenue Bonds Series 2024B in the aggregate principal amount of up to $32,000,000.00.",
+        "description": "Action Item: Resolutions for a multifamily residential development located at 8004 West Virginia Drive, including financing resolutions and partnership resolutions.",
         "presenter": "Aaron Eaquinto",
         "action_required": "approve"
       },
       {
         "item_number": "VI",
         "title": "Resolutions relating to renewal of the Corporation’s participation in the single-family home mortgage program",
-        "description": "Consider and adopt a resolution approving an assignment agreement with the Texas Department of Housing and Community Affairs authorizing TDHCA to issue bonds for financing home mortgage loans.",
+        "description": "Action Item: Resolutions for the assignment agreement with TDHCA and application to the Texas Bond Review Board.",
         "presenter": "Aaron Eaquinto",
         "action_required": "approve"
       },
@@ -62,22 +62,22 @@
       "Dallas Housing Finance Corporation",
       "Regular Meeting",
       "West Virginia Apartments",
-      "Multifamily Tax-Exempt Bonds",
-      "Single-family home mortgage program",
+      "financing resolution",
+      "single-family home mortgage program",
       "Treasurer’s report",
-      "Pipeline report",
-      "Financing resolution",
-      "Bond Counsel",
-      "General Manager",
-      "Public Comments",
-      "Approval of minutes",
-      "Equitable meeting",
-      "Accommodations",
-      "Housing"
+      "pipeline report",
+      "multifamily residential development",
+      "bond financing",
+      "Texas Department of Housing",
+      "public comments",
+      "action items",
+      "meeting minutes",
+      "partnership resolutions",
+      "equitable access"
     ],
     "financial_items": [
       {
-        "description": "Financing for West Virginia Apartments",
+        "description": "Financing for West Virginia Apartments rehabilitation",
         "amount": "$32,000,000.00",
         "type": "bond financing"
       },

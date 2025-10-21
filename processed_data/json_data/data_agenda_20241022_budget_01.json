@@ -18,8 +18,8 @@
         "Matt Roberts",
         "Christine Crossley",
         "Daniel Roby",
-        "Thor Erickson",
-        "Darwin Wade"
+        "Darwin Wade",
+        "Thor Erickson"
       ],
       "participants": []
     },
@@ -35,28 +35,28 @@
         "item_number": "A",
         "title": "Homeless Response System Quarterly Report",
         "description": "Quarterly report on the homeless response system.",
-        "presenter": "Sara Kahn, President & CEO, Housing Forward",
+        "presenter": "Sara Kahn",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "Cold Weather Shelter, A Systematic Approach",
         "description": "Operational plan for inclement weather shelters.",
-        "presenter": "Christine Crossley, Director, Office of Homeless Solutions",
+        "presenter": "Christine Crossley",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "Office of Homeless Solutions and the Department of Housing & Community Development Properties Update",
-        "description": "Update on various projects located at specified addresses.",
-        "presenter": "Christine Crossley, Director, Office of Homeless Solutions",
+        "description": "Update on various housing projects.",
+        "presenter": "Christine Crossley",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "Department of Housing & Community Development FY2023-2024 Quarter Four Performance Measures",
         "description": "Performance measures for the fourth quarter.",
-        "presenter": "Thor Erickson, Assistant Director, Housing & Community Development",
+        "presenter": "Thor Erickson",
         "action_required": "discuss"
       },
       {
@@ -81,23 +81,24 @@
       "Dallas",
       "Meeting",
       "Report",
-      "Performance Measures",
       "Cold Weather Shelter",
+      "Performance Measures",
       "Acquisition",
       "Development",
-      "Public Safety",
+      "Finance Corporation",
       "Community Development",
-      "Economic Development",
-      "Executive Session"
+      "Operational Plan",
+      "Quarterly Report",
+      "Public Safety"
     ],
     "financial_items": [
       {
-        "description": "Estimated Revenue Foregone for Oak & Ellum acquisition",
+        "description": "Estimated Revenue Foregone: General Funds for Oak & Ellum",
         "amount": "$9,502,325.00",
         "type": "Estimated Taxes"
       },
       {
-        "description": "Estimated Revenue Foregone for 2929 Wycliff acquisition",
+        "description": "Estimated Revenue Foregone: General Funds for 2929 Wycliff",
         "amount": "$4,701,303.00",
         "type": "Estimated Taxes"
       }

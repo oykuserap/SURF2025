@@ -72,7 +72,7 @@
       {
         "item_number": "IV.6",
         "title": "Officiating Service Price Agreement",
-        "description": "Authorize a three-year service price agreement for Youth Sports Officiating Services.",
+        "description": "Authorize a three-year service price agreement for Youth Sports Officiating Services for the Park and Recreation Department.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -145,17 +145,17 @@
     ],
     "financial_items": [
       {
-        "description": "Texas Capital Bank contribution for naming opportunity at Southern Gateway Park.",
+        "description": "Contribution from Texas Capital Bank for naming opportunity at Southern Gateway Park.",
         "amount": "$1,000,000",
         "type": "funding"
       },
       {
-        "description": "Methodist Health System contribution for naming opportunity at Southern Gateway Park.",
+        "description": "Contribution from Methodist Health System for naming opportunity at Southern Gateway Park.",
         "amount": "$1,000,000",
         "type": "funding"
       },
       {
-        "description": "McKesson Foundation contribution for naming opportunity at Fair Park.",
+        "description": "Contribution from McKesson Foundation for naming opportunity at Fair Park.",
         "amount": "$2,500,000",
         "type": "funding"
       },

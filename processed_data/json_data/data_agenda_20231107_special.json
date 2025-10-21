@@ -39,7 +39,7 @@
       {
         "item_number": "3",
         "title": "Public Testimony",
-        "description": "Public comments on agenda items 4 - 12.",
+        "description": "Public comment(s) on items 4 - 12.",
         "presenter": null,
         "action_required": null
       },
@@ -60,7 +60,7 @@
       {
         "item_number": "6",
         "title": "The Riviera Apartments Financing",
-        "description": "Discussion and approval of a resolution authorizing the negotiation and execution of a Term Sheet and financing of up to $55,000,000 of tax-exempt bonds for The Riviera Apartments.",
+        "description": "Discussion and approval of a resolution authorizing the negotiation and execution of a Term Sheet and inducing the proposed financing of up to $55,000,000 of tax-exempt bonds for The Riviera Apartments.",
         "presenter": "Aaron Eaquinto/Albert Gonzalez, HOU Staff; Jim Plummer, Bracewell; Tim Nelson, Hilltop Securities",
         "action_required": "approve"
       },
@@ -95,14 +95,14 @@
       {
         "item_number": "11",
         "title": "Dallas PFC Treasurer’s Report",
-        "description": "Review and discussion of the Dallas PFC Treasurer’s Report.",
+        "description": "Review and discussion of Dallas PFC Treasurer’s Report.",
         "presenter": "Albert Gonzalez, HOU Staff",
         "action_required": null
       },
       {
         "item_number": "12",
         "title": "Dallas PFC Pipeline Report",
-        "description": "Review and discussion of the Dallas PFC Pipeline Report.",
+        "description": "Review and discussion of Dallas PFC Pipeline Report.",
         "presenter": "Albert Gonzalez, HOU Staff",
         "action_required": null
       },
@@ -133,7 +133,7 @@
     ],
     "financial_items": [
       {
-        "description": "Financing of tax-exempt bonds for The Riviera Apartments",
+        "description": "Proposed financing of tax-exempt bonds for The Riviera Apartments",
         "amount": "$55,000,000",
         "type": "financing"
       }

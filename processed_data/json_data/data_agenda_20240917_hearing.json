@@ -11,7 +11,7 @@
       "location": "Dallas City Hall, Room 6ES, Videoconference"
     },
     "attendees": {
-      "chair": "Cherri Gambow, Vice-Chair",
+      "chair": "Cherri Gambow",
       "presenters": [],
       "participants": []
     },
@@ -47,7 +47,7 @@
       {
         "item_number": "V",
         "title": "Miscellaneous Items",
-        "description": "Approval of Panel B Minutes",
+        "description": "Approval of Panel B Minutes – May 22nd, 2024 and August 21st, 2024",
         "presenter": null,
         "action_required": "approve"
       },
@@ -70,22 +70,24 @@
       "Board of Adjustment",
       "Dallas",
       "Public Hearing",
-      "Case Docket",
       "Minutes Approval",
+      "Case Docket",
       "Visibility Obstruction",
       "Fence Height Regulations",
       "Special Exception",
       "Public Testimony",
       "Executive Session",
-      "Uncontested Cases",
-      "Holdover Items",
-      "Individual Cases"
+      "Auxiliary Aid",
+      "Accommodations",
+      "Videoconference",
+      "Public Participation",
+      "Meeting Location"
     ],
     "financial_items": [
       {
         "description": "Application of Josh Lecomte requesting a fee reimbursement for fees paid.",
         "amount": null,
-        "type": null
+        "type": "fee reimbursement"
       }
     ]
   },

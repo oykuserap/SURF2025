@@ -11,7 +11,7 @@
       "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
     },
     "attendees": {
-      "chair": "Atkins",
+      "chair": "Mendelsohn",
       "presenters": [
         "Pollyana Ashford",
         "Delridge Williams",
@@ -37,63 +37,63 @@
       {
         "item_number": "A",
         "title": "Overview of Police and Fire Recruiting and Retention",
-        "description": "A briefing on the recruiting and retention strategies for police and fire departments.",
+        "description": "A briefing on the current status of police and fire recruiting and retention efforts.",
         "presenter": "Pollyana Ashford, Major of Police, Dallas Police Department; Delridge Williams, Assistant Chief, Dallas Fire-Rescue Department",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "Violent Crime Reduction Plan Update",
-        "description": "An update on the strategies and effectiveness of the violent crime reduction plan.",
+        "description": "An update on the violent crime reduction plan.",
         "presenter": "Nathan Swyers, Major of Police, Violent Crime Division, Dallas Police Department",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "Overview of Dallas Police Proposed Initiatives for Human Trafficking Awareness Month",
-        "description": "Discussion on initiatives proposed by the Dallas Police Department for human trafficking awareness.",
+        "description": "Discussion on proposed initiatives for human trafficking awareness.",
         "presenter": "Yancey Nelson, Major of Police, Dallas Police Department; Breanna Valentine, Lieutenant of Police, Dallas Police Department",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "Overview of Dallas Police Department Animal Cruelty Unit",
-        "description": "A briefing on the operations and initiatives of the Animal Cruelty Unit.",
+        "description": "Briefing on the activities and initiatives of the Animal Cruelty Unit.",
         "presenter": "Patricia Mora, Deputy Chief, Patrol East Group Dallas Police Department",
         "action_required": "discuss"
       },
       {
         "item_number": "E",
         "title": "Public Safety Dashboards",
-        "description": "Presentation of public safety dashboards and metrics.",
+        "description": "Presentation on public safety dashboards.",
         "presenter": "Dominique Artis, Chief of Public Safety (I), City Manager’s Office",
         "action_required": "discuss"
       },
       {
         "item_number": "F",
         "title": "Dallas Fire-Rescue Blood Transfusion Pilot Program Update",
-        "description": "Update on the pilot program for blood transfusions in Dallas Fire-Rescue.",
+        "description": "Update on the blood transfusion pilot program.",
         "presenter": "Justin Ball, Chief of Fire, Dallas Fire-Rescue Department",
         "action_required": "discuss"
       },
       {
         "item_number": "G",
         "title": "Dallas Fire-Rescue Facility Construction Update",
-        "description": "Update on the construction of new facilities for Dallas Fire-Rescue.",
+        "description": "Update on the construction of Dallas Fire-Rescue facilities.",
         "presenter": "Justin Ball, Chief of Fire, Dallas Fire-Rescue Department",
         "action_required": "discuss"
       },
       {
         "item_number": "H",
         "title": "Dallas Fire-Rescue Fleet Maintenance Update",
-        "description": "Update on the maintenance of the fleet for Dallas Fire-Rescue.",
+        "description": "Update on the maintenance of the Dallas Fire-Rescue fleet.",
         "presenter": "Justin Ball, Chief of Fire (I), Dallas Fire-Rescue Department",
         "action_required": "discuss"
       },
       {
         "item_number": "I",
         "title": "Marshal’s Homeless Action Responses Team Activity Report",
-        "description": "Report on the activities of the Marshal's Homeless Action Responses Team.",
+        "description": "Report on the activities of the Marshal’s Homeless Action Responses Team.",
         "presenter": "David Pughes, City Marshal, Dallas Marshal’s Office",
         "action_required": "discuss"
       },
@@ -106,8 +106,8 @@
       },
       {
         "item_number": "K",
-        "title": "Authorize acceptance of a grant from the U.S. Department of Justice",
-        "description": "Authorize the acceptance of a grant to support crime prevention and control activities.",
+        "title": "Authorize the acceptance of a grant from the U.S. Department of Justice",
+        "description": "Authorize acceptance of a grant to support crime prevention and control activities.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -129,7 +129,7 @@
     "keywords": [
       "Public Safety",
       "Dallas Police Department",
-      "Dallas Fire-Rescue",
+      "Fire-Rescue",
       "Crime Reduction",
       "Human Trafficking",
       "Animal Cruelty",
@@ -139,9 +139,9 @@
       "Intelligence Platform",
       "Recruiting and Retention",
       "Violent Crime",
+      "Homeless Action",
       "Facility Construction",
-      "Fleet Maintenance",
-      "Homeless Action"
+      "Fleet Maintenance"
     ],
     "financial_items": [
       {
@@ -155,7 +155,7 @@
         "type": "contract"
       },
       {
-        "description": "Purchasing agreement for web-based intelligence investigative platform.",
+        "description": "Purchasing agreement for a web-based intelligence investigative platform.",
         "amount": "$303,963.00",
         "type": "contract"
       }

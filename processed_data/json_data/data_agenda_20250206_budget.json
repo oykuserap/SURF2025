@@ -14,10 +14,10 @@
       "chair": "Melanie Rubin",
       "presenters": [
         "Victor Salazar",
-        "Chan Williams"
+        "Chan Williams",
+        "Zhen Barrientos"
       ],
       "participants": [
-        "Zhen Barrientos",
         "Community Development Coordinator"
       ]
     },
@@ -25,7 +25,7 @@
       {
         "item_number": "I",
         "title": "Call to Order",
-        "description": null,
+        "description": "",
         "presenter": "Melanie Rubin",
         "action_required": null
       },
@@ -39,63 +39,63 @@
       {
         "item_number": "III",
         "title": "Public Speakers",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "IV",
         "title": "Approval of the January 13, 2025, Special Called Meeting Minutes",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "V",
         "title": "Community Development Division Reports",
-        "description": "Various briefing items regarding community development.",
-        "presenter": "Victor Salazar, Chan Williams",
-        "action_required": null
+        "description": "Briefing Items including Overview of FY 2023-24 Community Development Commission Annual Report, FY 2025-26 HUD Budget Development Status Update, and CDBG Timely Expenditure of Funds Status Updates.",
+        "presenter": "Victor Salazar",
+        "action_required": "discuss"
       },
       {
         "item_number": "VI",
         "title": "Chair’s Report",
-        "description": "General greetings and acknowledgements.",
+        "description": "General greetings and acknowledgements to staff, commission members and other members of the public.",
         "presenter": "Melanie Rubin",
         "action_required": null
       },
       {
         "item_number": "VII",
         "title": "Action Item: Review and Approval of FY 2023-24 Community Development Commission’s (CDC) Annual Report",
-        "description": null,
+        "description": "",
         "presenter": "Melanie Rubin",
         "action_required": "approve"
       },
       {
         "item_number": "VIII",
         "title": "Vice Chair’s Report",
-        "description": "General acknowledgements.",
+        "description": "General acknowledgements to staff, commission members and members of the public.",
         "presenter": "Zhen Barrientos",
         "action_required": null
       },
       {
         "item_number": "IX",
         "title": "Public Speakers",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "X",
         "title": "Announcement",
-        "description": "Various announcements.",
+        "description": "Expressions of thanks, congratulations, or condolence; Information about holiday schedules; honorary or salutary recognition of public officials.",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "XI",
         "title": "Adjournment",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       }
@@ -111,11 +111,11 @@
       "Chair's Report",
       "Vice Chair's Report",
       "Budget Management",
-      "Neighborhood Meetings",
-      "Expenditure of Funds",
       "Community Development Commission",
-      "Dallas City Hall",
-      "Videoconference"
+      "Meeting Minutes",
+      "Public Participation",
+      "Equitable Access",
+      "Neighborhood Meetings"
     ],
     "financial_items": []
   },

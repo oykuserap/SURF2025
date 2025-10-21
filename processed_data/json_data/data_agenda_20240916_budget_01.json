@@ -8,7 +8,7 @@
       "time": "9:00 AM",
       "type": "Regular Meeting",
       "organization": "Quality of Life, Arts, and Culture Committee",
-      "location": "Council Chambers, 6th Floor, City Hall and via video conference"
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
     },
     "attendees": {
       "chair": "Paul E. Ridley",
@@ -46,28 +46,28 @@
       {
         "item_number": "A",
         "title": "Historic Preservation Update",
-        "description": "Update on staffing, recent program successes, new studies, and upcoming projects.",
+        "description": "Update on staffing, recent program successes, new historic preservation studies, and upcoming projects.",
         "presenter": "Andrea Gilles, Deputy Director, Planning and Urban Development",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "Short-Term Rentals Update",
-        "description": "Overview of service requests, registration status, and hotel occupancy tax collection.",
+        "description": "Overview of service requests, STR registrations, and ongoing initiatives related to short-term rentals.",
         "presenter": "Christopher Christian, Director, Code Compliance Services",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "City Facilities Partners Update - Dallas Theater Center",
-        "description": "Update on the partnership and management of city-owned cultural venues.",
+        "description": "Update on the partnership with Dallas Theater Center and its management of city-owned cultural venues.",
         "presenter": "Martine Elyse Philippe, Director, Office of Arts and Culture",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "Upcoming Office of Community Care Agenda Item",
-        "description": "Authorize an amendment to the service contract with Senior Citizens of Greater Dallas for the Senior Services Ombudsman Program.",
+        "description": "Discussion on the amendment to the service contract with Senior Citizens of Greater Dallas for the Senior Services Ombudsman Program.",
         "presenter": "Jessica Galleshaw, Director, Office of Community Care",
         "action_required": "discuss"
       },
@@ -81,7 +81,7 @@
       {
         "item_number": "F",
         "title": "Quality of Life, Arts, and Culture Committee Forecast",
-        "description": "Forecast of upcoming agenda items for the committee.",
+        "description": "Forecast of upcoming agenda items for the Quality of Life, Arts, and Culture Committee.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -96,7 +96,8 @@
       "Senior Services",
       "Ombudsman Program",
       "Hotspot Loaning Program",
-      "Community Care"
+      "Community Care",
+      "Public Library"
     ],
     "financial_items": [
       {
@@ -108,6 +109,11 @@
         "description": "Funding for Dallas Theater Center through Cultural Organizations Program",
         "amount": "$90,007",
         "type": "funding"
+      },
+      {
+        "description": "Proposed elimination of the hotspot loaning program with a total cost of $619,920",
+        "amount": "$619,920",
+        "type": "expenditure"
       }
     ]
   },

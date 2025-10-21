@@ -38,7 +38,7 @@
       {
         "item_number": "B",
         "title": "Development Code Amendment for Adult Day Care, Child-care Facilities, and Day Homes (DCA223-002)",
-        "description": "Discussion on the amendment regarding adult day care and child-care facilities.",
+        "description": "Discussion on the proposed amendments to the development code.",
         "presenter": "Andrea Giles",
         "action_required": "discuss"
       },
@@ -52,7 +52,7 @@
       {
         "item_number": "D",
         "title": "Update on Horse-Drawn Carriages Permitted for Transportation-For-Hire Services",
-        "description": "Update on the regulations and status of horse-drawn carriages.",
+        "description": "Update regarding the regulations and status of horse-drawn carriages.",
         "presenter": "Patrick Carreno",
         "action_required": "discuss"
       },
@@ -66,14 +66,14 @@
       {
         "item_number": "F",
         "title": "Dallas Museum of Art (DMA) Emergency Reimbursement Increase",
-        "description": "Discussion on the increase in emergency reimbursement for the DMA.",
+        "description": "Discussion on the increase in emergency reimbursement for DMA.",
         "presenter": "Martine Philippe",
         "action_required": "discuss"
       },
       {
         "item_number": "G",
         "title": "Community Water Fluoridation in Dallas- Follow-Up Responses",
-        "description": "Follow-up responses regarding community water fluoridation.",
+        "description": "Follow-up on community water fluoridation responses.",
         "presenter": "Sarah Standifer",
         "action_required": "discuss"
       }
@@ -84,14 +84,25 @@
       "Culture",
       "Dallas City Council",
       "Legislative Priorities",
+      "Development Code",
       "Cultural Facilities",
-      "Funding",
-      "Community Water Fluoridation",
-      "Horse-Drawn Carriages",
-      "Development Code Amendment",
-      "Emergency Reimbursement"
+      "Emergency Reimbursement",
+      "Water Fluoridation",
+      "Transportation",
+      "Horse-Drawn Carriages"
     ],
-    "financial_items": []
+    "financial_items": [
+      {
+        "description": "Cultural Facilities Program Funding- Kitchen Dog Theater",
+        "amount": null,
+        "type": "funding"
+      },
+      {
+        "description": "Dallas Museum of Art (DMA) Emergency Reimbursement Increase",
+        "amount": null,
+        "type": "reimbursement"
+      }
+    ]
   },
   "extraction_method": "openai_gpt",
   "original_length": 20227

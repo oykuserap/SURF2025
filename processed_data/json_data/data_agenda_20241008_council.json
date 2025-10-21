@@ -18,8 +18,8 @@
     "agenda_items": [
       {
         "item_number": "1",
-        "title": "Approval of Minutes of the September 25, 2024 City Council Meeting",
-        "description": "",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes of the September 25, 2024 City Council Meeting",
         "presenter": null,
         "action_required": "approve"
       },
@@ -27,63 +27,63 @@
         "item_number": "2",
         "title": "Authorize payment of annual membership fees",
         "description": "Authorize payment of annual membership fees and continuation of arrangements for various organizations.",
-        "presenter": null,
+        "presenter": "Budget and Management Services",
         "action_required": "approve"
       },
       {
         "item_number": "3",
-        "title": "Authorize settlement of lawsuit",
+        "title": "Settlement of lawsuit",
         "description": "Authorize settlement of the lawsuit styled Jacolby Douglas v. City of Dallas.",
-        "presenter": null,
+        "presenter": "City Attorney's Office",
         "action_required": "approve"
       },
       {
         "item_number": "4",
-        "title": "Authorize settlement of lawsuit",
+        "title": "Settlement of lawsuit",
         "description": "Authorize settlement of the lawsuit styled Kerry Holmes and Zandra Holmes v. City of Dallas.",
-        "presenter": null,
+        "presenter": "City Attorney's Office",
         "action_required": "approve"
       },
       {
         "item_number": "5",
-        "title": "Authorize preparation of plans for bond issuances",
+        "title": "Preparation of plans for bond issuances",
         "description": "Authorize the preparation of plans and payment of potential future costs for bond issuances.",
-        "presenter": null,
+        "presenter": "City Controller's Office",
         "action_required": "approve"
       },
       {
         "item_number": "6",
-        "title": "Authorize publication of Notice of Intention to Issue Certificates of Obligation",
+        "title": "Publication of Notice of Intention to Issue Certificates of Obligation",
         "description": "Authorize the publication of Notice of Intention to Issue Certificates of Obligation.",
-        "presenter": null,
+        "presenter": "City Controller's Office",
         "action_required": "approve"
       },
       {
         "item_number": "7",
-        "title": "Authorize preparation of plans for Waterworks and Sewer System Revenue Refunding Bonds",
+        "title": "Preparation of plans for Waterworks and Sewer System Revenue Refunding Bonds",
         "description": "Authorize the preparation of plans for issuance of Waterworks and Sewer System Revenue Refunding Bonds.",
-        "presenter": null,
+        "presenter": "City Controller's Office",
         "action_required": "approve"
       },
       {
         "item_number": "8",
-        "title": "Authorize acceptance of grant for Auto Theft Taskforce",
+        "title": "Acceptance of grant for Auto Theft Taskforce",
         "description": "Authorize acceptance of a grant from the Motor Vehicle Crime Prevention Authority for the FY 2025 Dallas Auto Theft Taskforce Grant.",
-        "presenter": null,
+        "presenter": "Dallas Police Department",
         "action_required": "approve"
       },
       {
         "item_number": "9",
-        "title": "Authorize acceptance of grant for Victims of Crime Act",
+        "title": "Acceptance of grant for Victims of Crime Act",
         "description": "Authorize acceptance of a grant from the U.S. Department of Justice for the FY 2025 Victims of Crime Act Victim Services DPD Grant.",
-        "presenter": null,
+        "presenter": "Dallas Police Department",
         "action_required": "approve"
       },
       {
         "item_number": "10",
-        "title": "Authorize acceptance of grant for Catalytic Converter Grant",
+        "title": "Acceptance of grant for Catalytic Converter Grant",
         "description": "Authorize acceptance of a grant from the Motor Vehicle Crime Prevention Authority for the FY25 SB224 Catalytic Converter Grant.",
-        "presenter": null,
+        "presenter": "Dallas Police Department",
         "action_required": "approve"
       }
     ],
@@ -91,48 +91,53 @@
       "Dallas City Council",
       "meeting",
       "agenda",
-      "grants",
-      "lawsuit settlements",
-      "bond issuances",
+      "approval",
+      "grant",
+      "settlement",
+      "lawsuit",
+      "bond issuance",
       "membership fees",
-      "public hearings",
+      "public hearing",
       "zoning",
-      "traffic improvements",
-      "budget",
+      "traffic",
       "funding",
-      "community services",
-      "public safety",
-      "urban development"
+      "budget",
+      "community services"
     ],
     "financial_items": [
       {
         "description": "Payment of annual membership fees for various organizations",
-        "amount": "110000.00",
+        "amount": "$110,000.00",
         "type": "expenditure"
       },
       {
         "description": "Settlement of lawsuit Jacolby Douglas v. City of Dallas",
-        "amount": "79000.00",
+        "amount": "$79,000.00",
         "type": "expenditure"
       },
       {
         "description": "Settlement of lawsuit Kerry Holmes and Zandra Holmes v. City of Dallas",
-        "amount": "117500.00",
+        "amount": "$117,500.00",
         "type": "expenditure"
       },
       {
-        "description": "Grant from Motor Vehicle Crime Prevention Authority for Auto Theft Taskforce",
-        "amount": "1582029.00",
+        "description": "Potential future costs for bond issuances",
+        "amount": "$353,000,000.00",
+        "type": "budget"
+      },
+      {
+        "description": "Acceptance of grant for Auto Theft Taskforce",
+        "amount": "$1,582,029.00",
         "type": "grant"
       },
       {
-        "description": "Grant from U.S. Department of Justice for Victims of Crime Act",
-        "amount": "95415.17",
+        "description": "Acceptance of grant for Victims of Crime Act",
+        "amount": "$95,415.17",
         "type": "grant"
       },
       {
-        "description": "Grant from Motor Vehicle Crime Prevention Authority for Catalytic Converter Grant",
-        "amount": "1295074.00",
+        "description": "Acceptance of grant for Catalytic Converter Grant",
+        "amount": "$1,295,074.00",
         "type": "grant"
       }
     ]

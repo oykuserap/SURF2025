@@ -16,18 +16,7 @@
       "participants": []
     },
     "agenda_items": [],
-    "keywords": [
-      "executive session",
-      "litigation",
-      "real property",
-      "contract",
-      "employment",
-      "security",
-      "financial information",
-      "economic development",
-      "business prospect",
-      "incentive"
-    ],
+    "keywords": [],
     "financial_items": []
   },
   "extraction_method": "openai_gpt",

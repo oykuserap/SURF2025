@@ -16,15 +16,13 @@
         "Christine Crossley",
         "Daniel Roby",
         "Shannon Browning",
-        "Wanda Moreland"
-      ],
-      "participants": [
+        "Wanda Moreland",
         "James Hauck",
         "Tramonica Brown",
         "Wesley Keyes",
-        "Angela Klattenhoff",
-        "Anthony Virgil"
-      ]
+        "Angela Klattenhoff"
+      ],
+      "participants": []
     },
     "agenda_items": [
       {
@@ -44,63 +42,63 @@
       {
         "item_number": "III",
         "title": "Approval of Minutes",
-        "description": "September 19, 2024",
+        "description": "Approval of minutes from September 19, 2024",
         "presenter": "Linda Garner",
         "action_required": "approve"
       },
       {
         "item_number": "IV",
         "title": "Presentation: Cold Weather Shelter, A Systematic Approach",
-        "description": "The City of Dallas and Partners Operational Plan",
+        "description": "Operational Plan by the City of Dallas and Partners",
         "presenter": "Christine Crossley",
-        "action_required": "discuss"
+        "action_required": null
       },
       {
         "item_number": "V",
         "title": "Presentation: Homeless Action Response Team (H.A.R.T) Overview",
-        "description": null,
+        "description": "Overview of the H.A.R.T program",
         "presenter": "Shannon Browning",
-        "action_required": "discuss"
+        "action_required": null
       },
       {
         "item_number": "VI",
         "title": "Briefing Memo: OHS FY 2025 Budget Overview",
-        "description": null,
+        "description": "Overview of the Office of Homeless Solutions FY 2025 Budget",
         "presenter": "Christine Crossley",
-        "action_required": "discuss"
+        "action_required": null
       },
       {
         "item_number": "VII",
         "title": "Briefing Memo: Office of Homeless Solutions - Properties Update",
-        "description": "Properties Update on 1950 Fort Worth, 2929 S. Hampton, 4150 Independence",
+        "description": "Update on properties including 1950 Fort Worth, 2929 S. Hampton, 4150 Independence",
         "presenter": "Christine Crossley",
-        "action_required": "discuss"
+        "action_required": null
       },
       {
         "item_number": "VIII",
         "title": "Task Force Update: Citizen Homelessness Commission",
         "description": "Updates from various task force members",
         "presenter": "Linda Garner",
-        "action_required": "discuss"
+        "action_required": null
       },
       {
         "item_number": "IX",
         "title": "Discussion on District Specific Homelessness Concerns and Observations",
-        "description": "See One, Be One, Teach One Matrix",
+        "description": "Discussion on specific concerns and observations",
         "presenter": "Linda Garner",
-        "action_required": "discuss"
+        "action_required": null
       },
       {
         "item_number": "X",
         "title": "Proposed Items for Next/Future Meetings",
-        "description": null,
+        "description": "No discussion, debate, and/or vote",
         "presenter": "Linda Garner",
         "action_required": null
       },
       {
         "item_number": "XI",
         "title": "Announcement of Upcoming Meetings",
-        "description": null,
+        "description": "Announcement of future meetings",
         "presenter": "Linda Garner",
         "action_required": null
       },
@@ -113,29 +111,20 @@
       }
     ],
     "keywords": [
-      "Homelessness",
+      "Citizen Homelessness Commission",
       "Dallas",
-      "Commission",
       "Public Comments",
-      "Budget Overview",
+      "Approval of Minutes",
       "Cold Weather Shelter",
-      "Task Force",
-      "Community Engagement",
-      "Racial Equity",
-      "Data Initiatives",
+      "Homeless Action Response Team",
+      "OHS FY 2025 Budget",
+      "Properties Update",
+      "Task Force Update",
+      "District Specific Homelessness",
       "Future Meetings",
-      "Office of Homeless Solutions",
-      "Presentations",
-      "Action Response Team",
-      "District Concerns"
+      "Adjournment"
     ],
-    "financial_items": [
-      {
-        "description": "OHS FY 2025 Budget Overview",
-        "amount": null,
-        "type": "budget"
-      }
-    ]
+    "financial_items": []
   },
   "extraction_method": "openai_gpt",
   "original_length": 11852

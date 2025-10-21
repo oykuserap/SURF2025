@@ -5,90 +5,61 @@
   "extracted_data": {
     "meeting_info": {
       "date": "February 20, 2025",
-      "time": null,
+      "time": "4:30 P. M.",
       "type": "Regular Meeting",
-      "organization": "Tx \n\n\n\n                                         Arts And Culture Advisory Commission",
-      "location": "Dallas City Hall"
+      "organization": "Arts and Culture Advisory Commission",
+      "location": "Dallas City Hall, 6FN - Park and Recreation Board Room and Videoconference, 1500 Marilla Street"
     },
     "attendees": {
-      "chair": null,
-      "presenters": [],
+      "chair": "David Small",
+      "presenters": [
+        "David Small",
+        "Julia Alcantara",
+        "Charles Johnson",
+        "Vicki Meek",
+        "Martine Philippe"
+      ],
       "participants": []
     },
     "agenda_items": [
       {
-        "item_number": "2",
-        "title": "Vote to recommend initiation of a public art installation to be located near the historic  \n\n     ba...",
-        "description": "Vote to recommend initiation of a public art installation to be located near the historic  \n\n     baseball field at Reverchon Park in Council District (CD)",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "3",
-        "title": "Recommendation in support of artist finalist Carol May for the public art project located  \n\n     at...",
-        "description": "Recommendation in support of artist finalist Carol May for the public art project located  \n\n     at the Kleberg-Rylie Recreation Center in CD",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
         "item_number": "1",
-        "title": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or a...",
-        "description": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or any matter in which the  \n\n       duty of the attorney to the City Council under the Texas Disciplinary Rules of Professional Conduct of the State Bar of  \n\n       Texas clearly conflicts with the Texas Open Meetings Act.   [Tex. Govt. Code §",
+        "title": "Approval of the January 16, 2025, Arts and Culture Advisory Commission meeting minutes",
+        "description": "",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
         "item_number": "2",
-        "title": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open mee...",
-        "description": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open meeting would have a  \n\n       detrimental effect on the position of the city in negotiations with a third person. [Tex. Govt. Code §",
+        "title": "Vote to recommend initiation of a public art installation",
+        "description": "To be located near the historic baseball field at Reverchon Park in Council District (CD) 2.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "vote"
       },
       {
         "item_number": "3",
-        "title": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in...",
-        "description": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in an open meeting would  \n\n       have a detrimental effect on the position of the city in negotiations with a third person. [Tex. Govt. Code §",
+        "title": "Recommendation in support of artist finalist Carol May",
+        "description": "For the public art project located at the Kleberg-Rylie Recreation Center in CD 8.",
         "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "4",
-        "title": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal...",
-        "description": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal of a public officer or  \n\n       employee; or to hear a complaint or charge against an officer or employee unless the officer or employee who is the  \n\n       subject of the deliberation or hearing requests a public hearing. [Tex. Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "5",
-        "title": "deliberating the deployment, or specific occasions for implementation, of security personnel or devi...",
-        "description": "deliberating the deployment, or specific occasions for implementation, of security personnel or devices. [Tex. Govt. Code  \n\n       §",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "6",
-        "title": "discussing or deliberating commercial or financial information that the city has received from a bus...",
-        "description": "discussing or deliberating commercial or financial information that the city has received from a business prospect that the  \n\n       city seeks to have locate, stay or expand in or near the city and with which the city is conducting economic development  \n\n       negotiations; or deliberating the offer of a financial or other incentive to a business prospect. [Tex Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "7",
-        "title": "deliberating security assessments or deployments relating                              to informatio...",
-        "description": "deliberating security assessments or deployments relating                              to information resources technology, network security  \n\n       information, or the deployment or specific occasions for implementations of security personnel, critical infrastructure, or  \n\n       security devices.  [Tex. Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "action_required": "recommend"
       }
     ],
     "keywords": [
-      "tif",
-      "district",
-      "approval",
-      "recommendation",
-      "public",
-      "development",
-      "planning",
-      "contract"
+      "Arts and Culture",
+      "Public Art",
+      "Commission Meeting",
+      "Dallas City Hall",
+      "Cultural Planning",
+      "Equity",
+      "Public Speakers",
+      "Executive Session",
+      "Community Engagement",
+      "Art Installation",
+      "Cultural Activities",
+      "Commissioners",
+      "Updates",
+      "Recognition",
+      "Flamenco Fever"
     ],
     "financial_items": []
   },

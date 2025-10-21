@@ -6,18 +6,13 @@
     "meeting_info": {
       "date": "January 23, 2025",
       "time": "10:30 A.M. and 1:00 P.M.",
-      "type": "Regular Meeting",
+      "type": "Briefing and Public Hearing",
       "organization": "Board of Adjustment (Panel C)",
       "location": "Dallas City Hall, 6ES Council Briefing, and Videoconference"
     },
     "attendees": {
-      "chair": "Robert Agnich, Vice-Chair",
-      "presenters": [
-        "Shereyar Jawaid",
-        "Rob Baldwin",
-        "Benjamin Lartey",
-        "Raul Cortes Garcia"
-      ],
+      "chair": "Robert Agnich",
+      "presenters": [],
       "participants": []
     },
     "agenda_items": [
@@ -73,12 +68,11 @@
     ],
     "keywords": [
       "Board of Adjustment",
-      "Dallas City Hall",
       "Public Hearing",
+      "Dallas City Hall",
       "Variance",
       "Setback Regulations",
       "Fence Height Regulations",
-      "Fence Opacity Regulations",
       "Public Testimony",
       "Miscellaneous Items",
       "Approval of Minutes",

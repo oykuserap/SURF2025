@@ -23,15 +23,16 @@
       ],
       "participants": [
         "Stewart",
-        "Mendelsohn",
         "Moreno",
+        "Mendelsohn",
         "Ridley",
         "West",
-        "Blackmon",
-        "Resendez",
-        "Gracey",
-        "Schultz",
-        "Willis"
+        "Arias",
+        "Davis",
+        "Saab",
+        "Johnson",
+        "Weedon",
+        "Hernandez"
       ]
     },
     "agenda_items": [
@@ -59,7 +60,7 @@
       {
         "item_number": "C",
         "title": "Review of City Real Estate for Development, Sale, and Redevelopment",
-        "description": "Options for City Council consideration related to the City lease of the Bullington truck Terminal and Family Gateway Property repair update.",
+        "description": "Options for City Council consideration related to the City lease of the Bullington truck terminal and Family Gateway property repair update.",
         "presenter": "John Johnson",
         "action_required": "discuss"
       },
@@ -89,15 +90,21 @@
       "Budget Accountability",
       "Technology Accountability",
       "City Auditor",
-      "Family Gateway",
-      "American Rescue Plan",
-      "Community Development Block Grants"
+      "Workers’ Compensation",
+      "Community Development Block Grants",
+      "Family Gateway Property",
+      "American Rescue Plan Act"
     ],
     "financial_items": [
       {
-        "description": "American Rescue Plan Act - Coronavirus State & Local Fiscal Recovery Funds - Summary of Budgets, Encumbrances, Expenditures, and Unencumbered Funds - October 2024",
+        "description": "Overview of FY 2024-25 Debt Issuance",
         "amount": null,
-        "type": null
+        "type": "debt issuance"
+      },
+      {
+        "description": "American Rescue Plan Act - Summary of Budgets, Encumbrances, Expenditures, and Unencumbered Funds",
+        "amount": null,
+        "type": "funding"
       }
     ]
   },

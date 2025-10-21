@@ -16,7 +16,6 @@
         "Michele Andre",
         "Gregory Huff",
         "Siara Montoya Obasuyi",
-        "Michelle Breaux",
         "Anthony Greer"
       ],
       "participants": [
@@ -46,14 +45,14 @@
       {
         "item_number": "II",
         "title": "Purpose of the CPOB",
-        "description": "Discussion on the purpose and objectives of the Community Police Oversight Board.",
+        "description": "Chairman John Mark Davidson discusses the purpose of the Community Police Oversight Board.",
         "presenter": "John Mark Davidson",
         "action_required": null
       },
       {
         "item_number": "III",
         "title": "Public Comment / Open Microphone",
-        "description": "Opportunity for the public to comment, with a limit of three minutes per person.",
+        "description": "Public comments are allowed with a limit of three minutes per person.",
         "presenter": null,
         "action_required": null
       },
@@ -67,7 +66,7 @@
       {
         "item_number": "V",
         "title": "Introducing Jennifer King",
-        "description": "Introduction of Jennifer King, the new member of the CPOB for District 10.",
+        "description": "Introduction of Jennifer King as the new member of the CPOB for District 10.",
         "presenter": null,
         "action_required": null
       },
@@ -81,7 +80,7 @@
       {
         "item_number": "VII",
         "title": "Consideration of Independent Review Request",
-        "description": "Discussion and vote on independent review requests for specific cases.",
+        "description": "Discussion and voting on independent review requests for specific cases.",
         "presenter": null,
         "action_required": "vote"
       },
@@ -109,7 +108,7 @@
       {
         "item_number": "XI",
         "title": "Monthly Activity Reports",
-        "description": "Presentation of monthly activity reports including arrest data.",
+        "description": "Presentation of monthly activity reports.",
         "presenter": null,
         "action_required": null
       },
@@ -137,9 +136,9 @@
       {
         "item_number": "XV",
         "title": "Adjournment",
-        "description": "Formal adjournment of the meeting.",
+        "description": "Motion to adjourn the meeting.",
         "presenter": null,
-        "action_required": null
+        "action_required": "adjourn"
       }
     ],
     "keywords": [

@@ -39,78 +39,78 @@
       },
       {
         "item_number": "C",
-        "title": "Clarify city council's role in designating managerial personnel",
-        "description": "Amendments 90 and 107 to clarify that the city council designates which managerial personnel are included within the unclassified service.",
+        "title": "Clarify city council's role in managerial personnel designation",
+        "description": "Amendments 90 and 107 to clarify that city council designates managerial personnel in Chapter XVI §3(b)(1).",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "D",
-        "title": "Amend Chapter XVI §6 regarding reorganizations and reductions in force",
-        "description": "Amendment 91 to reflect that reorganizations and reductions in force should be treated in the same manner with respect to compensation and reassignment.",
+        "title": "Amend Chapter XVI §6 regarding reorganizations and reductions",
+        "description": "Amendment 91 to treat reorganizations and reductions in force similarly regarding compensation and reassignment.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "E",
-        "title": "Clarify the duty of the Human Resources Department",
-        "description": "Amendment 106 to clarify that it is the duty of the Human Resources Department to establish rules governing the evaluation of conduct and performance.",
+        "title": "Clarify Human Resources Department's duties",
+        "description": "Amendment 106 to clarify the Human Resources Department's role in establishing rules for evaluation of conduct and performance.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "F",
-        "title": "Add requirement for a citywide Bike Plan",
+        "title": "Requirement for a citywide Bike Plan",
         "description": "Amendment 117 to add a requirement for the city to adopt a citywide Bike Plan by ordinance.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "G",
-        "title": "Authorize administrative approval of plat applications",
+        "title": "Administrative approval of plat applications",
         "description": "Amendments 99 and 116 to authorize administrative approval of plat applications.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "H",
-        "title": "Broaden the city’s notification process",
-        "description": "Amendments 110, 118, 119, and 120 to broaden the city’s notification process to include other media options.",
+        "title": "Broaden notification process",
+        "description": "Amendments 110, 118, 119, and 120 to broaden the city's notification process to include other media options.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "I",
-        "title": "Amend special meeting call requirements",
-        "description": "Amendment 123 to require that special meetings shall be called upon the written request of five members of the city council.",
+        "title": "Change special meeting call requirement",
+        "description": "Amendment 123 to require that special meetings be called upon the written request of five members of the city council.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "J",
-        "title": "Extend deadline for petitioners to collect signatures",
+        "title": "Extend petition signature collection deadline",
         "description": "Amendments 55 and 114 to extend the deadline for petitioners to collect required signatures from 60 days to 120 days.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "K",
-        "title": "Reduce number of signatures required for referendum",
+        "title": "Reduce number of signatures for referendum",
         "description": "Amendments 55 and 115 to reduce the number of signatures required on a petition in support of holding a referendum.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "L",
-        "title": "Amend vote requirement for council to amend redistricting plan",
-        "description": "Amendment 93 to amend the vote requirement for council to amend the redistricting commission’s recommended districting plan.",
+        "title": "Amend vote requirement for redistricting commission",
+        "description": "Amendment 93 to change the vote requirement for council to amend the redistricting commission's recommended districting plan.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "M",
         "title": "Allow residents to serve on various commissions",
-        "description": "Amendment 94 to allow residents to serve on the redistricting commission, the plan commission, the civil service board, and the park and recreation board.",
+        "description": "Amendment 94 to allow residents to serve on the redistricting commission, plan commission, civil service board, and park and recreation board.",
         "presenter": null,
         "action_required": "discuss"
       },
@@ -123,35 +123,31 @@
       },
       {
         "item_number": "O",
-        "title": "Amend language regarding City Secretary's assistants",
-        "description": "Amendment 58 to amend language to provide the City Secretary with assistants and employees.",
+        "title": "Amend language for City Secretary's assistants",
+        "description": "Amendment 58 to provide the City Secretary with assistants and employees.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "P",
         "title": "Amend requirement for assistant city attorneys",
-        "description": "Amendment 56 to delete or amend the requirement that all assistant city attorneys shall devote their entire time to the service of the city.",
+        "description": "Amendment 56 to delete or amend the requirement that all assistant city attorneys devote their entire time to the service of the city.",
         "presenter": null,
         "action_required": "discuss"
       }
     ],
     "keywords": [
-      "Charter Review Commission",
-      "amendments",
+      "Charter Review",
+      "Amendments",
       "Civil Service",
       "City Council",
       "Bike Plan",
-      "public participation",
-      "redistricting",
-      "urban conservation",
-      "City Secretary",
-      "assistant city attorneys",
-      "public meeting",
-      "video conference",
-      "signature collection",
-      "notification process",
-      "administrative approval"
+      "Petition",
+      "Redistricting",
+      "Urban Conservation",
+      "Public Participation",
+      "Notification Process",
+      "Executive Session"
     ],
     "financial_items": []
   },

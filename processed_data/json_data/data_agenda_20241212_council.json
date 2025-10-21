@@ -22,21 +22,21 @@
       {
         "item_number": "I",
         "title": "Call to Order, Pledge of Allegiance, and Roll Call",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "II",
         "title": "Public Comments on Items III – VI",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "III",
         "title": "Vote to Approve the November 14th, 2024 Meeting Minutes",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": "approve"
       },
@@ -50,28 +50,28 @@
       {
         "item_number": "V",
         "title": "Veterans’ Wellbeing Assessment Request for Proposal (RFP) Update",
-        "description": "Christina da Silva, Assistant Director Office of Equity & Inclusion to provide an update on the status of the Veterans’ Wellbeing RFP and next steps.",
+        "description": "Christina da Silva to provide an update on the status of the Veterans’ Wellbeing RFP and next steps.",
         "presenter": "Christina da Silva",
         "action_required": "discuss"
       },
       {
         "item_number": "VI",
         "title": "Fiscal Year 2023/2024 Annual Report",
-        "description": "Christina da Silva, Assistant Director Office of Equity & Inclusion to provide an update on the Annual Report.",
+        "description": "Christina da Silva to provide an update on the Annual Report.",
         "presenter": "Christina da Silva",
         "action_required": "discuss"
       },
       {
         "item_number": "VII",
         "title": "Announcements",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "VIII",
         "title": "Adjournment",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       }
@@ -79,19 +79,19 @@
     "keywords": [
       "Veteran Affairs",
       "Dallas",
-      "meeting minutes",
+      "Meeting Minutes",
+      "Presentation",
       "Catholic Charities",
-      "unhoused veterans",
-      "RFP",
+      "St. Jude’s properties",
+      "Unhoused veterans",
+      "RFP Update",
       "Annual Report",
-      "public comments",
-      "equity",
-      "inclusion",
-      "presentation",
-      "wellbeing assessment",
-      "housing",
-      "community services",
-      "veterans"
+      "Public Comments",
+      "Equity and Inclusion",
+      "Community Affairs",
+      "Access to services",
+      "Accommodations",
+      "Executive Session"
     ],
     "financial_items": []
   },

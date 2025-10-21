@@ -8,7 +8,7 @@
       "time": "9:00 AM",
       "type": "Public Safety Committee Meeting",
       "organization": "Dallas City Council",
-      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX"
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX and via videoconference"
     },
     "attendees": {
       "chair": "Ridley",
@@ -27,7 +27,23 @@
         "Eddie Garcia",
         "David Pughes"
       ],
-      "participants": []
+      "participants": [
+        "Atkins",
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Willis",
+        "Schultz",
+        "Blackmon",
+        "Johnson"
+      ]
     },
     "agenda_items": [
       {
@@ -61,28 +77,28 @@
       {
         "item_number": "D",
         "title": "Overview of Violent Crime Clearance Rates",
-        "description": "Presentation on the clearance rates for violent crimes in Dallas.",
+        "description": "Overview of the clearance rates for violent crimes in Dallas.",
         "presenter": "William Griffith, Deputy Chief, Dallas Police Department",
         "action_required": "discuss"
       },
       {
         "item_number": "E",
         "title": "Overdose Program Update",
-        "description": "Update on the overdose program and its impact.",
+        "description": "Update on the overdose response program and its effectiveness.",
         "presenter": "Scott Clumpner, Deputy Chief, Fire-Rescue Department",
         "action_required": "discuss"
       },
       {
         "item_number": "F",
         "title": "Public Safety Dashboards",
-        "description": "Presentation on the public safety dashboards and their usage.",
+        "description": "Presentation of the public safety dashboards for monitoring key metrics.",
         "presenter": "Dominique Artis, Chief of Public Safety (I), City Manager’s Office",
         "action_required": "discuss"
       },
       {
         "item_number": "G",
         "title": "Dallas Police Department 2023 Racial Profiling Report",
-        "description": "Presentation of the racial profiling report for the Dallas Police Department.",
+        "description": "Presentation of the annual racial profiling report from the Dallas Police Department.",
         "presenter": "Eddie Garcia, Chief of Police, Dallas Police Department",
         "action_required": "discuss"
       },
@@ -117,20 +133,20 @@
     ],
     "keywords": [
       "Public Safety",
-      "Dallas Police Department",
-      "Dallas Fire Rescue",
-      "Violent Crime",
+      "Dallas City Council",
+      "Crime Reduction",
+      "Fire Rescue",
       "Recruiting",
       "Retention",
-      "Racial Profiling",
+      "Violent Crime",
       "Overdose Program",
       "Dashboards",
+      "Racial Profiling",
+      "Homeless Action",
       "Facility Construction",
       "Fleet Maintenance",
-      "Homeless Action Response",
-      "Crime Clearance Rates",
-      "Annual Report",
-      "Emergency Management"
+      "Emergency Management",
+      "Community Engagement"
     ],
     "financial_items": [
       {
@@ -139,12 +155,12 @@
         "type": "service contract"
       },
       {
-        "description": "Authorize the acceptance of a grant from Cities for Financial Empowerment Fund, Inc. for Emergency Financial Empowerment",
+        "description": "Authorize a grant from Cities for Financial Empowerment Fund, Inc. for Emergency Financial Empowerment",
         "amount": "$150,000.00",
         "type": "grant"
       },
       {
-        "description": "Authorize a three-year service price agreement for spoken language interpretation and associated equipment rental",
+        "description": "Authorize a three-year service price agreement for spoken language interpretation and associated services",
         "amount": "$1,010,140.00",
         "type": "service agreement"
       },
@@ -154,7 +170,7 @@
         "type": "interlocal agreement"
       },
       {
-        "description": "Authorize a five-year master agreement for a Law Enforcement Monitoring Facility product for the Dallas Police Department",
+        "description": "Authorize a five-year master agreement for a Law Enforcement Monitoring Facility product",
         "amount": "$196,400.00",
         "type": "master agreement"
       },

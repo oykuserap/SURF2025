@@ -17,18 +17,16 @@
         "George Rodriguez",
         "Ryan Bowen",
         "Tim Nelson",
+        "Jaclyn Schroeder",
         "Tatiana Farrow"
       ],
-      "participants": [
-        "Jaclyn Schroeder",
-        "Director David Ellis"
-      ]
+      "participants": []
     },
     "agenda_items": [
       {
         "item_number": "I",
         "title": "Call to Order",
-        "description": "Opening of the meeting by the President.",
+        "description": "Opening of the meeting by the chair.",
         "presenter": "Marcy Helfand",
         "action_required": null
       },
@@ -42,14 +40,14 @@
       {
         "item_number": "V",
         "title": "Resolutions for The Mondello",
-        "description": "Consider and adopt resolutions for financing the Mondello multifamily residential development.",
+        "description": "Consider and adopt financing resolutions for The Mondello multifamily residential development.",
         "presenter": "Aaron Eaquinto",
         "action_required": "approve"
       },
       {
         "item_number": "VI",
         "title": "Resolutions for Axis Kessler Park",
-        "description": "Consider and adopt resolutions for financing and development of Axis Kessler Park.",
+        "description": "Consider and adopt resolutions for the financing and development of Axis Kessler Park.",
         "presenter": "Aaron Eaquinto",
         "action_required": "approve"
       },
@@ -63,7 +61,7 @@
       {
         "item_number": "VIII",
         "title": "Review of Treasurer’s Report",
-        "description": "Review and discussion of the DHFC Treasurer’s report for the three-month period ending on March 31, 2024.",
+        "description": "Review and discussion of DHFC Treasurer’s report for the three-month period ending on March 31, 2024.",
         "presenter": "Aaron Eaquinto",
         "action_required": "discuss"
       },
@@ -76,7 +74,7 @@
       },
       {
         "item_number": "X",
-        "title": "Discussion about Charitable Contributions",
+        "title": "Discussion on Charitable Contributions",
         "description": "Discussion about the Corporation making charitable contributions.",
         "presenter": "Aaron Eaquinto",
         "action_required": "discuss"
@@ -102,27 +100,22 @@
       "Axis Kessler Park",
       "financing",
       "multifamily residential development",
+      "Assistant Investment Officer",
       "Treasurer’s report",
       "pipeline report",
       "charitable contributions",
-      "Assistant Investment Officer",
-      "videoconference",
-      "public comments",
-      "resolutions",
-      "meeting minutes",
-      "executive session",
-      "housing finance"
+      "conference take-aways"
     ],
     "financial_items": [
       {
-        "description": "Financing for The Mondello multifamily residential development.",
+        "description": "Financing resolution for The Mondello multifamily residential development.",
         "amount": "$22,500,000.00",
         "type": "bond financing"
       },
       {
-        "description": "Aggregate amount for financing the development including various loans.",
+        "description": "Aggregate amount for additional financing for The Mondello development.",
         "amount": "$9,000,000.00",
-        "type": "financing"
+        "type": "various loans"
       }
     ]
   },

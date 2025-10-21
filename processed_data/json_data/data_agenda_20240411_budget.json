@@ -8,43 +8,58 @@
       "time": "3:00 PM",
       "type": "Ad Hoc Committee Meeting",
       "organization": "City Council Ad Hoc Committee on Pensions",
-      "location": "City Council Chambers, 6th Floor, City Hall, Dallas, Texas and via video conference"
+      "location": "City Council Chambers, 6th Floor, City Hall, Dallas, Texas; Virtual via Webex"
     },
     "attendees": {
       "chair": "Atkins",
       "presenters": [
         "City Attorney"
       ],
-      "participants": []
+      "participants": [
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Willis"
+      ]
     },
     "agenda_items": [
       {
         "item_number": "1",
         "title": "Approval of the February 8, 2024 Ad Hoc Committee on Pensions Meeting Minutes",
         "description": "Approval of the minutes from the previous meeting.",
-        "presenter": null,
+        "presenter": "Atkins",
         "action_required": "approve"
       },
       {
         "item_number": "A",
         "title": "Dallas Police and Fire Pension System: Funding Soundness Restoration Plan Update",
-        "description": "Update on the funding soundness restoration plan for the Dallas Police and Fire Pension System.",
-        "presenter": null,
+        "description": "Presentation on the update regarding the funding soundness restoration plan for the Dallas Police and Fire Pension System.",
+        "presenter": "City Attorney",
         "action_required": "discuss"
       }
     ],
     "keywords": [
       "Dallas",
-      "Pensions",
       "City Council",
-      "Ad Hoc Committee",
-      "Funding Soundness",
-      "Police Pension",
-      "Fire Pension",
-      "Meeting Minutes",
+      "Pensions",
+      "Funding",
+      "Police",
+      "Fire",
+      "Committee",
+      "Meeting",
+      "Minutes",
+      "Presentation",
       "Executive Session",
-      "Video Conference",
-      "Public Participation"
+      "Litigation",
+      "Public Meeting",
+      "Virtual Attendance",
+      "City Hall"
     ],
     "financial_items": []
   },

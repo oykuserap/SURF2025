@@ -13,7 +13,6 @@
     "attendees": {
       "chair": "Keith Pomykal",
       "presenters": [
-        "Keith Pomykal",
         "Samuel McDaniel",
         "Sam McDaniel",
         "Jake Brown",
@@ -163,7 +162,7 @@
       "public testimony",
       "ethics disclosures",
       "demolition",
-      "staff hiring committee"
+      "hiring committee"
     ],
     "financial_items": []
   },

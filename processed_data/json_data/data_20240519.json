@@ -73,15 +73,15 @@
       "Public Testimony",
       "Miscellaneous Items",
       "Case Docket",
-      "Uncontested Items",
       "Approval of Minutes",
+      "Uncontested Items",
+      "Holdover Items",
+      "Individual Items",
       "Special Exception",
       "Variance",
       "Fence Regulations",
       "Visibility Obstruction",
-      "Setback Regulations",
-      "Executive Session",
-      "Handgun Prohibition"
+      "Setback Regulations"
     ],
     "financial_items": []
   },

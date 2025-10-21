@@ -19,70 +19,70 @@
       {
         "item_number": "1",
         "title": "Approval of Minutes of the October 25, 2023 City Council Meeting",
-        "description": "Approval of the minutes from the previous meeting.",
+        "description": null,
         "presenter": "City Attorney's Office",
         "action_required": "approve"
       },
       {
         "item_number": "2",
         "title": "Authorize settlement of the lawsuit styled Shakur W. Stewart f/k/a Everold W. Stewart v. John Coughlin and the City of Dallas",
-        "description": "Settlement not to exceed $900,000.00 from the Liability Reserve Fund.",
+        "description": "Not to exceed $900,000.00 - Financing: Liability Reserve Fund",
         "presenter": "City Attorney's Office",
         "action_required": "approve"
       },
       {
         "item_number": "3",
-        "title": "An ordinance authorizing the issuance and sale of City of Dallas, Texas, Equipment Acquisition Contractual Obligations",
-        "description": "Issuance not to exceed $76,270,000; financing details included.",
+        "title": "An ordinance authorizing the issuance and sale of City of Dallas, Texas, Equipment Acquisition Contractual Obligations, Series 2023BA",
+        "description": "Not to exceed $76,270,000; levying a tax for payment thereof.",
         "presenter": "City Controller's Office",
         "action_required": "approve"
       },
       {
         "item_number": "4",
         "title": "Authorize the Dallas Public Facility Corporation to acquire, develop, and own Maple Highline",
-        "description": "Mixed-income, multifamily development at 5908 Maple Avenue.",
+        "description": "Estimated Revenue Foregone: General Fund $4,938,708.00 (75 Years of Estimated Property Taxes)",
         "presenter": "Department of Housing & Neighborhood Revitalization",
         "action_required": "approve"
       },
       {
         "item_number": "5",
-        "title": "A resolution authorizing the conveyance of an easement and right of way to Oncor Electric Delivery Company",
-        "description": "Easement for power lines across City-owned land.",
+        "title": "A resolution authorizing the conveyance of an easement and right of way to Oncor Electric Delivery Company, LLC",
+        "description": "Financing: No cost consideration to the City",
         "presenter": "Department of Public Works",
         "action_required": "approve"
       },
       {
         "item_number": "6",
-        "title": "Authorize the rejection of bids for a construction services contract for the Five Mile Infrastructure Improvements Package A",
-        "description": "Rejection of bids and re-advertisement for new bids.",
+        "title": "Authorize (1) the rejection of bids for a construction services contract for the Five Mile Infrastructure Improvements Package A",
+        "description": "Financing: No cost consideration to the City",
         "presenter": "Department of Public Works",
         "action_required": "approve"
       },
       {
         "item_number": "7",
         "title": "Authorize a construction services contract for the 2024 One-Year Term Agreement for Improved Alley Maintenance Program",
-        "description": "Contract with B & E Concrete Paving LLC.",
+        "description": "Not to exceed $2,793,048.00 - Financing: Street and Alley Improvement Fund",
         "presenter": "Department of Public Works",
         "action_required": "approve"
       },
       {
         "item_number": "8",
         "title": "Authorize a construction services contract for the 2024 Two-Year Term Agreement Slurry Seal and Polymer Modified Micro-Surfacing Contract",
-        "description": "Contract with Viking Construction LLC.",
+        "description": "Not to exceed $17,604,618.00 - Financing: General Fund",
         "presenter": "Department of Public Works",
         "action_required": "approve"
       },
       {
         "item_number": "9",
         "title": "Authorize an increase in the construction services contract with The Fain Group, Inc.",
-        "description": "Increase for additional traffic signal and pedestrian improvements.",
+        "description": "Not to exceed $287,498.84",
         "presenter": "Department of Public Works",
         "action_required": "approve"
       },
       {
         "item_number": "10",
         "title": "An ordinance amending Chapter 28, 'Motor Vehicles and Traffic,' of the Dallas City Code",
-        "description": "Amendments regarding speed regulations and penalties.",
+        "description": "Financing: This action has no cost consideration to the City",
         "presenter": "Department of Transportation",
         "action_required": "approve"
       }
@@ -92,43 +92,48 @@
       "meeting",
       "agenda",
       "settlement",
+      "lawsuit",
       "ordinance",
       "construction",
-      "easement",
-      "development",
       "public works",
       "housing",
       "transportation",
       "funding",
-      "approval",
-      "minutes",
-      "public hearing"
+      "tax increment financing",
+      "public hearing",
+      "budget",
+      "financial"
     ],
     "financial_items": [
       {
-        "description": "Settlement of lawsuit",
+        "description": "Settlement of the lawsuit styled Shakur W. Stewart f/k/a Everold W. Stewart v. John Coughlin and the City of Dallas",
         "amount": "$900,000.00",
-        "type": "expenditure"
+        "type": "settlement"
       },
       {
-        "description": "Issuance of Equipment Acquisition Contractual Obligations",
+        "description": "Issuance and sale of Equipment Acquisition Contractual Obligations",
         "amount": "$76,270,000.00",
-        "type": "budget"
+        "type": "bond issuance"
       },
       {
-        "description": "Mixed-income development revenue foregone",
+        "description": "Estimated Revenue Foregone for Maple Highline development",
         "amount": "$4,938,708.00",
-        "type": "revenue foregone"
+        "type": "tax revenue foregone"
       },
       {
         "description": "Construction services contract for Improved Alley Maintenance Program",
         "amount": "$2,793,048.00",
-        "type": "budget"
+        "type": "contract"
       },
       {
-        "description": "Construction services contract for Slurry Seal and Polymer Modified Micro-Surfacing",
+        "description": "Construction services contract for Slurry Seal and Polymer Modified Micro-Surfacing Contract",
         "amount": "$17,604,618.00",
-        "type": "budget"
+        "type": "contract"
+      },
+      {
+        "description": "Increase in construction services contract with The Fain Group, Inc.",
+        "amount": "$287,498.84",
+        "type": "contract increase"
       }
     ]
   },

@@ -8,25 +8,25 @@
       "time": "9:00 AM",
       "type": "Regular Meeting",
       "organization": "Quality of Life, Arts, and Culture Committee",
-      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
     },
     "attendees": {
       "chair": "Paul E. Ridley",
       "presenters": [
-        "Luis Loya",
-        "Martine Elyse Philippe",
-        "Sallie Lockhart",
-        "Jessica Galleshaw",
-        "Mary Martin",
-        "Clifton Gillespie",
-        "James Walton",
-        "Candice Bryant",
-        "Israel Herrera",
-        "Dr. Lindsey Wilson",
-        "Christina Da Silva"
+        "Luis Loya, Management Analyst, City Manager’s Office",
+        "Martine Elyse Philippe, Director, Office of Arts and Culture",
+        "Sallie Lockhart, Assistant Director, Dallas Public Library",
+        "Jessica Galleshaw, Director, Office of Community Care and Empowerment",
+        "Mary Martin, Assistant Director, Dallas Animal Services",
+        "Clifton Gillespie, Director, Department of Sanitation Services",
+        "James Walton, Assistant Director, Department of Transportation and Public Works",
+        "Candice Bryant, Manager of Transportation and Regulation, Department of Transportation and Public Works",
+        "Israel Herrera, Police Deputy Chief, Dallas Police Department",
+        "Dr. Lindsey Wilson, Director, Office of Equity and Inclusion",
+        "Christina Da Silva, Assistant Director, Office of Equity and Inclusion"
       ],
       "participants": [
-        "Jaime Resendez",
+        "Jaime Resendez (VC)",
         "Adam Bazaldua",
         "Paula Blackmon",
         "Zarin Gracey",
@@ -45,42 +45,42 @@
       {
         "item_number": "A",
         "title": "2024 Department Highlights and Quality of Life, Arts, and Culture Committee Feedback",
-        "description": "Presentation on the accomplishments and feedback from the committee regarding the 2024 initiatives.",
+        "description": "Presentation of department highlights and feedback from the committee.",
         "presenter": "Luis Loya",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "Dallas Public Art Program Update",
-        "description": "Update on the public art initiatives and upcoming projects.",
+        "description": "Update on the Dallas Public Art Program and upcoming projects.",
         "presenter": "Martine Elyse Philippe",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "Office of Arts and Culture - FY 2025-26 Cultural Organizations Program Guidelines",
-        "description": "Discussion on the guidelines for the upcoming fiscal year for cultural organizations.",
+        "description": "Discussion on the guidelines for the Cultural Organizations Program.",
         "presenter": "Martine Elyse Philippe",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "Resident Vehicle Towing Practices",
-        "description": "Overview of the towing practices and regulations in Dallas.",
+        "description": "Overview of vehicle towing practices in Dallas.",
         "presenter": "James Walton",
         "action_required": "discuss"
       },
       {
         "item_number": "E",
         "title": "Acceptance of NLC FY25 Cities Addressing Fines and Fees Equitably (CAFFE) Initiative Grant",
-        "description": "Consideration of acceptance of grant funding to address fines and fees equitably.",
+        "description": "Consideration of acceptance of grant funding for addressing fines and fees.",
         "presenter": "Dr. Lindsey Wilson",
         "action_required": "approve"
       },
       {
         "item_number": "F",
         "title": "Quality of Life, Arts, and Culture Committee Forecast",
-        "description": "Forecast of upcoming agenda items and initiatives for the committee.",
+        "description": "Forecast of upcoming agenda items for the committee.",
         "presenter": "City Manager’s Office",
         "action_required": "discuss"
       }
@@ -90,13 +90,12 @@
       "Arts",
       "Culture",
       "Committee",
+      "Dallas",
       "Public Art",
       "Cultural Organizations",
-      "Towing Practices",
+      "Vehicle Towing",
       "Fines and Fees",
-      "Equity",
-      "Community Engagement",
-      "Dallas"
+      "Equity"
     ],
     "financial_items": [
       {

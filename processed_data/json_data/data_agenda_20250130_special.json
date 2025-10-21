@@ -20,64 +20,64 @@
     "agenda_items": [
       {
         "item_number": "1",
-        "title": "Call meeting to order",
-        "description": "Call meeting to order and declare a quorum is established.",
+        "title": "Call meeting to order and declare a quorum is established.",
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "2",
-        "title": "Nominate and elect a Temporary Chairperson",
-        "description": "Recommended action: Nominate and elect a Temporary Chairperson.",
+        "title": "Nominate and elect a Temporary Chairperson.",
+        "description": "Recommended action: Nominate and elect a Temporary Chairperson",
         "presenter": null,
         "action_required": "Nominate and elect"
       },
       {
         "item_number": "3",
-        "title": "Introduction of meeting participants",
-        "description": "Introduction of meeting participants.",
+        "title": "Introduction of meeting participants.",
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "4",
-        "title": "Public comments",
-        "description": "Public comments pertaining to agenda items 5 through 8.",
+        "title": "Public comments pertaining to agenda items 5 through 8.",
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "5",
-        "title": "Nominate and elect a Vice Chairperson",
+        "title": "Nominate and elect a Vice Chairperson.",
         "description": "Recommended action: Nominate and elect a Vice Chairperson.",
         "presenter": null,
         "action_required": "Nominate and elect"
       },
       {
         "item_number": "6",
-        "title": "Review and consider Meeting Record",
-        "description": "Review and consider the Meeting Record for the January 25, 2024 meeting of the Sports Arena TIF District Board of Directors.",
+        "title": "Review and consider the Meeting Record for the January 25, 2024 meeting.",
+        "description": "",
         "presenter": "Tamara Leak, Assistant Director (I), Office of Economic Development",
         "action_required": "Approve"
       },
       {
         "item_number": "7",
-        "title": "Review and consider Annual Report",
-        "description": "Review and consider the Sports Arena TIF District Annual Report for Fiscal Year 2023-2024.",
+        "title": "Review and consider the Sports Arena TIF District Annual Report for Fiscal Year 2023-2024.",
+        "description": "",
         "presenter": "Tamara Leak, Assistant Director (I), Office of Economic Development",
         "action_required": "Approve and forward a recommendation of approval to City Council"
       },
       {
         "item_number": "8",
-        "title": "Review and consider quarterly meeting schedule",
-        "description": "Review and consider a quarterly regular meeting schedule for Sports Arena TIF District Board of Directors for calendar year 2025.",
+        "title": "Review and consider a quarterly regular meeting schedule for Sports Arena TIF District Board of Directors for calendar year 2025.",
+        "description": "",
         "presenter": "Tamara Leak, Assistant Director (I), Office of Economic Development",
         "action_required": "Approve"
       },
       {
         "item_number": "9",
-        "title": "Adjournment",
-        "description": "Adjournment.",
+        "title": "Adjournment.",
+        "description": "",
         "presenter": null,
         "action_required": null
       }
@@ -89,15 +89,15 @@
       "Reinvestment Zone",
       "Sports Arena TIF District",
       "Board of Directors",
-      "Meeting Record",
-      "Annual Report",
       "Vice Chairperson",
       "Temporary Chairperson",
-      "Public comments",
-      "Meeting schedule",
-      "Economic Development",
-      "Quorum",
-      "Adjournment"
+      "Annual Report",
+      "Meeting Record",
+      "2025 Schedule",
+      "Public Comments",
+      "Executive Session",
+      "Equity and Inclusion",
+      "Video Conference"
     ],
     "financial_items": []
   },

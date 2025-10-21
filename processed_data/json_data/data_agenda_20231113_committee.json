@@ -60,21 +60,21 @@
       {
         "item_number": "E",
         "title": "Violent Crime Reduction Plan Update",
-        "description": "Update on the plan to reduce violent crime in the city.",
+        "description": "Update on the strategies and progress of the violent crime reduction plan.",
         "presenter": "Jason Scoggins",
         "action_required": "discuss"
       },
       {
         "item_number": "F",
         "title": "Opioid Response Team Update",
-        "description": "Update on the efforts of the Opioid Response Team.",
+        "description": "Update on the activities and progress of the Opioid Response Team.",
         "presenter": "Scott Clumpner",
         "action_required": "discuss"
       },
       {
         "item_number": "G",
-        "title": "Dallas Fire-Rescue EMS Quality Management Program Update",
-        "description": "Update on the quality management program for EMS.",
+        "title": "Dallas Fire- Rescue EMS Quality Management Program Update",
+        "description": "Update on the quality management program for EMS services.",
         "presenter": "Scott Clumpner",
         "action_required": "discuss"
       },
@@ -88,7 +88,7 @@
       {
         "item_number": "I",
         "title": "Public Safety Dashboards",
-        "description": "Presentation on public safety dashboards.",
+        "description": "Presentation on the public safety dashboards.",
         "presenter": "Jon Fortune",
         "action_required": "discuss"
       },
@@ -127,7 +127,8 @@
       "Quality Management",
       "Dashboards",
       "Facility Construction",
-      "Fleet Maintenance"
+      "Fleet Maintenance",
+      "Emergency Alert Systems"
     ],
     "financial_items": []
   },

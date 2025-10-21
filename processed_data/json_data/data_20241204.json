@@ -61,7 +61,7 @@
       {
         "item_number": "3",
         "title": "Attorney Briefing",
-        "description": "Seeking the advice of the City Attorney regarding various legal matters",
+        "description": "Seeking the advice of the City Attorney regarding various legal matters.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -71,12 +71,12 @@
       "Council Briefing",
       "appointments",
       "boards and commissions",
-      "audit",
-      "digital kiosk",
-      "communications strategy",
+      "Independent Audit",
+      "Digital Kiosk",
+      "Communications Strategy",
       "Clean Sweep Program",
-      "legal matters",
-      "closed session"
+      "Attorney Briefing",
+      "Texas Government Code"
     ],
     "financial_items": []
   },

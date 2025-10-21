@@ -42,7 +42,7 @@
       {
         "item_number": "B",
         "title": "Workforce (Internal): Workforce Development and Training Update (Year to Date)",
-        "description": "Update on workforce development and training for the year.",
+        "description": "Update on workforce development and training initiatives.",
         "presenter": "Joyce Williams, Dr. Dena Owens",
         "action_required": "discuss"
       },
@@ -70,14 +70,14 @@
       {
         "item_number": "F",
         "title": "Equity (Internal): Upcoming Council Agenda Item Seeking Authorization for Supplemental Agreement No. 5",
-        "description": "Discussion on seeking authorization for a supplemental agreement for ADA transition plan.",
+        "description": "Discussion on authorization for professional services for ADA Transition Plan Phase 4.",
         "presenter": "Dr. Lindsey Wilson",
         "action_required": "discuss"
       },
       {
         "item_number": "G",
         "title": "Equity (Internal): Upcoming Council Agenda Item to Authorize Youth Navigation Services Contract",
-        "description": "Discussion on authorizing a contract for youth navigation services.",
+        "description": "Discussion on contract with K16 Ready Society, Inc.",
         "presenter": "Jessica Galleshaw",
         "action_required": "discuss"
       },
@@ -99,8 +99,10 @@
       "Financial Empowerment",
       "Youth Navigation Services",
       "ADA Transition Plan",
-      "Equity Indicators",
-      "Community Care"
+      "Community Care",
+      "Public Health Protocols",
+      "City Council",
+      "Dallas"
     ],
     "financial_items": []
   },

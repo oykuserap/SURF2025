@@ -21,19 +21,13 @@
         "Kimberly Franklyn"
       ],
       "participants": [
-        "Mendelsohn",
-        "Moreno",
-        "Stewart",
-        "Blackmon",
-        "Resendez",
-        "West",
-        "Gracey",
-        "Arnold",
-        "Bazaldua",
-        "Ridley",
-        "Schultz",
-        "Willis",
-        "Johnson"
+        "City Manager’s Office",
+        "Development Services",
+        "Building Services",
+        "City Controller’s Office",
+        "Office of the City Auditor",
+        "Human Resources",
+        "Budget & Management Services"
       ]
     },
     "agenda_items": [
@@ -75,14 +69,14 @@
       {
         "item_number": "E",
         "title": "Development Services- Monthly Performance Update & Process Map Improvements",
-        "description": "Monthly performance update and improvements in process mapping for Development Services.",
+        "description": "Monthly performance update and improvements in process mapping.",
         "presenter": "Development Services",
         "action_required": "discuss"
       },
       {
         "item_number": "F",
         "title": "Review of City Real Estate for Development and Redevelopment Opportunities",
-        "description": "Review of potential development and redevelopment opportunities for city real estate.",
+        "description": "Review of potential real estate opportunities for development and redevelopment.",
         "presenter": "City Manager’s Office",
         "action_required": "discuss"
       }
@@ -95,14 +89,14 @@
       "Budget",
       "Artificial Intelligence",
       "Procurement",
-      "Development Services",
-      "Real Estate",
       "Maintenance Projects",
+      "Real Estate",
+      "Development Services",
       "Performance Update",
       "City Hall",
       "Executive Session",
-      "Public Safety",
-      "Community Engagement"
+      "Public Participation",
+      "Virtual Meeting"
     ],
     "financial_items": []
   },

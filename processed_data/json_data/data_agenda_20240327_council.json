@@ -46,7 +46,7 @@
       },
       {
         "item_number": "5",
-        "title": "Interlocal Agreement Amendment",
+        "title": "Amendment to Resolution No. 21-0362",
         "description": "Authorize an amendment to Resolution No. 21-0362 for an Interlocal Agreement with the Texas Department of Transportation",
         "presenter": "Department of Aviation",
         "action_required": "approve"
@@ -60,21 +60,21 @@
       },
       {
         "item_number": "7",
-        "title": "Airport Planning Services",
+        "title": "Supplemental Agreement No. 1",
         "description": "Authorize Supplemental Agreement No. 1 to the consultant services contract with Ricondo & Associates, Inc.",
         "presenter": "Department of Aviation",
         "action_required": "approve"
       },
       {
         "item_number": "8",
-        "title": "Food Establishments Ordinance Amendment",
+        "title": "Amendment to Chapter 17",
         "description": "An ordinance amending Chapter 17, 'Food Establishments,' of the Dallas City Code",
         "presenter": "Department of Code Compliance",
         "action_required": "approve"
       },
       {
         "item_number": "9",
-        "title": "Dallas Housing Resource Catalog Amendment",
+        "title": "Amendment to the Dallas Housing Resource Catalog",
         "description": "Authorize an amendment to the Dallas Housing Resource Catalog (DHRC)",
         "presenter": "Department of Housing & Neighborhood Revitalization",
         "action_required": "approve"
@@ -88,7 +88,8 @@
       }
     ],
     "keywords": [
-      "Dallas City Council",
+      "City Council",
+      "Dallas",
       "meeting",
       "agenda",
       "approval",
@@ -97,12 +98,11 @@
       "certificates",
       "engineering",
       "housing",
-      "food establishments",
-      "purchasing agreement",
+      "amendment",
+      "purchasing",
+      "transportation",
       "public hearings",
-      "zoning",
-      "financial items",
-      "community development"
+      "zoning"
     ],
     "financial_items": [
       {
@@ -118,15 +118,15 @@
       {
         "description": "Combination Tax and Revenue Certificates of Obligation",
         "amount": "$218,000,000.00",
-        "type": "certificate issuance"
+        "type": "bond issuance"
       },
       {
-        "description": "Amendment to Interlocal Agreement with Texas Department of Transportation",
+        "description": "Amendment to Resolution No. 21-0362",
         "amount": "$791,600.00",
-        "type": "funding"
+        "type": "interlocal agreement"
       },
       {
-        "description": "Engineering services contract for administrative spaces study",
+        "description": "Engineering services contract",
         "amount": "$569,812.40",
         "type": "contract"
       }

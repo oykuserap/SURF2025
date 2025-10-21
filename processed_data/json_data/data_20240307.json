@@ -118,13 +118,6 @@
         "action_required": null
       },
       {
-        "item_number": "X",
-        "title": "Director’s Performance Review",
-        "description": "Authorize adoption of the 2021/22 performance appraisal and any salary consideration for the Park and Recreation Director.",
-        "presenter": null,
-        "action_required": "approve"
-      },
-      {
         "item_number": "XI",
         "title": "Other/Non-Action Items",
         "description": "Staff Announcements – Upcoming Park and Recreation Department Events.",
@@ -133,8 +126,8 @@
       },
       {
         "item_number": "XII",
-        "title": "Next Park Board meeting",
-        "description": "Next Park Board meeting at 10:00 am Thursday, March 21, 2024.",
+        "title": "Next Meeting",
+        "description": "Next Park Board meeting 10:00 am Thursday, March 21, 2024.",
         "presenter": null,
         "action_required": null
       }
@@ -142,19 +135,19 @@
     "keywords": [
       "Dallas Park and Recreation Board",
       "Regular Meeting",
-      "alcohol permit",
-      "White Rock Lake",
-      "Dorothy & Wallace Savage Park",
-      "Lakewood Park",
-      "land acquisition",
+      "Special Recognition",
+      "Alcohol Permit",
+      "Land Acquisition",
       "Hattie R. Moore Park",
       "Fair Park",
-      "budget update",
+      "Budget Update",
+      "Environmental Management",
       "2024 Bond Program",
       "Director’s Performance Review",
-      "special recognition",
-      "public speakers",
-      "consent agenda"
+      "Public Speakers",
+      "Consent Agenda",
+      "Master Plan",
+      "Grant Application"
     ],
     "financial_items": [
       {
@@ -163,19 +156,19 @@
         "type": "expenditure"
       },
       {
-        "description": "Authorize acquisition from John F. Skelton, III, of approximately 9,618 square feet of improved land.",
+        "description": "Authorize acquisition from John F. Skelton, III, of land for Preston Ridge Trail.",
         "amount": "$307,000.00",
         "type": "expenditure"
       },
       {
-        "description": "Authorize Change Order No. 2 for an increase in the construction services contract for Fair Park Tower Building Rehabilitation.",
+        "description": "Authorize Change Order No. 2 for Fair Park Tower Building Rehabilitation.",
         "amount": "$415,140.00",
         "type": "expenditure"
       },
       {
-        "description": "Authorize an application for the Texas Parks and Wildlife Department Outdoor Recreation Legacy Partnership Grant program.",
+        "description": "Authorize application for the Texas Parks and Wildlife Department Outdoor Recreation Legacy Partnership Grant program.",
         "amount": "$10,000,000.00",
-        "type": "grant application"
+        "type": "grant"
       }
     ]
   },

@@ -7,11 +7,11 @@
       "date": "May 13, 2024",
       "time": "9:00 AM",
       "type": "Regular Meeting",
-      "organization": "Dallas City Council Workforce, Education, and Equity Committee",
+      "organization": "Workforce, Education, and Equity Committee",
       "location": "City Council Chambers, 6th Floor, City Hall, Dallas, Texas"
     },
     "attendees": {
-      "chair": "Narvaez",
+      "chair": "Schultz",
       "presenters": [
         "Jessica Galleshaw",
         "Holly Holt",
@@ -39,28 +39,28 @@
         "item_number": "A",
         "title": "Drivers of Poverty Program Updates and Future Plans",
         "description": "Updates on the Drivers of Poverty Program and future plans.",
-        "presenter": "Jessica Galleshaw, Holly Holt",
+        "presenter": "Jessica Galleshaw",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "Upskilling Pilot Program Updates and Next Steps",
         "description": "Updates on the Upskilling Pilot Program and next steps.",
-        "presenter": "Nina Arias, Heather Wood, Laura Dizien, Sonya Batts",
+        "presenter": "Nina Arias",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "Office of Equity and Inclusion Budget Review and Next Steps",
-        "description": "Review of the Office of Equity and Inclusion budget and next steps.",
-        "presenter": "Dr. Lindsey Wilson, Christina da Silva, Regina Gray",
+        "description": "Review of the budget for the Office of Equity and Inclusion and next steps.",
+        "presenter": "Dr. Lindsey Wilson",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "Small Business Center Budget Review and Next Steps",
-        "description": "Review of the Small Business Center budget and next steps.",
-        "presenter": "Joyce Williams, Dena Owens",
+        "description": "Review of the budget for the Small Business Center and next steps.",
+        "presenter": "Joyce Williams",
         "action_required": "discuss"
       },
       {
@@ -82,17 +82,18 @@
       "Workforce",
       "Education",
       "Equity",
-      "Poverty",
-      "Upskilling",
-      "Budget",
-      "Small Business",
       "Community Care",
+      "Budget Review",
+      "Small Business Center",
+      "Drivers of Poverty",
+      "Upskilling",
+      "Inclusion",
       "City Council",
       "Meeting Minutes",
-      "Forecast",
       "Planning",
-      "Coordination",
-      "Inclusion"
+      "Forecast",
+      "Executive Session",
+      "Public Participation"
     ],
     "financial_items": []
   },

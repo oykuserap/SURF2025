@@ -8,7 +8,7 @@
       "time": "1:00 PM",
       "type": "Economic Development Committee Meeting",
       "organization": "Dallas City Council",
-      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX"
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX and via videoconference"
     },
     "attendees": {
       "chair": "Atkins",
@@ -20,22 +20,7 @@
         "Andreea Udrea",
         "Heather Lepeska"
       ],
-      "participants": [
-        "Narvaez",
-        "Arnold",
-        "Bazaldua",
-        "Ridley",
-        "Stewart",
-        "West",
-        "Blackmon",
-        "Mendelsohn",
-        "Moreno",
-        "Resendez",
-        "Gracey",
-        "Schultz",
-        "Willis",
-        "Johnson"
-      ]
+      "participants": []
     },
     "agenda_items": [
       {
@@ -76,8 +61,8 @@
       {
         "item_number": "F",
         "title": "Discussion of Impact of Two-Four Unit Housing and Minimum Residential Lot Size Regulations",
-        "description": "Discussion on housing development options affected by regulations.",
-        "presenter": "Andrea Gilles, Andreea Udrea",
+        "description": "Discussion on the impact of housing regulations on development options.",
+        "presenter": "Andrea Gilles and Andreea Udrea",
         "action_required": "discuss"
       },
       {

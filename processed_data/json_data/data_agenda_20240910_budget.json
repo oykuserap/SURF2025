@@ -40,35 +40,31 @@
       },
       {
         "item_number": "A",
-        "title": "Discuss Dallas City Manager Brochure",
+        "title": "Discuss City Manager Brochure",
         "description": "Discuss the finalizing of the Dallas City Manager Brochure prepared by Baker Tilley.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "B",
-        "title": "Amendment of Travel Policy",
+        "title": "Resolution on Legislative Travel Funds",
         "description": "A resolution amending the city's policy governing the use of legislature travel funds in order to more efficiently allow for councilmembers to travel to Austin and Washington D.C to speak on legislative matters.",
         "presenter": null,
         "action_required": "discuss"
       }
     ],
     "keywords": [
-      "Dallas",
-      "City Council",
+      "Dallas City Hall",
+      "Ad Hoc Committee",
       "Administrative Affairs",
-      "meeting",
-      "minutes",
-      "City Manager",
-      "brochure",
-      "legislative travel",
-      "policy amendment",
-      "video conference",
-      "public participation",
-      "quorum",
+      "City Manager Brochure",
+      "legislative travel funds",
+      "Austin",
+      "Washington D.C.",
+      "councilmembers",
       "discussion",
       "resolution",
-      "committee"
+      "minutes approval"
     ],
     "financial_items": []
   },

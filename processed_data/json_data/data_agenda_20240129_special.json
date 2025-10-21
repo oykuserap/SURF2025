@@ -23,14 +23,14 @@
       {
         "item_number": "I",
         "title": "2024 Bond Program: Funding Strategies, Operations & Maintenance Costs and Looking to the Future",
-        "description": "Workshop discussing the 2024 Bond Program including funding strategies and future operations and maintenance costs.",
+        "description": "Discussion on funding strategies, operations, and maintenance costs related to the 2024 Bond Program.",
         "presenter": "Christina Turner-Noteware",
         "action_required": "discuss"
       },
       {
         "item_number": "II",
         "title": "Bond Program",
-        "description": "This item will consider and approve prioritized project lists as provided in the materials of the Bond Program Workshop, to move forward to the City Council for consideration and approval.",
+        "description": "Consider and approve prioritized project lists as provided in the materials of the Bond Program Workshop, to move forward to the City Council for consideration and approval.",
         "presenter": "All",
         "action_required": "approve"
       },
@@ -44,29 +44,29 @@
       {
         "item_number": "IV",
         "title": "Adjournment",
-        "description": "Closing of the meeting.",
+        "description": "End of the meeting.",
         "presenter": null,
         "action_required": null
       }
     ],
     "keywords": [
-      "2024 Bond Program",
+      "Dallas",
+      "Park and Recreation",
+      "Bond Program",
       "Funding Strategies",
       "Operations",
       "Maintenance Costs",
       "City Council",
-      "Prioritized Project Lists",
-      "Approval",
-      "Dallas Park and Recreation Board",
+      "Project Lists",
       "Meeting",
-      "Workshop",
-      "Adjournment"
+      "Adjournment",
+      "Special Called Meeting"
     ],
     "financial_items": [
       {
         "description": "Financing for the Bond Program",
         "amount": null,
-        "type": "No cost consideration to the City"
+        "type": "budget"
       }
     ]
   },

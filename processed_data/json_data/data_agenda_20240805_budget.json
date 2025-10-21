@@ -7,7 +7,7 @@
       "date": "August 5, 2024",
       "time": "1:00 PM",
       "type": "Regular Meeting",
-      "organization": "City Council Economic Development Committee",
+      "organization": "Economic Development Committee",
       "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX"
     },
     "attendees": {
@@ -40,7 +40,7 @@
       {
         "item_number": "C 24-2337",
         "title": "Upcoming Agenda Item: The Adaline Mixed-Income Multi-Family Residential Project",
-        "description": "Discussion on the Adaline Mixed-Income Multi-Family Residential Project at Bonnie View Road and Riverside Road.",
+        "description": "Discussion on the Adaline Mixed-Income Multi-Family Residential Project at Bonnie View Road and Riverside Road (City Council District 8).",
         "presenter": "Kevin Spath",
         "action_required": "discuss"
       },
@@ -82,7 +82,7 @@
       {
         "item_number": "I 24-2334",
         "title": "Discussion Regarding Parking Management at Construction Sites",
-        "description": "Discussion on parking management strategies at construction sites.",
+        "description": "Discussion on parking management issues at construction sites.",
         "presenter": "Emily Liu and Ghassan “Gus” Khankarli",
         "action_required": "discuss"
       },
@@ -115,8 +115,8 @@
       "Residential Project",
       "Q-Team Process",
       "Executive Session",
-      "City Hall",
-      "Virtual Meeting"
+      "Minutes Approval",
+      "City Hall"
     ],
     "financial_items": []
   },

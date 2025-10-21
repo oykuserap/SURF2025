@@ -11,7 +11,7 @@
       "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; Virtual attendance available"
     },
     "attendees": {
-      "chair": "Schultz",
+      "chair": "Gracey",
       "presenters": [
         "Rosa Fleming, Director, Convention & Event Services",
         "Craig Davis, President & CEO, Visit Dallas",
@@ -30,7 +30,7 @@
       {
         "item_number": "Closed Session",
         "title": "Attorney Briefing",
-        "description": "Discuss or deliberate the commercial or financial information that the city has received from a business prospect ('Project X') and the offer of a financial or other incentive to such business prospect.",
+        "description": "Discuss or deliberate the commercial or financial information that the city has received from a business prospect (“Project X”) that the city seeks to have locate, stay or expand in or near the city and with which the city is conducting economic development negotiations.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -45,8 +45,12 @@
       "Project X",
       "Closed Session",
       "Attorney Briefing",
-      "Incentives",
-      "Business Prospect"
+      "Business Prospect",
+      "Financial Incentive",
+      "Negotiations",
+      "Virtual Meeting",
+      "City Hall",
+      "Public Attendance"
     ],
     "financial_items": []
   },

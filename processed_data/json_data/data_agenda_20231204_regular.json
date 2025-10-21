@@ -8,7 +8,7 @@
       "time": "6:00 – 7:30 PM",
       "type": "Regular Meeting",
       "organization": "South Dallas Fair Park Opportunity Fund Board",
-      "location": "Dallas City Hall, Room # 6ES, Videoconference"
+      "location": "Dallas City Hall, Room # 6ES Briefing Room and Videoconference"
     },
     "attendees": {
       "chair": "Leander Johnson",
@@ -19,7 +19,7 @@
       {
         "item_number": "I",
         "title": "Call to Order",
-        "description": null,
+        "description": "",
         "presenter": "Leander Johnson",
         "action_required": null
       },
@@ -40,7 +40,7 @@
       {
         "item_number": "IV",
         "title": "Public Speakers",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       },
@@ -54,14 +54,14 @@
       {
         "item_number": "VI",
         "title": "Discuss NOFA 2024 release date and outreach strategies",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "VII",
         "title": "Adjournment",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       }

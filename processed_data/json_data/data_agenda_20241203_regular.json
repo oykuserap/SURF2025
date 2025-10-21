@@ -56,15 +56,15 @@
       },
       {
         "item_number": "6",
-        "title": "Review and consideration of a request for an extension of material dates and deadlines",
-        "description": "Request by Trammell Crow Company Development, LLC for an extension of material dates and deadlines by twelve (12) months and minor modifications.",
+        "title": "Review and consideration of a request by Trammell Crow Company Development, LLC",
+        "description": "Request for an extension of material dates and deadlines by twelve (12) months and minor modifications including a reduction in the required minimum leasable residential space from 340,000 square feet to 325,000 square feet and updated design elements for the Mockingbird Station East mixed-income and transit-oriented development project.",
         "presenter": "Sue Hounsel, Senior Manager, Office of Economic Development",
         "action_required": "Approval and forward a recommendation of approval to the Director of the Office of Economic Development"
       },
       {
         "item_number": "7",
-        "title": "Review and consideration of a request for TIF district funding",
-        "description": "Request by the City’s Department of Transportation and Public Works for TIF district funding in an amount not to exceed $1,670,700.",
+        "title": "Review and consideration of a request by the City’s Department of Transportation and Public Works (TPW)",
+        "description": "Request for TIF district funding in an amount not to exceed $1,670,700 for construction of an expanded scope of public infrastructure improvements.",
         "presenter": "Sue Hounsel, Senior Manager, Office of Economic Development",
         "action_required": "Approval and forward a recommendation of approval to the City Council"
       },
@@ -72,7 +72,7 @@
         "item_number": "8",
         "title": "Review and consideration of the TOD TIF District Annual Report for FY 2023-2024",
         "description": "",
-        "presenter": "Angela Hardiman, District Manager, Office of Economic Development, Sue Hounsel, Senior Manager, Office of Economic Development",
+        "presenter": "Angela Hardiman, District Manager, Office of Economic Development; Sue Hounsel, Senior Manager, Office of Economic Development",
         "action_required": "Approval and forward a recommendation of approval to the City Council"
       },
       {
@@ -98,18 +98,18 @@
       "Temporary Chair",
       "Vice Chair",
       "Meeting Record",
-      "TIF district funding",
+      "Trammell Crow Company",
+      "Public Infrastructure",
       "Annual Report",
-      "Regular meeting schedule",
-      "Public comments",
+      "Meeting Schedule",
       "Economic Development",
-      "Construction",
-      "Infrastructure improvements",
-      "Mockingbird Station"
+      "Funding",
+      "Approval",
+      "Public Comments"
     ],
     "financial_items": [
       {
-        "description": "TIF district funding for construction of public infrastructure improvements",
+        "description": "Funding for construction of expanded public infrastructure improvements",
         "amount": "$1,670,700",
         "type": "funding"
       }

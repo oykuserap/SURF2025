@@ -18,15 +18,11 @@
         "Jim Plummer",
         "Sam McDaniel",
         "Jake Brown",
+        "Braxton Parsons",
         "Victor Toledo",
         "Kevin Winters"
       ],
-      "participants": [
-        "Jim Plummer",
-        "Summer Greathouse",
-        "Lisa D. Mares",
-        "Braxton Parsons"
-      ]
+      "participants": []
     },
     "agenda_items": [
       {
@@ -53,7 +49,7 @@
       {
         "item_number": "4",
         "title": "Approval of Minutes",
-        "description": "Discussion and approval of the minutes from the October 22, 2024 DPFC Board Meeting.",
+        "description": "Discussion and approval of the minutes of the October 22, 2024 DPFC Board Meeting.",
         "presenter": "Keith Pomykal",
         "action_required": "approve"
       },
@@ -74,7 +70,7 @@
       {
         "item_number": "8",
         "title": "Demolition Discussion",
-        "description": "Discussion regarding the demolition of the facility at 9999 Technology Blvd.",
+        "description": "Discussion regarding the demolition of the facility at 9999 Technology Blvd., Dallas, TX.",
         "presenter": "Sam McDaniel",
         "action_required": null
       },
@@ -87,8 +83,8 @@
       },
       {
         "item_number": "10",
-        "title": "DPFC Articles of Incorporation Discussion",
-        "description": "Discussion on amendments to the DPFC Articles of Incorporation and bylaws.",
+        "title": "DPFC Articles of Incorporation",
+        "description": "Discussion on the DPFC Articles of Incorporation and bylaws.",
         "presenter": "Jim Plummer",
         "action_required": null
       },
@@ -109,7 +105,7 @@
       {
         "item_number": "13",
         "title": "Housing and Homeless Solution Committee Briefing",
-        "description": "Briefing on the special called meeting of the Housing and Homeless Solution Committee.",
+        "description": "Briefing and discussion on the special called meeting.",
         "presenter": "Sam McDaniel",
         "action_required": null
       },
@@ -136,7 +132,7 @@
       },
       {
         "item_number": "17",
-        "title": "Pipeline Report Briefing",
+        "title": "Pipeline Report Discussion",
         "description": "Briefing and discussion on the DPFC pipeline report.",
         "presenter": "Sam McDaniel",
         "action_required": null
@@ -158,13 +154,13 @@
       "Executive Session",
       "Demolition",
       "Oakhouse Phase 2",
-      "Board Officer Elections",
+      "Board Elections",
       "Hiring Committee",
-      "Housing Solutions",
-      "Property Monitoring",
       "Annual Report",
       "Website",
-      "Pipeline Report"
+      "Pipeline Report",
+      "Legal Counsel",
+      "Public Participation"
     ],
     "financial_items": []
   },

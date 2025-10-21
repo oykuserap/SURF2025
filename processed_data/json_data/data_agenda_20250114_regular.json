@@ -25,8 +25,8 @@
     "agenda_items": [
       {
         "item_number": "IV",
-        "title": "Approval of the minutes for the December 10, 2024 City of Dallas Housing Finance Corporation Meeting",
-        "description": "Approval of the minutes from the previous meeting.",
+        "title": "Approval of the minutes for the December 10, 2024 Meeting",
+        "description": "Approval of the minutes for the previous meeting.",
         "presenter": "Marcy Helfand",
         "action_required": "approve"
       },
@@ -85,10 +85,10 @@
       "pipeline report",
       "resolution",
       "approval",
-      "discussion",
       "financing",
       "construction",
-      "development"
+      "development",
+      "bond counsel"
     ],
     "financial_items": []
   },

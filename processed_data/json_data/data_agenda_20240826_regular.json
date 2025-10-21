@@ -56,7 +56,7 @@
       {
         "item_number": "VI",
         "title": "Discuss SDFPOF Board Tour of Fair Park",
-        "description": "Date and logistics for the tour",
+        "description": "Discussion on date and logistics for the tour",
         "presenter": null,
         "action_required": "discuss"
       },
@@ -74,11 +74,16 @@
       "Regular Meeting",
       "Economic Development",
       "Small Business Center",
-      "Marketing",
-      "Business Development",
       "NOFA Awardees",
       "Board Tour",
-      "Dallas City Hall"
+      "Marketing",
+      "Business Development",
+      "Staff Reports",
+      "Public Speakers",
+      "Approval of Minutes",
+      "Dallas City Hall",
+      "Videoconference",
+      "Inclusivity"
     ],
     "financial_items": []
   },

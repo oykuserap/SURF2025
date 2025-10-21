@@ -44,28 +44,28 @@
       {
         "item_number": "B",
         "title": "Briefing on City-owned non-commercial Radio Station: WRR Radio/KERA",
-        "description": "Presentation on the status and updates regarding WRR Radio.",
+        "description": "Briefing on the operations and updates of WRR Radio/KERA.",
         "presenter": "Christopher Wagley",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "Office of Arts and Culture Agenda Item # 24-3064 on December 11, 2024: Dallas Black Dance Theatre Updated Funding Allocation",
-        "description": "Discussion on the updated funding allocation for Dallas Black Dance Theatre.",
+        "description": "Discussion on the funding allocation for Dallas Black Dance Theatre.",
         "presenter": "Martine Elyse Philippe",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "City Facilities Partners Update - Kalita Humphreys Theater",
-        "description": "Update on the partnership and management of the Kalita Humphreys Theater.",
+        "description": "Update on the partnership and management of Kalita Humphreys Theater.",
         "presenter": "Martine Elyse Philippe",
         "action_required": "discuss"
       },
       {
         "item_number": "E",
         "title": "Quality of Life, Arts, and Culture Committee Forecast",
-        "description": "Forecast of upcoming agenda items and discussions.",
+        "description": "Forecast of upcoming agenda items and initiatives.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -81,7 +81,11 @@
       "Community",
       "Theater",
       "Public Safety",
-      "Cultural Organizations"
+      "Economic Development",
+      "Cultural Organizations",
+      "Public Engagement",
+      "City Council",
+      "Executive Session"
     ],
     "financial_items": [
       {

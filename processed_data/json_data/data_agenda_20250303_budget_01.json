@@ -5,92 +5,73 @@
   "extracted_data": {
     "meeting_info": {
       "date": "March 3, 2025",
-      "time": null,
-      "type": "Briefing",
-      "organization": "Tx \n\n\n\n                  Economic Development Committee",
-      "location": "Dallas City Hall"
+      "time": "1:00 PM",
+      "type": "Economic Development Committee Meeting",
+      "organization": "City Council Economic Development Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
     },
     "attendees": {
-      "chair": null,
-      "presenters": [],
+      "chair": "Atkins",
+      "presenters": [
+        "Arturo Del Castillo",
+        "Kevin Spath"
+      ],
       "participants": []
     },
     "agenda_items": [
       {
         "item_number": "1",
-        "title": "del Ayuntamiento está disponible en formatos alternos si lo \n\n                                      ...",
-        "description": "del Ayuntamiento está disponible en formatos alternos si lo \n\n                                                                               solicita. \n\n\n\n                                                                               Si   tiene   preguntas   sobre   esta   agenda,   o   si   desea   hacer  \n\n                                                                               comentarios o presentar quejas con respecto a servicios de la  \n\n                                                                               Ciudad, llame al",
+        "title": "Approval of February 3, 2025 Economic Development Committee Meeting Minutes",
+        "description": "Approval of the minutes from the previous meeting.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
-        "item_number": "311",
-        "title": "Reglas de Cortesía  \n\n\n\n                                                                            ...",
-        "description": "Reglas de Cortesía  \n\n\n\n                                                                               Las asambleas del Ayuntamiento Municipal reúnen a ciudadanos  \n\nRules of Courtesy                                                              de diversos intereses e ideologías.  Para asegurar la imparcialidad  \n\n\n\n                                                                               y el orden durante las asambleas, el Ayuntamiento ha adoptado  \n\nCity   Council    meetings     bring   together    citizens   of   many        ciertas  reglas de cortesía que aplican a todos los miembros del  \n\nvaried   interests  and  ideas.    To  insure  fairness  and  orderly          Ayuntamiento, al personal administrativo, personal de los medios  \n\nmeetings, the Council has adopted rules of courtesy which apply                de  comunicación,  a  los  ciudadanos,  y  a  visitantes.    Estos  \n\nto  all  members  of    the   Council,   administrative    staff,  news        reglamentos establecen lo siguiente:  \n\nmedia,  citizens  and  visitors.  These procedures provide:  \n\n                                                                               •    Ninguna persona retrasara o interrumpirá los procedimientos,  \n\n•    That no one shall delay or interrupt the proceedings, or refuse \n\n                                                                                    o se negara a obedecer las órdenes del oficial que preside la  \n\n     to obey the orders of the presiding officer.                                   asamblea. \n\n\n\n•    All  persons should refrain from private conversation, eating,            •    Todas     las  personas     deben    abstenerse     de    entablar \n\n     drinking and smoking while in the Council Chamber.                             conversaciones, comer, beber y fumar dentro de la cámara \n\n\n\n                                                                                    del Ayuntamiento. \n\n•    Posters or placards must remain outside the Council Chamber. \n\n                                                                               •    Anuncios y pancartas deben permanecer fuera de la cámara  \n\n•    No  cellular  phones  or  audible  beepers  allowed  in  Council               del Ayuntamiento. \n\n     Chamber while City Council is in session. \n\n                                                                               •    No se permite usar teléfonos celulares o enlaces electrónicos  \n\n“Citizens  and  other  visitors  attending  City  Council   meetings                (pagers)  audibles en  la  cámara  del  Ayuntamiento  durante \n\nshall  observe  the  same  rules  of  propriety,  decorum  and  good                audiencias del Ayuntamiento Municipal \n\nconduct applicable to members of the City Council.  Any person  \n\nmaking  personal,  impertinent,  profane  or  slanderous  remarks              “Los ciudadanos y visitantes presentes durante las asambleas del  \n\nor  who  becomes  boisterous  while  addressing  the  City  Council            Ayuntamiento Municipal deben de obedecer las mismas reglas de  \n\nor  while  attending  the  City  Council  meeting  shall  be  removed          comportamiento, decoro y buena conducta que se aplican a los  \n\nfrom  the  room  if  the  sergeant-at-arms  is  so  directed  by  the          miembros del Ayuntamiento Municipal.  Cualquier persona que  \n\npresiding  officer,  and  the  person  shall  be  barred  from  further        haga comentarios  impertinentes,  utilice  vocabulario obsceno  o  \n\naudience before the City Council during that session of the City               difamatorio, o que al dirigirse al Ayuntamiento lo haga en forma  \n\nCouncil.  If the presiding  officer fails to act, any member of the            escandalosa,  o  si  causa  disturbio  durante  la  asamblea  del  \n\nCity  Council  may  move  to  require  enforcement  of  the  rules,            Ayuntamiento Municipal, será expulsada de la cámara si el oficial  \n\nand  the  affirmative  vote  of  a  majority of the City Council shall         que este presidiendo la asamblea así lo ordena.  Además, se le  \n\nrequire  the  presiding  officer  to  act.”  Section",
-        "presenter": null,
-        "action_required": "Action"
+        "item_number": "A",
+        "title": "Urban Design Peer Review Program Overview",
+        "description": "Overview of the Urban Design Peer Review Program.",
+        "presenter": "Arturo Del Castillo",
+        "action_required": "discuss"
       },
       {
-        "item_number": "1",
-        "title": "seeking  the  advice  of  its  attorney  about  pending  or  contemplated  litigation,  settlement  ...",
-        "description": "seeking  the  advice  of  its  attorney  about  pending  or  contemplated  litigation,  settlement  \n\n            offers,  or  any  matter  in  which  the  duty  of  the  attorney  to  the  City  Council  under  the  Texas  \n\n            Disciplinary  Rules  of  Professional  Conduct  of  the  State  Bar  of  Texas  clearly  conflicts  \n\n            with the Texas Open Meetings Act.  [Tex. Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "item_number": "B",
+        "title": "Acquisition of Land for Future Central Park",
+        "description": "Acquisition of approximately 79,933 square feet of commercially improved land for future central park in Valley View-Galleria Area.",
+        "presenter": "Kevin Spath",
+        "action_required": "discuss"
       },
       {
-        "item_number": "2",
-        "title": "deliberating  the  purchase,  exchange,  lease,  or  value  of  real  property  if  deliberation  in...",
-        "description": "deliberating  the  purchase,  exchange,  lease,  or  value  of  real  property  if  deliberation  in  an  \n\n            open  meeting  would  have  a  detrimental  effect  on  the  position  of  the  city  in  negotiations  \n\n            with a third person.  [Tex. Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "3",
-        "title": "deliberating    a   negotiated      contract    for  a   prospective      gift  or   donation     to...",
-        "description": "deliberating    a   negotiated      contract    for  a   prospective      gift  or   donation     to   the   city  if  \n\n            deliberation  in  an  open  meeting  would  have  a  detrimental  effect  on  the  position  of  the  \n\n            city in negotiations with a third person. [Tex. Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "4",
-        "title": "deliberating   the   appointment,   employment,   evaluation,   reassignment,   duties,   discipline...",
-        "description": "deliberating   the   appointment,   employment,   evaluation,   reassignment,   duties,   discipline,  \n\n            or  dismissal  of  a  public  officer  or  employee;  or  to  hear  a  complaint  or  charge  against  an  \n\n            officer  or  employee  unless  the  officer  or  employee  who  is  the  subject  of  the  deliberation  \n\n            or hearing requests a public hearing.  [Tex. Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "5",
-        "title": "deliberating     the   deployment,       or   specific     occasions      for   implementation,     ...",
-        "description": "deliberating     the   deployment,       or   specific     occasions      for   implementation,       of   security  \n\n            personnel or devices.  [Tex. Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "6",
-        "title": "discussing  or  deliberating  commercial  or  financial  information  that  the  city  has  received...",
-        "description": "discussing  or  deliberating  commercial  or  financial  information  that  the  city  has  received  \n\n            from  a  business  prospect  that  the  city  seeks  to  have  locate,  stay  or  expand  in  or  near  the  \n\n            city  and    with    which    the   city   is   conducting     economic       development       negotiations;     or  \n\n            deliberating  the  offer  of  a  financial  or  other  incentive  to  a  business  prospect.    [Tex  Govt .  \n\n            Code §",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "7",
-        "title": "deliberating     security    assessments        or   deployments       relating    to   information ...",
-        "description": "deliberating     security    assessments        or   deployments       relating    to   information     resources  \n\n            technology,   network   security   information,   or   the   deployment   or   specific   occasions   for  \n\n            implementations   of   security   personnel,   critical   infrastructure,   or   security   devices.      [ Tex  \n\n            Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "item_number": "C",
+        "title": "Construction Services Contract with Meca Construction, LLC",
+        "description": "Contract for construction of the Rosemont Safe Routes to School Project.",
+        "presenter": "Kevin Spath",
+        "action_required": "discuss"
       }
     ],
     "keywords": [
-      "tif",
-      "district",
-      "approval",
-      "public",
-      "development",
-      "transportation",
-      "planning",
-      "contract"
+      "Economic Development",
+      "Urban Design",
+      "Acquisition",
+      "Construction Services",
+      "Safe Routes to School",
+      "Dallas City Council",
+      "Committee Meeting",
+      "Public Affairs",
+      "Executive Session",
+      "Real Property",
+      "Financial Information",
+      "Negotiations",
+      "ADA Compliance",
+      "Community Engagement",
+      "Public Safety"
     ],
-    "financial_items": []
+    "financial_items": [
+      {
+        "description": "Construction Services Contract with Meca Construction, LLC",
+        "amount": "$887,790.60",
+        "type": "contract"
+      }
+    ]
   },
   "extraction_method": "openai_gpt",
   "original_length": 20862

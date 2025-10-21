@@ -8,10 +8,10 @@
       "time": "9:00 AM",
       "type": "Regular Meeting",
       "organization": "City Council Workforce, Education, and Equity Committee",
-      "location": "Council Chambers, 6th Floor, City Hall and via video conference"
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
     },
     "attendees": {
-      "chair": "Schultz",
+      "chair": "Narvaez",
       "presenters": [
         "Dr. Lindsey Wilson",
         "Dr. Lisa Rainey",
@@ -39,14 +39,14 @@
       {
         "item_number": "B",
         "title": "Discussion of Mayor's Memo Regarding Community Input of the Workforce, Education, and Equity Committee’s Policy Areas",
-        "description": "Discussion on the Mayor's memo regarding community input.",
+        "description": "Discussion regarding the Mayor's memo on community input.",
         "presenter": "All committee discussion",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "January 2024 Update on Work Performance Measures for Workforce Dallas",
-        "description": "An update on work performance measures for Workforce Dallas.",
+        "description": "An update on work performance measures.",
         "presenter": "Lynn McBee, Workforce Dallas; Joyce Williams, Director of Small Business Center",
         "action_required": "discuss"
       },
@@ -60,7 +60,7 @@
       {
         "item_number": "FORECAST",
         "title": "Committee Forecast",
-        "description": "Forecast for upcoming committee activities.",
+        "description": "Forecast of upcoming committee activities.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -75,6 +75,7 @@
       "Digital Equity",
       "Affordable Connectivity",
       "City Council",
+      "Dallas",
       "Committee Meeting"
     ],
     "financial_items": []

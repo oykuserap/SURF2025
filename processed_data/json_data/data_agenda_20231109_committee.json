@@ -8,7 +8,7 @@
       "time": "3:00 PM",
       "type": "Ad Hoc Committee Meeting",
       "organization": "City Council Ad Hoc Committee on Pensions",
-      "location": "Auditorium, Floor L1 at City Hall, Dallas, Texas; also available via video conference"
+      "location": "Auditorium, Floor L1 at City Hall, Dallas, TX (also available via video conference)"
     },
     "attendees": {
       "chair": "Atkins",
@@ -22,6 +22,7 @@
         "Ridley",
         "Stewart",
         "West",
+        "Blackmon",
         "Mendelsohn",
         "Moreno",
         "Resendez",
@@ -48,17 +49,16 @@
       }
     ],
     "keywords": [
-      "Dallas",
       "Pensions",
-      "City Council",
+      "Dallas City Council",
       "Ad Hoc Committee",
       "Actuarial Update",
       "Funding Issues",
-      "Dallas Police",
-      "Fire Pension System",
-      "Minutes Approval",
+      "Dallas Police and Fire Pension System",
+      "Meeting Minutes",
       "Video Conference",
-      "Public Attendance"
+      "Public Participation",
+      "Executive Session"
     ],
     "financial_items": []
   },

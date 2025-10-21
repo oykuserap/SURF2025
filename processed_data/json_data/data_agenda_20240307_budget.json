@@ -8,7 +8,7 @@
       "time": "11:00 AM",
       "type": "Ad Hoc Committee Meeting",
       "organization": "Ad Hoc Committee on Administrative Affairs",
-      "location": "Dallas City Hall, 6ES, Council Briefing Room; Virtual"
+      "location": "Dallas City Hall, 6ES, Council Briefing Room"
     },
     "attendees": {
       "chair": "Atkins",
@@ -36,14 +36,14 @@
       {
         "item_number": "B",
         "title": "Template for Employee Survey Related to City Manager Recruitment",
-        "description": "Discussion on the template for the employee survey related to City Manager recruitment.",
+        "description": "Discussion on the template for the employee survey related to the recruitment of a City Manager.",
         "presenter": "Nina Arias",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "Timeline for City Manager Recruitment Consultant RFP",
-        "description": "Discussion on the timeline for the Request for Proposals for a City Manager recruitment consultant.",
+        "description": "Discussion on the timeline for the Request for Proposals for the City Manager recruitment consultant.",
         "presenter": "Nina Arias and Danielle Thompson",
         "action_required": "discuss"
       }
@@ -53,16 +53,13 @@
       "City Council",
       "Administrative Affairs",
       "City Manager Recruitment",
-      "Employee Survey",
-      "Consultant RFP",
-      "Feedback",
-      "Minutes Approval",
       "Human Resources",
-      "Procurement Services",
-      "Executive Session",
-      "Public Meeting",
-      "Virtual Attendance",
-      "City Hall"
+      "Employee Survey",
+      "RFP",
+      "Consultant",
+      "Feedback",
+      "Minutes",
+      "Discussion"
     ],
     "financial_items": []
   },

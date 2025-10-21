@@ -8,7 +8,7 @@
       "time": "4:30 P.M.",
       "type": "Regular Meeting",
       "organization": "Arts and Culture Advisory Commission",
-      "location": "Dallas City Hall, 6FN - Park and Recreation Board Room and Videoconference"
+      "location": "Dallas City Hall, 6FN - Park and Recreation Board Room and Videoconference, 1500 Marilla Street"
     },
     "attendees": {
       "chair": "David Small",
@@ -27,21 +27,21 @@
       {
         "item_number": "1",
         "title": "Approval of the October 17, 2024, Arts and Culture Advisory Commission meeting minutes.",
-        "description": "Approval of the minutes from the previous meeting.",
+        "description": "",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "2",
         "title": "Recommendation to initiate the planning process for a public art installation.",
-        "description": "Planning for a public art installation to be located at the Dallas Police Academy in Council District 3, funded using 2024 Bond Funds.",
+        "description": "To be located at the Dallas Police Academy in Council District 3 and funded using 2024 Bond Funds.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "3",
         "title": "Recommendation(s) for Quality of Life, Arts and Culture Committee regarding the FY 2024-25 Cultural Organizations Program funding allocation.",
-        "description": "Funding allocation for Dallas Black Dance Theatre, Incorporated pursuant to remand by City Council on October 23, 2024.",
+        "description": "For Dallas Black Dance Theatre, Incorporated pursuant to remand by City Council on October 23, 2024.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -50,27 +50,23 @@
       "Arts and Culture",
       "Public Art",
       "Dallas Police Academy",
-      "Cultural Organizations Program",
+      "Cultural Organizations",
       "Funding Allocation",
       "Commission Meeting",
       "Executive Session",
       "Public Speakers",
       "Cultural Planning",
       "Equity Updates",
-      "Annual Report",
-      "Community Engagement",
-      "Dallas City Hall",
-      "Videoconference",
-      "Public Participation"
+      "Annual Report"
     ],
     "financial_items": [
       {
-        "description": "Funding for public art installation at the Dallas Police Academy.",
+        "description": "Funding for public art installation at the Dallas Police Academy",
         "amount": "2024 Bond Funds",
-        "type": "budget"
+        "type": "funding"
       },
       {
-        "description": "Funding allocation for Dallas Black Dance Theatre, Incorporated.",
+        "description": "FY 2024-25 Cultural Organizations Program funding allocation for Dallas Black Dance Theatre",
         "amount": null,
         "type": "funding"
       }

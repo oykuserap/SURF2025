@@ -14,13 +14,9 @@
       "chair": "Evelyn Montgomery",
       "presenters": [
         "HP Staff",
-        "Christina Mankowski",
         "Marcus Watson",
-        "Rhonda Dunn",
-        "Adan Frias",
-        "Clay Patterson",
-        "Jay Peskuski",
-        "Leah C. Kagan"
+        "Christina Mankowski",
+        "Rhonda Dunn"
       ],
       "participants": []
     },
@@ -28,49 +24,49 @@
       {
         "item_number": "I",
         "title": "Call to Order",
-        "description": "",
+        "description": "Opening of the meeting by the chair.",
         "presenter": "Evelyn Montgomery",
         "action_required": null
       },
       {
         "item_number": "II",
         "title": "Public Speakers",
-        "description": "",
+        "description": "Opportunity for public comments.",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "III",
         "title": "Approval of Minutes",
-        "description": "Approval of November 6, 2023, regular meeting minutes",
+        "description": "Approval of the minutes from the November 6, 2023, regular meeting.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "IV",
         "title": "Staff Report/Briefings",
-        "description": "Briefing by HR&A Advisors on the Historic and Cultural Equity Strategic Preservation Plan draft report and scheduling.",
+        "description": "Briefing by HR&A Advisors on the Historic and Cultural Equity Strategic Preservation Plan draft report.",
         "presenter": "HP Staff",
         "action_required": null
       },
       {
         "item_number": "V",
         "title": "Briefing Items",
-        "description": "Consent Items, Courtesy Review Items, Discussion Items",
+        "description": "Discussion of consent items and other business.",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "VI",
         "title": "Other Business",
-        "description": "Discussion and vote on amendments to the composition of the Fair Park Task Force, Approval of the Historic Preservation Annual Report, 2023-2024 Calendar",
+        "description": "Discussion and vote on amendments to the composition of the Fair Park Task Force and approval of the Historic Preservation Annual Report.",
         "presenter": null,
         "action_required": "discuss and vote"
       },
       {
         "item_number": "VII",
         "title": "Adjournment",
-        "description": "",
+        "description": "Closing of the meeting.",
         "presenter": null,
         "action_required": null
       }
@@ -79,18 +75,13 @@
       "Dallas",
       "Landmark Commission",
       "Historic Preservation",
-      "Cultural Equity",
       "Public Hearing",
       "Certificate of Appropriateness",
-      "Demolition",
-      "Task Force",
+      "Certificate of Demolition",
+      "Fair Park Task Force",
+      "Equity Strategic Preservation Plan",
       "Minutes Approval",
-      "Briefing",
-      "Consent Items",
-      "Discussion Items",
-      "Fair Park",
-      "Annual Report",
-      "2023-2024 Calendar"
+      "Public Speakers"
     ],
     "financial_items": []
   },

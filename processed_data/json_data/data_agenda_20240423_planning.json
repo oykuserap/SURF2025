@@ -8,7 +8,7 @@
       "time": "9:00 AM",
       "type": "Regular Meeting",
       "organization": "Housing and Homelessness Solutions Committee",
-      "location": "Council Briefing Room, 6th Floor at City Hall, Dallas, Texas; Virtual attendance available"
+      "location": "Council Briefing Room, 6th Floor at City Hall, Dallas, Texas; also held by video conference"
     },
     "attendees": {
       "chair": null,
@@ -74,29 +74,29 @@
       },
       {
         "item_number": "H",
-        "title": "Upcoming Agenda Item: Public Hearing on Substantial Amendment No. 1",
-        "description": "Public comments on the adoption of Substantial Amendment No. 1 to the FY 2023-24 Action Plan for HOME Investment Partnerships Program.",
+        "title": "Office of Homeless Solutions - Upcoming Agenda Item",
+        "description": "Public hearing to receive public comments on the adoption of Substantial Amendment No. 1 to the FY 2023-24 Action Plan for HOME Investment Partnerships Program and American Rescue Plan Act Grant Funds.",
         "presenter": "Christine Crossley",
         "action_required": "discuss"
       },
       {
         "item_number": "I",
         "title": "Upcoming Agenda Item: Notice of Funding Availability (NOFA) Development Project",
-        "description": "Authorize the City Manager to execute a development loan agreement for Tenison Lofts at Samuell Grand.",
+        "description": "Authorize the City Manager to execute a development loan agreement for the development of Tenison Lofts at Samuell Grand.",
         "presenter": "Darwin Wade",
         "action_required": "discuss"
       },
       {
         "item_number": "J",
         "title": "Upcoming Agenda Item: Authorize the Dallas Public Facility Corporation",
-        "description": "Acquisition and development of Bloc House Santa Fe Trail.",
+        "description": "Acquire, develop, and own Bloc House Santa Fe Trail, a mixed-income multifamily development.",
         "presenter": "Albert Gonzalez",
         "action_required": "discuss"
       },
       {
         "item_number": "K",
         "title": "Housing and Homelessness Solutions (HHS) Committee Forecast",
-        "description": "Briefing items to be placed on the HHS Committee agendas for future meetings.",
+        "description": "Briefing items to be placed on the HHS Committee agendas for May 21, 2024 through October 22, 2024.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -107,27 +107,27 @@
       "Dallas",
       "Committee",
       "Development",
+      "Funding",
       "Performance Measures",
       "Public Hearing",
-      "Funding",
-      "Community Development",
-      "Affordable Housing",
-      "Initiatives",
+      "Initiative",
+      "Policy",
       "Revitalization",
       "Supportive Services",
-      "Transit-Oriented Development",
-      "Mixed-Income Housing"
+      "Community Development",
+      "Affordable Housing",
+      "Transit-Oriented Development"
     ],
     "financial_items": [
       {
-        "description": "Funding for the development of Tenison Lofts at Samuell Grand",
-        "amount": "$11,000,000.00",
-        "type": "Community Development Block Grant Disaster Recovery Funds"
+        "description": "Reallocate funds from Tenant Based Rental Assistance to Supportive Services.",
+        "amount": "$2,500,000.00",
+        "type": "funding"
       },
       {
-        "description": "Reallocation of funds for supportive services in the R.E.A.L Time Re-Housing Program",
-        "amount": "$2,500,000.00",
-        "type": "Homelessness Assistance and Supportive Services"
+        "description": "Development loan agreement for Tenison Lofts at Samuell Grand.",
+        "amount": "$11,000,000.00",
+        "type": "funding"
       }
     ]
   },

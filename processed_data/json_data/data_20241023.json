@@ -5,10 +5,10 @@
   "extracted_data": {
     "meeting_info": {
       "date": "October 23, 2024",
-      "time": null,
-      "type": "Briefing",
-      "organization": "Citizens  Can  Find  Out               Persona      Que    Desee      Hablar    Durante      La   Asamblea       Del  \n\nThe  Name  Of  Their  Representative  And  Their  Voting  District",
-      "location": "Dallas City Hall"
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
     },
     "attendees": {
       "chair": null,
@@ -17,82 +17,115 @@
     },
     "agenda_items": [
       {
-        "item_number": "16",
-        "title": "Briefing   meetings   are   held   the        primer    y   tercer   miércoles    del   mes.    Esta...",
-        "description": "Briefing   meetings   are   held   the        primer    y   tercer   miércoles    del   mes.    Estas    audiencias     se  \n\nfirst  and   third   Wednesdays       of   each    month.         Council         transmiten      en    vivo     por    la    bit.ly/cityofdallastv   y    por  \n\nagenda     (voting)   meetings     are   held   on    the   second     and        cablevisión    en   la  estación    Time    Warner     City  Cable    Canal  \n\nfourth   Wednesdays.           Anyone     wishing     to   speak    at   a",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "311",
-        "title": "Ciudad    de   Dallas    se  esfuerza     por  cumplir    con   el  decreto  \n\n                     ...",
-        "description": "Ciudad    de   Dallas    se  esfuerza     por  cumplir    con   el  decreto  \n\n                                                                                  que   protege    a   las   personas    con    impedimentos,      Americans  \n\n                                                                                  with   Disabilities  Act.      La   agenda     del   Ayuntamiento       está  \n\n                                                                                  disponible en formatos alternos si lo solicita.  \n\n\n\n                                                                                  Si  tiene   preguntas     sobre    esta   agenda,    o   si  desea     hacer  \n\n                                                                                  comentarios   o   presentar   quejas   con   respecto   a   servicios   de  \n\n                                                                                  la Ciudad, llame al",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
         "item_number": "1",
-        "title": "seeking      the    advice      of   its   attorney      about     pending       or    contemplated ...",
-        "description": "seeking      the    advice      of   its   attorney      about     pending       or    contemplated        litigation,  \n\n            settlement  offers,  or  any  matter  in  which  the  duty  of  the  attorney  to  the  City  Council  \n\n            under  the  Texas  Disciplinary  Rules  of  Professional  Conduct  of  the  State  Bar  of  Texas  \n\n            clearly conflicts with the Texas Open Meetings Act.  [Tex. Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "title": "Approval of Minutes of the October 8, 2024 City Council Meeting",
+        "description": "",
+        "presenter": "City Attorney's Office",
+        "action_required": "approve"
       },
       {
         "item_number": "2",
-        "title": "deliberating  the  purchase,  exchange,  lease,  or  value  of  real  property  if  deliberation  in...",
-        "description": "deliberating  the  purchase,  exchange,  lease,  or  value  of  real  property  if  deliberation  in  \n\n            an   open     meeting     would     have    a   detrimental      effect   on    the   position    of   the   city   in  \n\n            negotiations with a third person.  [Tex. Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "title": "Authorize settlement of the bodily injury claims brought by Demariyea Williams",
+        "description": "Settlement in the lawsuit styled Untrell Calhoun, Demariyea Williams, and Tiffany Shipp v. City of Dallas, Cause No. DC-23-18179",
+        "presenter": "City Attorney's Office",
+        "action_required": "approve"
       },
       {
         "item_number": "3",
-        "title": "deliberating     a   negotiated     contract    for   a   prospective      gift  or   donation     t...",
-        "description": "deliberating     a   negotiated     contract    for   a   prospective      gift  or   donation     to  the    city  if  \n\n            deliberation  in  an  open  meeting  would  have  a  detrimental  effect  on  the  position  of  the  \n\n            city in negotiations with a third person. [Tex. Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "title": "Authorize settlement of the lawsuit styled Israel Selgado v. City of Dallas",
+        "description": "",
+        "presenter": "City Attorney's Office",
+        "action_required": "approve"
       },
       {
         "item_number": "4",
-        "title": "deliberating       the     appointment,         employment,          evaluation,       reassignment,...",
-        "description": "deliberating       the     appointment,         employment,          evaluation,       reassignment,          duties,  \n\n            discipline,   or   dismissal   of   a   public   officer   or   employee;   or   to   hear   a   complaint   or  \n\n            charge   against   an   officer   or   employee   unless   the   officer   or   employee   who   is   the  \n\n            subject   of   the   deliberation   or   hearing   requests   a   public   hearing.      [ Tex.   Govt.   Code  \n\n            §",
-        "presenter": null,
-        "action_required": "Action"
+        "title": "Authorize settlement of the lawsuit styled Thomas Meagher v. City of Dallas",
+        "description": "",
+        "presenter": "City Attorney's Office",
+        "action_required": "approve"
       },
       {
         "item_number": "5",
-        "title": "deliberating     the    deployment,       or   specific    occasions      for   implementation,     ...",
-        "description": "deliberating     the    deployment,       or   specific    occasions      for   implementation,        of   security  \n\n            personnel or devices.  [Tex. Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "title": "An ordinance authorizing the issuance and sale of City of Dallas, Texas Waterworks and Sewer System Revenue Bonds, Series 2024C",
+        "description": "In the amount of $34,000,000 to the Texas Water Development Board",
+        "presenter": "City Controller's Office",
+        "action_required": "approve"
       },
       {
         "item_number": "6",
-        "title": "discussing      or   deliberating      commercial       or   financial     information      that   t...",
-        "description": "discussing      or   deliberating      commercial       or   financial     information      that   the    city   has  \n\n            received  from  a  business  prospect  that  the  city  seeks  to  have  locate,  stay  or  expand  \n\n            in  or   near    the   city   and    with    which    the   city   is  conducting      economic       development  \n\n            negotiations;   or   deliberating   the   offer   of   a   financial   or   other   incentive   to   a   business  \n\n            prospect.  [Tex Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "title": "Authorize Supplemental Agreement No. 1 to the construction services contract with Flatiron Constructors, Inc.",
+        "description": "To amend the scope of work to include infrastructure for the de-icing facility at the airport",
+        "presenter": "Department of Aviation",
+        "action_required": "approve"
       },
       {
         "item_number": "7",
-        "title": "deliberating     security    assessments        or   deployments        relating    to   information...",
-        "description": "deliberating     security    assessments        or   deployments        relating    to   information     resources  \n\n            technology,   network   security   information,   or   the   deployment   or   specific   occasions   for  \n\n            implementations        of    security     personnel,      critical   infrastructure,     or    security     devices .   \n\n            [Tex Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "title": "An ordinance granting a private license to Tyler J. Duff",
+        "description": "For the use of approximately 1,180 square feet of land to install, occupy, maintain and utilize landscape and irrigation",
+        "presenter": "Department of Facilities and Real Estate Management",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "8",
+        "title": "An ordinance granting a revocable license to BIG D Lil’ d LLC dba Dot’s Hop House & Cocktail Courtyard",
+        "description": "For the use of approximately 8 square feet of aerial space to occupy, maintain and utilize a blade sign",
+        "presenter": "Department of Facilities and Real Estate Management",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "9",
+        "title": "An ordinance granting renewal of a private license to Ross Tower SCHPI LP",
+        "description": "For the use of approximately 948 square feet of subsurface space to occupy, maintain and utilize an existing transformer vault",
+        "presenter": "Department of Facilities and Real Estate Management",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Authorize (1) the option to an existing license agreement with American Towers, LLC",
+        "description": "To exercise the first of two, five-year renewal options for approximately 14,895 square feet of land and tower space",
+        "presenter": "Department of Facilities and Real Estate Management",
+        "action_required": "approve"
       }
     ],
     "keywords": [
-      "tif",
-      "district",
-      "funding",
-      "approval",
-      "recommendation",
-      "public",
-      "development",
-      "improvement",
-      "transportation",
-      "planning"
+      "Dallas City Council",
+      "meeting",
+      "settlement",
+      "lawsuit",
+      "bonds",
+      "construction",
+      "license",
+      "land use",
+      "public hearing",
+      "financial agreements"
     ],
-    "financial_items": []
+    "financial_items": [
+      {
+        "description": "Settlement of bodily injury claims",
+        "amount": "$48,000.00",
+        "type": "settlement"
+      },
+      {
+        "description": "Settlement of lawsuit Israel Selgado v. City of Dallas",
+        "amount": "$30,000.00",
+        "type": "settlement"
+      },
+      {
+        "description": "Settlement of lawsuit Thomas Meagher v. City of Dallas",
+        "amount": "$150,000.00",
+        "type": "settlement"
+      },
+      {
+        "description": "Issuance of Waterworks and Sewer System Revenue Bonds",
+        "amount": "$34,000,000.00",
+        "type": "bond issuance"
+      },
+      {
+        "description": "Construction services contract with Flatiron Constructors, Inc.",
+        "amount": "$3,409,841.93",
+        "type": "contract"
+      }
+    ]
   },
   "extraction_method": "openai_gpt",
   "original_length": 79419

@@ -16,51 +16,52 @@
         "Aaron Eaquinto",
         "George Rodriguez",
         "Ryan Bowen",
-        "Tim Nelson",
-        "Jaclyn Schroeder"
+        "Tim Nelson"
       ],
-      "participants": []
+      "participants": [
+        "Jaclyn Schroeder"
+      ]
     },
     "agenda_items": [
       {
         "item_number": "IV",
-        "title": "Approval of the minutes for the January 14, 2025 Meeting",
-        "description": "Approval of the minutes for the January 14, 2025 City of Dallas Housing Finance Corporation Meeting.",
+        "title": "Approval of the minutes for the January 14, 2025 City of Dallas Housing Finance Corporation Meeting",
+        "description": "Approval of the minutes from the previous meeting.",
         "presenter": "Marcy Helfand",
         "action_required": "approve"
       },
       {
         "item_number": "V",
-        "title": "Approval of the minutes for the January 16, 2025 Special Meeting",
-        "description": "Approval of the minutes for the January 16, 2025 City of Dallas Housing Finance Corporation Special Meeting.",
+        "title": "Approval of the minutes for the January 16, 2025 City of Dallas Housing Finance Corporation Special Meeting",
+        "description": "Approval of the minutes from the special meeting.",
         "presenter": "Marcy Helfand",
         "action_required": "approve"
       },
       {
         "item_number": "VI",
         "title": "Consider and Adopt an Inducement Resolution",
-        "description": "Consider and Adopt an Inducement Resolution declaring intent to issue bonds, in an aggregate principal amount not to exceed $35,000,000, for a loan to Lincoln Avenue Communities to provide financing for a senior residential development for persons of low and moderate income to be known as 'Baraboo Hills Apartments' and to be located at 6200 Baraboo Drive, Dallas, Texas 75241.",
+        "description": "Declaring intent to issue bonds, in an aggregate principal amount not to exceed $35,000,000, for a loan to Lincoln Avenue Communities for financing a senior residential development.",
         "presenter": "Aaron Eaquinto",
-        "action_required": "adopt"
+        "action_required": "discuss and adopt"
       },
       {
         "item_number": "VII",
         "title": "Consider and approve the Dallas HFC 2025 meeting schedule",
-        "description": "Consider and approve the Dallas HFC 2025 meeting schedule.",
+        "description": "Review and approval of the meeting schedule for the year 2025.",
         "presenter": "Aaron Eaquinto",
         "action_required": "approve"
       },
       {
         "item_number": "VIII",
         "title": "Review and discussion of DHFC Treasurer’s report",
-        "description": "Review and discussion of DHFC Treasurer’s report for the twelve-month period ending on December 31, 2024.",
+        "description": "Review of the Treasurer's report for the twelve-month period ending on December 31, 2024.",
         "presenter": "Aaron Eaquinto",
         "action_required": "discuss"
       },
       {
         "item_number": "IX",
         "title": "Review and discussion of the Corporation’s pipeline report",
-        "description": "Review and discussion of the Corporation’s pipeline report as of February 11, 2025.",
+        "description": "Discussion of the Corporation’s pipeline report as of February 11, 2025.",
         "presenter": "Aaron Eaquinto",
         "action_required": "discuss"
       }
@@ -70,16 +71,21 @@
       "meeting minutes",
       "inducement resolution",
       "bonds",
+      "Lincoln Avenue Communities",
       "senior residential development",
       "Baraboo Hills Apartments",
-      "meeting schedule",
+      "2025 meeting schedule",
       "Treasurer’s report",
       "pipeline report",
-      "low and moderate income"
+      "public comments",
+      "action items",
+      "equitable meeting",
+      "accessibility",
+      "financial information"
     ],
     "financial_items": [
       {
-        "description": "Loan to Lincoln Avenue Communities for Baraboo Hills Apartments",
+        "description": "Loan for financing a senior residential development",
         "amount": "$35,000,000",
         "type": "funding"
       }

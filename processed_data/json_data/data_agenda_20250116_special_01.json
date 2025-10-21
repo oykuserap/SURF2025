@@ -22,46 +22,74 @@
     },
     "agenda_items": [
       {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": null,
+        "presenter": "Marcy Helfand",
+        "action_required": null
+      },
+      {
+        "item_number": "II",
+        "title": "Roll Call",
+        "description": null,
+        "presenter": "Jaclyn Schroeder",
+        "action_required": null
+      },
+      {
+        "item_number": "III",
+        "title": "Public Comments on items IV – IX",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
         "item_number": "IV",
         "title": "Discussion of Bylaws amendment",
-        "description": "Discussion of Bylaws amendment of the City of Dallas Housing Finance Corporation (the “Corporation”)",
+        "description": "Discussion of Bylaws amendment of the City of Dallas Housing Finance Corporation.",
         "presenter": "Ryan Bowen",
         "action_required": "discuss"
       },
       {
         "item_number": "V",
         "title": "Discussion of potential uses of funds",
-        "description": "Discussion of the potential uses of the Corporation’s funds",
+        "description": "Discussion of the potential uses of the Corporation’s funds.",
         "presenter": "Marcy Helfand",
         "action_required": "discuss"
       },
       {
         "item_number": "VI",
         "title": "Presentation on workforce housing study",
-        "description": "Presentation and discussion of the October 2024 study conducted by The Concord Group on the costs and benefits of workforce housing in Dallas, Texas",
+        "description": "Presentation and discussion of the October 2024 study conducted by The Concord Group on the costs and benefits of workforce housing in Dallas, Texas.",
         "presenter": "Aaron Eaquinto",
         "action_required": "discuss"
       },
       {
         "item_number": "VII",
         "title": "Discussion on targeted areas of development",
-        "description": "Discussion on targeted areas of development to align goals with the City of Dallas Housing Policy (DHP33)",
+        "description": "Discussion on targeted areas of development to align goals with the City of Dallas Housing Policy (DHP33).",
         "presenter": "Aaron Eaquinto",
         "action_required": "discuss"
       },
       {
         "item_number": "VIII",
-        "title": "Discussion and approval of the Corporation’s 2025 Budget",
-        "description": "Discussion and approval of the Corporation’s 2025 Budget",
+        "title": "Discussion and approval of 2025 Budget",
+        "description": "Discussion and approval of the Corporation’s 2025 Budget.",
         "presenter": "Aaron Eaquinto",
         "action_required": "approve"
       },
       {
         "item_number": "IX",
-        "title": "Review of the Corporation’s 2025 calendar",
-        "description": "Review and discussion of the Corporation’s 2025 calendar and planning session for conferences, board meetings and other calendar events",
+        "title": "Review of 2025 calendar",
+        "description": "Review and discussion of the Corporation’s 2025 calendar and planning session for conferences, board meetings and other calendar events.",
         "presenter": "Aaron Eaquinto",
         "action_required": "discuss"
+      },
+      {
+        "item_number": "X",
+        "title": "Adjourn",
+        "description": null,
+        "presenter": "Marcy Helfand",
+        "action_required": null
       }
     ],
     "keywords": [
@@ -71,12 +99,18 @@
       "workforce housing",
       "development areas",
       "2025 Budget",
-      "calendar planning",
+      "2025 calendar",
       "public comments",
-      "meeting accommodations",
-      "executive session"
+      "meeting adjournment",
+      "special meeting"
     ],
-    "financial_items": []
+    "financial_items": [
+      {
+        "description": "Discussion and approval of the Corporation’s 2025 Budget.",
+        "amount": null,
+        "type": "budget"
+      }
+    ]
   },
   "extraction_method": "openai_gpt",
   "original_length": 10029

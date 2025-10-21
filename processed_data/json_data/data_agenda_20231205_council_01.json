@@ -66,14 +66,14 @@
       },
       {
         "item_number": "7",
-        "title": "Financing Resolution",
+        "title": "Financing for The Riviera Apartments",
         "description": "Discussion and approval of a resolution authorizing the negotiation and execution of a Term Sheet and inducing the proposed financing of up to $55,000,000 of tax-exempt bonds for The Riviera Apartments in partnership with Savoy and AIDS Services of Dallas to be located at 11700 Audelia Rd., Dallas, TX",
         "presenter": "Aaron Eaquinto/Albert Gonzalez, Jim Plummer, Tim Nelson",
         "action_required": "approve"
       },
       {
         "item_number": "8",
-        "title": "Insurance Coverage",
+        "title": "Directors and Officers Insurance",
         "description": "Discussion and approval of Directors and Officers Insurance coverage for the Dallas Public Facility Corporation’s Board of Directors and Officers",
         "presenter": "Keith Pomykal",
         "action_required": "approve"
@@ -110,25 +110,30 @@
     "keywords": [
       "Dallas",
       "Public Facility Corporation",
-      "Board of Directors",
-      "tax-exempt bonds",
+      "Board Meeting",
+      "Tax-Exempt Bonds",
       "The Riviera Apartments",
-      "insurance coverage",
-      "2024 Annual Budget",
-      "Treasurer’s Report",
-      "Pipeline Report",
-      "public testimony",
-      "meeting minutes",
-      "election",
-      "resolution",
-      "financing",
-      "accommodations"
+      "Annual Budget",
+      "Directors and Officers Insurance",
+      "Public Testimony",
+      "Financing",
+      "Executive Session",
+      "Meeting Access",
+      "Public Comment",
+      "Roll Call",
+      "Minutes Approval",
+      "Treasurer's Report"
     ],
     "financial_items": [
       {
         "description": "Financing of tax-exempt bonds for The Riviera Apartments",
         "amount": "$55,000,000",
         "type": "funding"
+      },
+      {
+        "description": "Dallas Public Facility Corporation’s 2024 Annual Budget",
+        "amount": null,
+        "type": "budget"
       }
     ]
   },

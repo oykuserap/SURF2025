@@ -14,60 +14,60 @@
       "chair": "John Kalkanli",
       "presenters": [
         "John Kalkanli",
-        "Chris McGreal",
-        "Blake Lindsay",
-        "Veronica Barboza"
+        "Chris McGreal"
       ],
       "participants": [
-        "Christina Puga",
         "Gay Revi",
-        "Beverly White",
-        "Rod Hooker",
-        "Christopher Bellew",
+        "Nancy Immerman",
         "Starlet Ramirez",
-        "Nicole Munoz Huschka"
+        "Suzi Beall Shaw",
+        "Beverly White",
+        "Cindy Suarez",
+        "Dr. Anita Swanson",
+        "Dr. Priscylla Bento",
+        "Dylan Rafaty"
       ]
     },
     "agenda_items": [
       {
         "item_number": "I",
         "title": "Call to Order",
-        "description": "Opening of the meeting.",
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "II",
         "title": "Roll Call",
-        "description": "Attendance verification.",
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "III",
         "title": "Approval of Minutes",
-        "description": "Review and approval of previous meeting minutes.",
+        "description": "Approval of minutes from September 23, 2023 and January 23, 2024.",
         "presenter": "John Kalkanli",
         "action_required": "approve"
       },
       {
         "item_number": "IV",
         "title": "Public Speakers",
-        "description": "Opportunity for public comments.",
+        "description": "Opportunity for public speakers to address the Commission.",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "V",
         "title": "Officer Reports",
-        "description": "Reports from the chair and vice chair.",
+        "description": "Reports from the Chair and other officers.",
         "presenter": "John Kalkanli",
         "action_required": null
       },
       {
         "item_number": "VI",
         "title": "Commissioners’ Reports",
-        "description": "Updates from various commissioners.",
+        "description": "Reports from various commissioners.",
         "presenter": null,
         "action_required": null
       },
@@ -81,21 +81,21 @@
       {
         "item_number": "VIII",
         "title": "Briefings",
-        "description": "Presentation on transportation rights and legal services.",
+        "description": "Briefing by Disabilities Rights Texas on Transportation Rights and Legal Services.",
         "presenter": "Chris McGreal",
         "action_required": null
       },
       {
         "item_number": "IX",
         "title": "Announcements",
-        "description": "General announcements.",
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "X",
         "title": "Adjournment",
-        "description": "Closing of the meeting.",
+        "description": "",
         "presenter": null,
         "action_required": null
       }
@@ -104,18 +104,13 @@
       "Commission on Disabilities",
       "Dallas City Hall",
       "Public Speakers",
+      "Officer Reports",
       "Transportation Rights",
       "Legal Services",
       "Accessibility",
+      "Disabilities Rights Texas",
       "Sub-Committee Reports",
-      "Officer Reports",
-      "Meeting Minutes",
-      "Public Participation",
-      "Equity & Inclusion",
-      "ADA",
-      "Disability Rights",
-      "Community Engagement",
-      "Public Awareness"
+      "Announcements"
     ],
     "financial_items": []
   },

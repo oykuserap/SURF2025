@@ -19,7 +19,7 @@
       {
         "item_number": "1",
         "title": "Approval of Minutes of the December 4, 2024 City Council Meeting",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": "approve"
       },
@@ -61,14 +61,14 @@
       {
         "item_number": "4",
         "title": "Real Estate",
-        "description": "(1) Deliberate the purchase, exchange, lease, or value of real property, the Bullington Truck Terminal, generally located underground at 1627 Pacific Avenue.",
+        "description": "(1) Deliberate the purchase, exchange, lease, or value of real property, the Bullington Truck Terminal, generally located underground at 1627 Pacific Avenue; (2) seek the advice of the City Attorney on this matter.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "5",
         "title": "Personnel",
-        "description": "Interview candidates for the city manager position as recommended by the Ad Hoc Committee on Administrative Affairs.",
+        "description": "Interview candidates for the city manager position: William Johnson, Mario Lara, Kimberly Bizor Tolbert.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -87,8 +87,8 @@
       "city manager",
       "public meeting",
       "videoconference",
-      "closed session",
-      "public participation"
+      "open microphone",
+      "minutes approval"
     ],
     "financial_items": []
   },

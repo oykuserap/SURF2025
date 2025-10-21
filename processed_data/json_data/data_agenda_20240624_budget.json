@@ -55,7 +55,7 @@
       {
         "item_number": "E 24-2041",
         "title": "Consideration and Approval of the Sale of two (2) Land Transfer Program Lots",
-        "description": "Consideration of the sale of land lots to Cornerstone Community Development Corporation.",
+        "description": "Approval for the sale of land transfer program lots to Cornerstone Community Development Corporation.",
         "presenter": "Cynthia Rogers-Ellickson",
         "action_required": "approve"
       },
@@ -106,14 +106,14 @@
       "Quarterly Report",
       "Land Transfer",
       "Consultant Services",
-      "City Council",
+      "Funding",
       "Dallas",
       "Committee Meeting",
-      "Public Participation"
+      "City Council"
     ],
     "financial_items": [
       {
-        "description": "Consultant services for housing instability",
+        "description": "Consultant services for housing instability project",
         "amount": "$110,133.00",
         "type": "expenditure"
       },
@@ -125,11 +125,6 @@
       {
         "description": "Development agreement for homeless assistance",
         "amount": "$2,444,727.00",
-        "type": "funding"
-      },
-      {
-        "description": "Total funding for homeless assistance",
-        "amount": "$4,790,000.00",
         "type": "funding"
       }
     ]

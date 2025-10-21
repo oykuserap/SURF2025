@@ -7,8 +7,8 @@
       "date": "November 7, 2023",
       "time": "1:00 PM",
       "type": "Special Called Joint Meeting",
-      "organization": "Transportation and Infrastructure Committee/ DART Board",
-      "location": "Council Chambers, 6th Floor at City Hall, Dallas, TX"
+      "organization": "Transportation and Infrastructure Committee/DART Board",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX"
     },
     "attendees": {
       "chair": "Atkins",
@@ -19,7 +19,21 @@
         "Ghassan Khankarli, Ph.D., P.E.",
         "Ali Hatefi"
       ],
-      "participants": []
+      "participants": [
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Willis",
+        "Blackmon",
+        "Johnson"
+      ]
     },
     "agenda_items": [
       {
@@ -32,35 +46,35 @@
       {
         "item_number": "B 23-2887",
         "title": "DART Operations Update- 40 Proud. 40 Forward",
-        "description": "Update on DART operations.",
-        "presenter": "Deanna Leggett",
+        "description": "Update on DART operations presented by the Executive Vice President and Chief of DART Police.",
+        "presenter": "Deanna Leggett, Charles Cato",
         "action_required": "discuss"
       },
       {
         "item_number": "C 23-2894",
         "title": "Update on City of Dallas Transportation vision; KBHCCD Master plan; Sidewalk Masterplan; and Transit oriented joint development",
-        "description": "Discussion on various transportation plans and updates.",
+        "description": "Presentation on various transportation plans and updates.",
         "presenter": "Robert Perez",
         "action_required": "discuss"
       },
       {
         "item_number": "D 23-2892",
         "title": "Vision Zero Progress Report Update",
-        "description": "Update on the Vision Zero initiative.",
+        "description": "Update on the progress of the Vision Zero initiative.",
         "presenter": "Ghassan Khankarli, Ph.D., P.E.",
         "action_required": "discuss"
       },
       {
         "item_number": "E 23-2893",
         "title": "CRUISE Autonomous Vehicles: Follow up from October 10, 2023 Public Safety Committee and October 16, 2023 Transportation & Infrastructure Committee",
-        "description": "Follow-up on discussions regarding autonomous vehicles.",
+        "description": "Follow-up discussion on autonomous vehicles.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "F 23-2889",
         "title": "Monthly Update of Public Works Program Performance - October 2023",
-        "description": "Monthly performance update from the Public Works Department.",
+        "description": "Monthly performance update from the Department of Public Works.",
         "presenter": "Ali Hatefi",
         "action_required": "discuss"
       }
@@ -74,12 +88,13 @@
       "Autonomous Vehicles",
       "City Council",
       "Meeting Minutes",
-      "Funding",
       "Safety",
+      "Funding",
       "Development",
-      "Planning",
       "Community",
-      "Updates"
+      "Updates",
+      "Projects",
+      "Planning"
     ],
     "financial_items": [
       {
@@ -99,22 +114,22 @@
       },
       {
         "description": "Project Specific Funding Agreement with Dallas County for pedestrian improvements",
-        "amount": "$385,000.00",
+        "amount": "$400,000.00",
         "type": "funding agreement"
       },
       {
         "description": "Increase in appropriations for engineering services for water supply evaluation",
-        "amount": "$1,199,853.62",
-        "type": "contract"
+        "amount": "$799,902.40",
+        "type": "appropriation increase"
       },
       {
         "description": "Application for FY 2024 grant for Routine Airport Maintenance Program at Dallas Executive Airport",
-        "amount": "$100,000.00",
+        "amount": "$90,000.00",
         "type": "grant"
       },
       {
         "description": "Application for FY 2024 grant for Routine Airport Maintenance Program at Dallas CBD Vertiport",
-        "amount": "$100,000.00",
+        "amount": "$90,000.00",
         "type": "grant"
       }
     ]

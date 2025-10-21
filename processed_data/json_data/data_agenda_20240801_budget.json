@@ -25,7 +25,7 @@
       {
         "item_number": "IV",
         "title": "Approval of Monthly Minutes",
-        "description": "Approval of the minutes from the June 6, 2024 meeting.",
+        "description": "Approval of the minutes from the meeting held on June 6, 2024.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -60,21 +60,21 @@
       {
         "item_number": "VI",
         "title": "Chair’s Report",
-        "description": "This report may include general greetings and acknowledgements to staff, commission members and other members of the public; introduction of new commission members; additions/changes to committee assignments, scheduling of committee meetings and consideration of future agenda item.",
+        "description": "General report from the Chair including greetings and acknowledgements.",
         "presenter": "Melanie Rubin",
         "action_required": "discuss"
       },
       {
         "item_number": "VII",
         "title": "Vice Chair’s Report",
-        "description": "This report includes general acknowledgements to staff, commission members and members of the public.",
+        "description": "General report from the Vice Chair including acknowledgements.",
         "presenter": "Zhen Barrientos",
         "action_required": "discuss"
       },
       {
         "item_number": "IX",
         "title": "Announcements",
-        "description": "Announcements may include expressions of thanks, congratulations, or condolence; information about holiday schedules; honorary or salutary recognition of public officials, employees, or citizens.",
+        "description": "Expressions of thanks, congratulations, or condolence; information about holiday schedules; honorary or salutary recognition of public officials, employees, or citizens.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -94,7 +94,7 @@
       "Videoconference",
       "Commission Members",
       "Training",
-      "Minutes Approval"
+      "Community Events"
     ],
     "financial_items": []
   },

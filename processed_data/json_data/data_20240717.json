@@ -11,7 +11,7 @@
       "location": "Dallas City Hall, COUNCIL CHAMBERS, and Videoconference"
     },
     "attendees": {
-      "chair": "Robert Agnich, Vice-Chair",
+      "chair": "Robert Agnich",
       "presenters": [],
       "participants": []
     },
@@ -20,7 +20,7 @@
         "item_number": "I",
         "title": "Call to Order",
         "description": "Opening of the meeting by the Vice-Chair.",
-        "presenter": "Robert Agnich, Vice-Chair",
+        "presenter": "Robert Agnich",
         "action_required": null
       },
       {
@@ -70,8 +70,10 @@
       "Dallas",
       "Board of Adjustment",
       "Public Hearing",
-      "Testimony",
+      "Briefing",
       "Case Docket",
+      "Public Testimony",
+      "Minutes Approval",
       "Landscaping Regulations",
       "Fence Height Regulations",
       "Parking Regulations",
@@ -79,9 +81,7 @@
       "Special Exception",
       "Uncontested Items",
       "Holdover Items",
-      "Individual Items",
-      "Minutes Approval",
-      "Executive Session"
+      "Individual Items"
     ],
     "financial_items": []
   },

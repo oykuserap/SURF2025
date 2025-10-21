@@ -22,30 +22,30 @@
       {
         "item_number": "1",
         "title": "Call Meeting to Order and Roll Call",
-        "description": "Declare A Quorum Present, Declare Legal Notice Posted and Meeting Duly Called",
-        "presenter": "Cara Mendelsohn, Partnership Chair",
-        "action_required": null
+        "description": "Declare A Quorum Present and Declare Legal Notice Posted and Meeting Duly Called",
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
       },
       {
         "item_number": "2",
         "title": "Public Comment",
         "description": "Public comment with a 2-minute limit per speaker",
-        "presenter": "Cara Mendelsohn, Chair, DAP",
-        "action_required": null
+        "presenter": "Cara Mendelsohn",
+        "action_required": "discuss"
       },
       {
         "item_number": "3",
         "title": "Discussion: Hope Report Recommendation",
         "description": "Discussion on the recommendation to eliminate duplicative oversight committees",
-        "presenter": "Cara Mendelsohn, Chair, DAP and LeTitia Owens, Vice Chair, CHC",
+        "presenter": "Cara Mendelsohn, LeTitia Owens",
         "action_required": "discuss"
       },
       {
         "item_number": "4",
         "title": "Adjournment",
-        "description": null,
+        "description": "",
         "presenter": null,
-        "action_required": null
+        "action_required": "adjourn"
       }
     ],
     "keywords": [
@@ -59,8 +59,7 @@
       "Oversight Committees",
       "Quorum",
       "Meeting Notice",
-      "Virtual Meeting",
-      "Public Health Protocols"
+      "Adjournment"
     ],
     "financial_items": []
   },

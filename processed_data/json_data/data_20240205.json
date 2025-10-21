@@ -5,7 +5,7 @@
   "extracted_data": {
     "meeting_info": {
       "date": "February 5, 2024",
-      "time": "Briefing at 11:00 A.M. and the Public Hearing at 1:00 P.M.",
+      "time": "11:00 A.M. (Briefing) and 1:00 P.M. (Public Hearing)",
       "type": "Regular Meeting",
       "organization": "Landmark Commission",
       "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
@@ -13,6 +13,7 @@
     "attendees": {
       "chair": "Evelyn Montgomery",
       "presenters": [
+        "HP Staff",
         "Christina Mankowski",
         "Rhonda Dunn"
       ],
@@ -22,104 +23,58 @@
       {
         "item_number": "I",
         "title": "Call to Order",
-        "description": "",
+        "description": "Opening of the meeting by the chair.",
         "presenter": "Evelyn Montgomery",
         "action_required": null
       },
       {
         "item_number": "II",
         "title": "Public Speakers",
-        "description": "",
+        "description": "Opportunity for public speakers to address the commission.",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "III",
         "title": "Approval of Minutes",
-        "description": "Approval of January 8, 2024, regular meeting minutes",
+        "description": "Approval of the minutes from the January 8, 2024, regular meeting.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "IV",
         "title": "Staff Report/Briefings",
-        "description": "Briefing by HR&A Advisors on an Equity Strategic Preservation Plan draft report - CPC action on removing the 3,000 square foot court ordered demolitions, subsection (i) of Chapter 51A-4.501, 'Historic Preservation Overlay District'",
+        "description": "Briefing by HR&A Advisors on an Equity Strategic Preservation Plan draft report and CPC action on removing the 3,000 square foot court ordered demolitions.",
         "presenter": "HP Staff",
         "action_required": null
       },
       {
         "item_number": "V",
         "title": "Briefing Items",
-        "description": "Consent Items - Discussion Items",
+        "description": "Discussion of consent and discussion items.",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "VI",
         "title": "Adjournment",
-        "description": "",
+        "description": "Closing of the meeting.",
         "presenter": null,
         "action_required": null
-      },
-      {
-        "item_number": "1",
-        "title": "5750 Swiss Ave",
-        "description": "Request for a Certificate of Eligibility (CE) for a tax exemption on 100 percent of land and improvements for a period of ten years and approval of an estimated $576,159 in expenditures to be spent on rehabilitation prior to the issuance of the Certificate of Eligibility.",
-        "presenter": "Christina Mankowski",
-        "action_required": "approve"
-      },
-      {
-        "item_number": "2",
-        "title": "408 N Rosemont Ave",
-        "description": "Request for a Certificate of Eligibility (CE) for a tax exemption on 100 percent of land and improvements for a period of ten years and approval of an estimated $52,925 in expenditures to be spent on rehabilitation prior to the issuance of the Certificate of Eligibility.",
-        "presenter": "Christina Mankowski",
-        "action_required": "approve"
-      },
-      {
-        "item_number": "3",
-        "title": "6145 Bryan Parkway",
-        "description": "Request for a Certificate of Eligibility (CE) for a tax exemption on 100 percent of land and improvements for a period of ten years and approval of an estimated $435,213 in expenditures to be spent on rehabilitation prior to the issuance of the Certificate of Eligibility.",
-        "presenter": "Christina Mankowski",
-        "action_required": "approve"
-      },
-      {
-        "item_number": "4",
-        "title": "1511 MAIN ST",
-        "description": "Request for a Certificate of Appropriateness to install an internally illuminated cloud sign on storefront of building annex.",
-        "presenter": "Rhonda Dunn",
-        "action_required": "approve"
-      },
-      {
-        "item_number": "1",
-        "title": "5700 CELESTIAL RD",
-        "description": "A Landmark Commission Authorized Hearing to consider a historic overlay for the White Rock Cemetery Garden of Memories.",
-        "presenter": "Rhonda Dunn",
-        "action_required": "approve"
-      },
-      {
-        "item_number": "2",
-        "title": "610 W JEFFERSON BLVD",
-        "description": "A Landmark Commission Authorized Hearing to consider a historic overlay for the El Ranchito Restaurant.",
-        "presenter": "Rhonda Dunn",
-        "action_required": "approve"
       }
     ],
     "keywords": [
       "Landmark Commission",
-      "Certificate of Eligibility",
-      "tax exemption",
-      "rehabilitation",
-      "historic overlay",
-      "public hearing",
-      "equity strategic preservation",
-      "staff report",
-      "approval of minutes",
-      "public speakers",
       "Dallas City Hall",
-      "videoconference",
-      "consent items",
-      "discussion items",
-      "adjournment"
+      "Historic Preservation",
+      "Equity Strategic Preservation Plan",
+      "Certificate of Eligibility",
+      "Public Hearing",
+      "Minutes Approval",
+      "Staff Report",
+      "Consent Items",
+      "Discussion Items",
+      "Adjournment"
     ],
     "financial_items": [
       {

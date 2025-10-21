@@ -26,7 +26,7 @@
       {
         "item_number": "I",
         "title": "Call to Order",
-        "description": null,
+        "description": "",
         "presenter": "Melanie Rubin",
         "action_required": null
       },
@@ -40,14 +40,14 @@
       {
         "item_number": "III",
         "title": "Public Speakers",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "IV",
         "title": "Approval of the October 10, 2024, Community Development Commission Meeting Minutes",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": "approve"
       },
@@ -75,21 +75,21 @@
       {
         "item_number": "VIII",
         "title": "CDC Committee Report – Citizen Participation / Policy Procedures (CPPP) Committee",
-        "description": null,
+        "description": "",
         "presenter": "Rosanne Mills",
         "action_required": null
       },
       {
         "item_number": "IX",
         "title": "Action Item: Consider and Approve FY 2025-26 Neighborhood Public Meetings Communication Plan, Dates/times, and Flyer",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "X",
         "title": "Public Speakers",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       },
@@ -103,7 +103,7 @@
       {
         "item_number": "XII",
         "title": "Adjournment",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       }
@@ -113,17 +113,17 @@
       "Commission",
       "Meeting Minutes",
       "Public Speakers",
-      "Reports",
-      "Neighborhood",
+      "Neighborhood Public Meetings",
       "Communication Plan",
-      "Announcements",
-      "Participation",
+      "Chair's Report",
+      "Vice Chair's Report",
+      "Citizen Participation",
       "Policy Procedures",
-      "Budget",
-      "Management Services",
-      "Dallas",
+      "Budget Management",
+      "Dallas City Hall",
+      "Videoconference",
       "Executive Session",
-      "Public Officials"
+      "Accommodations"
     ],
     "financial_items": []
   },

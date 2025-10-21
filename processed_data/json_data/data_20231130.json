@@ -19,42 +19,42 @@
       {
         "item_number": "1",
         "title": "Call to order and introduction of meeting participants",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "2",
         "title": "Public comments pertaining to agenda items #3, #4, and #5",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "3",
         "title": "Review and consideration of the Meeting Record from the May 15, 2023 meeting",
-        "description": "Review and consider the meeting record from the previous meeting.",
+        "description": "Review and consideration of the Meeting Record from the May 15, 2023 meeting of the Grand Park South TIF Board of Directors.",
         "presenter": null,
         "action_required": "Approval"
       },
       {
         "item_number": "4",
         "title": "Review and consideration of the Grand Park South TIF District Annual Report for FY 2022-2023",
-        "description": "Review and consider the annual report for the fiscal year.",
+        "description": "Review and consideration of the Grand Park South TIF District Annual Report for FY 2022-2023.",
         "presenter": null,
         "action_required": "Approval and Recommendation of approval to City Council"
       },
       {
         "item_number": "5",
         "title": "Review and consideration of a regular meeting schedule for the Grand Park South TIF District Board of Directors during calendar year 2024",
-        "description": "Review and consider the meeting schedule for the upcoming year.",
+        "description": "",
         "presenter": null,
         "action_required": "Approval"
       },
       {
         "item_number": "6",
         "title": "Adjournment",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       }
@@ -67,14 +67,13 @@
       "FY 2022-2023",
       "regular meeting schedule",
       "public comments",
-      "approval",
       "videoconference",
       "Dallas City Hall",
+      "special called meeting",
       "pandemic-related protocols",
-      "accessibility",
-      "executive session",
-      "financial information",
-      "security personnel"
+      "reasonable accommodations",
+      "auxiliary aid",
+      "public health"
     ],
     "financial_items": []
   },

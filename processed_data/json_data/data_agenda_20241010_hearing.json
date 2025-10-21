@@ -13,17 +13,25 @@
     "attendees": {
       "chair": null,
       "presenters": [
-        "Jonathan Vinson",
-        "Sheila Alcantara Segovia",
-        "Melody Paradise",
-        "Brian M. Satagaj",
-        "Dayton Macatee",
-        "Liliana Garza",
-        "Giahanna Bridges",
+        "Jonathan Vinson, Jackson Walker LP",
+        "Brian M. Satagaj, Halff Associates, Inc.",
+        "Dayton Macatee, Macatee Engineering",
+        "Suzan Kedron, Jackson Walker L.L.P",
+        "Angela Hunt, Munsch Hardt",
+        "Rob Baldwin, Baldwin",
+        "Luis Chico",
         "Martin Bate",
-        "Oscar Aguilera"
+        "Giahanna Bridges"
       ],
-      "participants": []
+      "participants": [
+        "Sheila Alcantara Segovia",
+        "Teaseia Blue, MBA",
+        "Liliana Garza",
+        "Michael V. Pepe",
+        "Oscar Aguilera",
+        "Scott Roper",
+        "Sharmila Shrestha"
+      ]
     },
     "agenda_items": [
       {
@@ -35,30 +43,16 @@
       },
       {
         "item_number": "2",
-        "title": "Development Plans",
-        "description": "An application for a development plan and landscape plan on property zoned Planned Development Subdistrict No. 83 within Planned Development District No.193.",
-        "presenter": "Melody Paradise",
+        "title": "Minor Amendments",
+        "description": "An application for a minor amendment to an existing site/landscape plan for Specific Use Permit No. 1310 for a private school on property zoned an R-5(A) Single Family District.",
+        "presenter": "Jonathan Vinson, Jackson Walker LP",
         "action_required": "approve"
       },
       {
         "item_number": "3",
-        "title": "Miscellaneous Items - Under Advisement",
-        "description": "An application for a development plan on property zoned Subdistrict 5 Urban Center & Subdistrict 6 Urban Core within Planned Development No. 655.",
-        "presenter": "Dayton Macatee",
-        "action_required": "approve"
-      },
-      {
-        "item_number": "4",
-        "title": "Zoning Cases - Consent",
-        "description": "An application for an MU-3 Mixed Use District on property zoned Planned Development District No. 69.",
-        "presenter": "Liliana Garza",
-        "action_required": "approve"
-      },
-      {
-        "item_number": "22",
-        "title": "Special Provision Sign District",
-        "description": "An application to create a new Special Provision Sign District, 'Redbird Mall'.",
-        "presenter": "Oscar Aguilera",
+        "title": "Development Plans",
+        "description": "An application for a development plan and landscape plan on property zoned Planned Development Subdistrict No. 83 within Planned Development District No.193.",
+        "presenter": "Brian M. Satagaj, Halff Associates, Inc.",
         "action_required": "approve"
       },
       {
@@ -72,15 +66,15 @@
     "keywords": [
       "City Plan Commission",
       "Dallas",
-      "Zoning",
-      "Development Plans",
       "Public Hearing",
-      "Special Provision Sign District",
+      "Development Plans",
+      "Zoning Cases",
       "Minor Amendments",
       "Certificates of Appropriateness",
       "Public Testimony",
-      "Approval of Minutes",
-      "2025 Calendar"
+      "Special Provision Sign District",
+      "Subdivision Docket",
+      "Action Items"
     ],
     "financial_items": []
   },

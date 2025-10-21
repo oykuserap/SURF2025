@@ -5,7 +5,7 @@
   "extracted_data": {
     "meeting_info": {
       "date": "September 19, 2024",
-      "time": "9:00 AM - 12:30 PM",
+      "time": "9:00 AM",
       "type": "City Plan Commission Meeting",
       "organization": "City Plan Commission",
       "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
@@ -40,29 +40,29 @@
       {
         "item_number": "15",
         "title": "Zoning Cases - Individual",
-        "description": "Individual zoning cases requiring approval.",
+        "description": "Individual zoning cases requiring separate consideration.",
         "presenter": null,
-        "action_required": "approve"
+        "action_required": "discuss"
       },
       {
         "item_number": "17",
         "title": "Development Code Amendments - Under Advisement",
         "description": "Consideration of amending Chapters 51 and 51A of the Dallas Development Code.",
-        "presenter": "Andrea Gilles, AICP",
+        "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "18",
         "title": "Special Provision Sign District - Under Advisement",
         "description": "Application to create 'The Frontier Subdistrict' within the Downtown Special Provision Sign District.",
-        "presenter": "Oscar Aguilera",
+        "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "26",
         "title": "Landmark Appeal",
         "description": "An appeal of the Landmark Commission’s decision of denial without prejudice to replace existing slate shingle roof.",
-        "presenter": "Christina Mankowski",
+        "presenter": null,
         "action_required": "approve"
       }
     ],
@@ -72,16 +72,16 @@
       "Development Code",
       "Public Hearing",
       "Approval of Minutes",
-      "Landmark Appeal",
       "Special Provision Sign District",
-      "Zoning Cases",
-      "Consent",
+      "Landmark Appeal",
+      "Consent Items",
       "Under Advisement",
       "Individual Cases",
       "Public Testimony",
-      "Committee Appointments",
       "Dallas City Hall",
-      "Videoconference"
+      "Videoconference",
+      "Community Engagement",
+      "Planning and Development"
     ],
     "financial_items": []
   },

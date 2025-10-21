@@ -8,7 +8,7 @@
       "time": "9:00 AM",
       "type": "Special Called Meeting",
       "organization": "City of Dallas",
-      "location": "Council Chambers, 6th Floor, City Hall and via videoconference"
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
     },
     "attendees": {
       "chair": null,
@@ -36,17 +36,12 @@
       "City Council",
       "Special Called Meeting",
       "City Manager",
-      "Baker Tilly",
       "Personnel",
       "Appointment",
-      "Resolution",
+      "Qualifications",
       "Agreement",
       "Closed Session",
-      "Executive Session",
-      "Qualifications",
-      "Consent Agenda",
-      "Videoconference",
-      "Public Participation"
+      "Executive Session"
     ],
     "financial_items": [
       {

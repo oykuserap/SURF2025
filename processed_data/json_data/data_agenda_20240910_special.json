@@ -24,45 +24,24 @@
         "action_required": "approve"
       },
       {
-        "item_number": "V.a",
-        "title": "FY 25 Departmental Priorities",
-        "description": "",
-        "presenter": null,
-        "action_required": "discuss"
-      },
-      {
-        "item_number": "V.b",
-        "title": "Sworn Promotional Forecast",
-        "description": "",
-        "presenter": null,
-        "action_required": "discuss"
-      },
-      {
-        "item_number": "V.c",
-        "title": "Civil Services Rules Revision Update",
-        "description": "",
-        "presenter": null,
-        "action_required": "discuss"
-      },
-      {
-        "item_number": "V.d",
-        "title": "Department Updates and Announcements",
-        "description": "",
+        "item_number": "V",
+        "title": "Briefing and Discussion Item(s)",
+        "description": "Discussion on FY 25 Departmental Priorities, Sworn Promotional Forecast, Civil Services Rules Revision Update, and Department Updates and Announcements.",
         "presenter": null,
         "action_required": "discuss"
       }
     ],
     "keywords": [
       "Civil Service Board",
+      "Dallas",
       "Special Called Meeting",
-      "Dallas City Hall",
       "Approval of Minutes",
       "Departmental Priorities",
       "Promotional Forecast",
-      "Rules Revision",
+      "Civil Services Rules",
       "Updates",
-      "Announcements",
-      "Public Speakers"
+      "Public Speakers",
+      "Executive Session"
     ],
     "financial_items": []
   },

@@ -33,6 +33,27 @@
         "description": "",
         "presenter": null,
         "action_required": "approve"
+      },
+      {
+        "item_number": "A",
+        "title": "Chair’s Report",
+        "description": "Welcome address to Commission; Confirmation of Liaison Assignments",
+        "presenter": "David Small",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "B",
+        "title": "Cultural Spotlights: The Creator House",
+        "description": "We Teach Creators Life & Leadership Skills",
+        "presenter": "Jaxon J. Huffman",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "C",
+        "title": "Director’s Update",
+        "description": "FY25 OAC Division Priorities & District Newsletters Update",
+        "presenter": "Martine Philippe",
+        "action_required": "discuss"
       }
     ],
     "keywords": [
@@ -43,14 +64,14 @@
       "Public Speakers",
       "Approval",
       "Meeting Minutes",
-      "FY 24-2025 Schedule",
-      "Chair's Report",
       "Cultural Spotlights",
       "Director's Update",
+      "Liaison Assignments",
+      "FY 24-2025 Schedule",
       "Executive Session",
       "Public Participation",
-      "Accommodations",
-      "Liaison Assignments"
+      "Equitable Meeting",
+      "Accommodations"
     ],
     "financial_items": []
   },

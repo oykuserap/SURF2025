@@ -26,14 +26,14 @@
       {
         "item_number": "2",
         "title": "An ordinance amending Sections 2-43, 2-44, and 2-49 of Chapter 2, 'Administration'",
-        "description": "(1) changing the name of the Department of Building Services to Department of Facilities and Real Estate Management; (2) assigning real estate services from the Department of Public Works to the Department of Facilities and Real Estate Management; (3) providing a saving clause; providing a severability clause; and providing an effective date.",
+        "description": "Changing the name of the Department of Building Services to Department of Facilities and Real Estate Management.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "3",
         "title": "An ordinance amending Ordinance No. 32554",
-        "description": "authorizing certain transfers and appropriation adjustments for FY 2023-24 for the maintenance and operation of various departments and activities.",
+        "description": "Authorizing certain transfers and appropriation adjustments for FY 2023-24.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -54,50 +54,55 @@
       {
         "item_number": "6",
         "title": "Authorize Supplemental Agreement No. 1 to the professional services contract with Spencer Fane LLP",
-        "description": "for additional legal services to the City of Dallas in connection with the lawsuit styled LaToya K. Porter v. City of Dallas.",
+        "description": "",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "7",
         "title": "A resolution approving notes issued pursuant to a commercial paper program",
-        "description": "to finance improvements at Dallas Love Field.",
+        "description": "To finance improvements at Dallas Love Field.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "8",
         "title": "A resolution authorizing the execution of the Financing Agreement",
-        "description": "and related documents for the funding commitment from the Texas Water Development Board for Project Loan LM241535.",
+        "description": "For the funding commitment from the Texas Water Development Board.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "9",
         "title": "Authorize amendments to Ordinance No. 31668",
-        "description": "authorizing the City of Dallas General Obligation Commercial Paper Program.",
+        "description": "",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "10",
         "title": "A resolution amending the Code of Rules and Regulations of the Civil Service Board",
-        "description": "(1) broadening the entry-level hiring requirements for Dallas Fire-Rescue positions.",
+        "description": "",
         "presenter": null,
         "action_required": "approve"
       }
     ],
     "keywords": [
-      "Dallas City Council",
+      "City Council",
+      "Dallas",
       "meeting",
-      "agenda",
       "ordinance",
-      "approval",
+      "budget",
+      "funding",
       "settlement",
       "claims",
-      "funding",
       "amendments",
-      "Civil Service Board"
+      "public hearing",
+      "zoning",
+      "resolution",
+      "approval",
+      "administration",
+      "services"
     ],
     "financial_items": [
       {
@@ -116,13 +121,8 @@
         "type": "expenditure"
       },
       {
-        "description": "A resolution approving notes issued pursuant to a commercial paper program to finance improvements at Dallas Love Field",
-        "amount": null,
-        "type": "funding"
-      },
-      {
-        "description": "Authorize amendments to Ordinance No. 31668 authorizing the City of Dallas General Obligation Commercial Paper Program",
-        "amount": "$95,500.00",
+        "description": "A resolution approving notes issued pursuant to a commercial paper program",
+        "amount": "$4,273,853.00",
         "type": "funding"
       }
     ]

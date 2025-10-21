@@ -19,7 +19,7 @@
       {
         "item_number": "1",
         "title": "Approval of Minutes of the May 15, 2024 City Council Meeting",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": "approve"
       },
@@ -47,7 +47,7 @@
       {
         "item_number": "B",
         "title": "Consideration of the 2025 Federal Legislative Priorities",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": "discuss"
       }

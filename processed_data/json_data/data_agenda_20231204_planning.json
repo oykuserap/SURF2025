@@ -18,38 +18,38 @@
     "agenda_items": [
       {
         "item_number": "1",
-        "title": "Public comments",
-        "description": "Public comments pertaining to agenda items #2, #3, and #4.",
+        "title": "Public comments pertaining to agenda items #2, #3, and #4",
+        "description": null,
         "presenter": null,
-        "action_required": "Discuss"
+        "action_required": null
       },
       {
         "item_number": "2",
-        "title": "Review and consideration of the Meeting Record",
+        "title": "Review and consideration of the Meeting Record from the September 11, 2023 meeting",
         "description": "Review and consideration of the Meeting Record from the September 11, 2023 meeting of the Design District TIF District Board of Directors.",
         "presenter": null,
         "action_required": "Approval"
       },
       {
         "item_number": "3",
-        "title": "Review and consideration of the Annual Report",
+        "title": "Review and consideration of the Design District TIF District Annual Report for FY 2022-2023",
         "description": "Review and consideration of the Design District TIF District Annual Report for FY 2022-2023.",
         "presenter": null,
         "action_required": "Approval and forward a recommendation of approval to City Council"
       },
       {
         "item_number": "4",
-        "title": "Review and consideration of a regular meeting schedule",
-        "description": "Review and consideration of a regular meeting schedule for the Design District TIF District Board of Directors during calendar year 2024.",
+        "title": "Review and consideration of a regular meeting schedule for the Design District TIF District Board of Directors during calendar year 2024",
+        "description": null,
         "presenter": null,
         "action_required": "Approval"
       },
       {
         "item_number": "5",
         "title": "Adjournment",
-        "description": "Adjournment of the meeting.",
+        "description": null,
         "presenter": null,
-        "action_required": "None"
+        "action_required": null
       }
     ],
     "keywords": [
@@ -63,11 +63,7 @@
       "Public Comments",
       "Approval",
       "City Council",
-      "Dallas",
-      "Videoconference",
-      "Economic Development",
-      "Public Health Protocols",
-      "Accommodations"
+      "Dallas"
     ],
     "financial_items": []
   },

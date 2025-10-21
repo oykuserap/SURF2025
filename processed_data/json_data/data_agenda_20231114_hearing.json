@@ -71,17 +71,17 @@
       "Public Hearing",
       "Miscellaneous Items",
       "Case Docket",
-      "Special Call Meeting",
-      "Minutes Approval",
-      "Public Testimony",
       "Uncontested Items",
       "Holdover Items",
       "Individual Items",
+      "Special Call Meeting",
+      "Minutes Approval",
       "Dallas City Hall",
       "Videoconference",
-      "Accommodations",
-      "Executive Session",
-      "Variance Requests"
+      "Public Testimony",
+      "Staff Presentation",
+      "Chairman",
+      "Executive Session"
     ],
     "financial_items": []
   },

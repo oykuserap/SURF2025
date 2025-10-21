@@ -42,21 +42,21 @@
       {
         "item_number": "4",
         "title": "Review and consider the Meeting Record of the December 5, 2023 meeting.",
-        "description": "Review and consider the Meeting Record of the December 5, 2023 meeting of the Fort Worth Avenue TIF District Board of Directors.",
+        "description": "",
         "presenter": "Dorcy Clark, Senior Manager, Office of Economic Development",
         "action_required": "Approve"
       },
       {
         "item_number": "5",
         "title": "Review and consider the Fort Worth Avenue TIF District Annual Report for FY 2023-2024.",
-        "description": "Review and consider the Fort Worth Avenue TIF District Annual Report for FY 2023-2024.",
+        "description": "",
         "presenter": "Dorcy Clark, Senior Manager, Office of Economic Development",
         "action_required": "Approve and forward a recommendation of approval to City Council"
       },
       {
         "item_number": "6",
         "title": "Review and consider a quarterly meeting schedule for the Fort Worth Avenue TIF District Board of Directors for calendar year 2025.",
-        "description": "Review and consider a quarterly meeting schedule for the Fort Worth Avenue TIF District Board of Directors for calendar year 2025.",
+        "description": "",
         "presenter": "Dorcy Clark, Senior Manager, Office of Economic Development",
         "action_required": "Approve"
       },
@@ -78,9 +78,12 @@
       "Quarterly Meeting Schedule",
       "Dallas City Hall",
       "Public Comments",
+      "Executive Session",
       "Economic Development",
       "Approval",
-      "Adjournment"
+      "City Council",
+      "Participants",
+      "Quorum"
     ],
     "financial_items": []
   },

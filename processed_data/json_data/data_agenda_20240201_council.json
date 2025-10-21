@@ -24,14 +24,14 @@
         "title": "Call Meeting to Order and Roll Call",
         "description": "Declare A Quorum Present and Declare Legal Notice Posted and Meeting Duly Called",
         "presenter": "Cara Mendelsohn",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "2",
         "title": "Public Comment",
         "description": "Public comment with a 2-minute limit per speaker",
         "presenter": "Cara Mendelsohn",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "3",
@@ -43,22 +43,27 @@
       {
         "item_number": "4",
         "title": "Adjournment",
-        "description": null,
+        "description": "",
         "presenter": null,
-        "action_required": null
+        "action_required": "adjourn"
       }
     ],
     "keywords": [
       "Dallas",
       "Homelessness",
       "Partnership",
-      "Citizen Commission",
+      "Commission",
       "Public Comment",
       "Quorum",
-      "Discussion",
-      "Hope Report",
       "Oversight Committees",
-      "Adjournment"
+      "Discussion",
+      "Meeting",
+      "City Hall",
+      "WebEx",
+      "Public Health",
+      "Virtual Meeting",
+      "Community",
+      "Engagement"
     ],
     "financial_items": []
   },

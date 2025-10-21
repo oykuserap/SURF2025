@@ -18,80 +18,94 @@
     "agenda_items": [
       {
         "item_number": "1",
-        "title": "Approval of Minutes",
-        "description": "Approval of Minutes of the September 4, 2024 City Council Meeting",
+        "title": "Approval of Minutes of the September 4, 2024 City Council Meeting",
+        "description": "",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "2",
-        "title": "Appointments to Boards and Commissions",
-        "description": "Consideration of appointments to boards and commissions and the evaluation and duties of board and commission members.",
+        "title": "Consideration of appointments to boards and commissions",
+        "description": "Evaluation and duties of board and commission members (List of nominees is available in the City Secretary's Office)",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "3",
-        "title": "Public Hearing on Property Tax Rate",
+        "title": "Public hearing on property tax rate",
         "description": "A public hearing to receive comments on a $0.7047 per $100 assessed valuation property tax rate for the 2024-25 fiscal year.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "4",
-        "title": "Final Reading and Adoption of Appropriation Ordinance",
-        "description": "Final reading and adoption of the appropriation ordinance appropriating funds for the FY 2024-25 City of Dallas Operating, Capital, and Grant & Trust Budgets.",
+        "title": "Final reading and adoption of the appropriation ordinance",
+        "description": "Appropriating funds for the FY 2024-25 City of Dallas Operating, Capital, and Grant & Trust Budgets - Not to exceed $5,263,461,468.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "5",
-        "title": "Setting the Tax Rate",
+        "title": "Setting the tax rate",
         "description": "An ordinance setting the tax rate at $0.7047 per $100 assessed valuation.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "6",
-        "title": "Ratifying Increase in Property Tax Revenues",
+        "title": "Ratifying the increase in total property tax revenues",
         "description": "A resolution ratifying the increase in total property tax revenues reflected in the FY 2024-25 budget.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "7",
-        "title": "Amending City Code",
+        "title": "Amending various chapters of the Dallas City Code",
         "description": "An ordinance amending various chapters of the Dallas City Code regarding fees and regulations.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "8",
-        "title": "Amending Various City Codes",
-        "description": "An ordinance amending various sections of the Dallas City Code.",
+        "title": "Amending personnel rules",
+        "description": "An ordinance amending personnel rules regarding various administrative changes.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "9",
-        "title": "Position Changes and Salary Schedules",
+        "title": "Authorize position changes and salary schedules",
         "description": "Authorize position changes and approval of salary schedules for fiscal year 2024-25.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "10",
-        "title": "Amending Personnel Rules",
-        "description": "An ordinance amending Chapter 34, 'Personnel Rules' of the City Council Code.",
+        "title": "Amending holiday pay for temporary employees",
+        "description": "An ordinance amending holiday pay for temporary employees.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "11",
-        "title": "Health Coverage Plans",
-        "description": "Authorize approval of proposed health coverage plans and premium rates increase.",
+        "title": "Approval of health coverage plans",
+        "description": "Authorize approval of health coverage plans and premium rates increase for employees and retirees.",
         "presenter": null,
         "action_required": "approve"
+      },
+      {
+        "item_number": "12",
+        "title": "Attorney Briefings",
+        "description": "Seeking the advice of the City Attorney regarding various legal matters.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "13",
+        "title": "Real Estate Deliberations",
+        "description": "Deliberate the purchase, exchange, lease, or value of real property.",
+        "presenter": null,
+        "action_required": "discuss"
       }
     ],
     "keywords": [
@@ -99,17 +113,17 @@
       "Budget Workshop",
       "Property Tax Rate",
       "Appropriation Ordinance",
-      "Salary Schedules",
+      "Tax Rate",
+      "Public Hearings",
       "Personnel Rules",
-      "Health Coverage",
-      "Public Hearing",
-      "Appointments",
+      "Health Coverage Plans",
       "Legislative Priorities",
+      "Real Estate Deliberations",
+      "Closed Session",
       "Dallas City Code",
-      "Amendments",
-      "Funding",
-      "General Fund",
-      "Expenditures"
+      "Salary Schedules",
+      "Board Appointments",
+      "Public Participation"
     ],
     "financial_items": [
       {
@@ -158,7 +172,7 @@
         "type": "revenue"
       },
       {
-        "description": "Employee Benefits Fund for health coverage",
+        "description": "Employee Benefits Fund",
         "amount": "$142,134,754",
         "type": "funding"
       }

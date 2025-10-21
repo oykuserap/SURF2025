@@ -1,0 +1,36 @@
+{
+  "agenda_identifier": "agenda_20231102_planning",
+  "agenda_number": 20231102,
+  "source_file": "agenda_20231102_planning.txt",
+  "extracted_data": {
+    "meeting_info": {
+      "date": "November 2, 2023",
+      "time": "6:00 PM",
+      "type": "Briefing Agenda",
+      "organization": "Community Development Commission",
+      "location": "Council Chambers, 6th Floor, Dallas, Texas"
+    },
+    "attendees": {
+      "chair": null,
+      "presenters": [],
+      "participants": []
+    },
+    "agenda_items": [],
+    "keywords": [
+      "Dallas",
+      "Community Development Commission",
+      "Briefing",
+      "Executive Session",
+      "litigation",
+      "real property",
+      "contract",
+      "employment",
+      "security",
+      "economic development",
+      "financial information"
+    ],
+    "financial_items": []
+  },
+  "extraction_method": "openai_gpt",
+  "original_length": 4202
+}

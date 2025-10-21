@@ -56,7 +56,7 @@
         "item_number": "V",
         "title": "New Business",
         "description": "Review and Discussion of Code Chapter 8 – Attendance, Reporting, and Policy Guidelines",
-        "presenter": "Shanee Weston, Dawna Brown, Stephen McFayden",
+        "presenter": "Shanee Weston and Dawna Brown, City of Dallas; Stephen McFayden, Assistant City Attorney",
         "action_required": "discuss"
       },
       {
@@ -70,7 +70,7 @@
         "item_number": "VI",
         "title": "Staff Reports/Briefings",
         "description": "Senior Services Programs & Contracts Monthly Update",
-        "presenter": "Mirka Norman, Tabitha Taylor",
+        "presenter": "Mirka Norman and Tabitha Taylor",
         "action_required": null
       },
       {
@@ -97,10 +97,13 @@
       "Texas Open Meetings Act",
       "New Business",
       "Senior Services",
+      "Reports of Officers",
+      "Adjournment",
+      "Community Care",
+      "Policy Guidelines",
       "Annual Report",
-      "Staff Reports",
-      "District Updates",
-      "Adjournment"
+      "Feedback",
+      "Discussion"
     ],
     "financial_items": []
   },

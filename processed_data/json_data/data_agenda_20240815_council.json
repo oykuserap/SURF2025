@@ -7,7 +7,7 @@
       "date": "August 15, 2024",
       "time": "1:00 P.M.",
       "type": "Regular Meeting",
-      "organization": "City of Dallas",
+      "organization": "City of Dallas Office of Homeless Solutions",
       "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
     },
     "attendees": {
@@ -26,14 +26,14 @@
         "title": "Call Meeting to Order and Roll Call",
         "description": "Declare A Quorum Present, Declare Legal Notice Posted and Meeting Duly Called",
         "presenter": "Linda Garner",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "II",
         "title": "Public Comments",
         "description": "Limit 2 minutes per speaker",
         "presenter": "Linda Garner",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "III",
@@ -44,7 +44,7 @@
       },
       {
         "item_number": "IV",
-        "title": "Discussion on SCOTUS Decision",
+        "title": "Discussion on Supreme Court Decision",
         "description": "Discussion on Grants Pass v. Johnson, and California Governor Newsom’s Executive Order on Encampment Clearance",
         "presenter": "Christine Crossley",
         "action_required": "discuss"
@@ -75,7 +75,7 @@
         "title": "Proposed Items for Next/Future Meetings",
         "description": "No discussion, debate, and/or vote",
         "presenter": "Linda Garner",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "IX",
@@ -87,34 +87,34 @@
       {
         "item_number": "X",
         "title": "Announcement of Upcoming Meetings",
-        "description": "Details of upcoming meetings and events",
+        "description": "Details on upcoming meetings and events",
         "presenter": "Linda Garner",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "XI",
         "title": "Adjournment",
-        "description": null,
+        "description": "Closing of the meeting",
         "presenter": "Linda Garner",
-        "action_required": null
+        "action_required": "adjourn"
       }
     ],
     "keywords": [
       "Dallas",
       "Homeless Solutions",
       "Public Comments",
-      "SCOTUS",
+      "Supreme Court",
       "Grants Pass v. Johnson",
       "Executive Order",
       "Citizen Homelessness Commission",
       "Data Transparency",
       "Public Engagement",
       "Racial Equity",
-      "Budget Town Hall",
+      "Peer Program",
       "Upcoming Meetings",
+      "City Hall Security",
       "Administrative Matters",
-      "Contract Forecast",
-      "Encampment Clearance"
+      "Budget Town Hall"
     ],
     "financial_items": []
   },

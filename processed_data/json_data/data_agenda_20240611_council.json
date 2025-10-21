@@ -29,7 +29,8 @@
         "Jose Rivas",
         "Judge Lander",
         "Arlene Steinfeld",
-        "David Kitner"
+        "David Kitner",
+        "Brandon Friedman"
       ]
     },
     "agenda_items": [
@@ -43,21 +44,21 @@
       {
         "item_number": "III.a",
         "title": "UPDATE: Progress on the hiring search for new OCPO Director/Monitor",
-        "description": "Discussion on the hiring process for the new OCPO Director.",
+        "description": "Discussion on the progress of hiring a new OCPO Director/Monitor.",
         "presenter": "Chairman Davidson",
         "action_required": "discuss"
       },
       {
         "item_number": "III.b",
         "title": "UPDATE: Update on Council vote regarding recommendation for OCPO Director reporting and ordinance changes",
-        "description": "Update on the council's vote regarding the OCPO Director.",
+        "description": "Update on the council's vote regarding recommendations for OCPO Director.",
         "presenter": "Brandon Friedman",
         "action_required": "discuss"
       },
       {
         "item_number": "III.c",
         "title": "REPORT: CPOB and OCPO Outreach",
-        "description": "Report on outreach efforts by the CPOB and OCPO.",
+        "description": "Report on outreach efforts by CPOB and OCPO.",
         "presenter": "Kevin Williams",
         "action_required": "discuss"
       },
@@ -71,14 +72,14 @@
       {
         "item_number": "III.e",
         "title": "REPORT: DPD Monthly Arrest Data",
-        "description": "Presentation of the monthly arrest data from the DPD.",
+        "description": "Presentation of the monthly arrest data from the Dallas Police Department.",
         "presenter": "Chairman Davidson",
         "action_required": "discuss"
       },
       {
         "item_number": "IV",
         "title": "Monthly Activity Report",
-        "description": "Presentation of the monthly activity report.",
+        "description": "Presentation of the monthly activity report by OCPO.",
         "presenter": "C. Clark",
         "action_required": "discuss"
       }
@@ -93,8 +94,8 @@
       "Committee Updates",
       "Public Comment",
       "Meeting Minutes",
-      "Hiring Process",
-      "Council Vote",
+      "Staff Reports",
+      "Action Items",
       "Executive Session",
       "Community Engagement",
       "Police Oversight",

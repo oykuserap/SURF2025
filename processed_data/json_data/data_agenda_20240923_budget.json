@@ -24,7 +24,15 @@
         "Bazaldua",
         "Ridley",
         "Stewart",
-        "West"
+        "West",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Willis",
+        "Blackmon",
+        "Schultz",
+        "Johnson"
       ]
     },
     "agenda_items": [
@@ -59,14 +67,14 @@
       {
         "item_number": "D",
         "title": "FY24 Year End Appropriation Adjustments",
-        "description": "Adjustments to the budget for the fiscal year.",
+        "description": "Adjustments to the budget for the fiscal year 2024.",
         "presenter": "Janette Weedon",
         "action_required": "discuss"
       },
       {
         "item_number": "E",
         "title": "Office of the City Auditor Fiscal Year 2025 Recommended Annual Audit Work Plan",
-        "description": "Presentation of the recommended audit work plan.",
+        "description": "Presentation of the recommended audit work plan for FY2025.",
         "presenter": "Mark Swann",
         "action_required": "discuss"
       },
@@ -80,21 +88,21 @@
       {
         "item_number": "G",
         "title": "2025 City Council Calendar",
-        "description": "Presentation of the upcoming City Council calendar.",
+        "description": "Presentation of the calendar for the year 2025.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "H",
         "title": "Upcoming Debt Issuances",
-        "description": "Discussion of upcoming debt issuances and related agenda items.",
+        "description": "Discussion of upcoming agenda items related to debt issuances.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "I",
         "title": "Cotton Bowl 2025 Scope of Work Contract Award",
-        "description": "Discussion on the contract award for the Cotton Bowl.",
+        "description": "Discussion on the contract award for the Cotton Bowl 2025.",
         "presenter": null,
         "action_required": "discuss"
       },
@@ -115,7 +123,7 @@
       {
         "item_number": "L",
         "title": "Office of the City Auditor Monthly Internal Update on Internal Audit",
-        "description": "Monthly update on internal audits released between August 17, 2024 and September 13, 2024.",
+        "description": "Monthly update on internal audits released between August 17, 2024, and September 13, 2024.",
         "presenter": null,
         "action_required": "discuss"
       },
@@ -137,12 +145,12 @@
       "Property Management",
       "Family Gateway",
       "Debt Issuances",
-      "Waste Collection",
+      "Cotton Bowl",
       "Monthly Reports",
       "Appropriation Adjustments",
       "Technology Accountability",
       "Internal Audit",
-      "Cotton Bowl"
+      "Waste Collection"
     ],
     "financial_items": []
   },

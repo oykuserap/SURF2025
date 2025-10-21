@@ -19,7 +19,7 @@
       {
         "item_number": "1",
         "title": "Approval of Minutes of the March 27, 2024 City Council Meeting",
-        "description": "",
+        "description": "Approval of the minutes from the previous meeting.",
         "presenter": "City Attorney's Office",
         "action_required": "approve"
       },
@@ -32,15 +32,15 @@
       },
       {
         "item_number": "3",
-        "title": "Amendment to Emergency Vehicles Ordinance",
-        "description": "An ordinance amending Chapter 15D, 'Emergency Vehicles', of the Dallas City Code.",
+        "title": "Amendment to Emergency Vehicles Code",
+        "description": "An ordinance amending Chapter 15D of the Dallas City Code regarding emergency vehicles.",
         "presenter": "Department of Aviation",
         "action_required": "approve"
       },
       {
         "item_number": "4",
-        "title": "Amendment to Transportation for Hire Ordinance",
-        "description": "An ordinance amending Chapter 47A, 'Transportation for Hire', of the Dallas City Code.",
+        "title": "Amendment to Transportation for Hire Code",
+        "description": "An ordinance amending Chapter 47A of the Dallas City Code regarding transportation-for-hire rates and fares.",
         "presenter": "Department of Aviation",
         "action_required": "approve"
       },
@@ -53,22 +53,22 @@
       },
       {
         "item_number": "6",
-        "title": "Condemnation Proceedings Settlement",
-        "description": "Authorize deposit of the amount awarded by the Special Commissioners in the condemnation proceedings.",
+        "title": "Condemnation Proceedings for Water Distribution Division",
+        "description": "Authorize deposit of the amount awarded by the Special Commissioners in the condemnation proceedings for land acquisition.",
         "presenter": "Department of Public Works",
         "action_required": "approve"
       },
       {
         "item_number": "7",
-        "title": "Acquisition of Land for West Dallas Gateway Project",
-        "description": "Authorize acquisition from TB West Commerce LLC of land for the West Dallas Gateway Project.",
+        "title": "Acquisition for West Dallas Gateway Project",
+        "description": "Authorize acquisition of land for the West Dallas Gateway Project.",
         "presenter": "Department of Public Works",
         "action_required": "approve"
       },
       {
         "item_number": "8",
         "title": "Grant for Composting Facility Feasibility Study",
-        "description": "Authorize acceptance of a grant from NCTCOG for a composting facility technical study.",
+        "description": "Authorize acceptance of a grant for a feasibility study for a composting facility.",
         "presenter": "Department of Sanitation Services",
         "action_required": "approve"
       },
@@ -82,7 +82,7 @@
       {
         "item_number": "10",
         "title": "ArtsActivate 2025 Program",
-        "description": "Authorize the ArtsActivate 2025 Program to support art and cultural services.",
+        "description": "Authorize the ArtsActivate 2025 Program to support art and cultural services in the City of Dallas.",
         "presenter": "Office of Arts and Culture",
         "action_required": "approve"
       }
@@ -92,17 +92,17 @@
       "meeting",
       "agenda",
       "settlement",
-      "ordinance",
-      "consulting services",
-      "land acquisition",
+      "amendment",
+      "contract",
       "grant",
-      "transportation",
-      "public works",
-      "arts and culture",
       "zoning",
-      "public hearings",
-      "financial items",
-      "community development"
+      "public hearing",
+      "approval",
+      "consulting services",
+      "water distribution",
+      "transportation",
+      "emergency vehicles",
+      "arts and culture"
     ],
     "financial_items": [
       {
@@ -116,7 +116,7 @@
         "type": "contract"
       },
       {
-        "description": "Acquisition of land for West Dallas Gateway Project",
+        "description": "Acquisition for West Dallas Gateway Project",
         "amount": "$1,220,000.00",
         "type": "acquisition"
       },
@@ -124,6 +124,11 @@
         "description": "Grant for Composting Facility Feasibility Study",
         "amount": "$163,200.00",
         "type": "grant"
+      },
+      {
+        "description": "Amendment to Advance Funding Agreement with Texas Department of Transportation",
+        "amount": null,
+        "type": "amendment"
       }
     ]
   },

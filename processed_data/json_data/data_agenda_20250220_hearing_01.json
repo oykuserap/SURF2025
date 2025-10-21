@@ -5,78 +5,103 @@
   "extracted_data": {
     "meeting_info": {
       "date": "February 20, 2025",
-      "time": null,
-      "type": "Briefing",
-      "organization": "Tx \n\n\n\n                             City Plan Commission",
-      "location": "Dallas City Hall"
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City Plan Commission",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
     },
     "attendees": {
       "chair": null,
-      "presenters": [],
-      "participants": []
+      "presenters": [
+        "Rob Baldwin",
+        "Marion Johnson",
+        "Elsie Thurman",
+        "Karl Crawley",
+        "Jordan Corbitt",
+        "Peter Tsai",
+        "Mainul Khan",
+        "Lori Levy",
+        "Suzan Kedron",
+        "Philip Lang",
+        "The Meadows Foundation, Inc.",
+        "Victor Garcia",
+        "J Imperium LLC",
+        "Esteban Gomez",
+        "Lakeview Homes, LLP",
+        "Baig Management Corporation",
+        "Robbie Corder",
+        "Chase Singleton"
+      ],
+      "participants": [
+        "Sheila Alcantara Segovia",
+        "Teaseia Blue",
+        "Connor Roberts",
+        "Liliana Garza",
+        "Sarah May",
+        "Scott Roper",
+        "Yolanda Hernandez"
+      ]
     },
     "agenda_items": [
       {
         "item_number": "1",
-        "title": "seeking  the  advice  of  its  attorney  about  pending  or  contemplated  litigation,  settlement  ...",
-        "description": "seeking  the  advice  of  its  attorney  about  pending  or  contemplated  litigation,  settlement  \n\n            offers,  or  any  matter  in  which  the  duty  of  the  attorney  to  the  City  Council  under  the  Texas  \n\n            Disciplinary  Rules  of  Professional  Conduct  of  the  State  Bar  of  Texas  clearly  conflicts  \n\n            with the Texas Open Meetings Act.  [Tex. Govt. Code §",
+        "title": "Approval of Minutes",
+        "description": "Approval of Minutes of the February 6, 2025 City Plan Commission Hearing.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
         "item_number": "2",
-        "title": "deliberating  the  purchase,  exchange,  lease,  or  value  of  real  property  if  deliberation  in...",
-        "description": "deliberating  the  purchase,  exchange,  lease,  or  value  of  real  property  if  deliberation  in  an \n\n            open  meeting  would  have  a  detrimental  effect  on  the  position  of  the  city  in  negotiations  \n\n            with a third person.  [Tex. Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "title": "Miscellaneous Docket - Minor Amendments",
+        "description": "Various applications for minor amendments to existing site plans and development plans.",
+        "presenter": "Sheila Alcantara Segovia",
+        "action_required": "approve"
       },
       {
         "item_number": "3",
-        "title": "deliberating     a   negotiated     contract     for   a   prospective     gift  or   donation      ...",
-        "description": "deliberating     a   negotiated     contract     for   a   prospective     gift  or   donation      to  the    city  if  \n\n            deliberation  in  an  open  meeting  would  have  a  detrimental  effect  on  the  position  of  the  \n\n            city in negotiations with a third person. [Tex. Govt. Code §",
+        "title": "Zoning Docket - Consent",
+        "description": "Various applications for zoning amendments and approvals.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
         "item_number": "4",
-        "title": "deliberating   the   appointment,   employment,   evaluation,   reassignment,   duties,   discipline...",
-        "description": "deliberating   the   appointment,   employment,   evaluation,   reassignment,   duties,   discipline,  \n\n            or  dismissal  of  a  public  officer  or  employee;  or  to  hear  a  complaint  or  charge  against  an  \n\n            officer  or  employee  unless  the  officer  or  employee  who  is  the  subject  of  the  deliberation  \n\n            or hearing requests a public hearing.  [Tex. Govt. Code §",
+        "title": "Subdivision Docket - Consent Items",
+        "description": "Applications to create and replat various tracts of land.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
         "item_number": "5",
-        "title": "deliberating     the    deployment,       or    specific    occasions      for   implementation,    ...",
-        "description": "deliberating     the    deployment,       or    specific    occasions      for   implementation,        of   security  \n\n            personnel or devices.  [Tex. Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "title": "Certificates of Appropriateness for Signs",
+        "description": "Applications for certificates of appropriateness for signage.",
+        "presenter": "Scott Roper",
+        "action_required": "approve"
       },
       {
         "item_number": "6",
-        "title": "discussing  or  deliberating  commercial  or  financial  information  that  the  city  has  received...",
-        "description": "discussing  or  deliberating  commercial  or  financial  information  that  the  city  has  received  \n\n            from  a  business  prospect  that  the  city  seeks  to  have  locate,  stay  or  expand  in  or  near  the \n\n            city   and    with   which     the   city   is   conducting      economic      development        negotiations;     or  \n\n            deliberating  the  offer  of  a  financial  or  other  incentive  to  a  business  prospect.    [Tex  Govt .  \n\n            Code §",
+        "title": "Other Matters",
+        "description": "Consideration of Appointments to CPC Committees.",
         "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "7",
-        "title": "deliberating     security     assessments        or   deployments        relating    to   informatio...",
-        "description": "deliberating     security     assessments        or   deployments        relating    to   information     resources  \n\n            technology,   network   security   information,   or   the   deployment   or   specific   occasions   for  \n\n            implementations   of   security   personnel,   critical   infrastructure,   or   security   devices.      [ Tex  \n\n            Govt. Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "action_required": "discuss"
       }
     ],
     "keywords": [
-      "tif",
-      "district",
-      "approval",
-      "recommendation",
-      "public",
-      "development",
-      "planning",
-      "zoning",
-      "ordinance",
-      "contract"
+      "City Plan Commission",
+      "Dallas",
+      "Zoning",
+      "Subdivision",
+      "Certificates of Appropriateness",
+      "Minor Amendments",
+      "Public Hearing",
+      "Development Plans",
+      "Site Plans",
+      "Public Testimony",
+      "Action Items",
+      "Committee Appointments",
+      "Virtual Meeting",
+      "City Hall",
+      "Planning and Development"
     ],
     "financial_items": []
   },

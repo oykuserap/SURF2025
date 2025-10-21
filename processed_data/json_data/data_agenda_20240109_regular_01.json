@@ -39,7 +39,7 @@
         "item_number": "III",
         "title": "Staff Reports/Briefings",
         "description": "National Civic League Survey, Recruitment Week Plan, D-Town Showdown Update, Committee Applications",
-        "presenter": "Commissioner Hawkins, Taylor Moody, Commissioner Tenner",
+        "presenter": null,
         "action_required": "discuss"
       },
       {
@@ -73,15 +73,20 @@
     ],
     "keywords": [
       "Dallas",
+      "City Hall",
       "Regular Meeting",
       "Commissioner Hawkins",
       "Staff Reports",
       "Strategic Plan",
       "Unfinished Business",
-      "Recruitment Week",
+      "Recruitment",
       "D-Town Showdown",
       "Committee Applications",
-      "National Civic League Survey"
+      "Announcements",
+      "Executive Session",
+      "Public Participation",
+      "Civic Engagement",
+      "Community Services"
     ],
     "financial_items": []
   },

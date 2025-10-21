@@ -72,16 +72,16 @@
       "budget",
       "investment reports",
       "pension system",
-      "funding soundness",
       "appointments",
       "real estate",
       "operating budget",
-      "capital budget",
-      "grant budget",
-      "closed session",
       "public improvements",
-      "City Secretary",
-      "videoconference"
+      "closed session",
+      "executive session",
+      "funding soundness",
+      "committee of the whole",
+      "general fund",
+      "capital funds"
     ],
     "financial_items": [
       {

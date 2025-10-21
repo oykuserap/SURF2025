@@ -6,9 +6,9 @@
     "meeting_info": {
       "date": "August 19, 2024",
       "time": "9:00 AM",
-      "type": "Regular Meeting",
-      "organization": "Quality of Life, Arts, and Culture Committee",
-      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX"
+      "type": "Quality of Life, Arts, and Culture Committee Meeting",
+      "organization": "Dallas City Council",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX and via video conference"
     },
     "attendees": {
       "chair": "Mendelsohn",
@@ -23,7 +23,21 @@
         "Jessica Galleshaw",
         "Carrie Rogers"
       ],
-      "participants": []
+      "participants": [
+        "Atkins",
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Mendelsohn",
+        "Gracey",
+        "Willis",
+        "Blackmon",
+        "Resendez",
+        "Schultz"
+      ]
     },
     "agenda_items": [
       {
@@ -43,13 +57,13 @@
       {
         "item_number": "B",
         "title": "Review of Storm Debris Collections and Resident Communications for Sanitation Services",
-        "description": "Review of the storm debris collections and how residents were communicated with.",
+        "description": "Discussion on storm debris collections and communication strategies.",
         "presenter": "Clifton Gillespie",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
-        "title": "Consider amending the one-year limitation on subsequent representation by former councilmembers and former members of boards, commissions, and other city bodies in Chapter 12A",
+        "title": "Consider amending the one-year limitation on subsequent representation by former councilmembers",
         "description": "Discussion on potential amendments to representation limitations.",
         "presenter": "Omar Narvaez",
         "action_required": "discuss"
@@ -71,7 +85,7 @@
       {
         "item_number": "F",
         "title": "FY25 Year One Objectives for Library Strategic Plan",
-        "description": "Presentation of the objectives for the library's strategic plan.",
+        "description": "Presentation of objectives for the library's strategic plan.",
         "presenter": "Mary Jo Giudice",
         "action_required": "discuss"
       },
@@ -84,8 +98,8 @@
       },
       {
         "item_number": "H",
-        "title": "Upcoming Office of Procurement Services Item for Office of Community Care to Authorize a Contract with Guidehouse, Inc.",
-        "description": "Discussion on a contract for a Senior Services Strategic Plan.",
+        "title": "Upcoming Office of Procurement Services Item for Office of Community Care",
+        "description": "Discussion on a contract with Guidehouse, Inc. for a Senior Services Strategic Plan.",
         "presenter": "Jessica Galleshaw",
         "action_required": "discuss"
       },
@@ -114,7 +128,8 @@
       "Library",
       "Community Care",
       "Legislative Priorities",
-      "Executive Session"
+      "Executive Session",
+      "City Council"
     ],
     "financial_items": []
   },

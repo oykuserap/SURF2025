@@ -16,7 +16,11 @@
         "Rachel Wilson",
         "Christine Crossley"
       ],
-      "participants": []
+      "participants": [
+        "Matt Jacob",
+        "Barry Dyson",
+        "Lisa Rand"
+      ]
     },
     "agenda_items": [
       {
@@ -45,26 +49,26 @@
         "title": "Presentation: All Inside Initiative",
         "description": null,
         "presenter": "Rachel Wilson",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "V",
         "title": "Discussion: CitySquare",
         "description": null,
         "presenter": "Linda Garner",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "VI",
         "title": "Presentation: Temporary and Alternate Housing",
         "description": null,
         "presenter": "Christine Crossley",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "VII",
         "title": "Office of Homeless Solutions Agenda Contract Forecast Update",
-        "description": "Update on various locations related to the Office of Homeless Solutions",
+        "description": "Update on various locations",
         "presenter": "Christine Crossley",
         "action_required": null
       },
@@ -78,7 +82,7 @@
       {
         "item_number": "IX",
         "title": "Discussion: New Pilot Subcommittee(s)",
-        "description": "Vote on new subcommittees related to racial equity and public engagement",
+        "description": "Vote on new subcommittees",
         "presenter": "Linda Garner",
         "action_required": "vote"
       },
@@ -106,16 +110,14 @@
     ],
     "keywords": [
       "Citizen Homelessness Commission",
-      "Dallas",
       "Public Comments",
+      "Approval of Minutes",
       "All Inside Initiative",
       "CitySquare",
       "Temporary Housing",
-      "Homeless Solutions",
-      "Meeting Schedule",
-      "Subcommittees",
-      "Racial Equity",
-      "Public Engagement",
+      "Office of Homeless Solutions",
+      "Meeting Rescheduling",
+      "Pilot Subcommittee",
       "Future Meetings",
       "Adjournment"
     ],

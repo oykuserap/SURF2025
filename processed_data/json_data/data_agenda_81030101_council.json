@@ -16,8 +16,8 @@
         "Cara Mendelsohn",
         "Lakeysa Townsend",
         "Christine Crossley",
-        "Dr. Theresa Daniel",
-        "Jesse Moreno"
+        "Council Member Jesse Moreno",
+        "Dr. Theresa Daniel"
       ],
       "participants": []
     },
@@ -53,7 +53,7 @@
       {
         "item_number": "5",
         "title": "Briefing Memo: Homeless Properties Update",
-        "description": "Update on homeless properties from Christine Crossley",
+        "description": "Update on various homeless properties",
         "presenter": "Christine Crossley",
         "action_required": "discuss"
       },
@@ -68,13 +68,13 @@
         "item_number": "7",
         "title": "Update: Sanctioned Encampment Research and Committee Direction",
         "description": "Update from Council Member Jesse Moreno",
-        "presenter": "Jesse Moreno",
+        "presenter": "Council Member Jesse Moreno",
         "action_required": "discuss"
       },
       {
         "item_number": "8",
         "title": "Committee Report: System Performance",
-        "description": "Report on system performance from Dr. Theresa Daniel",
+        "description": "Report on system performance",
         "presenter": "Dr. Theresa Daniel",
         "action_required": "discuss"
       },
@@ -115,17 +115,20 @@
       }
     ],
     "keywords": [
-      "Dallas",
       "Homelessness",
       "Public Comment",
       "Veterans",
       "Encampments",
-      "Committee Report",
       "System Performance",
-      "June Summit",
+      "DAPEH",
+      "Dallas City Hall",
+      "Committee Report",
       "Future Meetings",
+      "Public Health Protocols",
       "Housing Solutions",
-      "Public Health Protocols"
+      "Community Strategies",
+      "Initiatives",
+      "Announcements"
     ],
     "financial_items": []
   },

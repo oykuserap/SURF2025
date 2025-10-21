@@ -6,8 +6,8 @@
     "meeting_info": {
       "date": "December 10, 2024",
       "time": "9:00 AM",
-      "type": "Regular Meeting",
-      "organization": "Housing and Homelessness Solutions Committee",
+      "type": "Housing and Homelessness Solutions Committee Meeting",
+      "organization": "Dallas City Council",
       "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
     },
     "attendees": {
@@ -36,63 +36,63 @@
       {
         "item_number": "A",
         "title": "Action Plans for Implementing Dallas Housing Policy 2033",
-        "description": "Discussion on action plans for the implementation of the housing policy.",
+        "description": "Discussion on action plans for the implementation of the Dallas Housing Policy 2033.",
         "presenter": "Thor Erickson",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "Guidance and recommendation on property at 2929 S. Hampton Road",
-        "description": "Briefing and request for guidance on next steps for the property.",
+        "description": "Briefing and request for guidance and recommendation to City Council on next steps for the property located at 2929 S. Hampton Road.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "Department of Housing and Community Development Hubsite and Automated Performance Dashboard",
-        "description": "Presentation on the hubsite and performance dashboard.",
+        "description": "Briefing on the Hubsite and Automated Performance Dashboard.",
         "presenter": "Thor Erickson",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "Office of Homeless Solutions Interim Housing Update",
-        "description": "Update on upcoming request for information for interim housing and services for unsheltered adults.",
+        "description": "Update on upcoming Request For Information for Interim Housing and Services for Unsheltered Adults.",
         "presenter": "Christine Crossley",
         "action_required": "discuss"
       },
       {
         "item_number": "E",
         "title": "Response to Questions from September 23, 2024 Meeting",
-        "description": "Response to questions posed at the previous meeting.",
+        "description": "Response to questions posed at the previous Housing and Homelessness Solutions Committee Meeting.",
         "presenter": "Thor Erickson",
         "action_required": "discuss"
       },
       {
         "item_number": "F",
         "title": "Fiscal Year 2024-25 Annual Urban Land Bank Demonstration Program Plan",
-        "description": "Discussion on the public comment period and adoption timeline.",
+        "description": "Discussion on the 60-day Public Comment Period and Adoption Timeline.",
         "presenter": "Darwin Wade",
         "action_required": "discuss"
       },
       {
         "item_number": "G",
         "title": "Properties Update for various projects",
-        "description": "Update on projects located at multiple addresses.",
+        "description": "Update on projects located at 1950 Fort Worth Avenue, 4150 Independence Drive, 9019 Vantage Point, and 2929 S. Hampton Road.",
         "presenter": "Christine Crossley",
         "action_required": "discuss"
       },
       {
         "item_number": "H",
-        "title": "Authorize acquisition and development of Burnett Lofts",
-        "description": "Authorize the Dallas Public Facility Corporation to acquire and develop the Burnett Lofts.",
+        "title": "Authorize the Dallas Public Facility Corporation to acquire Burnett Lofts",
+        "description": "Authorize the acquisition and development of the Burnett Lofts, a mixed-income, multifamily development.",
         "presenter": "Cynthia Rogers-Ellickson",
         "action_required": "approve"
       },
       {
         "item_number": "I",
-        "title": "City Council Agenda Items related to Paradise Gardens",
-        "description": "Discussion on agenda items related to the Paradise Gardens development.",
+        "title": "January 22, 2025 City Council Agenda Items related to Paradise Gardens",
+        "description": "Discussion on public hearing and authorization related to Paradise Gardens affordable multifamily development.",
         "presenter": "Jaclyn Schroeder",
         "action_required": "discuss"
       }
@@ -101,24 +101,24 @@
       "Housing",
       "Homelessness",
       "Dallas",
-      "Committee",
-      "Development",
-      "Policy",
+      "City Council",
+      "Community Development",
       "Interim Housing",
       "Public Facility Corporation",
       "Affordable Housing",
       "Urban Land Bank",
-      "Community Development",
-      "Public Comment",
-      "City Council",
-      "Tax Credits",
-      "Real Estate"
+      "Low Income Housing Tax Credits",
+      "Public Hearing",
+      "Development",
+      "Action Plans",
+      "Performance Dashboard",
+      "Funding"
     ],
     "financial_items": [
       {
-        "description": "Issuance of multifamily residential mortgage revenue bonds for Paradise Gardens project",
+        "description": "Proceeds of the Bonds to be loaned to Applicant to finance a portion of the Project related to Paradise Gardens.",
         "amount": "$18,000.00",
-        "type": "bond issuance"
+        "type": "funding"
       }
     ]
   },

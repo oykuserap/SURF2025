@@ -64,22 +64,66 @@
         "description": "",
         "presenter": null,
         "action_required": null
+      },
+      {
+        "item_number": "1",
+        "title": "Approval of Panel C Minutes",
+        "description": "Approval of minutes from November 18, 2024",
+        "presenter": null,
+        "action_required": "approve"
+      },
+      {
+        "item_number": "2",
+        "title": "BDA234-140(CJ) 12908 Windfall Circle",
+        "description": "Application of Jordan DSilva for a variance to the side-yard setback regulations.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "3",
+        "title": "BDA234-146(CJ) 3226 Lawnview Avenue",
+        "description": "Application of Raul Cortes Garcia for a special exception to the fence height regulations, and for a special exception to the fence opacity regulations.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "4",
+        "title": "BDA234-154(CJ) 4119 Mehalia Drive",
+        "description": "Application of Ana Castro for a variance to the floor area ratio for structures accessory to single-family uses regulations.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "5",
+        "title": "BDA234-150(BT) 5631 Alta Avenue",
+        "description": "Application of Rob Baldwin for a variance to the front-yard setback regulations, a special exception to the visibility triangle regulations at the intersection of a street and alley, and a special exception to the visibility triangle regulations at drive approaches.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "6",
+        "title": "BDA234-132(BT) 1000 N. Riverfront Boulevard",
+        "description": "Application of Andrew Hooper represented by Mike Davis for a special exception to the parking regulations.",
+        "presenter": null,
+        "action_required": "discuss"
       }
     ],
     "keywords": [
       "Board of Adjustment",
-      "Dallas",
+      "Dallas City Hall",
       "Public Hearing",
       "Variance",
       "Special Exception",
       "Setback Regulations",
       "Fence Height",
       "Floor Area Ratio",
+      "Visibility Triangle",
       "Parking Regulations",
       "Public Testimony",
+      "Minutes Approval",
       "Miscellaneous Items",
-      "Case Docket",
-      "Adjournment"
+      "Uncontested Items",
+      "Holdover Items"
     ],
     "financial_items": []
   },

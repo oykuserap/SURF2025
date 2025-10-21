@@ -5,87 +5,110 @@
   "extracted_data": {
     "meeting_info": {
       "date": "March 6, 2025",
-      "time": null,
+      "time": "10:00 A.M.",
       "type": "Regular Meeting",
-      "organization": "Recreation Board",
-      "location": "Dallas City Hall"
+      "organization": "Dallas Park & Recreation Board",
+      "location": "Dallas City Hall, 6FN Conference Room and Videoconference"
     },
     "attendees": {
-      "chair": null,
-      "presenters": [],
+      "chair": "Arun Agarwal",
+      "presenters": [
+        "Ryan O’Connor"
+      ],
       "participants": []
     },
     "agenda_items": [
       {
-        "item_number": "5",
-        "title": "Park  Land  Dedication  (All)  –  Authorize  a  resolution  to  support  the  staff  recommended  \n\n...",
-        "description": "Park  Land  Dedication  (All)  –  Authorize  a  resolution  to  support  the  staff  recommended  \n\n              parkland dedication fees and updated ordinance.  \n\n  \n\n VI.       BRIEFINGS",
-        "presenter": null,
-        "action_required": "Action"
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Arun Agarwal",
+        "action_required": null
       },
       {
-        "item_number": "8",
-        "title": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or a...",
-        "description": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or any matter in which the duty of the  \n\n      attorney to the City Council under the Texas Disciplinary Rules of Professional Conduct of the State Bar of Texas clearly conflicts  \n\n      with the Texas Open Meetings Act. [Tex. Govt. Code §",
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from February 20, 2025",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
-        "item_number": "9",
-        "title": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open mee...",
-        "description": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open meeting would have a detrimental  \n\n      effect on the position of the city in negotiations with a third person. [Tex. Govt. Code §",
+        "item_number": "IV.1",
+        "title": "SoPAC",
+        "description": "Authorize acquisition from Royal Oaks Development Co., Inc. of approximately 595,059 square feet (13.66 acres) of unimproved land addressed as 8216 Royal Lane for the SoPAC Trail project.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
-        "item_number": "10",
-        "title": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in...",
-        "description": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in an open meeting would have a  \n\n      detrimental effect on the position of the city in negotiations with a third person. [Tex. Govt. Code §",
+        "item_number": "IV.2",
+        "title": "Kleberg Trail",
+        "description": "Authorize an Amendment No. 1 to the Project Specific Agreement with Dallas County Transportation Major Capital Improvement Project 10230 to increase the overall agreement $1,728,908.00 not to exceed $2,228,908.00, for the purpose of trail design, construction, and funding for the Kleberg Trail.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
-        "item_number": "11",
-        "title": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal...",
-        "description": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal of a public officer or employee;  \n\n      or to hear a complaint or charge against an officer or employee unless the officer or employee who is the subject of the deliberation  \n\n      or hearing requests a public hearing. [Tex. Govt. Code §",
+        "item_number": "IV.3",
+        "title": "Bahama Beach",
+        "description": "Authorize a construction services contract for repairs to the existing Coconut Cove water play feature, Green Mat Racer slide, tower for the Orange and Yellow slides, and Big Raft slide.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
-        "item_number": "12",
-        "title": "deliberating the deployment, or specific occasions for implementation, of security personnel or devi...",
-        "description": "deliberating the deployment, or specific occasions for implementation, of security personnel or devices. [Tex. Govt. Code §",
+        "item_number": "V.4",
+        "title": "Ordinance Amendment",
+        "description": "Authorize an ordinance amending Chapter 32 'Parks and Water Reservoirs', of the Dallas City Code.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
-        "item_number": "13",
-        "title": "discussing or deliberating commercial or financial information that the city has received from a bus...",
-        "description": "discussing or deliberating commercial or financial information that the city has received from a business prospect that the city seeks  \n\n      to have locate, stay or expand in or near the city and with which the city is conducting economic development negotiations; or  \n\n      deliberating the offer of a financial or other incentive to a business prospect. [Tex Govt . Code §",
+        "item_number": "V.5",
+        "title": "Park Land Dedication",
+        "description": "Authorize a resolution to support the staff recommended parkland dedication fees and updated ordinance.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
-        "item_number": "14",
-        "title": "deliberating security assessments or deployments relating to information resources technology, netwo...",
-        "description": "deliberating security assessments or deployments relating to information resources technology, network security information, or the  \n\n      deployment or specific occasions for implementations of security personnel, critical infrastructure, or security devices. [Tex Govt.  \n\n      Code §",
-        "presenter": null,
-        "action_required": "Action"
+        "item_number": "VI.6",
+        "title": "White Rock Lake Park Master Plan Update",
+        "description": "",
+        "presenter": "Ryan O’Connor",
+        "action_required": null
       }
     ],
     "keywords": [
-      "tif",
-      "budget",
-      "funding",
-      "approval",
-      "public",
-      "development",
-      "improvement",
-      "transportation",
-      "ordinance",
-      "resolution"
+      "Dallas",
+      "Park & Recreation",
+      "SoPAC",
+      "Kleberg Trail",
+      "Bahama Beach",
+      "Ordinance Amendment",
+      "Park Land Dedication",
+      "White Rock Lake",
+      "Meeting",
+      "Acquisition",
+      "Funding",
+      "Construction",
+      "Approval",
+      "Minutes",
+      "Committee"
     ],
-    "financial_items": []
+    "financial_items": [
+      {
+        "description": "Increase in overall agreement for Kleberg Trail project",
+        "amount": "$1,728,908.00",
+        "type": "budget"
+      },
+      {
+        "description": "Increase in appropriations for Kleberg Trail project",
+        "amount": "$784,454.00",
+        "type": "budget"
+      },
+      {
+        "description": "Contract for repairs at Bahama Beach Waterpark",
+        "amount": "$239,898.75",
+        "type": "expenditure"
+      }
+    ]
   },
   "extraction_method": "openai_gpt",
   "original_length": 11866

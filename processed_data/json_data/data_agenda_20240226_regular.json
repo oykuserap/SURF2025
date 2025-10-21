@@ -20,7 +20,8 @@
         "Jasmine Bazley"
       ],
       "participants": [
-        "SAC Commissioners for each District"
+        "SAC Commissioners for each District",
+        "Content Specialist Initiative Update"
       ]
     },
     "agenda_items": [
@@ -48,36 +49,64 @@
       {
         "item_number": "IV",
         "title": "Reports of Officers, Boards, and Standing Committees",
-        "description": "Reminder of Texas Open Meetings Act (TOMA) Requirements for Videoconference Meeting - Senior Affairs Commissioners District Updates - Content Specialist Initiative Update",
+        "description": "Reminder of Texas Open Meetings Act (TOMA) Requirements for Videoconference Meeting",
+        "presenter": "Peter Kline",
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Senior Affairs Commissioners District Updates",
+        "description": "Updates from SAC Commissioners for each District, as needed",
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "IV",
+        "title": "Content Specialist Initiative Update",
+        "description": "",
         "presenter": "Peter Kline",
         "action_required": null
       },
       {
         "item_number": "V",
-        "title": "New Business",
-        "description": "AIDS Services of Dallas Transitioning to Affordable Housing as a Senior",
+        "title": "New Business - AIDS Services of Dallas",
+        "description": "Transitioning to Affordable Housing as a Senior",
         "presenter": "Traswell C. Livingston III",
         "action_required": null
       },
       {
         "item_number": "V",
-        "title": "New Business",
-        "description": "Dallas Housing Authority – Housing Programs for Seniors",
+        "title": "Dallas Housing Authority – Housing Programs for Seniors",
+        "description": "",
         "presenter": "Brooke E. Etie",
         "action_required": null
       },
       {
         "item_number": "VI",
-        "title": "Old Business",
-        "description": "Development Code Amendment. Adult Day Cares, Child-Care Facilities, Day Homes. Update",
+        "title": "Old Business - Development Code Amendment",
+        "description": "Adult Day Cares, Child-Care Facilities, Day Homes. Update",
         "presenter": "Jessica Galleshaw",
         "action_required": null
       },
       {
         "item_number": "VII",
         "title": "Staff Reports/Briefings",
-        "description": "Briefing: Housing and Neighborhood Revitalization updates. Briefing: Senior Services Program Update on Age Friendly Officer Position. Briefing: Senior Services Program & Contracts Monthly Update",
-        "presenter": "Jessica Galleshaw, Jasmine Bazley",
+        "description": "Briefing: Housing and Neighborhood Revitalization updates.",
+        "presenter": "Jasmine Bazley",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Briefing: Senior Services Program Update",
+        "description": "on Age Friendly Officer Position",
+        "presenter": "Jessica Galleshaw",
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Briefing: Senior Services Program & Contracts Monthly Update",
+        "description": "",
+        "presenter": "Office of Community Care",
         "action_required": null
       },
       {
@@ -99,7 +128,7 @@
       "Affordable Housing",
       "Dallas Housing Authority",
       "Development Code Amendment",
-      "Senior Services",
+      "Senior Services Program",
       "Housing and Neighborhood Revitalization",
       "Community Care",
       "Executive Session"

@@ -40,23 +40,23 @@
       {
         "item_number": "I",
         "title": "Call To Order & Roll Call",
-        "description": "Chairman John Mark Davidson will call the meeting to order and conduct roll call.",
+        "description": "Chairman John Mark Davidson will call the meeting to order and conduct a roll call.",
         "presenter": "John Mark Davidson",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "II",
         "title": "Purpose of the CPOB",
         "description": "Chairman John Mark Davidson will explain the purpose of the Community Police Oversight Board.",
         "presenter": "John Mark Davidson",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "III",
         "title": "Public Comment / Open Microphone",
         "description": "Open microphone period for public comments, limited to three minutes per person.",
         "presenter": null,
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "IV",
@@ -68,97 +68,97 @@
       {
         "item_number": "V",
         "title": "Overview of Information and Technology Services",
-        "description": "Presentation on the information and technology services offered to CPOB members.",
+        "description": "Presentation on the services offered by the Department of Information Technology to CPOB members.",
         "presenter": null,
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "VI",
-        "title": "Introduction to CPOB",
+        "title": "Introduction of Interim Chief",
         "description": "Introduction of Dallas Police Department Interim Chief Michael Igo to the CPOB.",
         "presenter": "Michael Igo",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "VII",
         "title": "Presentation on Racial Disparity in DPD Monthly Arrests",
         "description": "Bob Scales will present on racial disparity issues in DPD monthly arrests by council district.",
         "presenter": "Bob Scales",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "VIII",
         "title": "OCPO Accountability and Transparency Dashboard Presentation",
-        "description": "Presentation on the Transparency & Accountability Dashboard developed by DBI.",
+        "description": "Presentation on the Transparency & Accountability Dashboard developed by DBI and OCPO.",
         "presenter": null,
-        "action_required": null
-      },
-      {
-        "item_number": "IX",
-        "title": "Introduction of New OCPO Staff",
-        "description": "Introduction of new staff members Waldir Guerrero and Alma D. Perez.",
-        "presenter": null,
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "X",
-        "title": "Reports / Briefings",
-        "description": "Various reports including Director Report, Policy Analyst Report, and Special Investigator Report.",
+        "title": "Introduction of New OCPO Staff",
+        "description": "Introduction of new staff members Waldir Guerrero and Alma D. Perez.",
         "presenter": null,
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "XI",
-        "title": "Monthly Activity Reports",
-        "description": "Reports on DPD monthly arrests and external administrative complaints.",
+        "title": "Reports / Briefings",
+        "description": "Various reports from the Director, Policy Analyst, and Special Investigator.",
         "presenter": null,
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "XII",
-        "title": "Upcoming Meeting and Events",
-        "description": "Discussion of upcoming events including the Next Generation Action Network Gala and MLK Day Parade.",
+        "title": "Monthly Activity Reports",
+        "description": "Reports on DPD monthly arrests and external administrative complaints.",
         "presenter": null,
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "XIII",
-        "title": "Public Comment/Open Microphone",
-        "description": "Second opportunity for public comments, limited to three minutes per person.",
+        "title": "Upcoming Meeting and Events",
+        "description": "Discussion of upcoming events and meetings.",
         "presenter": null,
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "XIV",
-        "title": "Board Members Comments",
-        "description": "Comments from board members.",
+        "title": "Public Comment/Open Microphone",
+        "description": "Second opportunity for public comments, limited to three minutes per person.",
         "presenter": null,
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "XV",
+        "title": "Board Members Comments",
+        "description": "Comments from board members.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "XVI",
         "title": "Adjournment",
         "description": "Formal adjournment of the meeting.",
         "presenter": null,
-        "action_required": null
+        "action_required": "adjourn"
       }
     ],
     "keywords": [
       "Community Police Oversight",
       "Dallas Police Department",
       "Public Comment",
-      "Meeting Minutes",
       "Racial Disparity",
       "Accountability",
       "Transparency",
-      "Reports",
-      "Legislation",
-      "Community Engagement",
+      "Meeting Minutes",
+      "Information Technology",
       "Staff Introduction",
-      "Monthly Activity",
-      "Upcoming Events",
-      "Board Comments",
-      "Adjournment"
+      "Monthly Reports",
+      "Legislative Updates",
+      "Public Engagement",
+      "Board Training",
+      "Community Engagement",
+      "Critical Incidents"
     ],
     "financial_items": []
   },

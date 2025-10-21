@@ -8,62 +8,41 @@
       "time": "3:00 PM",
       "type": "Ad Hoc Committee Meeting",
       "organization": "City Council Ad Hoc Committee on Pensions",
-      "location": "City Council Chambers, 6th Floor, City Hall and via video conference"
+      "location": "City Council Chambers, Floor 6 at City Hall, Dallas, Texas"
     },
     "attendees": {
       "chair": "Atkins",
-      "presenters": [
-        "City Attorney"
-      ],
-      "participants": [
-        "Narvaez",
-        "Arnold",
-        "Bazaldua",
-        "Ridley",
-        "Stewart",
-        "West",
-        "Mendelsohn",
-        "Moreno",
-        "Resendez",
-        "Blackmon",
-        "Willis",
-        "Gracey",
-        "Schultz",
-        "Johnson"
-      ]
+      "presenters": [],
+      "participants": []
     },
     "agenda_items": [
       {
         "item_number": "1",
         "title": "Approval of the December 14, 2023 Ad Hoc Committee on Pensions Meeting Minutes",
         "description": "Approval of the minutes from the previous meeting.",
-        "presenter": "Atkins",
+        "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "A",
         "title": "Dallas Police and Fire Pension System and Employees’ Retirement Fund of the City of Dallas: Funding Soundness Update and Discussion",
-        "description": "Discussion on the funding soundness of the pension system.",
-        "presenter": "City Attorney",
+        "description": "Discussion on the funding soundness of the Dallas Police and Fire Pension System and Employees’ Retirement Fund.",
+        "presenter": null,
         "action_required": "discuss"
       }
     ],
     "keywords": [
-      "Pensions",
-      "Dallas Police and Fire Pension System",
-      "Funding Soundness",
+      "Dallas",
       "City Council",
       "Ad Hoc Committee",
+      "Pensions",
+      "Funding Soundness",
+      "Dallas Police",
+      "Fire Pension System",
+      "Employees’ Retirement Fund",
       "Meeting Minutes",
       "Discussion",
-      "City Attorney",
-      "Retirement Fund",
-      "Executive Session",
-      "Public Meeting",
-      "Video Conference",
-      "City Hall",
-      "Closed Session",
-      "Litigation"
+      "Executive Session"
     ],
     "financial_items": []
   },

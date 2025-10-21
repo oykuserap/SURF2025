@@ -36,110 +36,109 @@
       {
         "item_number": "A",
         "title": "Urban Agriculture and Chapter 251 of the Texas Agriculture Code",
-        "description": "Overview of changes to Chapter 251 of the Texas Agriculture Code and potential actions the city may desire to take.",
+        "description": "Provide an overview of changes to Chapter 251 of the Texas Agriculture Code and potential actions the city may desire to take.",
         "presenter": "Casey Burgess",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "Consider amending the one-year limitation on subsequent representation by former councilmembers and former members of boards, commissions, and other city bodies in Chapter 12A",
-        "description": "Discussion on proposed amendments to Chapter 12A regarding representation limitations.",
+        "description": "Discussion on potential amendments to Chapter 12A regarding representation limitations.",
         "presenter": "Omar Narvaez",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "311 Customer Service Budget Review",
-        "description": "Review of the budget for the 311 Customer Service department.",
+        "description": "Overview of the Department of 311 Customer Service’s current and planned budget.",
         "presenter": "Daisy Torres",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "Dallas Animal Services Budget Review",
-        "description": "Review of the budget for Dallas Animal Services.",
+        "description": "Presentation of the proposed FY 2024-25 and planned FY 2025-26 budgets for Dallas Animal Services.",
         "presenter": "Paul Ramon",
         "action_required": "discuss"
       },
       {
         "item_number": "E",
         "title": "Office of Arts and Culture Budget Review",
-        "description": "Review of the budget for the Office of Arts and Culture.",
+        "description": "Overview of the Office of Arts and Culture’s planned budget for FY 2024-25.",
         "presenter": "Martine Elyse Philippe",
         "action_required": "discuss"
       },
       {
         "item_number": "F",
         "title": "Department of Sanitation Services Budget Review",
-        "description": "Review of the budget for the Department of Sanitation Services.",
+        "description": "Presentation of the FY 2024-25 Biennial Budget for the Department of Sanitation Services.",
         "presenter": "Clifton Gillespie",
         "action_required": "discuss"
       },
       {
         "item_number": "G",
         "title": "Consideration of a Boundary Adjustment with the City of University Park",
-        "description": "Discussion on the boundary adjustment request involving Michael M. Boone Elementary and adjacent church.",
+        "description": "Discussion on a boundary adjustment request involving Michael M. Boone Elementary and adjacent church.",
         "presenter": "Emily Liu",
         "action_required": "discuss"
       },
       {
         "item_number": "H",
         "title": "National League of Cities - Cities Addressing Fines and Fees Equitably (CAFFE): People and Pets Assistance Program Grant Approval",
-        "description": "Approval of grant funding for the CAFFE initiative.",
+        "description": "Approval of grant funds to address disparities in fines and fees related to animal services.",
         "presenter": "Dr. Lindsey Wilson",
         "action_required": "approve"
       },
       {
         "item_number": "I",
         "title": "Legislative Priorities",
-        "description": "Discussion on proposed legislative priorities for the upcoming session.",
+        "description": "Discussion on proposed legislative priorities for the upcoming legislative session.",
         "presenter": "Clifford Sparks",
         "action_required": "discuss"
       },
       {
         "item_number": "J",
         "title": "Quality of Life, Arts, and Culture Committee Forecast",
-        "description": "Forecast of upcoming agenda items for the committee.",
+        "description": "Forecast of upcoming agenda items for the Quality of Life, Arts, and Culture Committee.",
         "presenter": null,
         "action_required": "discuss"
       }
     ],
     "keywords": [
-      "Quality of Life",
-      "Arts",
-      "Culture",
-      "Budget Review",
       "Urban Agriculture",
-      "Legislative Priorities",
+      "Chapter 251",
+      "Budget Review",
+      "Dallas Animal Services",
+      "Office of Arts and Culture",
+      "Sanitation Services",
       "Boundary Adjustment",
       "Fines and Fees",
-      "Animal Services",
-      "311 Customer Service",
-      "Sanitation Services"
+      "Legislative Priorities",
+      "Quality of Life"
     ],
     "financial_items": [
       {
-        "description": "311 Customer Service current FY budget",
-        "amount": "$6,331,204",
+        "description": "FY 2024-25 planned budget for 311 Customer Service",
+        "amount": "$6,673,249",
         "type": "budget"
       },
       {
-        "description": "Dallas Animal Services current FY budget",
+        "description": "FY 2024-25 planned budget for Dallas Animal Services",
         "amount": null,
         "type": "budget"
       },
       {
-        "description": "Office of Arts and Culture current FY budget",
-        "amount": "$30,207,372",
+        "description": "FY 2024-25 planned budget for Office of Arts and Culture",
+        "amount": "$32,924,972",
         "type": "budget"
       },
       {
-        "description": "Department of Sanitation Services planned FY budget",
+        "description": "FY 2024-25 planned budget for Department of Sanitation Services",
         "amount": "$158.8 million",
         "type": "budget"
       },
       {
-        "description": "Grant for CAFFE initiative",
+        "description": "Grant for CAFFE project",
         "amount": "$40,000",
         "type": "grant"
       }

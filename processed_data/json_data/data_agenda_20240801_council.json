@@ -8,7 +8,7 @@
       "time": "12:00 PM",
       "type": "Regular Meeting",
       "organization": "Dallas Area Partnership to End and Prevent Homelessness Local Government Corporation",
-      "location": "Dallas City Hall, 6ES, Council Briefing Room, 1500 Marilla St., Dallas TX 75201 or join by WebEx"
+      "location": "Dallas City Hall, 6ES, Council Briefing Room 1500 Marilla St., Dallas TX 75201 or join by WebEx"
     },
     "attendees": {
       "chair": "Cara Mendelsohn",
@@ -23,7 +23,7 @@
       {
         "item_number": "1",
         "title": "Call Meeting to Order and Roll Call",
-        "description": "Declare A Quorum Present, Declare Legal Notice Posted and Meeting Duly Called",
+        "description": "Declare A Quorum Present and Declare Legal Notice Posted and Meeting Duly Called",
         "presenter": "Cara Mendelsohn",
         "action_required": "discuss"
       },
@@ -72,14 +72,14 @@
       {
         "item_number": "8",
         "title": "Proposed Items for Next/Future Meetings",
-        "description": "Discussion on proposed items for future meetings (no discussion, debate, and/or vote)",
+        "description": "Discussion on proposed items for future meetings",
         "presenter": "Cara Mendelsohn",
         "action_required": "discuss"
       },
       {
         "item_number": "9",
         "title": "Announcements of Upcoming Events and Meetings",
-        "description": "Announcements regarding upcoming events and meetings",
+        "description": "Announcements regarding future events and meetings",
         "presenter": "Citizen Homelessness Commission",
         "action_required": "inform"
       },
@@ -102,7 +102,11 @@
       "System Performance",
       "Future Meetings",
       "Events",
-      "Adjournment"
+      "City Hall",
+      "Community",
+      "Discussion",
+      "Approval",
+      "Panel"
     ],
     "financial_items": []
   },

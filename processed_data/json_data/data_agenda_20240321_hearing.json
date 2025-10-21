@@ -5,7 +5,7 @@
   "extracted_data": {
     "meeting_info": {
       "date": "March 21, 2024",
-      "time": "9:00 AM - 12:30 PM",
+      "time": "9:00 AM",
       "type": "Regular Meeting",
       "organization": "City Plan Commission",
       "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
@@ -17,8 +17,6 @@
         "Patrick Blaydes, Planning and Urban Design",
         "Victor Castro, BTR Construction Group LLC",
         "Rob Baldwin, Baldwin Associates",
-        "Teaseia Blue",
-        "Donna Moorman, PLA",
         "Tasfia Zahin",
         "Liliana Garza",
         "Michael Pepe",
@@ -28,18 +26,7 @@
         "Trevor Brown",
         "Scott Roper"
       ],
-      "participants": [
-        "Rosalba Betancur Garcia",
-        "Noe Moises Santoyo",
-        "Andrew Ruegg, Masterplan",
-        "Edgar Quijada, Q Property LLC",
-        "Gary Dinsmore",
-        "Jessica Gonzales",
-        "Cee Gilmore",
-        "Alpine Douglas, LP",
-        "White Rock Union Cemetery",
-        "Brixmor Holdings 12 SPE LLC"
-      ]
+      "participants": []
     },
     "agenda_items": [
       {
@@ -67,68 +54,71 @@
         "item_number": "4",
         "title": "Minor Amendment Cases - Under Advisement",
         "description": "An application for a minor amendment to an existing development plan.",
-        "presenter": "Rob Baldwin, Baldwin Associates",
+        "presenter": "Nexus Incorporated",
         "action_required": "approve"
       },
       {
-        "item_number": "5",
+        "item_number": "5-8",
         "title": "Zoning Cases - Consent",
-        "description": "Applications for various zoning cases.",
-        "presenter": "Liliana Garza",
+        "description": "Various applications for zoning cases.",
+        "presenter": null,
         "action_required": "approve"
       },
       {
-        "item_number": "6",
+        "item_number": "9-13",
         "title": "Zoning Cases - Under Advisement",
-        "description": "Applications for various zoning cases under advisement.",
-        "presenter": "Michael Pepe",
-        "action_required": "approve"
+        "description": "Various applications for zoning cases under advisement.",
+        "presenter": null,
+        "action_required": "discuss"
       },
       {
-        "item_number": "7",
-        "title": "Authorized Hearings - Zoning Case",
+        "item_number": "14-15",
+        "title": "Zoning Cases - Individual",
+        "description": "Individual zoning cases requiring separate consideration.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "16",
+        "title": "Authorized Hearing - Zoning Cases",
         "description": "A City Plan Commission authorized hearing seeking a recommendation regarding a proposal to change the zoning classification.",
         "presenter": "Trevor Brown",
         "action_required": "approve"
       },
       {
-        "item_number": "8",
+        "item_number": "17",
+        "title": "Authorized Hearing - Under Advisement Zoning Cases",
+        "description": "A City Plan Commission authorized hearing to determine the appropriate zoning for the area.",
+        "presenter": "Sef Okoth, AICP",
+        "action_required": "approve"
+      },
+      {
+        "item_number": "18",
         "title": "Special Provision Sign District",
         "description": "An application to create a new Special Provision Sign District.",
-        "presenter": "Scott Roper",
+        "presenter": "Andrew Ruegg of Masterplan",
         "action_required": "approve"
       },
       {
-        "item_number": "9",
-        "title": "Subdivision Docket - Consent Items",
-        "description": "Applications for various subdivision cases.",
+        "item_number": "19-30",
+        "title": "Subdivision Docket",
+        "description": "Various applications for subdivision cases.",
         "presenter": "Sharmila Shrestha",
         "action_required": "approve"
-      },
-      {
-        "item_number": "10",
-        "title": "Other Matters",
-        "description": "Consideration of appointments to CPC committees.",
-        "presenter": null,
-        "action_required": "discuss"
       }
     ],
     "keywords": [
       "City Plan Commission",
       "Zoning",
-      "Subdivision",
-      "Public Hearing",
       "Minor Amendment",
-      "Waivers",
+      "Public Hearing",
+      "Subdivision",
       "Special Provision Sign District",
-      "Development Plan",
       "Approval",
-      "Dallas",
-      "Planning and Urban Design",
+      "Waivers",
+      "Development Plan",
       "Public Testimony",
-      "Committee Appointments",
-      "Land Use",
-      "Comprehensive Plan"
+      "Dallas"
     ],
     "financial_items": []
   },

@@ -79,14 +79,14 @@
       {
         "item_number": "H 24-2011",
         "title": "June 26, 2024, Upcoming Agenda Item, Hall Arts Garage elevators emergency repairs and modernization",
-        "description": "Discussion on upcoming agenda item regarding emergency repairs and modernization.",
+        "description": "Discussion on upcoming agenda item regarding emergency repairs.",
         "presenter": "John Johnson",
         "action_required": "discuss"
       },
       {
         "item_number": "I 24-2012",
         "title": "Monthly Update of Public Works Program Performance - May 2024",
-        "description": "Update on the performance of the Public Works Program for May 2024.",
+        "description": "Update on the performance of the Public Works Program.",
         "presenter": "Ali Hatefi",
         "action_required": "discuss"
       }
@@ -103,6 +103,7 @@
       "Parking",
       "Emergency Repairs",
       "City Council",
+      "Meeting Minutes",
       "Dallas"
     ],
     "financial_items": []

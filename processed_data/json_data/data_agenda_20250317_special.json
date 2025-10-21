@@ -21,27 +21,27 @@
       {
         "item_number": "1",
         "title": "Call to order and introduction of meeting participants",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "2",
         "title": "Public comments pertaining to agenda items 3 through 6",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "3",
-        "title": "Review and consideration of the Meeting Record of the April 29, 2024 meeting",
+        "title": "Review and consideration of the Meeting Record",
         "description": "Review and consideration of the Meeting Record of the April 29, 2024 meeting of the Mall Area Redevelopment TIF District Board of Directors.",
         "presenter": "Kevin Spath, Director (I), Office of Economic Development",
         "action_required": "Approval"
       },
       {
         "item_number": "4",
-        "title": "Review of the Mall Area Redevelopment TIF District Annual Report for FY 2023-2024",
+        "title": "Review of the Mall Area Redevelopment TIF District Annual Report",
         "description": "Review of the Mall Area Redevelopment TIF District Annual Report for FY 2023-2024.",
         "presenter": "Kevin Spath, Director (I), Office of Economic Development",
         "action_required": "None; For informational purposes only."
@@ -49,13 +49,13 @@
       {
         "item_number": "5",
         "title": "Review and consideration of funding for acquisition",
-        "description": "Review and consideration of an amount not to exceed $1,829,328.00 from the Mall Area Redevelopment TIF District Fund, to be leveraged by $9,480,672.00 from the 2024 Bond Fund for the proposed acquisition.",
+        "description": "Review and consideration of an amount not to exceed $1,829,328.00 from the Mall Area Redevelopment TIF District Fund, to be leveraged by $9,480,672.00 from the 2024 Bond Fund (Park and Recreation Facilities Proposition B), for the proposed acquisition in a total amount not to exceed $11,310,000.00 from Montfort Valley View Shopping Center, LLC of approximately 79,916 square feet (1.83 acres) of commercially improved land addressed at 13305 Montfort Drive at the northeast corner of Montfort Drive and James Temple Drive to be assembled for the future central park as an area of public assembly in the Valley View-Galleria area.",
         "presenter": "Kevin Spath, Director (I), Office of Economic Development",
         "action_required": "Approval and forward a recommendation of approval to City Council"
       },
       {
         "item_number": "6",
-        "title": "Review and consideration of a regular meeting schedule for 2025",
+        "title": "Review and consideration of regular meeting schedule",
         "description": "Review and consideration of a regular meeting schedule for the Mall Area Redevelopment TIF District Board of Directors for calendar year 2025.",
         "presenter": "Kevin Spath, Director (I), Office of Economic Development",
         "action_required": "Approval"
@@ -63,7 +63,7 @@
       {
         "item_number": "7",
         "title": "Adjournment",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       }
@@ -72,17 +72,13 @@
       "Mall Area Redevelopment",
       "TIF District",
       "Dallas",
-      "Board of Directors",
       "Meeting Record",
       "Annual Report",
       "Funding",
       "Acquisition",
-      "Regular Meeting Schedule",
       "Public Assembly",
-      "Economic Development",
-      "City Council",
-      "Approval",
-      "Informational"
+      "Regular Meeting Schedule",
+      "Economic Development"
     ],
     "financial_items": [
       {

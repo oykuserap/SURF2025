@@ -25,64 +25,64 @@
       },
       {
         "item_number": "2",
-        "title": "An ordinance amending ordinance No. 27485, granting a franchise to Oncor Electric Delivery Company LLC",
-        "description": "Extending the term and providing for its renewal with minor modifications - Estimated Annual Revenue: General Fund $50,000,000",
+        "title": "An ordinance amending ordinance No. 27485",
+        "description": "An ordinance granting a franchise to Oncor Electric Delivery Company LLC, by extending the term and providing for its renewal with minor modifications - Estimated Annual Revenue: General Fund $50,000,000",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "3",
         "title": "An ordinance amending Ordinance No. 32554",
-        "description": "Authorizing certain transfers and appropriation adjustments for FY 2023-24 for the maintenance and operation of various departments.",
+        "description": "Authorizing certain transfers and appropriation adjustments for FY 2023-24 for the maintenance and operation of various departments, activities, and amending the capital budget; and authorize the City Manager to implement those adjustments - Not to exceed $4,898,376,958",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "4",
         "title": "Authorize rescinding the Community Development Block Grant Contract",
-        "description": "To complete public facility improvements to the Forest Theater located at 1918 Martin Luther King Jr. Boulevard.",
+        "description": "Public Facility Improvements Project contract awarded to City Square Arts Opportunity Center, LLC, previously approved on January 21, 2021, to complete public facility improvements to the Forest Theater located at 1918 Martin Luther King Jr. Boulevard; and the funds to be reprogrammed for other eligible uses during the development of the FY 2024-25 Community Development Block Grant",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "5",
         "title": "Authorize initial support of the approach for development of the new 5-Year Consolidated Plan",
-        "description": "Covering the period of FY 2024-25 through FY 2028-29 for the four U.S. Department of Housing and Urban Development grant funds.",
+        "description": "Covering the period of FY 2024-25 through FY 2028-29 for the four U.S. Department of Housing and Urban Development grant funds",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "6",
-        "title": "Authorize public hearings to be held on March 27, 2024, May 22, 2024, and August 28, 2024",
-        "description": "To receive comments on the FY 2024-25 Operating, Capital, and Grant & Trust Budgets.",
+        "title": "Authorize public hearings to be held",
+        "description": "To receive comments on the FY 2024-25 Operating, Capital, and Grant & Trust Budgets",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "7",
         "title": "Authorize partial settlement of the lawsuit styled Ignacio Cuevas and Rita Cuevas",
-        "description": "Total not to exceed $91,000.00.",
+        "description": "Total not to exceed $91,000.00",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "8",
         "title": "Authorize partial settlement of the lawsuit styled Vicki Timpa",
-        "description": "Not to exceed $2,500,000.00.",
+        "description": "Not to exceed $2,500,000.00",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "9",
         "title": "Authorize settlement of the lawsuit styled Timothy Shearer",
-        "description": "Not to exceed $40,000.00.",
+        "description": "Not to exceed $40,000.00",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "10",
         "title": "Authorize the annual adoption of the City’s Investment Policy",
-        "description": "Investment strategies regarding funds under the City’s control and management.",
+        "description": "Investment strategies regarding funds under the City’s control and management",
         "presenter": null,
         "action_required": "approve"
       }
@@ -92,8 +92,8 @@
       "meeting",
       "ordinance",
       "budget",
-      "public hearing",
       "settlement",
+      "public hearing",
       "investment policy",
       "Community Development Block Grant",
       "franchise",
@@ -111,24 +111,24 @@
         "type": "revenue"
       },
       {
-        "description": "Funding for various departments and activities",
+        "description": "Not to exceed amount for various departments and activities",
         "amount": "$4,898,376,958",
         "type": "budget"
       },
       {
-        "description": "Partial settlement of lawsuit",
+        "description": "Total settlement for Ignacio Cuevas and Rita Cuevas lawsuit",
         "amount": "$91,000",
-        "type": "settlement"
+        "type": "expenditure"
       },
       {
-        "description": "Partial settlement of lawsuit",
+        "description": "Total settlement for Vicki Timpa lawsuit",
         "amount": "$2,500,000",
-        "type": "settlement"
+        "type": "expenditure"
       },
       {
-        "description": "Settlement of lawsuit",
+        "description": "Total settlement for Timothy Shearer lawsuit",
         "amount": "$40,000",
-        "type": "settlement"
+        "type": "expenditure"
       }
     ]
   },

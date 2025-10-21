@@ -5,83 +5,110 @@
   "extracted_data": {
     "meeting_info": {
       "date": "October 24, 2024",
-      "time": "9:00 AM - 12:30 PM",
+      "time": "9:00 AM",
       "type": "Regular Meeting",
       "organization": "City Plan Commission",
-      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; Videoconference"
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
     },
     "attendees": {
       "chair": null,
-      "presenters": [
-        "LeQuan Clinton",
-        "Connor Roberts",
-        "Wilson Kerr",
-        "Giahanna Bridges",
-        "Michael V. Pepe",
-        "Andrea Gilles, AICP",
-        "Oscar Aguilera"
-      ],
+      "presenters": [],
       "participants": []
     },
     "agenda_items": [
       {
         "item_number": "1",
-        "title": "Zoning Cases - Consent",
-        "description": "Various zoning cases requiring approval.",
+        "title": "Zoning Case - Consent",
+        "description": "An application for a TH-3(A) Townhouse District and the termination of deed restrictions on property zoned an NO(A) Neighborhood Office District.",
         "presenter": "LeQuan Clinton",
-        "action_required": "approve"
+        "action_required": "Approve"
       },
       {
         "item_number": "2",
-        "title": "Zoning Cases - Under Advisement",
-        "description": "Zoning cases that are under advisement from previous meetings.",
-        "presenter": "Giahanna Bridges",
-        "action_required": "discuss"
+        "title": "Zoning Case - Consent",
+        "description": "An application for a Specific Use Permit for vehicle display, sales, and service.",
+        "presenter": "Connor Roberts",
+        "action_required": "Approve"
       },
       {
         "item_number": "3",
-        "title": "Zoning Cases - Individual",
-        "description": "Individual zoning cases requiring separate consideration.",
+        "title": "Zoning Case - Consent",
+        "description": "An application for a Specific Use Permit for a commercial amusement (inside) limited to a dance hall.",
         "presenter": "Wilson Kerr",
-        "action_required": "approve"
+        "action_required": "Approve"
       },
       {
         "item_number": "4",
-        "title": "Development Code Amendments - Under Advisement",
-        "description": "Consideration of amendments to the Dallas Development Code.",
-        "presenter": "Andrea Gilles, AICP",
-        "action_required": "discuss"
+        "title": "Zoning Case - Consent",
+        "description": "An application for a new tract on property zoned Tract 2 within Planned Development District No. 775.",
+        "presenter": "Giahanna Bridges",
+        "action_required": "Approve"
       },
       {
         "item_number": "5",
-        "title": "Special Provision Sign District - Under Advisement",
-        "description": "Proposal for a new Special Provision Sign District.",
-        "presenter": "Oscar Aguilera",
-        "action_required": "approve"
+        "title": "Zoning Case - Consent",
+        "description": "An application for an amendment to Specific Use Permit No. 2326 for an alcoholic beverage establishment.",
+        "presenter": "Connor Roberts",
+        "action_required": "Approve"
+      },
+      {
+        "item_number": "6",
+        "title": "Zoning Case - Consent",
+        "description": "An application for an amendment to Specific Use Permit No. 1767 for a bar, lounge, or tavern.",
+        "presenter": "Connor Roberts",
+        "action_required": "Approve"
+      },
+      {
+        "item_number": "7",
+        "title": "Zoning Case - Consent",
+        "description": "An application for a Specific Use Permit for a handicapped group dwelling unit.",
+        "presenter": "Giahanna Bridges",
+        "action_required": "Approve"
+      },
+      {
+        "item_number": "8",
+        "title": "Zoning Case - Consent",
+        "description": "An application for an amendment to Planned Development District No. 1099.",
+        "presenter": "Michael V. Pepe",
+        "action_required": "Approve"
+      },
+      {
+        "item_number": "9",
+        "title": "Zoning Case - Consent",
+        "description": "An application for an amendment to Specific Use Permit No. 2341 for a bar, lounge, or tavern.",
+        "presenter": "Wilson Kerr",
+        "action_required": "Approve"
+      },
+      {
+        "item_number": "10",
+        "title": "Zoning Case - Consent",
+        "description": "An application for an amendment to Specific Use Permit No. 2048 for the sale of alcoholic beverages.",
+        "presenter": "Wilson Kerr",
+        "action_required": "Approve"
       },
       {
         "item_number": "30",
-        "title": "2025 City Plan Commission Calendar",
-        "description": "Consideration of the calendar for the upcoming year.",
+        "title": "Consideration of Appointments to CPC Committees",
+        "description": "Consideration of appointments to the City Plan Commission committees.",
         "presenter": null,
-        "action_required": "discuss"
+        "action_required": "Discuss"
       }
     ],
     "keywords": [
       "City Plan Commission",
       "Zoning",
-      "Development Code",
       "Public Hearing",
-      "Special Provision Sign District",
+      "Specific Use Permit",
+      "Townhouse District",
+      "Commercial Amusement",
+      "Development Code",
       "Subdivision",
-      "Consent Items",
-      "Residential Replats",
       "Street Name Change",
       "Public Testimony",
-      "Approval of Minutes",
-      "Executive Session",
+      "Minutes Approval",
+      "Committee Appointments",
+      "Dallas",
       "Planning and Development",
-      "Dallas City Hall",
       "Videoconference"
     ],
     "financial_items": []

@@ -31,14 +31,14 @@
       },
       {
         "item_number": "V",
-        "title": "Resolutions for the Estates at Ferguson",
+        "title": "Action Item: Resolutions for the Estates at Ferguson",
         "description": "Consider and adopt partnership resolutions approving the form and substance of and authorizing the execution and delivery of documents and instruments necessary to carry out the financing and construction of Estates at Ferguson.",
         "presenter": "Aaron Eaquinto",
         "action_required": "approve"
       },
       {
         "item_number": "VI",
-        "title": "Consider and Adopt the Corporation’s 2024 Annual Budget",
+        "title": "Action Item: Consider and Adopt the Corporation’s 2024 Annual Budget",
         "description": "Discussion and approval of the annual budget for the Corporation.",
         "presenter": "Aaron Eaquinto",
         "action_required": "approve"
@@ -59,15 +59,15 @@
       }
     ],
     "keywords": [
-      "Dallas Housing Finance Corporation",
+      "Dallas",
+      "Housing Finance Corporation",
       "Estates at Ferguson",
-      "2024 Annual Budget",
+      "Annual Budget",
       "Treasurer’s report",
       "pipeline report",
       "financing",
       "construction",
-      "partnership resolutions",
-      "multifamily residential development",
+      "resolutions",
       "public comments"
     ],
     "financial_items": [
@@ -79,7 +79,7 @@
       {
         "description": "Loan financing from the City of Dallas",
         "amount": "$8,236,511.64",
-        "type": "Loan Financing"
+        "type": "loan financing"
       }
     ]
   },

@@ -44,36 +44,36 @@
       {
         "item_number": "C 24-180",
         "title": "Downtown Transportation Hub and Highspeed Rail Vision",
-        "description": "Briefing on the vision for the Downtown Transportation Hub and high-speed rail.",
-        "presenter": "Robert Perez, Assistant City Manager, City of Dallas",
+        "description": "Briefing on the vision for the Downtown Transportation Hub and Highspeed Rail.",
+        "presenter": "Robert Perez",
         "action_required": "discuss"
       },
       {
         "item_number": "D 24-181",
         "title": "Terminal Area Master Plan Update",
         "description": "Update on the Terminal Area Master Plan.",
-        "presenter": "Patrick Carreno, Director, Department of Aviation",
+        "presenter": "Patrick Carreno",
         "action_required": "discuss"
       },
       {
         "item_number": "E 24-182",
         "title": "Dallas Water Commons Contract Update",
         "description": "Update on the Dallas Water Commons contract.",
-        "presenter": "John O’Connor, Assistant Director, Department of Parks & Recreation",
+        "presenter": "John O’Connor",
         "action_required": "discuss"
       },
       {
         "item_number": "F 24-184",
         "title": "Monthly Update of Public Works Program Performance - December 2023",
         "description": "Monthly performance update for the Public Works program.",
-        "presenter": "Ali Hatefi, Director, Department of Public Works",
+        "presenter": "Ali Hatefi",
         "action_required": "discuss"
       },
       {
         "item_number": "G 24-185",
         "title": "Interagency Transportation Report",
-        "description": "Report on interagency transportation activities.",
-        "presenter": "Ghassan Khankarli, Ph.D., P.E., Director, Department of Transportation",
+        "description": "Report on interagency transportation matters.",
+        "presenter": "Ghassan Khankarli, Ph.D., P.E.",
         "action_required": "discuss"
       },
       {
@@ -93,12 +93,12 @@
       "Highspeed Rail",
       "Water Commons",
       "Master Plan",
-      "Construction",
-      "Funding",
-      "Meeting Minutes",
       "Performance Update",
       "Interagency Report",
-      "Forecast"
+      "Construction",
+      "Funding",
+      "City Council",
+      "Meeting Minutes"
     ],
     "financial_items": [
       {
@@ -107,12 +107,12 @@
         "type": "contract"
       },
       {
-        "description": "Abandonment of a portion of a wastewater easement",
+        "description": "An ordinance abandoning a portion of a wastewater easement",
         "amount": "$7,800.00",
         "type": "revenue"
       },
       {
-        "description": "Private license for the use of land for bollards",
+        "description": "An ordinance granting a private license for the use of land",
         "amount": "$100.00",
         "type": "revenue"
       },
@@ -122,12 +122,12 @@
         "type": "contract"
       },
       {
-        "description": "Increase in construction services contract for Monfort Drive improvements",
+        "description": "Increase in construction services contract for additional paving and drainage improvements",
         "amount": "$916,946.00",
         "type": "contract"
       },
       {
-        "description": "Increase in construction services contract for Chalk Hill Road improvements",
+        "description": "Increase in construction services contract for additional storm drainage improvements",
         "amount": "$213,656.24",
         "type": "contract"
       },

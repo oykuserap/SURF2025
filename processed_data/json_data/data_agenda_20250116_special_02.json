@@ -13,11 +13,11 @@
     "attendees": {
       "chair": "Joseph Pitchford",
       "presenters": [
-        "Tamara L. Leak, Assistant Director (I), Office of Economic Development",
-        "Dorcy Clark, Senior Manager, Office of Economic Development"
+        "Tamara L. Leak",
+        "Dorcy Clark"
       ],
       "participants": [
-        "Billy Prewitt, Vice Chair, DDDA"
+        "Billy Prewitt"
       ]
     },
     "agenda_items": [
@@ -53,42 +53,42 @@
         "item_number": "5",
         "title": "Review and consider the Meeting Record of the August 29, 2024 special called joint meeting.",
         "description": "Review and consider the Meeting Record of the August 29, 2024 special called joint meeting of the Downtown Connection TIF District Board of Directors and the Downtown Dallas Development Authority Board of Directors.",
-        "presenter": "Tamara L. Leak, Assistant Director (I), Office of Economic Development",
+        "presenter": "Tamara L. Leak",
         "action_required": "Approve"
       },
       {
         "item_number": "6",
         "title": "Review and consider the Meeting Record of the November 19, 2024 special called meeting.",
         "description": "Review and consider the Meeting Record of the November 19, 2024 special called meeting of the City Center TIF District Board of Directors.",
-        "presenter": "Dorcy Clark, Senior Manager, Office of Economic Development",
+        "presenter": "Dorcy Clark",
         "action_required": "Approve"
       },
       {
         "item_number": "7",
         "title": "Review and consider an extension of all project deadlines.",
         "description": "Review and consider an extension of all project deadlines previously authorized by City Council Resolution No. 21-1147 on June 23, 2021, and previously extended by 12-months on September 26, 2022 for the Phase 2 expansion of Klyde Warren Park project.",
-        "presenter": "Dorcy Clark, Senior Manager, Office of Economic Development",
+        "presenter": "Dorcy Clark",
         "action_required": "Approve and forward a recommendation of approval to City Council"
       },
       {
         "item_number": "8",
         "title": "Review and consider the Downtown Connection TIF District Annual Report for FY 2023-2024.",
         "description": null,
-        "presenter": "Tamara L. Leak, Assistant Director (I), Office of Economic Development",
+        "presenter": "Tamara L. Leak",
         "action_required": "Approve and forward a recommendation of approval to City Council"
       },
       {
         "item_number": "9",
         "title": "Review and consider the City Center TIF District Annual Report for FY 2023-2024.",
         "description": null,
-        "presenter": "Dorcy Clark, Senior Manager, Office of Economic Development",
+        "presenter": "Dorcy Clark",
         "action_required": "Approve and forward a recommendation of approval to City Council"
       },
       {
         "item_number": "10",
-        "title": "Review and consider a quarterly joint meeting schedule for the City Center TIF District Board of Directors.",
+        "title": "Review and consider a quarterly joint meeting schedule for the City Center TIF District Board.",
         "description": null,
-        "presenter": "Tamara L. Leak, Assistant Director (I), Office of Economic Development",
+        "presenter": "Tamara L. Leak",
         "action_required": "Approve"
       },
       {
@@ -105,8 +105,8 @@
       "Downtown Dallas Development Authority",
       "special called meeting",
       "meeting record",
+      "project deadlines",
       "Klyde Warren Park",
-      "M/WBE participation",
       "annual report",
       "joint meeting schedule",
       "public comments"

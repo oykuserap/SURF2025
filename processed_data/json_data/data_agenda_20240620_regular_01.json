@@ -5,167 +5,114 @@
   "extracted_data": {
     "meeting_info": {
       "date": "June 20, 2024",
-      "time": "10:00 A.M.",
+      "time": null,
       "type": "Regular Meeting",
-      "organization": "Dallas Park and Recreation Board",
-      "location": "Dallas City Hall, 6FN Conference Room and Videoconference"
+      "organization": "Secretary  \n\nCity  \n\n                                            Dallas Park And Recreation Board",
+      "location": "Dallas City Hall"
     },
     "attendees": {
-      "chair": "Arun Agarwal",
-      "presenters": [
-        "M. Renee Johnson",
-        "Chief Rick Watson",
-        "Chief David Pughes",
-        "Christina Turner-Noteware",
-        "Rachael Berry"
-      ],
+      "chair": null,
+      "presenters": [],
       "participants": []
     },
     "agenda_items": [
       {
+        "item_number": "113",
+        "title": "la finalización de la reunión en https://dallastx.new.swagit.com/views/",
+        "description": "la finalización de la reunión en https://dallastx.new.swagit.com/views/",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
         "item_number": "1",
-        "title": "Call to Order",
-        "description": "",
-        "presenter": "Arun Agarwal",
-        "action_required": null
-      },
-      {
-        "item_number": "2",
-        "title": "Special Recognition",
-        "description": "Special recognition of Mark Lampkin for his 24 years of service and dedication to the City and Park and Recreation Department",
+        "title": "Update on Safety in the Park System – M. Renee Johnson, Assistant Director, Chief \n\n                ...",
+        "description": "Update on Safety in the Park System – M. Renee Johnson, Assistant Director, Chief \n\n                     Rick Watson, Dallas Policy Department, Chief David Pughes, Dallas Marshals \n\n\n\n            VI.  CONSENT AGENDA",
         "presenter": null,
-        "action_required": null
-      },
-      {
-        "item_number": "3",
-        "title": "Public Speakers",
-        "description": "",
-        "presenter": null,
-        "action_required": null
-      },
-      {
-        "item_number": "4",
-        "title": "Approval of Minutes",
-        "description": "Approval of minutes from June 6, 2024",
-        "presenter": null,
-        "action_required": "approve"
-      },
-      {
-        "item_number": "5",
-        "title": "Quarterly Safety Update",
-        "description": "Update on Safety in the Park System",
-        "presenter": "M. Renee Johnson, Chief Rick Watson, Chief David Pughes",
-        "action_required": null
-      },
-      {
-        "item_number": "6",
-        "title": "Service Price Agreement",
-        "description": "Authorize a three-year service price agreement for the maintenance, repair and restoration of multi-sport court surfaces with Hellas Construction Inc. and GG Contractors, LLC.",
-        "presenter": null,
-        "action_required": "approve"
-      },
-      {
-        "item_number": "7",
-        "title": "Master Agreement",
-        "description": "Authorize a three-year master agreement for the purchase of youth athletic gear, equipment and supplies for the Park and Recreation Department.",
-        "presenter": null,
-        "action_required": "approve"
-      },
-      {
-        "item_number": "8",
-        "title": "Golf Operations Policy",
-        "description": "Authorize the revision of Section C. Recognized Holidays of the Golf Course Operations Policy.",
-        "presenter": null,
-        "action_required": "approve"
-      },
-      {
-        "item_number": "9",
-        "title": "Martyr’s Park Historical Marker",
-        "description": "Authorize the placement of the Jane Elkins Texas State Historical Marker at Martyr’s Park.",
-        "presenter": null,
-        "action_required": "approve"
-      },
-      {
-        "item_number": "10",
-        "title": "Forest Audelia",
-        "description": "Authorize a Supplemental Agreement No. 1 for professional services for a multipurpose center and park.",
-        "presenter": null,
-        "action_required": "approve"
-      },
-      {
-        "item_number": "11",
-        "title": "Parkdale Lake Grant Application",
-        "description": "Authorize an application for the Texas Parks and Wildlife Department Local Parks Urban Outdoor Grant Program.",
-        "presenter": null,
-        "action_required": "approve"
-      },
-      {
-        "item_number": "12",
-        "title": "Marcus Recreation Center Grant Application",
-        "description": "Authorize an application for the Texas Parks and Wildlife Department Local Parks Urban Indoor Recreation Grant Program.",
-        "presenter": null,
-        "action_required": "approve"
+        "action_required": "Action"
       },
       {
         "item_number": "13",
-        "title": "Budget Update",
-        "description": "",
-        "presenter": "Rachael Berry",
-        "action_required": null
+        "title": "Park Resources & the Impact of Encampments – M. Renee Johnson, Assistant Director",
+        "description": "Park Resources & the Impact of Encampments – M. Renee Johnson, Assistant Director",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
         "item_number": "14",
-        "title": "2024 Bond Program: Implementation Plan",
-        "description": "",
-        "presenter": "Christina Turner-Noteware",
-        "action_required": null
+        "title": "Planning & Construction Project Update II: Horizontal & Facilities – Christina Turner- \n\n           ...",
+        "description": "Planning & Construction Project Update II: Horizontal & Facilities – Christina Turner- \n\n                  Noteware, Assistant Director   \n\n\n\n            \n\n\n\n  VIII. UPDATE",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "15",
+        "title": "Budget Update – Rachael Berry, Assistant Director  \n\n                   \n\n\n\n  IX.   WORKSHOP",
+        "description": "Budget Update – Rachael Berry, Assistant Director  \n\n                   \n\n\n\n  IX.   WORKSHOP",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "1",
+        "title": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or a...",
+        "description": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or any matter in which  \n\n      the duty of the attorney to the City Council under the Texas Disciplinary Rules of Professional Conduct of the State  \n\n      Bar of Texas clearly conflicts with the Texas Open Meetings Act. [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "2",
+        "title": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open mee...",
+        "description": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open meeting would have  \n\n      a detrimental effect on the position of the city in negotiations with a third person. [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "3",
+        "title": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in...",
+        "description": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in an open meeting  \n\n      would have a detrimental effect on the position of the city in negotiations with a third person. [Tex. Govt. Code  \n\n      §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "4",
+        "title": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal...",
+        "description": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal of a public  \n\n      officer or employee; or to hear a complaint or charge against an officer or employee unless the officer or employee  \n\n      who is the subject of the deliberation or hearing requests a public hearing. [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "5",
+        "title": "deliberating the deployment, or specific occasions for implementation, of security personnel or devi...",
+        "description": "deliberating the deployment, or specific occasions for implementation, of security personnel or devices. [Tex. Govt.  \n\n      Code §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "6",
+        "title": "discussing or deliberating commercial or financial information that the city has received from a bus...",
+        "description": "discussing or deliberating commercial or financial information that the city has received from a business prospect  \n\n      that the city seeks to have locate, stay or expand in or near the city and with which the city is conducting economic  \n\n      development negotiations; or deliberating the offer of a financial or other incentive to a business prospect. [Tex  \n\n      Govt . Code §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "7",
+        "title": "deliberating security assessments or deployments relating to information resources technology, netwo...",
+        "description": "deliberating security assessments or deployments relating to information resources technology, network security  \n\n      information,   or   the   deployment   or  specific   occasions   for   implementations   of   security   personnel,   critical  \n\n      infrastructure, or security devices. [Tex Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       }
     ],
     "keywords": [
-      "Dallas Park and Recreation Board",
-      "Regular Meeting",
-      "June 20, 2024",
-      "safety update",
-      "service price agreement",
-      "master agreement",
-      "golf operations policy",
-      "historical marker",
-      "grant application",
-      "budget update",
-      "bond program"
+      "tif",
+      "budget",
+      "approval",
+      "public",
+      "development",
+      "improvement",
+      "planning",
+      "contract",
+      "agreement"
     ],
-    "financial_items": [
-      {
-        "description": "Service price agreement for maintenance and repair of multi-sport court surfaces",
-        "amount": "$1,092,668",
-        "type": "expenditure"
-      },
-      {
-        "description": "Master agreement for youth athletic gear and supplies",
-        "amount": "$845,000",
-        "type": "expenditure"
-      },
-      {
-        "description": "Estimated revenue from Golf Operations Policy revision",
-        "amount": "$25,000",
-        "type": "revenue"
-      },
-      {
-        "description": "Supplemental Agreement for multipurpose center and park",
-        "amount": "$714,075",
-        "type": "expenditure"
-      },
-      {
-        "description": "Grant application for Parkdale Lake",
-        "amount": "$1,500,000",
-        "type": "funding"
-      },
-      {
-        "description": "Grant application for Marcus Recreation Center",
-        "amount": "$2,000,000",
-        "type": "funding"
-      }
-    ]
+    "financial_items": []
   },
   "extraction_method": "openai_gpt",
   "original_length": 16305

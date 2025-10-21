@@ -72,24 +72,18 @@
       "Public Testimony",
       "Annual Report",
       "Minutes Approval",
+      "Case Docket",
       "Variance",
       "Special Exception",
       "Setback Regulations",
+      "Fence Regulations",
       "Parking Regulations",
-      "Fence Height Regulations",
       "Visibility Obstruction",
       "Dallas City Hall",
       "Videoconference",
-      "Accommodations",
       "Executive Session"
     ],
-    "financial_items": [
-      {
-        "description": "Fee reimbursement for application of variance and special exceptions",
-        "amount": null,
-        "type": "fee reimbursement"
-      }
-    ]
+    "financial_items": []
   },
   "extraction_method": "openai_gpt",
   "original_length": 17222

@@ -8,7 +8,7 @@
       "time": "1:00 PM",
       "type": "Economic Development Committee Meeting",
       "organization": "City Council Economic Development Committee",
-      "location": "Council Chambers, 6th Floor, City Hall and via videoconference"
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX"
     },
     "attendees": {
       "chair": "Atkins",
@@ -37,14 +37,14 @@
       {
         "item_number": "A",
         "title": "Approval of the August 5, 2024, Economic Development Committee Minutes",
-        "description": "Approval of the minutes from the previous meeting.",
+        "description": "Approval of the minutes from the previous Economic Development Committee meeting.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "B",
         "title": "Public comments related to proposed adoption of ForwardDallas 2.0 comprehensive plan",
-        "description": "Public comments regarding the ForwardDallas 2.0 comprehensive plan.",
+        "description": "Public comments regarding the proposed comprehensive plan.",
         "presenter": null,
         "action_required": "discuss"
       },
@@ -58,14 +58,14 @@
       {
         "item_number": "D",
         "title": "Office of Economic Development to be Recognized for Awards at 2024 Annual Conference of the International Economic Development Council (IEDC)",
-        "description": "Recognition of the Office of Economic Development for their achievements.",
+        "description": "Recognition of the Office of Economic Development for their awards.",
         "presenter": "Kevin Spath",
-        "action_required": "recognize"
+        "action_required": "acknowledge"
       },
       {
         "item_number": "E",
         "title": "TIF Increment Transfer to Housing & Community Development Department for Homeowner Stabilization Programs",
-        "description": "Discussion on the transfer of TIF increments for homeowner stabilization.",
+        "description": "Discussion regarding the transfer of TIF increment for homeowner stabilization.",
         "presenter": "Kevin Spath",
         "action_required": "discuss"
       }
@@ -75,12 +75,16 @@
       "ForwardDallas 2.0",
       "City Council",
       "Public Comments",
-      "Homeowner Stabilization",
+      "Minutes Approval",
       "TIF Increment Transfer",
-      "Planning and Development",
-      "International Economic Development Council",
+      "Housing",
+      "Community Development",
+      "Planning",
+      "Development Department",
       "Recognition",
-      "Committee Minutes"
+      "Awards",
+      "Committee Meeting",
+      "Dallas"
     ],
     "financial_items": [
       {

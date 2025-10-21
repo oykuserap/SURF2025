@@ -15,19 +15,7 @@
       "presenters": [
         "Jack Ireland"
       ],
-      "participants": [
-        "Mendelsohn",
-        "Moreno",
-        "Ridley",
-        "Stewart",
-        "West",
-        "Blackmon",
-        "Resendez",
-        "Schultz",
-        "Gracey",
-        "Arnold",
-        "Narvaez"
-      ]
+      "participants": []
     },
     "agenda_items": [
       {
@@ -40,7 +28,7 @@
       {
         "item_number": "A",
         "title": "Monetization of City Assets Discussion",
-        "description": "Discussion led by the Chief Financial Officer regarding the monetization of city assets.",
+        "description": "Discussion on the monetization of city assets.",
         "presenter": "Jack Ireland",
         "action_required": "discuss"
       },
@@ -53,21 +41,20 @@
       }
     ],
     "keywords": [
-      "Pensions",
-      "City Council",
       "Dallas",
-      "Investment Reports",
+      "City Council",
+      "Pensions",
       "Monetization",
-      "Assets",
-      "Financial Officer",
-      "Public Meeting",
+      "Investment Reports",
       "Ad Hoc Committee",
+      "Finance",
+      "Public Safety",
+      "Retirement Fund",
+      "City Assets",
       "Video Conference",
-      "City Hall",
-      "June Meeting Minutes",
+      "Meeting Minutes",
       "Discussion",
-      "Approval",
-      "Economic Development"
+      "Approval"
     ],
     "financial_items": []
   },

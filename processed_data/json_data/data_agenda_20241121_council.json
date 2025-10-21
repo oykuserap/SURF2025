@@ -33,14 +33,14 @@
         "title": "Call Meeting to Order and Roll Call",
         "description": "Declare A Quorum Present, Declare Legal Notice Posted and Meeting Duly Called",
         "presenter": "Linda Garner",
-        "action_required": "discuss"
+        "action_required": null
       },
       {
         "item_number": "II",
         "title": "Public Comments",
         "description": "Limit 2 minutes per speaker",
         "presenter": "Linda Garner",
-        "action_required": "discuss"
+        "action_required": null
       },
       {
         "item_number": "III",
@@ -52,69 +52,71 @@
       {
         "item_number": "IV",
         "title": "Presentation: Homeless Response System Quarterly Report",
-        "description": "Presentation by Office of Homeless Solutions",
+        "description": "Presentation by the Office of Homeless Solutions",
         "presenter": "Christine Crossley",
-        "action_required": "discuss"
+        "action_required": null
       },
       {
         "item_number": "V",
         "title": "Presentation: Overview of Dallas 24 Hour Club",
-        "description": "Presentation by Dallas 24 Hour Club",
-        "presenter": "Tim Grigsby",
-        "action_required": "discuss"
+        "description": "Presentation on programs and services",
+        "presenter": "Tim Grigsby, Marsha Williamson",
+        "action_required": null
       },
       {
         "item_number": "VI",
         "title": "Briefing Memo: Office of Homeless Solutions",
         "description": "Properties Update",
         "presenter": "Christine Crossley",
-        "action_required": "discuss"
+        "action_required": null
       },
       {
         "item_number": "VII",
         "title": "Task Force Update: Citizen Homelessness Commission",
-        "description": "Updates on various task forces",
-        "presenter": "Linda Garner",
-        "action_required": "discuss"
+        "description": "Updates from various task force members",
+        "presenter": "Linda Garner, James Hauck, Tramonica Brown, Wesley Keyes, Angela Klattenhoff",
+        "action_required": null
       },
       {
         "item_number": "VIII",
         "title": "Discussion on District Specific Homelessness Concerns",
         "description": "Discussion on observations and concerns",
         "presenter": "Linda Garner",
-        "action_required": "discuss"
+        "action_required": null
       },
       {
         "item_number": "IX",
         "title": "Proposed Items for Next/Future Meetings",
         "description": "No discussion, debate, and/or vote",
         "presenter": "Linda Garner",
-        "action_required": "discuss"
+        "action_required": null
       },
       {
         "item_number": "X",
         "title": "Announcement of Upcoming Meetings",
-        "description": "Announcement of future meetings",
+        "description": "Details of upcoming meetings",
         "presenter": "Linda Garner",
-        "action_required": "discuss"
+        "action_required": null
       },
       {
         "item_number": "XI",
         "title": "Adjournment",
-        "description": "Closing of the meeting",
+        "description": null,
         "presenter": "Linda Garner",
-        "action_required": "adjourn"
+        "action_required": null
       }
     ],
     "keywords": [
-      "Citizen Homelessness Commission",
-      "Dallas City Hall",
-      "Homeless Solutions",
+      "Homelessness",
+      "Dallas",
+      "Commission",
       "Public Comments",
       "Quarterly Report",
       "Dallas 24 Hour Club",
-      "Task Force Update",
-      "Homelessness Concerns",
+      "Task Force",
+      "Engagement",
+      "Racial Equity",
+      "Data Drive Initiatives",
       "Future Meetings",
       "Adjournment"
     ],

@@ -5,169 +5,94 @@
   "extracted_data": {
     "meeting_info": {
       "date": "December 10, 2024",
-      "time": "1:00 P.M.",
-      "type": "Regular Meeting",
-      "organization": "Government Performance and Financial Management Committee",
-      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+      "time": null,
+      "type": "Briefing",
+      "organization": "Tx \n\n\n\n                       Government Performance And  \n\n                    Financial Management Committee",
+      "location": "Dallas City Hall"
     },
     "attendees": {
-      "chair": "Atkins",
-      "presenters": [
-        "Nina Arias, Director, Human Resources",
-        "Clifton Gillespie, Director, Sanitation Services",
-        "Janette Weedon, Director, Budget & Management Services",
-        "Ivan Guel, Assistant Director, Budget & Management Services",
-        "City Controller’s Office",
-        "Office of Homeless Solutions",
-        "Office of Government Affairs"
-      ],
+      "chair": null,
+      "presenters": [],
       "participants": []
     },
     "agenda_items": [
       {
         "item_number": "1",
-        "title": "Approval of the November 7, 2024, Government Performance and Financial Management Committee Meeting Minutes",
-        "description": "Approval of the minutes from the previous meeting.",
+        "title": "del Ayuntamiento está disponible en formatos alternos si lo \n\n                                      ...",
+        "description": "del Ayuntamiento está disponible en formatos alternos si lo \n\n                                                                               solicita. \n\n\n\n                                                                               Si   tiene   preguntas   sobre   esta   agenda,   o   si   desea   hacer  \n\n                                                                               comentarios o presentar quejas con respecto a servicios de la  \n\n                                                                               Ciudad, llame al",
         "presenter": null,
-        "action_required": "approve"
+        "action_required": "Action"
       },
       {
-        "item_number": "A",
-        "title": "Discuss Performance Review Process for Council Appointment",
-        "description": "Discussion on the performance review process for council appointments.",
-        "presenter": "Nina Arias, Director, Human Resources",
-        "action_required": "discuss"
+        "item_number": "311",
+        "title": "Reglas de Cortesía  \n\n\n\n                                                                            ...",
+        "description": "Reglas de Cortesía  \n\n\n\n                                                                               Las asambleas del Ayuntamiento Municipal reúnen a ciudadanos  \n\nRules of Courtesy                                                              de diversos intereses e ideologías.  Para asegurar la imparcialidad  \n\n\n\n                                                                               y el orden durante las asambleas, el Ayuntamiento ha adoptado  \n\nCity   Council    meetings     bring   together    citizens   of   many        ciertas  reglas de cortesía que aplican a todos los miembros del  \n\nvaried   interests  and  ideas.    To  insure  fairness  and  orderly          Ayuntamiento, al personal administrativo, personal de los medios  \n\nmeetings, the Council has adopted rules of courtesy which apply                de  comunicación,  a  los  ciudadanos,  y  a  visitantes.    Estos  \n\nto  all  members  of    the   Council,   administrative    staff,  news        reglamentos establecen lo siguiente:  \n\nmedia,  citizens  and  visitors.  These procedures provide:  \n\n                                                                               •    Ninguna persona retrasara o interrumpirá los procedimientos,  \n\n•    That no one shall delay or interrupt the proceedings, or refuse \n\n                                                                                    o se negara a obedecer las órdenes del oficial que preside la  \n\n     to obey the orders of the presiding officer.                                   asamblea. \n\n\n\n•    All  persons should refrain from private conversation, eating,            •    Todas     las  personas     deben    abstenerse     de    entablar \n\n     drinking and smoking while in the Council Chamber.                             conversaciones, comer, beber y fumar dentro de la cámara \n\n\n\n                                                                                    del Ayuntamiento. \n\n•    Posters or placards must remain outside the Council Chamber. \n\n                                                                               •    Anuncios y pancartas deben permanecer fuera de la cámara  \n\n•    No  cellular  phones  or  audible  beepers  allowed  in  Council               del Ayuntamiento. \n\n     Chamber while City Council is in session. \n\n                                                                               •    No se permite usar teléfonos celulares o enlaces electrónicos  \n\n“Citizens  and  other  visitors  attending  City  Council   meetings                (pagers)  audibles en  la  cámara  del  Ayuntamiento  durante \n\nshall  observe  the  same  rules  of  propriety,  decorum  and  good                audiencias del Ayuntamiento Municipal \n\nconduct applicable to members of the City Council.  Any person  \n\nmaking  personal,  impertinent,  profane  or  slanderous  remarks              “Los ciudadanos y visitantes presentes durante las asambleas del  \n\nor  who  becomes  boisterous  while  addressing  the  City  Council            Ayuntamiento Municipal deben de obedecer las mismas reglas de  \n\nor  while  attending  the  City  Council  meeting  shall  be  removed          comportamiento, decoro y buena conducta que se aplican a los  \n\nfrom  the  room  if  the  sergeant-at-arms  is  so  directed  by  the          miembros del Ayuntamiento Municipal.  Cualquier persona que  \n\npresiding  officer,  and  the  person  shall  be  barred  from  further        haga comentarios  impertinentes,  utilice  vocabulario obsceno  o  \n\naudience before the City Council during that session of the City               difamatorio, o que al dirigirse al Ayuntamiento lo haga en forma  \n\nCouncil.  If the presiding  officer fails to act, any member of the            escandalosa,  o  si  causa  disturbio  durante  la  asamblea  del  \n\nCity  Council  may  move  to  require  enforcement  of  the  rules,            Ayuntamiento Municipal, será expulsada de la cámara si el oficial  \n\nand  the  affirmative  vote  of  a  majority of the City Council shall         que este presidiendo la asamblea así lo ordena.  Además, se le  \n\nrequire  the  presiding  officer  to  act.”  Section",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
-        "item_number": "B",
-        "title": "Solid Waste Franchise Program Updates",
-        "description": "Updates including program administration, proposed franchise fee increase, and recommended actions.",
-        "presenter": "Clifton Gillespie, Director, Sanitation Services",
-        "action_required": "discuss"
+        "item_number": "1",
+        "title": "seeking      the    advice      of   its   attorney      about     pending       or    contemplated ...",
+        "description": "seeking      the    advice      of   its   attorney      about     pending       or    contemplated        litigation,  \n\n            settlement  offers,  or  any  matter  in  which  the  duty  of  the  attorney  to  the  City  Council  \n\n            under  the  Texas  Disciplinary  Rules  of  Professional  Conduct  of  the  State  Bar  of  Texas  \n\n            clearly conflicts with the Texas Open Meetings Act.  [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
-        "item_number": "C",
-        "title": "FY 2024-25 Budget Ordinance Changes",
-        "description": "Discussion on changes to the budget ordinance for FY 2024-25.",
-        "presenter": "Janette Weedon, Director, Budget & Management Services; Ivan Guel, Assistant Director, Budget & Management Services",
-        "action_required": "discuss"
+        "item_number": "2",
+        "title": "deliberating  the  purchase,  exchange,  lease,  or  value  of  real  property  if  deliberation  in...",
+        "description": "deliberating  the  purchase,  exchange,  lease,  or  value  of  real  property  if  deliberation  in  \n\n            an   open     meeting     would     have    a   detrimental      effect   on    the   position    of   the   city   in  \n\n            negotiations with a third person.  [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
-        "item_number": "D",
-        "title": "Upcoming Agenda Items",
-        "description": "Discussion of upcoming agenda items for December 11, 2024.",
-        "presenter": "City Controller’s Office",
-        "action_required": "discuss"
+        "item_number": "3",
+        "title": "deliberating     a   negotiated     contract    for   a   prospective      gift  or   donation     t...",
+        "description": "deliberating     a   negotiated     contract    for   a   prospective      gift  or   donation     to  the    city  if  \n\n            deliberation  in  an  open  meeting  would  have  a  detrimental  effect  on  the  position  of  the  \n\n            city in negotiations with a third person. [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
-        "item_number": "E",
-        "title": "Quarterly Investment Report - 4th Quarter FY2023-24",
-        "description": "Presentation of the quarterly investment report.",
-        "presenter": "City Controller’s Office",
-        "action_required": "discuss"
+        "item_number": "4",
+        "title": "deliberating       the     appointment,         employment,          evaluation,       reassignment,...",
+        "description": "deliberating       the     appointment,         employment,          evaluation,       reassignment,          duties,  \n\n            discipline,   or   dismissal   of   a   public   officer   or   employee;   or   to   hear   a   complaint   or  \n\n            charge   against   an   officer   or   employee   unless   the   officer   or   employee   who   is   the  \n\n            subject   of   the   deliberation   or   hearing   requests   a   public   hearing.      [ Tex.   Govt.   Code  \n\n            §",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
-        "item_number": "F",
-        "title": "FY 2024-25 Fee Study Technical Corrections",
-        "description": "Discussion on technical corrections for items inadvertently excluded from the fee ordinance.",
-        "presenter": "Budget & Management Services",
-        "action_required": "discuss"
+        "item_number": "5",
+        "title": "deliberating     the    deployment,       or   specific    occasions      for   implementation,     ...",
+        "description": "deliberating     the    deployment,       or   specific    occasions      for   implementation,        of   security  \n\n            personnel or devices.  [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
-        "item_number": "G",
-        "title": "American Rescue Plan Act - Monthly Financial Status Report",
-        "description": "Monthly financial status report for the period ending October 31, 2024.",
-        "presenter": "Budget & Management Services",
-        "action_required": "discuss"
+        "item_number": "6",
+        "title": "discussing      or   deliberating      commercial       or   financial     information      that   t...",
+        "description": "discussing      or   deliberating      commercial       or   financial     information      that   the    city   has  \n\n            received  from  a  business  prospect  that  the  city  seeks  to  have  locate,  stay  or  expand  \n\n            in  or   near    the   city   and    with    which    the   city   is  conducting      economic       development  \n\n            negotiations;   or   deliberating   the   offer   of   a   financial   or   other   incentive   to   a   business  \n\n            prospect.  [Tex Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
-        "item_number": "H",
-        "title": "CDBG Public Improvement Contract Rescission",
-        "description": "Discussion on the rescission of the CDBG public improvement contract.",
-        "presenter": "Budget & Management Services",
-        "action_required": "discuss"
-      },
-      {
-        "item_number": "I",
-        "title": "Monthly Internal Update on Internal Audit Reports",
-        "description": "Update on internal audit reports released between October 12, 2024, and November 22, 2024.",
-        "presenter": "City Auditor",
-        "action_required": "discuss"
-      },
-      {
-        "item_number": "J",
-        "title": "Review of Fair Park Management Agreement Right to Audit Clause",
-        "description": "Review of the right to audit clause in the Fair Park management agreement.",
-        "presenter": "City Auditor",
-        "action_required": "discuss"
-      },
-      {
-        "item_number": "K",
-        "title": "Upcoming Agenda Item - Litigation Support Services Agreement",
-        "description": "Discussion on a cooperative purchasing service price agreement for litigation support.",
-        "presenter": "City Attorney’s Office",
-        "action_required": "discuss"
-      },
-      {
-        "item_number": "L",
-        "title": "Proposed Ordinance Amending Code of Ethics",
-        "description": "Discussion on amending the Code of Ethics to establish the Office of the Inspector General.",
-        "presenter": "City Attorney’s Office",
-        "action_required": "discuss"
-      },
-      {
-        "item_number": "M",
-        "title": "Surplus Sale and Demolition Project Update",
-        "description": "Update on the surplus sale and demolition project at 711 South St. Paul.",
-        "presenter": "Facilities and Real Estate Management",
-        "action_required": "discuss"
-      },
-      {
-        "item_number": "N",
-        "title": "Technology Accountability Report",
-        "description": "Report on technology accountability as of November 30, 2024.",
-        "presenter": "Information & Technology Services",
-        "action_required": "discuss"
-      },
-      {
-        "item_number": "O",
-        "title": "Progress of Family Gateway Property Repairs",
-        "description": "Report on the progress of repairs as of November 2024.",
-        "presenter": "Office of Homeless Solutions",
-        "action_required": "discuss"
-      },
-      {
-        "item_number": "P",
-        "title": "High-Speed Rail Delegation to Japan 2024",
-        "description": "Summary of expenses related to the high-speed rail delegation to Japan.",
-        "presenter": "Office of Government Affairs",
-        "action_required": "discuss"
+        "item_number": "7",
+        "title": "deliberating     security    assessments        or   deployments        relating    to   information...",
+        "description": "deliberating     security    assessments        or   deployments        relating    to   information     resources  \n\n            technology,   network   security   information,   or   the   deployment   or   specific   occasions   for  \n\n            implementations        of    security     personnel,      critical   infrastructure,     or    security     devices .   \n\n            [Tex Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       }
     ],
     "keywords": [
-      "Government Performance",
-      "Financial Management",
-      "Budget",
-      "Solid Waste",
-      "Franchise Program",
-      "Investment Report",
-      "CDBG",
-      "Audit",
-      "Ethics",
-      "High-Speed Rail",
-      "Family Gateway",
-      "Technology Accountability",
-      "City Council",
-      "Public Safety",
-      "Economic Development"
+      "tif",
+      "budget",
+      "approval",
+      "public",
+      "development",
+      "improvement",
+      "transportation",
+      "ordinance",
+      "resolution",
+      "contract"
     ],
-    "financial_items": [
-      {
-        "description": "Issuance of $40,000,000 in Combination Tax and Revenue Certificates of Obligation for Financing Stormwater Capital Projects",
-        "amount": "$40,000,000",
-        "type": "funding"
-      }
-    ]
+    "financial_items": []
   },
   "extraction_method": "openai_gpt",
   "original_length": 24934

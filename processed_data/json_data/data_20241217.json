@@ -49,7 +49,7 @@
       {
         "item_number": "4",
         "title": "Community Announcements",
-        "description": "Announcements from the community.",
+        "description": "Announcements relevant to the community.",
         "presenter": null,
         "action_required": null
       },
@@ -63,7 +63,7 @@
       {
         "item_number": "6",
         "title": "Ethics Disclosures",
-        "description": "Disclosure of any relationships by Board members related to agenda items.",
+        "description": "Disclosure of any relationships by Board members with projects on the agenda.",
         "presenter": "Keith Pomykal",
         "action_required": null
       },
@@ -128,17 +128,17 @@
       "Dallas Public Facility Corporation",
       "Board Meeting",
       "Public Testimony",
-      "Community Announcements",
       "Minutes Approval",
       "Ethics Disclosures",
-      "Security Discussion",
-      "Appointment Procedures",
-      "Property Monitoring",
+      "Security",
+      "Fencing",
       "Annual Report",
-      "Website Briefing",
-      "Staff Hiring Committee",
+      "Website",
+      "Staff Hiring",
       "Pipeline Report",
-      "Adjournment"
+      "Community Announcements",
+      "Appointment Procedures",
+      "Property Monitoring"
     ],
     "financial_items": []
   },

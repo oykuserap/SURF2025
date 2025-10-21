@@ -18,21 +18,7 @@
         "Ghassan Khankarli, Ph.D., P.E.",
         "James Baker III"
       ],
-      "participants": [
-        "Atkins",
-        "Arnold",
-        "Bazaldua",
-        "Ridley",
-        "Stewart",
-        "West",
-        "Mendelsohn",
-        "Moreno",
-        "Resendez",
-        "Gracey",
-        "Willis",
-        "Blackmon",
-        "Schultz"
-      ]
+      "participants": []
     },
     "agenda_items": [
       {
@@ -66,9 +52,16 @@
       {
         "item_number": "E 24-2525",
         "title": "Approval Amendments to Chapter 3, Article III, Chapter 8, and Appendix 1 of the DFW International Airport’s Code of Rules and Regulations",
-        "description": "Discussion and approval of amendments to the airport's code of rules and regulations.",
+        "description": "Discussion on amendments to the airport's code of rules and regulations.",
         "presenter": "James Baker III",
         "action_required": "approve"
+      },
+      {
+        "item_number": "F 24-2505",
+        "title": "Monthly Update of Public Works Program Performance - July 2024",
+        "description": "Monthly performance update of the Public Works program.",
+        "presenter": "Ghassan Khankarli, Ph.D., P.E.",
+        "action_required": "discuss"
       }
     ],
     "keywords": [
@@ -76,36 +69,42 @@
       "Infrastructure",
       "Dallas Love Field",
       "Legislative Priorities",
-      "Economic Impact Analysis",
       "Public Works",
-      "Aviation",
-      "City Council",
-      "Committee Meeting",
-      "Funding",
+      "Economic Impact",
+      "High Speed Rail",
+      "Airport Regulations",
       "Construction",
-      "Public Safety",
-      "Environmental Impact",
-      "Community Engagement"
+      "Funding",
+      "City Council",
+      "Meeting Minutes",
+      "Public Participation",
+      "Video Conference",
+      "City Hall"
     ],
     "financial_items": [
       {
         "description": "Cooperative purchasing agreement for web-based managed security system software",
         "amount": "$1,027,256.25",
-        "type": "budget"
+        "type": "funding"
       },
       {
-        "description": "Construction service contract for HVAC and roof repairs at Dallas Love Field",
+        "description": "Construction service contract for HVAC and roof repairs at Dallas Love Field Garage",
         "amount": "$7,199,214.61",
         "type": "expenditure"
       },
       {
-        "description": "Acquisition of land for the Dallas Executive Airport Project",
+        "description": "Construction services for Dallas Airport System Signage Project",
+        "amount": "$1,218,632.00",
+        "type": "expenditure"
+      },
+      {
+        "description": "Acquisition of land for Dallas Executive Airport Project",
         "amount": "$53,000.00",
         "type": "expenditure"
       },
       {
-        "description": "Increase in construction services contract for additional work on the Union Bikeway Connector Project",
-        "amount": "$180,468.44",
+        "description": "Acquisition of wastewater easement for McKamy and Osage Branch Wastewater Interceptor Project",
+        "amount": "$400,000.00",
         "type": "expenditure"
       }
     ]

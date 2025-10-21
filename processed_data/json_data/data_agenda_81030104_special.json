@@ -13,7 +13,7 @@
     "attendees": {
       "chair": null,
       "presenters": [
-        "Kevin Spath"
+        "Kevin Spath, Assistant Director, Office of Economic Development"
       ],
       "participants": []
     },
@@ -36,19 +36,19 @@
         "item_number": "3",
         "title": "Review and consideration of the Meeting Record of the January 22, 2024 Mall Area Redevelopment TIF District Board Meeting.",
         "description": "",
-        "presenter": "Kevin Spath",
+        "presenter": "Kevin Spath, Assistant Director, Office of Economic Development",
         "action_required": "Approval"
       },
       {
         "item_number": "4",
         "title": "Review and consideration of a fourth amendment to the Tax Increment Development, Chapter 380 Grant, and Chapter 380 Loan Agreement.",
         "description": "Amendments related to the Reimagine RedBird Mall Redevelopment Project, including changes to investment requirements and occupancy standards.",
-        "presenter": "Kevin Spath",
+        "presenter": "Kevin Spath, Assistant Director, Office of Economic Development",
         "action_required": "Approval and forward a recommendation of approval to City Council"
       },
       {
         "item_number": "5",
-        "title": "Adjournment",
+        "title": "Adjournment.",
         "description": "",
         "presenter": null,
         "action_required": null
@@ -60,16 +60,16 @@
       "TIF District",
       "Special Called Meeting",
       "Economic Development",
-      "Public Comments",
       "Meeting Record",
       "Tax Increment Development",
       "Chapter 380 Grant",
       "Loan Agreement",
       "Reimagine RedBird Mall",
       "Investment Requirement",
-      "Occupancy Standards",
+      "Occupancy Requirement",
+      "Approval",
       "City Council",
-      "Adjournment"
+      "Public Comments"
     ],
     "financial_items": [
       {

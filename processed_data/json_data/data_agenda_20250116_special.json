@@ -5,10 +5,10 @@
   "extracted_data": {
     "meeting_info": {
       "date": "January 16, 2025",
-      "time": "11:00 AM",
+      "time": "11:00 AM - 12:30 PM",
       "type": "Special Called Meeting",
       "organization": "City Plan Commission",
-      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla, Dallas, Texas"
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
     },
     "attendees": {
       "chair": "Tony Shidid",
@@ -22,7 +22,7 @@
         "item_number": "1",
         "title": "Briefing Item",
         "description": "Briefing on DCA190-002 Off-Street Parking & Loading Code Amendment: Consideration of amending Chapter 51 and 51A of the Dallas Development Code regarding minimum off-street parking and loading requirements, including establishing a Transportation Demand Management Plan and off-street parking design standards.",
-        "presenter": "Michael Wade",
+        "presenter": "Michael Wade, Planning and Development Department",
         "action_required": "discuss"
       },
       {
@@ -41,16 +41,15 @@
       }
     ],
     "keywords": [
-      "Dallas",
       "City Plan Commission",
       "Special Called Meeting",
       "Public Hearing",
       "Off-Street Parking",
       "Loading Code Amendment",
       "Transportation Demand Management",
-      "Zoning",
+      "Dallas Development Code",
+      "Zoning Regulations",
       "Annual Report",
-      "Development Code",
       "Planning and Development"
     ],
     "financial_items": []

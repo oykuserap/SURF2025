@@ -5,10 +5,10 @@
   "extracted_data": {
     "meeting_info": {
       "date": "May 8, 2024",
-      "time": null,
-      "type": "Briefing",
-      "organization": "Citizens  Can  Find  Out               Persona      Que    Desee      Hablar    Durante      La   Asamblea       Del  \n\nThe  Name  Of  Their  Representative  And  Their  Voting  District",
-      "location": "Dallas City Hall"
+      "time": "9:00 AM",
+      "type": "Regular Meeting",
+      "organization": "City of Dallas",
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
     },
     "attendees": {
       "chair": null,
@@ -17,82 +17,118 @@
     },
     "agenda_items": [
       {
-        "item_number": "16",
-        "title": "Briefing   meetings   are   held   the        primer    y   tercer   miércoles    del   mes.    Esta...",
-        "description": "Briefing   meetings   are   held   the        primer    y   tercer   miércoles    del   mes.    Estas    audiencias     se  \n\nfirst  and   third   Wednesdays       of   each    month.         Council         transmiten      en    vivo     por    la    bit.ly/cityofdallastv   y    por  \n\nagenda     (voting)   meetings     are   held   on    the   second     and        cablevisión    en   la  estación    Time    Warner     City  Cable    Canal  \n\nfourth   Wednesdays.           Anyone     wishing     to   speak    at   a",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
-        "item_number": "311",
-        "title": "Ciudad    de   Dallas    se  esfuerza     por  cumplir    con   el  decreto  \n\n                     ...",
-        "description": "Ciudad    de   Dallas    se  esfuerza     por  cumplir    con   el  decreto  \n\n                                                                                  que   protege    a   las   personas    con    impedimentos,      Americans  \n\n                                                                                  with   Disabilities  Act.      La   agenda     del   Ayuntamiento       está  \n\n                                                                                  disponible en formatos alternos si lo solicita.  \n\n\n\n                                                                                  Si  tiene   preguntas     sobre    esta   agenda,    o   si  desea     hacer  \n\n                                                                                  comentarios   o   presentar   quejas   con   respecto   a   servicios   de  \n\n                                                                                  la Ciudad, llame al",
-        "presenter": null,
-        "action_required": "Action"
-      },
-      {
         "item_number": "1",
-        "title": "seeking      the    advice      of   its   attorney      about     pending       or    contemplated ...",
-        "description": "seeking      the    advice      of   its   attorney      about     pending       or    contemplated        litigation,  \n\n            settlement  offers,  or  any  matter  in  which  the  duty  of  the  attorney  to  the  City  Council  \n\n            under  the  Texas  Disciplinary  Rules  of  Professional  Conduct  of  the  State  Bar  of  Texas  \n\n            clearly conflicts with the Texas Open Meetings Act.  [Tex. Govt. Code §",
+        "title": "Approval of Minutes of the April 24, 2024 City Council Meeting",
+        "description": "Approval of the minutes from the previous meeting.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
         "item_number": "2",
-        "title": "deliberating  the  purchase,  exchange,  lease,  or  value  of  real  property  if  deliberation  in...",
-        "description": "deliberating  the  purchase,  exchange,  lease,  or  value  of  real  property  if  deliberation  in  \n\n            an   open     meeting     would     have    a   detrimental      effect   on    the   position    of   the   city   in  \n\n            negotiations with a third person.  [Tex. Govt. Code §",
+        "title": "An ordinance amending Ordinance No. 32554",
+        "description": "Amending the ordinance for transfers and appropriation adjustments for FY 2023-24.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
         "item_number": "3",
-        "title": "deliberating     a   negotiated     contract    for   a   prospective      gift  or   donation     t...",
-        "description": "deliberating     a   negotiated     contract    for   a   prospective      gift  or   donation     to  the    city  if  \n\n            deliberation  in  an  open  meeting  would  have  a  detrimental  effect  on  the  position  of  the  \n\n            city in negotiations with a third person. [Tex. Govt. Code §",
+        "title": "Authorize preliminary adoption of the FY 2024-25 HUD Consolidated Plan Budget",
+        "description": "Adoption of the HUD Consolidated Plan Budget for various programs.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
         "item_number": "4",
-        "title": "deliberating       the     appointment,         employment,          evaluation,       reassignment,...",
-        "description": "deliberating       the     appointment,         employment,          evaluation,       reassignment,          duties,  \n\n            discipline,   or   dismissal   of   a   public   officer   or   employee;   or   to   hear   a   complaint   or  \n\n            charge   against   an   officer   or   employee   unless   the   officer   or   employee   who   is   the  \n\n            subject   of   the   deliberation   or   hearing   requests   a   public   hearing.      [ Tex.   Govt.   Code  \n\n            §",
+        "title": "Authorize a Second Amendment to the concession contract with CBC SSP America DAL, LLC",
+        "description": "Amendment for food and beverage concessions services at Dallas Love Field Airport.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
         "item_number": "5",
-        "title": "deliberating     the    deployment,       or   specific    occasions      for   implementation,     ...",
-        "description": "deliberating     the    deployment,       or   specific    occasions      for   implementation,        of   security  \n\n            personnel or devices.  [Tex. Govt. Code §",
+        "title": "Authorize a Fourth Amendment to the concession contract with Dickey’s Love Field JV, LLC",
+        "description": "Amendment for food and beverage concessions services at Dallas Love Field Airport.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
         "item_number": "6",
-        "title": "discussing      or   deliberating      commercial       or   financial     information      that   t...",
-        "description": "discussing      or   deliberating      commercial       or   financial     information      that   the    city   has  \n\n            received  from  a  business  prospect  that  the  city  seeks  to  have  locate,  stay  or  expand  \n\n            in  or   near    the   city   and    with    which    the   city   is  conducting      economic       development  \n\n            negotiations;   or   deliberating   the   offer   of   a   financial   or   other   incentive   to   a   business  \n\n            prospect.  [Tex Govt. Code §",
+        "title": "Authorize a Fourth Amendment to the concession contract with Pop Four Love Field JV, LLC",
+        "description": "Amendment for food and beverage concessions services at Dallas Love Field Airport.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
         "item_number": "7",
-        "title": "deliberating     security    assessments        or   deployments        relating    to   information...",
-        "description": "deliberating     security    assessments        or   deployments        relating    to   information     resources  \n\n            technology,   network   security   information,   or   the   deployment   or   specific   occasions   for  \n\n            implementations        of    security     personnel,      critical   infrastructure,     or    security     devices .   \n\n            [Tex Govt. Code §",
+        "title": "Authorize a Fourth Amendment to the concession contract with The Grove, Inc.",
+        "description": "Amendment for food and beverage concessions services at Dallas Love Field Airport.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
+      },
+      {
+        "item_number": "29",
+        "title": "Consideration of appointments to boards and commissions",
+        "description": "Evaluation and duties of board and commission members.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "30",
+        "title": "Authorize Convention and Event Services to provide a year-to-year subsidy",
+        "description": "Subsidy for Fair Park First to facilitate agreement with a professional sports team.",
+        "presenter": null,
+        "action_required": "approve"
       }
     ],
     "keywords": [
-      "district",
+      "Dallas City Council",
+      "meeting",
+      "agenda",
+      "HUD Consolidated Plan",
+      "concession contracts",
+      "food and beverage",
       "budget",
-      "funding",
-      "approval",
-      "recommendation",
-      "public",
-      "development",
-      "improvement",
-      "transportation",
-      "planning"
+      "public hearings",
+      "appointments",
+      "subsidy",
+      "community development",
+      "public works",
+      "zoning",
+      "financial adjustments",
+      "emergency services"
     ],
-    "financial_items": []
+    "financial_items": [
+      {
+        "description": "Transfers and appropriation adjustments for FY 2023-24",
+        "amount": "$5,545,369,523",
+        "type": "budget"
+      },
+      {
+        "description": "FY 2024-25 HUD Consolidated Plan Budget",
+        "amount": "$32,857,691",
+        "type": "funding"
+      },
+      {
+        "description": "Estimated Revenue from food and beverage concessions",
+        "amount": "$1,854,000",
+        "type": "revenue"
+      },
+      {
+        "description": "Estimated Revenue from food and beverage concessions",
+        "amount": "$900,000",
+        "type": "revenue"
+      },
+      {
+        "description": "Estimated Revenue from food and beverage concessions",
+        "amount": "$1,200,000",
+        "type": "revenue"
+      },
+      {
+        "description": "Estimated Revenue from food and beverage concessions",
+        "amount": "$1,577,025",
+        "type": "revenue"
+      }
+    ]
   },
   "extraction_method": "openai_gpt",
   "original_length": 55774

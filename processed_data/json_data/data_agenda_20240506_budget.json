@@ -8,7 +8,7 @@
       "time": "9:00 AM",
       "type": "Regular Meeting",
       "organization": "Parks, Trails, and the Environment Committee",
-      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; Virtual via Webex"
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; Virtual via video conference"
     },
     "attendees": {
       "chair": "Moreno",
@@ -34,7 +34,7 @@
       {
         "item_number": "A",
         "title": "2024 Summer Aquatics Preview",
-        "description": "Preview of the upcoming summer aquatics programs.",
+        "description": "Preview of the summer aquatics program.",
         "presenter": "John Lawrence, Assistant Director, Parks and Recreation Department; Juan Robles, Superintendent, Aquatics, Parks and Recreation Department",
         "action_required": "discuss"
       },
@@ -75,10 +75,13 @@
       "Sustainability",
       "Budget",
       "Commission",
+      "Incentive Plan",
+      "CECAP",
       "Dallas",
-      "Committee",
+      "City Council",
       "Meeting",
-      "Update"
+      "Update",
+      "Briefing"
     ],
     "financial_items": []
   },

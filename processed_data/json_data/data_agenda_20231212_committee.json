@@ -38,30 +38,44 @@
       {
         "item_number": "C 23-3207",
         "title": "Overview of Upcoming Agenda Item: Home Improvement & Preservation Program Amendment",
-        "description": "Overview of the upcoming amendment to the Home Improvement & Preservation Program.",
+        "description": "Overview of the amendment to the Home Improvement & Preservation Program.",
         "presenter": "Thor Erickson",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "D 23-3208",
+        "title": "1950 Fort Worth Avenue Property Update",
+        "description": "Update on the property located at 1950 Fort Worth Avenue.",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "E 23-3209",
+        "title": "Department of Housing and Neighborhood Revitalization and Office of Homeless Solutions - Glossary of Terms",
+        "description": "Presentation of the glossary of terms used by the Department of Housing and Neighborhood Revitalization and Office of Homeless Solutions.",
+        "presenter": "Christine Crossley",
         "action_required": "discuss"
       },
       {
         "item_number": "F 23-3210",
         "title": "Dallas County 4150 Independence Road Subrecipient Agreement",
-        "description": "Authorize the acceptance of a $2,500,000.00 grant from the County’s allocated ARPA funds for supportive housing.",
+        "description": "Authorize the acceptance of a $2,500,000 grant from the County’s allocated ARPA funds for supportive housing.",
         "presenter": "Christine Crossley",
         "action_required": "approve"
       },
       {
-        "item_number": "K 23-3220",
-        "title": "Consulting Services for City-Owned Property",
-        "description": "Authorize the ratification of consulting services for the city-owned property at 2929 South Hampton Road.",
+        "item_number": "G 23-3211",
+        "title": "Office of Homeless Solutions Upcoming Agenda Items",
+        "description": "Discussion of upcoming agenda items related to the Office of Homeless Solutions.",
         "presenter": "Christine Crossley",
-        "action_required": "approve"
+        "action_required": "discuss"
       },
       {
-        "item_number": "M 23-3221",
-        "title": "Acceptance of Grant from TDHCA",
-        "description": "Authorize the acceptance of a grant from TDHCA to provide services to the homeless.",
-        "presenter": "Christine Crossley",
-        "action_required": "approve"
+        "item_number": "H 23-3223",
+        "title": "Committee Forecast",
+        "description": "Forecast of upcoming committee activities.",
+        "presenter": null,
+        "action_required": "discuss"
       }
     ],
     "keywords": [
@@ -69,31 +83,31 @@
       "Homelessness",
       "Committee Meeting",
       "Dallas",
-      "Grant",
       "Supportive Housing",
-      "Consulting Services",
+      "Grant",
       "American Rescue Plan",
-      "Community Development",
       "Neighborhood Revitalization",
+      "Consulting Services",
       "Public Hearing",
-      "Action Plan",
-      "Funding",
+      "Community Development",
       "Affordable Housing",
-      "City Council"
+      "Agenda Items",
+      "Roles and Responsibilities",
+      "Property Update"
     ],
     "financial_items": [
       {
-        "description": "Grant from the County’s allocated ARPA funds for supportive housing.",
+        "description": "Acceptance of a $2,500,000 grant from the County’s allocated ARPA funds.",
         "amount": "$2,500,000.00",
         "type": "grant"
       },
       {
-        "description": "Consulting services for the city-owned property at 2929 South Hampton Road.",
+        "description": "Consulting services provided by Wright Choice Group, LLC.",
         "amount": "$144,333.00",
-        "type": "consulting"
+        "type": "consulting services"
       },
       {
-        "description": "Grant from TDHCA for services to the homeless.",
+        "description": "Grant from the Texas Department of Housing and Community Affairs.",
         "amount": "$164,293.00",
         "type": "grant"
       }

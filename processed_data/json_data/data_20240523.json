@@ -43,62 +43,48 @@
       {
         "item_number": "3",
         "title": "Opening Remarks & Introduction of Speakers",
-        "description": "Introduction of speakers by the Director of Office of Homeless Solutions",
+        "description": "",
         "presenter": "Christine Crossley",
         "action_required": "discuss"
       },
       {
         "item_number": "4",
         "title": "Session One",
-        "description": "Includes multiple presentations on homelessness and related topics",
+        "description": "Includes various presentations on homelessness and related topics.",
         "presenter": "Rae Clay, Mark Pollack",
         "action_required": "discuss"
       },
       {
-        "item_number": "5",
-        "title": "Lunch Recess",
-        "description": "Break for lunch",
-        "presenter": null,
-        "action_required": null
-      },
-      {
         "item_number": "6",
         "title": "Session Two",
-        "description": "Continued discussions on various topics related to homelessness",
+        "description": "Continued discussions on various topics related to homelessness.",
         "presenter": "Dr. Marci Jackson",
         "action_required": "discuss"
       },
       {
-        "item_number": "7",
-        "title": "Break and Networking",
-        "description": "Travel to Fair Park Multi-media Center",
-        "presenter": null,
-        "action_required": null
-      },
-      {
         "item_number": "8",
         "title": "Adjournment",
-        "description": "Closing remarks and adjournment of the meeting",
+        "description": "",
         "presenter": "Linda Garner",
         "action_required": "adjourn"
       }
     ],
     "keywords": [
       "Homelessness",
-      "Citizen Homelessness Commission",
       "Public Comments",
-      "Opening Remarks",
       "Session One",
       "Session Two",
-      "Networking",
-      "Adjournment",
       "Fair Park",
       "Dallas",
+      "Commission",
+      "Expertise",
       "Community Impact",
       "Advisory Committee",
-      "Expertise Journey",
-      "Parliamentary Procedure",
-      "Real-world Scenarios"
+      "Legal Notice",
+      "Quorum",
+      "Networking",
+      "Public Information",
+      "Parliamentary Procedure"
     ],
     "financial_items": []
   },

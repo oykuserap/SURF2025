@@ -20,22 +20,7 @@
         "Susana Solis",
         "Nina Arias"
       ],
-      "participants": [
-        "Narvaez",
-        "Arnold",
-        "Bazaldua",
-        "Ridley",
-        "Stewart",
-        "West",
-        "Blackmon",
-        "Mendelsohn",
-        "Moreno",
-        "Resendez",
-        "Gracey",
-        "Willis",
-        "Schultz",
-        "Johnson"
-      ]
+      "participants": []
     },
     "agenda_items": [
       {
@@ -56,14 +41,14 @@
         "item_number": "B",
         "title": "FY24 Mid-Year Appropriation Adjustments",
         "description": "Presentation on mid-year budget adjustments.",
-        "presenter": "Janette Weedon, Director, Budget & Management Services",
+        "presenter": "Janette Weedon",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "FY 2024-25 Planned Budget: Office of Government Affairs",
         "description": "Presentation on the planned budget for the Office of Government Affairs.",
-        "presenter": "Carrie Rogers, Director, Office of Government Affairs",
+        "presenter": "Carrie Rogers",
         "action_required": "discuss"
       },
       {
@@ -82,8 +67,8 @@
       },
       {
         "item_number": "F",
-        "title": "May 8, 2024, Upcoming Agenda Item - Dallas Water Utilities Billing System",
-        "description": "Discussion on the upcoming agenda item related to the Dallas Water Utilities billing system.",
+        "title": "Upcoming Agenda Item - Dallas Water Utilities Billing System",
+        "description": "Discussion on the upcoming agenda item regarding the Dallas Water Utilities billing system.",
         "presenter": "Dallas Water Utilities",
         "action_required": "discuss"
       },
@@ -120,18 +105,18 @@
       "Government Performance",
       "Financial Management",
       "City Council",
-      "Budget Adjustments",
-      "Real Estate Development",
-      "Audit Reports",
-      "Insurance Program",
-      "Water Utilities",
-      "Small Business Center",
+      "Budget",
+      "Real Estate",
+      "Audit",
+      "Insurance",
+      "Utilities",
+      "Small Business",
+      "Development",
+      "Redevelopment",
+      "Appropriation Adjustments",
       "Technology Accountability",
-      "Budget Accountability",
-      "Economic Development",
-      "Public Safety",
-      "Community Engagement",
-      "City Governance"
+      "Meeting Minutes",
+      "Public Safety"
     ],
     "financial_items": []
   },

@@ -13,8 +13,7 @@
     "attendees": {
       "chair": "Matthew McDougal",
       "presenters": [
-        "Jon Fortune",
-        "Matthew McDougal"
+        "Jon Fortune"
       ],
       "participants": []
     },
@@ -51,12 +50,7 @@
       "Executive Session",
       "Videoconference",
       "Dallas",
-      "City Hall",
-      "Public Meeting",
-      "Legal Advice",
-      "Real Property",
-      "Employment",
-      "Security"
+      "City Hall"
     ],
     "financial_items": []
   },

@@ -54,8 +54,8 @@
       {
         "item_number": "VI",
         "title": "Case Docket",
-        "description": "Uncontested Items - Holdover Items - Individual Items",
-        "presenter": "Board of Adjustment",
+        "description": "Board of Adjustment - Uncontested Items - Holdover Items - Individual Items",
+        "presenter": null,
         "action_required": null
       },
       {
@@ -72,15 +72,13 @@
       "Public Testimony",
       "Miscellaneous Items",
       "Case Docket",
+      "Uncontested Items",
       "Fence Height Regulations",
       "Special Exception",
       "Dallas City Hall",
       "Videoconference",
-      "Accommodations",
-      "Executive Session",
-      "Uncontested Cases",
-      "Holdover Items",
-      "Individual Cases"
+      "Minutes Approval",
+      "Adjournment"
     ],
     "financial_items": []
   },

@@ -21,8 +21,6 @@
       ],
       "participants": [
         "Budget & Management Services",
-        "City Controller's Office",
-        "Information & Technology Services",
         "Office of City Auditor",
         "Office of Homeless Solutions",
         "Office of Government Affairs"
@@ -32,14 +30,14 @@
       {
         "item_number": "1",
         "title": "Approval of the June 24, 2024 and August 6, 2024 Government Performance and Financial Management Committee Meeting Minutes",
-        "description": "Approval of previous meeting minutes.",
+        "description": "Approval of the minutes from the previous meetings.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "A",
         "title": "DFW International Airport’s FY25 Budget",
-        "description": "Presentation on the budget for the fiscal year 2025.",
+        "description": "Presentation on the budget for the fiscal year 2025 for DFW International Airport.",
         "presenter": "Chris Poinsatte",
         "action_required": "discuss"
       },
@@ -60,62 +58,62 @@
       {
         "item_number": "D",
         "title": "Status of Quarterly ARPA Spending",
-        "description": "Report on the quarterly spending of ARPA funds.",
-        "presenter": null,
+        "description": "Report on the spending of ARPA funds for the quarter.",
+        "presenter": "Budget & Management Services",
         "action_required": "discuss"
       },
       {
         "item_number": "E",
         "title": "General Fund Reserve Overview",
-        "description": "Overview of the General Fund reserves.",
-        "presenter": null,
+        "description": "Overview of the general fund reserve.",
+        "presenter": "Budget & Management Services",
         "action_required": "discuss"
       },
       {
         "item_number": "F",
         "title": "AdvantageDallas Financial System Upgrade - Project Update",
-        "description": "Update on the financial system upgrade project.",
-        "presenter": null,
+        "description": "Update on the project for upgrading the AdvantageDallas financial system.",
+        "presenter": "Information & Technology Services",
         "action_required": "discuss"
       },
       {
         "item_number": "G",
         "title": "Quarterly Investment Report",
         "description": "Report on the quarterly investments.",
-        "presenter": null,
+        "presenter": "City Controller’s Office",
         "action_required": "discuss"
       },
       {
         "item_number": "H",
         "title": "Technology Accountability Report (Information as of Jul 21, 2024)",
-        "description": "Report on technology accountability.",
-        "presenter": null,
+        "description": "Report on technology accountability as of July 21, 2024.",
+        "presenter": "Information & Technology Services",
         "action_required": "discuss"
       },
       {
         "item_number": "I",
         "title": "Office of City Auditor Monthly Update on Internal Audit Reports Released Between Apr 13, 2024 and Aug 16, 2024",
-        "description": "Monthly update from the Office of City Auditor.",
-        "presenter": null,
+        "description": "Monthly update on internal audit reports.",
+        "presenter": "Office of City Auditor",
         "action_required": "discuss"
       },
       {
         "item_number": "J",
         "title": "Family Gateway Property Damage",
         "description": "Discussion on property damage related to Family Gateway.",
-        "presenter": null,
+        "presenter": "Office of Homeless Solutions",
         "action_required": "discuss"
       },
       {
         "item_number": "K",
         "title": "ERCOT’s Board Member Stakeholder Engagement Meetings (August 2024)",
         "description": "Discussion on ERCOT's stakeholder engagement meetings.",
-        "presenter": null,
+        "presenter": "Office of Government Affairs",
         "action_required": "discuss"
       }
     ],
     "keywords": [
-      "Dallas City Council",
+      "Dallas",
       "Government Performance",
       "Financial Management",
       "Budget",
@@ -127,9 +125,7 @@
       "Internal Audit",
       "Family Gateway",
       "ERCOT",
-      "Public Safety",
-      "Housing Solutions",
-      "Economic Development"
+      "Stakeholder Engagement"
     ],
     "financial_items": []
   },

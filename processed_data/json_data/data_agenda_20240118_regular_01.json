@@ -26,40 +26,40 @@
         "item_number": "1",
         "title": "Approval of the November 16, 2023, Arts and Culture Advisory Commission meeting minutes",
         "description": "",
-        "presenter": "",
+        "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "2",
         "title": "Approval of the Public Art Committee Nominations and Appointments",
         "description": "voting item will be discussed after briefing item C",
-        "presenter": "",
+        "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "3",
         "title": "Approval of the Annual Report final draft",
         "description": "voting item will be discussed after briefing item E",
-        "presenter": "",
+        "presenter": null,
         "action_required": "approve"
       }
     ],
     "keywords": [
       "Arts and Culture",
-      "Advisory Commission",
+      "Commission",
+      "Meeting Minutes",
       "Public Art",
       "Nominations",
       "Appointments",
       "Annual Report",
-      "Briefing",
+      "Briefings",
       "Cultural Spotlight",
       "Staffing Update",
-      "Committee Report",
       "Public Speakers",
       "Executive Session",
       "Dallas City Hall",
-      "Meeting Minutes",
-      "Equitable Access"
+      "Equitable Access",
+      "Community Engagement"
     ],
     "financial_items": []
   },

@@ -45,63 +45,63 @@
         "item_number": "C",
         "title": "Dallas Housing Policy 2033 Implementation Update",
         "description": "Update on the implementation of the Dallas Housing Policy 2033.",
-        "presenter": "Thor Erickson, Assistant Director, Department of Housing & Neighborhood Revitalization; Dionne Roberts, President & CEO, TDA Consulting",
+        "presenter": "Thor Erickson",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "R.E.A.L. Time Rehousing: Substantial Amendment No. 1 to the FY 2023-24 Action Plan for HOME Update",
         "description": "Discussion on the substantial amendment to the action plan for HOME.",
-        "presenter": "Christine Crossley, Director, Office of Homeless Solutions; Sarah Kahn, Interim CEO Housing Forward",
+        "presenter": "Christine Crossley",
         "action_required": "discuss"
       },
       {
         "item_number": "E",
         "title": "North Texas Behavioral Health Authority and Regional Behavioral Health Hospitals",
-        "description": "Discussion on the North Texas Behavioral Health Authority and its hospitals.",
-        "presenter": "Matt Roberts, Chief Operating Officer, North Texas Behavioral Health Authority and Regional Behavioral Health Hospitals; David Kemp, Chief Administrative Officer, North Texas Behavioral Health Authority and Regional Behavioral Health Hospitals",
+        "description": "Briefing on the North Texas Behavioral Health Authority.",
+        "presenter": "Matt Roberts",
         "action_required": "discuss"
       },
       {
         "item_number": "F",
         "title": "Dallas Housing Authority - January 2024 Report",
         "description": "Report from the Dallas Housing Authority.",
-        "presenter": "Troy Broussard, President and CEO, Dallas Housing Authority",
+        "presenter": "Troy Broussard",
         "action_required": "discuss"
       },
       {
         "item_number": "G",
         "title": "Office of Homeless Solutions - Continuum of Care Shelter Beds Program Update",
         "description": "Update on the Continuum of Care Shelter Beds Program.",
-        "presenter": "Christine Crossley, Director, Office of Homeless Solutions",
+        "presenter": "Christine Crossley",
         "action_required": "discuss"
       },
       {
         "item_number": "H",
         "title": "Office of Homeless Solutions - Continuum of Care Investments Update",
-        "description": "Update on investments in the Continuum of Care.",
-        "presenter": "Christine Crossley, Director, Office of Homeless Solutions",
+        "description": "Update on investments related to the Continuum of Care.",
+        "presenter": "Christine Crossley",
         "action_required": "discuss"
       },
       {
         "item_number": "I",
         "title": "Urban Land Bank Demonstration Program Plan Fiscal Year 2023-2024 60-day comment period",
-        "description": "Discussion on the Urban Land Bank Demonstration Program Plan.",
-        "presenter": "Darwin Wade, Assistant Director, Department of Housing and Revitalization",
+        "description": "Discussion on the Urban Land Bank Demonstration Program.",
+        "presenter": "Darwin Wade",
         "action_required": "discuss"
       },
       {
         "item_number": "J",
         "title": "Development Program Policy Update - Proposed Amendment to the Dallas Housing Resource Catalog Land Transfer Program",
-        "description": "Discussion on the proposed amendment to the Land Transfer Program.",
-        "presenter": "Darwin Wade, Assistant Director, Department of Housing and Revitalization",
+        "description": "Proposed amendment to the Land Transfer Program.",
+        "presenter": "Darwin Wade",
         "action_required": "discuss"
       },
       {
         "item_number": "K",
         "title": "Department of Housing & Neighborhood Revitalization Quarterly Performance Measures",
-        "description": "Review of quarterly performance measures.",
-        "presenter": "Thor Erickson, Assistant Director, Department of Housing and Neighborhood Revitalization",
+        "description": "Quarterly performance measures from the Department of Housing.",
+        "presenter": "Thor Erickson",
         "action_required": "discuss"
       }
     ],
@@ -113,28 +113,27 @@
       "Meeting",
       "Policy",
       "Update",
-      "Funding",
+      "Report",
       "Investments",
       "Behavioral Health",
       "Continuum of Care",
       "Action Plan",
-      "Minutes",
-      "Outreach Services",
-      "Development"
+      "Land Transfer",
+      "Performance Measures"
     ],
     "financial_items": [
       {
-        "description": "Contract with Housing Forward for outreach services enhancing the RTR Project.",
+        "description": "Contract with Housing Forward for outreach services",
         "amount": "$2,354,314.00",
         "type": "Funding"
       },
       {
-        "description": "Reprogramming of unspent FY 2022-23 CDBG funds.",
+        "description": "Reprogram unspent FY 2022-23 CDBG funds",
         "amount": "$4,500,000.00",
         "type": "Funding"
       },
       {
-        "description": "Increase in Community Development Block Grant Funds for a development loan agreement.",
+        "description": "Increase in CDBG-DR funds for development loan agreement",
         "amount": "$3,087,427.00",
         "type": "Funding"
       }

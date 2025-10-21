@@ -5,7 +5,7 @@
   "extracted_data": {
     "meeting_info": {
       "date": "August 8, 2024",
-      "time": "9:00 AM",
+      "time": "9:00 AM - 12:30 PM",
       "type": "Regular Meeting",
       "organization": "City Plan Commission",
       "location": "Videoconference/Council Chambers, City Hall, 1500 Marilla, Dallas, Texas"
@@ -20,20 +20,23 @@
         "Liliana Garza",
         "Michael V. Pepe",
         "Giahanna Bridges",
-        "Elsie Thurman"
+        "Elsie Thurman",
+        "Rob Baldwin",
+        "Suzan Kedron",
+        "Victoria Morris",
+        "Andrew Ruegg",
+        "Audra Buckley",
+        "Peter Kavanagh"
       ],
       "participants": [
         "Rob Baldwin",
-        "Brandon Paredes",
-        "Jay Woo",
-        "Josue Martinez",
-        "Agustin Miranda",
         "Santos Martinez",
         "Martha H. Morguloff",
         "Mark Weatherford",
-        "Trinity Cider",
-        "Cockrell Hill Plaza, LLC",
-        "Big Outdoor Texas, LLC"
+        "Jose M. Martinez",
+        "Jamp Westfork, LLC",
+        "NFL Logistics, LLC",
+        "Dallas Independent School District"
       ]
     },
     "agenda_items": [
@@ -46,7 +49,7 @@
       },
       {
         "item_number": "2",
-        "title": "Minor Amendments - Consent",
+        "title": "Minor Amendment Case",
         "description": "An application for a minor amendment to an existing development and landscape plan on property zoned Planned Development District No. 501.",
         "presenter": "Teaseia Blue, MBA",
         "action_required": "approve"
@@ -60,7 +63,7 @@
       },
       {
         "item_number": "20",
-        "title": "Development Code Amendments",
+        "title": "Development Code Amendment",
         "description": "Consideration of amending Chapters 51 and 51A of the Dallas Development Code.",
         "presenter": "Andrea Gilles, AICP",
         "action_required": "approve"
@@ -79,16 +82,16 @@
       "Zoning",
       "Development Code",
       "Public Hearing",
-      "Minor Amendments",
+      "Minor Amendment",
+      "Approval of Minutes",
       "Consent Items",
       "Subdivision",
       "Residential Replats",
-      "Public Testimony",
-      "Approval of Minutes",
-      "Action Items",
       "Committee Appointments",
-      "Videoconference",
-      "City Hall"
+      "Virtual Meeting",
+      "City Hall",
+      "Public Participation",
+      "Planning and Development"
     ],
     "financial_items": []
   },

@@ -5,182 +5,94 @@
   "extracted_data": {
     "meeting_info": {
       "date": "December 12, 2024",
-      "time": "10:00 A.M.",
+      "time": null,
       "type": "Regular Meeting",
-      "organization": "Dallas Park & Recreation Board",
-      "location": "Dallas City Hall, 6FN Conference Room and Videoconference"
+      "organization": "Recreation Board",
+      "location": "Dallas City Hall"
     },
     "attendees": {
-      "chair": "Arun Agarwal",
-      "presenters": [
-        "Rachael Berry",
-        "Christina Turner-Noteware"
-      ],
+      "chair": null,
+      "presenters": [],
       "participants": []
     },
     "agenda_items": [
       {
-        "item_number": "I",
-        "title": "Call to Order",
-        "description": "",
-        "presenter": "Arun Agarwal",
-        "action_required": null
-      },
-      {
-        "item_number": "III",
-        "title": "Approval of minutes",
-        "description": "Approval of minutes from November 21, 2024",
+        "item_number": "9",
+        "title": "State Fair of Texas Annual Report  – Rachael Berry, Assistant Director",
+        "description": "State Fair of Texas Annual Report  – Rachael Berry, Assistant Director",
         "presenter": null,
-        "action_required": "approve"
+        "action_required": "Action"
       },
       {
-        "item_number": "IV.1",
-        "title": "Steven’s Park Golf Course",
-        "description": "Authorize a six-month service contract to complete a sand bunker renovation project at Stevens Park Golf Course for the Park and Recreation Department with Landscapes Unlimited, LLC.",
-        "presenter": null,
-        "action_required": "approve"
-      },
-      {
-        "item_number": "IV.2",
-        "title": "Master Agreement",
-        "description": "Authorize a three-year master agreement for swimwear, pool equipment and accessories for the Park and Recreation Department.",
-        "presenter": null,
-        "action_required": "approve"
-      },
-      {
-        "item_number": "V.3",
-        "title": "Old East Dallas Work Yard Park",
-        "description": "Authorize an eight-month service contract to design and install a splash pad at Old East Dallas Work Yard Park.",
-        "presenter": null,
-        "action_required": "approve"
-      },
-      {
-        "item_number": "V.4",
-        "title": "Dallas Zoo",
-        "description": "Approve a Supplemental Agreement to authorize Dallas Zoological Society and Dallas Zoo Management, Inc. to remove the current $25 admissions cap imposed by the City of Dallas.",
-        "presenter": null,
-        "action_required": "approve"
-      },
-      {
-        "item_number": "V.5",
-        "title": "Park Board Resolution",
-        "description": "Authorize a resolution directing Park & Recreation Department Staff to oppose the granting or renewal of any further specific use permits in the area near park properties.",
-        "presenter": null,
-        "action_required": "approve"
-      },
-      {
-        "item_number": "V.6",
-        "title": "Fair Park",
-        "description": "Authorize the acceptance of a grant from the Department of the Interior’s National Park Service for the development of the Tower Building Mural Restorations Project.",
-        "presenter": null,
-        "action_required": "approve"
-      },
-      {
-        "item_number": "V.7",
-        "title": "Campbell Green Recreation Center",
-        "description": "Authorize a professional services contract with SmithGroup, Inc. for architectural and engineering services for the Campbell Green Recreation Center Renovation and Expansion Project.",
-        "presenter": null,
-        "action_required": "approve"
-      },
-      {
-        "item_number": "V.8",
-        "title": "Cotton Belt Trail",
-        "description": "Authorize an application for the North Central Texas Council of Governments 2025 Transportation Alternative Program Call for Projects.",
-        "presenter": null,
-        "action_required": "approve"
-      },
-      {
-        "item_number": "VI.9",
-        "title": "State Fair of Texas Annual Report",
-        "description": "",
-        "presenter": "Rachael Berry",
-        "action_required": null
-      },
-      {
-        "item_number": "VI.10",
+        "item_number": "10",
         "title": "Update on Enhancements & Improvements at White Rock Lake",
-        "description": "",
+        "description": "Update on Enhancements & Improvements at White Rock Lake",
         "presenter": null,
-        "action_required": null
+        "action_required": "Action"
       },
       {
-        "item_number": "VI.11",
-        "title": "White Rock Lake Master Plan Update",
-        "description": "",
-        "presenter": "Christina Turner-Noteware",
-        "action_required": null
+        "item_number": "1",
+        "title": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or a...",
+        "description": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or any matter in which the duty of  \n\n         the attorney to the City Council under the Texas Disciplinary Rules of Professional Conduct of the State Bar of Texas clearly  \n\n         conflicts with the Texas Open Meetings Act. [Tex. Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       },
       {
-        "item_number": "VII",
-        "title": "Director’s Performance Review",
-        "description": "Closed Session to discuss the evaluation and duties of the Director of the Park and Recreation Department.",
+        "item_number": "2",
+        "title": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open mee...",
+        "description": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open meeting would have a detrimental  \n\n         effect on the position of the city in negotiations with a third person. [Tex. Govt. Code §",
         "presenter": null,
-        "action_required": null
+        "action_required": "Action"
       },
       {
-        "item_number": "VIII",
-        "title": "Other/Non-Action Items",
-        "description": "Staff Announcements – Upcoming Park & Recreation Department Events.",
+        "item_number": "3",
+        "title": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in...",
+        "description": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in an open meeting would have a  \n\n         detrimental effect on the position of the city in negotiations with a third person. [Tex. Govt. Code §",
         "presenter": null,
-        "action_required": null
+        "action_required": "Action"
       },
       {
-        "item_number": "IX",
-        "title": "Next Park Board meeting",
-        "description": "Next meeting scheduled for January 9, 2025.",
+        "item_number": "4",
+        "title": "deliberating  the  appointment,  employment,  evaluation,  reassignment,  duties,  discipline,  or  ...",
+        "description": "deliberating  the  appointment,  employment,  evaluation,  reassignment,  duties,  discipline,  or  dismissal  of  a  public  officer  or  \n\n         employee; or to hear a complaint or charge against an officer or employee unless the officer or employee who is the subject of  \n\n         the deliberation or hearing requests a public hearing. [Tex. Govt. Code §",
         "presenter": null,
-        "action_required": null
+        "action_required": "Action"
+      },
+      {
+        "item_number": "5",
+        "title": "deliberating  the  deployment,  or  specific  occasions  for  implementation,  of  security  personn...",
+        "description": "deliberating  the  deployment,  or  specific  occasions  for  implementation,  of  security  personnel  or  devices.  [Tex.  Govt.  Code  \n\n         §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "6",
+        "title": "discussing or deliberating commercial or financial information that the city has received from a bus...",
+        "description": "discussing or deliberating commercial or financial information that the city has received from a business prospect that the city  \n\n         seeks to have locate, stay or expand in or near the city and with which the city is conducting economic development negotiations;  \n\n         or deliberating the offer of a financial or other incentive to a business prospect. [Tex Govt . Code §",
+        "presenter": null,
+        "action_required": "Action"
+      },
+      {
+        "item_number": "7",
+        "title": "deliberating security assessments or deployments relating to information resources technology, netwo...",
+        "description": "deliberating security assessments or deployments relating to information resources technology, network security information, or  \n\n         the deployment or specific occasions for implementations of security personnel, critical infrastructure, or security devices. [Tex  \n\n         Govt. Code §",
+        "presenter": null,
+        "action_required": "Action"
       }
     ],
     "keywords": [
-      "Dallas Park & Recreation Board",
-      "Regular Meeting",
-      "service contract",
-      "splash pad",
-      "grant",
-      "Dallas Zoo",
-      "performance review",
-      "Fair Park",
-      "Cotton Belt Trail",
-      "swimwear",
-      "public speakers",
-      "minutes approval",
-      "architectural services",
-      "park properties",
-      "community events"
+      "tif",
+      "budget",
+      "approval",
+      "public",
+      "development",
+      "improvement",
+      "transportation",
+      "resolution",
+      "contract",
+      "agreement"
     ],
-    "financial_items": [
-      {
-        "description": "Service contract for sand bunker renovation project at Stevens Park Golf Course.",
-        "amount": "$499,538.00",
-        "type": "expenditure"
-      },
-      {
-        "description": "Master agreement for swimwear and pool equipment.",
-        "amount": "$779,007.00",
-        "type": "expenditure"
-      },
-      {
-        "description": "Service contract to design and install a splash pad at Old East Dallas Work Yard Park.",
-        "amount": "$659,476.00",
-        "type": "expenditure"
-      },
-      {
-        "description": "Grant for Tower Building Mural Restorations Project.",
-        "amount": "$750,000.00",
-        "type": "grant"
-      },
-      {
-        "description": "Professional services contract for Campbell Green Recreation Center Renovation.",
-        "amount": "$895,993.00",
-        "type": "expenditure"
-      },
-      {
-        "description": "Application for Transportation Alternative Program Call for Projects.",
-        "amount": "$5,700,000.00",
-        "type": "funding"
-      }
-    ]
+    "financial_items": []
   },
   "extraction_method": "openai_gpt",
   "original_length": 16196

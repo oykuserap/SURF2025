@@ -13,89 +13,88 @@
     "attendees": {
       "chair": "LeTitia Owens",
       "presenters": [
-        "Christine Crossley"
+        "LeTitia Owens",
+        "Christine Crossley",
+        "Matt Jacob"
       ],
-      "participants": [
-        "Matt Jacob",
-        "LeTitia Owens"
-      ]
+      "participants": []
     },
     "agenda_items": [
       {
         "item_number": "I",
         "title": "Call Meeting to Order and Roll Call",
         "description": "Declare A Quorum Present and Declare Legal Notice Posted and Meeting Duly Called",
-        "presenter": "LeTitia Owens, Vice Chair",
+        "presenter": "LeTitia Owens",
         "action_required": null
       },
       {
         "item_number": "II",
         "title": "Public Comments",
         "description": "Limit 2 minutes per speaker",
-        "presenter": "LeTitia Owens, Vice Chair",
+        "presenter": "LeTitia Owens",
         "action_required": null
       },
       {
         "item_number": "III",
         "title": "Approval of Minutes",
-        "description": "Approval of Minutes – January 11, 2024",
-        "presenter": "LeTitia Owens, Vice Chair",
+        "description": "Approval of minutes from January 11, 2024",
+        "presenter": "LeTitia Owens",
         "action_required": "approve"
       },
       {
         "item_number": "IV",
-        "title": "Briefing Memo: Updated Timeline",
-        "description": "Updated Timeline 1950 Fort Worth Avenue",
-        "presenter": "Christine Crossley, Director",
-        "action_required": null
+        "title": "Briefing Memo: Updated Timeline 1950 Fort Worth Avenue",
+        "description": "Discussion on updated timeline",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
       },
       {
         "item_number": "V",
         "title": "Office of Homeless Solutions Agenda / Contract Forecast",
-        "description": null,
-        "presenter": "Christine Crossley, Director",
-        "action_required": null
+        "description": "Overview of upcoming contracts and agenda items",
+        "presenter": "Christine Crossley",
+        "action_required": "discuss"
       },
       {
         "item_number": "VI",
         "title": "Discussion: Identify Agencies and Programs Serving the Homeless Population",
-        "description": null,
-        "presenter": "LeTitia Owens, Vice Chair",
-        "action_required": null
+        "description": "Discussion on agencies and programs",
+        "presenter": "LeTitia Owens",
+        "action_required": "discuss"
       },
       {
         "item_number": "VII",
         "title": "Recommendation / Approval of 2023 Citizen Homelessness Annual Report",
-        "description": "Boards and Commissions, Chapter 8, Sec. 8-1.1.",
-        "presenter": "LeTitia Owens, Vice Chair",
+        "description": "Approval of the annual report as per Boards and Commissions, Chapter 8, Sec. 8-1.1.",
+        "presenter": "LeTitia Owens",
         "action_required": "approve"
       },
       {
         "item_number": "VIII",
         "title": "(CHC) Citizen Homelessness Retreat Update",
-        "description": null,
-        "presenter": "LeTitia Owens, Vice Chair",
+        "description": "Update on the upcoming retreat",
+        "presenter": "LeTitia Owens",
         "action_required": null
       },
       {
         "item_number": "IX",
         "title": "Proposed Items for Next/Future Meetings",
         "description": "No discussion, debate, and/or vote",
-        "presenter": "LeTitia Owens, Vice Chair",
+        "presenter": "LeTitia Owens",
         "action_required": null
       },
       {
         "item_number": "X",
         "title": "Announcement of Upcoming Meetings",
-        "description": null,
-        "presenter": "LeTitia Owens, Vice Chair",
+        "description": "Announcement of future meetings",
+        "presenter": "LeTitia Owens",
         "action_required": null
       },
       {
         "item_number": "XI",
         "title": "Adjournment",
-        "description": null,
-        "presenter": "LeTitia Owens, Vice Chair",
+        "description": "Closing of the meeting",
+        "presenter": "LeTitia Owens",
         "action_required": null
       }
     ],
@@ -104,10 +103,11 @@
       "Dallas City Hall",
       "Public Comments",
       "Approval of Minutes",
-      "Updated Timeline",
-      "Office of Homeless Solutions",
-      "Homeless Population",
+      "Homeless Solutions",
+      "Agencies",
+      "Programs",
       "Annual Report",
+      "Retreat Update",
       "Future Meetings",
       "Adjournment"
     ],

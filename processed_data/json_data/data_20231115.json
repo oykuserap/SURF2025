@@ -41,7 +41,7 @@
       {
         "item_number": "III",
         "title": "Housing Finance Corporation Basics Refresher",
-        "description": "Overview of housing finance basics by Ryan Bowen, Corporation Counsel, Chapman and Cutler LLP",
+        "description": "Overview of housing finance basics presented by Ryan Bowen, Corporation Counsel, Chapman and Cutler LLP",
         "presenter": "Ryan Bowen",
         "action_required": null
       },
@@ -76,7 +76,7 @@
       {
         "item_number": "IV.d",
         "title": "DHFC Role in Housing in the City of Dallas",
-        "description": "Discussion led by Aaron Eaquinto, General Manager",
+        "description": "Discussion on housing policy and recent legislation led by Aaron Eaquinto, General Manager",
         "presenter": "Aaron Eaquinto",
         "action_required": null
       },
@@ -90,42 +90,42 @@
       {
         "item_number": "IV.e.1",
         "title": "Application Revamp",
-        "description": "Discussion led by Marcy Helfand, Board President",
+        "description": null,
         "presenter": "Marcy Helfand",
         "action_required": null
       },
       {
         "item_number": "IV.e.2",
         "title": "Low-Income Housing Tax Credit (LIHTC)",
-        "description": "Discussion led by Ryan Garcia, Board Vice President",
+        "description": null,
         "presenter": "Ryan Garcia",
         "action_required": null
       },
       {
         "item_number": "IV.e.3",
         "title": "Board Priorities",
-        "description": "Discussion led by David Ellis, Director",
+        "description": null,
         "presenter": "David Ellis",
         "action_required": null
       },
       {
         "item_number": "IV.f",
         "title": "Operating Report Reviews and Budget Updates",
-        "description": "Discussion led by Aaron Eaquinto, General Manager",
+        "description": null,
         "presenter": "Aaron Eaquinto",
         "action_required": null
       },
       {
         "item_number": "IV.g",
         "title": "DHFC Website Status Update",
-        "description": "Update led by Aaron Eaquinto, General Manager",
+        "description": null,
         "presenter": "Aaron Eaquinto",
         "action_required": null
       },
       {
         "item_number": "V",
         "title": "Adjourn",
-        "description": "Meeting adjourned by Marcy Helfand, President",
+        "description": "Adjournment led by Marcy Helfand, President",
         "presenter": "Marcy Helfand",
         "action_required": null
       }
@@ -140,7 +140,12 @@
       "Low-Income Housing Tax Credit",
       "Board Priorities",
       "Budget Updates",
-      "Website Status"
+      "Website Status Update",
+      "Housing Policy",
+      "Recent Legislation",
+      "Equitable Access",
+      "Community Outreach",
+      "Executive Session"
     ],
     "financial_items": []
   },

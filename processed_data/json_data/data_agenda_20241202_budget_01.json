@@ -7,7 +7,7 @@
       "date": "December 2, 2024",
       "time": "1:00 PM",
       "type": "Economic Development Committee Meeting",
-      "organization": "City of Dallas Economic Development Committee",
+      "organization": "City Council Economic Development Committee",
       "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
     },
     "attendees": {
@@ -50,47 +50,47 @@
         "title": "Development Agreement with West End Lofts, LP",
         "description": "Authorize a development agreement in an amount not to exceed $49,000,000 for the West End Lofts Project.",
         "presenter": "Tamara Leak",
-        "action_required": "discuss"
+        "action_required": "authorize"
       },
       {
         "item_number": "B",
         "title": "Chapter 380 Economic Development Grant Agreement",
         "description": "Authorize a grant agreement in an amount not to exceed $500,000 with HAECO Global Engine Support, LLC.",
         "presenter": "Heather Lepeska",
-        "action_required": "discuss"
+        "action_required": "authorize"
       },
       {
         "item_number": "C",
         "title": "Public Hearing on Economic Development Incentive Policy",
         "description": "Authorize a public hearing to receive comments regarding amendments to the Economic Development Incentive Policy.",
         "presenter": "Heather Lepeska",
-        "action_required": "discuss"
+        "action_required": "authorize"
       },
       {
         "item_number": "D",
         "title": "Amendments to Development Agreement with I-20 Lancaster Development, LLC",
         "description": "Authorize amendments to increase the City Subsidy and other modifications related to the University Hills Phase I project.",
         "presenter": "Robin Bentley",
-        "action_required": "discuss"
+        "action_required": "authorize"
       },
       {
         "item_number": "E",
         "title": "Service Contract for Project Underwriting Services",
         "description": "Authorize a three-year service contract for project underwriting services.",
         "presenter": "Kevin Spath",
-        "action_required": "discuss"
+        "action_required": "authorize"
       },
       {
         "item_number": "F",
-        "title": "Reaccreditation of Office of Economic Development",
-        "description": "City of Dallas Office of Economic Development receives reaccreditation as an Accredited Economic Development Organization.",
+        "title": "Reaccreditation as an Accredited Economic Development Organization",
+        "description": "City of Dallas Office of Economic Development receives reaccreditation.",
         "presenter": "Kevin Spath",
-        "action_required": "inform"
+        "action_required": "none"
       },
       {
         "item_number": "G",
         "title": "Board of Adjustment Rules of Procedure Amendments",
-        "description": "Discussion on amendments to the Board of Adjustment Rules of Procedure.",
+        "description": "Discuss amendments to the Board of Adjustment Rules of Procedure.",
         "presenter": "Andreea Udrea",
         "action_required": "discuss"
       },
@@ -99,7 +99,7 @@
         "title": "Commercial Permits Dashboard Update",
         "description": "Update on the Commercial Permits Dashboard.",
         "presenter": "Emily Liu",
-        "action_required": "inform"
+        "action_required": "none"
       }
     ],
     "keywords": [
@@ -116,17 +116,17 @@
       "Commercial Permits",
       "Mixed-Use Development",
       "Public/Private Partnership",
-      "Community Development",
-      "Housing Solutions"
+      "TIF District",
+      "Community Development"
     ],
     "financial_items": [
       {
-        "description": "Development agreement for West End Lofts Project",
+        "description": "Development agreement with West End Lofts, LP",
         "amount": "$49,000,000",
         "type": "development agreement"
       },
       {
-        "description": "Chapter 380 economic development grant agreement",
+        "description": "Chapter 380 economic development grant agreement with HAECO Global Engine Support, LLC",
         "amount": "$500,000",
         "type": "grant agreement"
       },

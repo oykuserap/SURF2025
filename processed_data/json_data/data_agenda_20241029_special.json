@@ -8,7 +8,7 @@
       "time": "1:00 PM",
       "type": "Special Called Meeting",
       "organization": "City Council Public Safety Committee",
-      "location": "Council Briefing Room, 6ES at City Hall, Dallas, Texas"
+      "location": "Council Briefing Room, 6ES, City Hall, Dallas, Texas"
     },
     "attendees": {
       "chair": "Atkins",
@@ -37,7 +37,7 @@
       {
         "item_number": "A",
         "title": "Overview of Police and Fire Recruiting and Retention",
-        "description": "Discussion on the current status of police and fire recruiting and retention efforts.",
+        "description": "Discussion on the recruitment and retention strategies for police and fire departments.",
         "presenter": "Pollyana Ashford, Major of Police, Dallas Police Department; Delridge Williams, Assistant Chief, Dallas Fire-Rescue Department",
         "action_required": "discuss"
       },
@@ -65,14 +65,14 @@
       {
         "item_number": "E",
         "title": "Civil Service Board Rules and Regulations",
-        "description": "Discussion on the rules and regulations set by the Civil Service Board.",
+        "description": "Discussion on the rules and regulations governing the Civil Service Board.",
         "presenter": "Jarred D. Davis, Director, Civil Service Department",
         "action_required": "discuss"
       },
       {
         "item_number": "F",
         "title": "Public Safety Dashboards",
-        "description": "Presentation of public safety dashboards and their usage.",
+        "description": "Presentation of public safety dashboards and metrics.",
         "presenter": "Dominique Artis, Chief of Public Safety (I), City Manager’s Office",
         "action_required": "discuss"
       },
@@ -128,20 +128,20 @@
     ],
     "keywords": [
       "Public Safety",
-      "Dallas Police Department",
-      "Dallas Fire-Rescue",
-      "Crime Reduction",
+      "Police",
+      "Fire",
+      "Recruiting",
+      "Retention",
+      "Violent Crime",
       "Domestic Violence",
+      "Criminal Trespass",
       "Civil Service",
       "Public Safety Dashboards",
       "Municipal Court",
       "New Hires",
       "Hydrant Maintenance",
-      "Fleet Maintenance",
-      "Homeless Action",
-      "Executive Session",
-      "Recruiting",
-      "Retention"
+      "Blood Transfusion",
+      "Facility Construction"
     ],
     "financial_items": []
   },

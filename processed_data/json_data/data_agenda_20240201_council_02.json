@@ -37,51 +37,51 @@
       },
       {
         "item_number": "3",
-        "title": "Approval of Minutes",
-        "description": "Approval of minutes from January 4, 2024",
+        "title": "Approval of Minutes – January 4, 2024",
+        "description": "Review and approve the minutes from the previous meeting",
         "presenter": "Cara Mendelsohn",
         "action_required": "approve"
       },
       {
         "item_number": "4",
-        "title": "Update on Special Called Meeting",
-        "description": "Update on the January 18, 2024 Special Called Meeting regarding Homelessness, Organizations, Policies, and Encampments (HOPE) Report",
+        "title": "Update – January 18, 2024 Special Called Meeting",
+        "description": "Report on the Special Called Meeting regarding Homelessness, Organizations, Policies, and Encampments",
         "presenter": "Jesse Moreno",
         "action_required": "discuss"
       },
       {
         "item_number": "5",
-        "title": "Cost of Homelessness",
-        "description": "Ongoing tracking of the cost of homelessness",
+        "title": "Cost of Homelessness (Ongoing Tracking)",
+        "description": "Discussion on the ongoing tracking of the cost of homelessness",
         "presenter": "Cara Mendelsohn, Rob Hays",
         "action_required": "discuss"
       },
       {
         "item_number": "6",
-        "title": "Revision/Draft Distribution",
-        "description": "Distribution of Articles of Incorporation / Bylaws",
+        "title": "Revision/Draft Distribution: Articles of Incorporation / Bylaws",
+        "description": "Discussion on the revision and distribution of Articles of Incorporation and Bylaws",
         "presenter": "Cara Mendelsohn",
         "action_required": "discuss"
       },
       {
         "item_number": "7",
-        "title": "Committee Report",
-        "description": "System Performance report",
+        "title": "Committee Report: System Performance",
+        "description": "Report on the performance of the system",
         "presenter": "Dr. Theresa Daniel",
         "action_required": "discuss"
       },
       {
         "item_number": "8",
         "title": "Announcements of Upcoming Events and Meetings",
-        "description": "Next meeting scheduled for March 7, 2024",
+        "description": "Information on the next meeting scheduled for March 7, 2024",
         "presenter": "Dallas Area Partnership to End and Prevent Homelessness Local Government Corporation",
         "action_required": "inform"
       },
       {
         "item_number": "9",
         "title": "Adjournment",
-        "description": "",
-        "presenter": "",
+        "description": "Closing of the meeting",
+        "presenter": null,
         "action_required": "adjourn"
       }
     ],
@@ -93,14 +93,11 @@
       "Public Comment",
       "Approval of Minutes",
       "Cost of Homelessness",
+      "Articles of Incorporation",
       "Bylaws",
-      "Committee Report",
+      "System Performance",
       "Upcoming Events",
-      "Encampments",
-      "Legal Notice",
-      "Quorum",
-      "Tracking",
-      "System Performance"
+      "Adjournment"
     ],
     "financial_items": []
   },

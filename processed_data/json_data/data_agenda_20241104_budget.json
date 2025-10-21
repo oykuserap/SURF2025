@@ -33,42 +33,42 @@
         "item_number": "A",
         "title": "Short-Term Rentals Update",
         "description": "Update on short-term rental regulations and compliance.",
-        "presenter": "Cedric Secundiata",
+        "presenter": "Cedric Secundiata, Assistant Director, Ariel Garcia, Administrator, Code Compliance Services",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "Upcoming Agenda Item: Forest Theater Redevelopment",
         "description": "Discussion on the community development project in the Forest District.",
-        "presenter": "Heather Lepeska",
+        "presenter": "Heather Lepeska, Assistant Director, Office of Economic Development",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "Upcoming Agenda Item: Malcolm’s Point Retail Project",
         "description": "Discussion on the retail project at 2801 Lipscomb Way.",
-        "presenter": "Heather Lepeska",
+        "presenter": "Heather Lepeska, Assistant Director, Office of Economic Development",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "Quarterly Update on Economic Development Incentives",
-        "description": "Update on economic development incentives awarded.",
-        "presenter": "Kevin Spath",
+        "description": "Update on economic development incentives awarded via administrative action.",
+        "presenter": "Kevin Spath, Director (I), Office of Economic Development",
         "action_required": "discuss"
       },
       {
         "item_number": "E",
         "title": "Amendment to Dallas City Code, Chapter 52",
         "description": "Discussion on administrative procedures for construction codes.",
-        "presenter": "Emily Liu",
+        "presenter": "Emily Liu, Director, Planning & Development",
         "action_required": "discuss"
       },
       {
         "item_number": "F",
         "title": "Amendment to Dallas City Code, Chapter 57",
-        "description": "Discussion on the one-and two-family dwelling code.",
-        "presenter": "Emily Liu",
+        "description": "Discussion on the Dallas One-and Two-Family Dwelling Code.",
+        "presenter": "Emily Liu, Director, Planning & Development",
         "action_required": "discuss"
       }
     ],
@@ -86,7 +86,8 @@
       "Public Meeting",
       "Videoconference",
       "City Hall",
-      "Administrative Procedures"
+      "Administrative Procedures",
+      "Quarterly Update"
     ],
     "financial_items": []
   },

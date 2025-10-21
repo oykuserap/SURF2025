@@ -8,7 +8,7 @@
       "time": "5:30 p.m.",
       "type": "Regular Meeting",
       "organization": "Environmental Commission",
-      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference (Webex)"
     },
     "attendees": {
       "chair": "Kathryn Bazan",
@@ -43,21 +43,21 @@
       {
         "item_number": "IV.a",
         "title": "Urban Heat Island Project Annual Update",
-        "description": "Briefing on the Urban Heat Island Project.",
-        "presenter": "Paul White II",
+        "description": "Update on the Urban Heat Island Project.",
+        "presenter": "Paul White II, Oppong Hemeng, Maritza Figy",
         "action_required": "discuss"
       },
       {
         "item_number": "V.a",
         "title": "Interdepartmental Working Group Meeting First Status Update – 2024 Bond CECAP Resolution",
-        "description": "Briefing Memorandum regarding the status update.",
+        "description": "Status update on the Interdepartmental Working Group Meeting.",
         "presenter": "Paul White II",
         "action_required": "discuss"
       },
       {
         "item_number": "VI.a",
         "title": "Approval of FY24 Environmental Commission Annual Report",
-        "description": "Voting item for the approval of the annual report.",
+        "description": "Approval of the annual report for FY24.",
         "presenter": null,
         "action_required": "approve"
       },

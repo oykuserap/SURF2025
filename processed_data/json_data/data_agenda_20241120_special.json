@@ -22,21 +22,21 @@
       {
         "item_number": "1",
         "title": "Call to order and introduction of meeting participants",
-        "description": "",
+        "description": null,
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "2",
         "title": "Public comments pertaining to agenda items 3 through 5",
-        "description": "",
+        "description": null,
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "3",
         "title": "Review and consider the Meeting Record of the February 12, 2024 Design District TIF District Board Meeting",
-        "description": "",
+        "description": null,
         "presenter": "Sue Hounsel, Senior Manager, Office of Economic Development",
         "action_required": "Approve"
       },
@@ -50,14 +50,14 @@
       {
         "item_number": "5",
         "title": "Receive informational briefing and discuss a public art component for the Trinity Strand Hi-Line Span Project trailhead/plaza",
-        "description": "",
+        "description": null,
         "presenter": "Sue Hounsel, Senior Manager, Office of Economic Development, Guy Bruggeman, Public Art Conservation Manager, Office of Arts and Culture",
         "action_required": "Discuss and provide direction to staff, as applicable"
       },
       {
         "item_number": "6",
         "title": "Adjournment",
-        "description": "",
+        "description": null,
         "presenter": null,
         "action_required": null
       }
@@ -73,8 +73,6 @@
       "public art",
       "economic development",
       "City Council",
-      "inclusion",
-      "public comments",
       "adjournment"
     ],
     "financial_items": [

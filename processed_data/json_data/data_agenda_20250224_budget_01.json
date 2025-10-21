@@ -8,7 +8,7 @@
       "time": "9:00 AM",
       "type": "Regular Meeting",
       "organization": "Housing and Homelessness Solutions Committee",
-      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX; Virtual via Webex"
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX"
     },
     "attendees": {
       "chair": "Moreno",
@@ -34,27 +34,27 @@
         "item_number": "A",
         "title": "A Right to Stay - Dallas Neighborhood Anti-Displacement Toolkit",
         "description": "Discussion on the toolkit for Dallas neighborhoods experiencing gentrification and displacement.",
-        "presenter": "James Armstrong III, President & CEO, Builders of Hope CDC; Stephanie Champion, Chief of Community Development & Policy, Builders of Hope CDC",
+        "presenter": "James Armstrong III, Stephanie Champion",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "Office of Homeless Solutions and the Department of Housing and Community Development Properties Update",
-        "description": "Update on projects located at various addresses.",
-        "presenter": "Christine Crossley, Director, Office of Homeless Solutions; Darwin Wade, Assistant Director, Department of Housing & Community Development",
+        "description": "Update on various projects located at specified addresses.",
+        "presenter": "Christine Crossley, Darwin Wade",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "Upcoming Items on the March 26, 2025 City Council Agenda",
-        "description": "Authorize the Dallas Public Facility Corporation to acquire property and enter into a lease agreement for development.",
-        "presenter": "Cynthia Rogers-Ellickson, Director, Department of Housing & Community Development; Jaclyn Schroeder, Administrator (I), Department of Housing & Community Development",
-        "action_required": "authorize"
+        "description": "Authorization for the Dallas Public Facility Corporation to acquire property and develop a mixed-income multifamily development.",
+        "presenter": "Cynthia Rogers-Ellickson, Jaclyn Schroeder",
+        "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "Housing and Homelessness Solutions (HHS) Committee Forecast",
-        "description": "Briefing items to be placed on the HHS Committee agendas for upcoming months.",
+        "description": "Briefing items to be placed on the HHS Committee agendas for upcoming meetings.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -67,14 +67,14 @@
       "Gentrification",
       "Displacement",
       "Public Facility Corporation",
-      "Development",
+      "Mixed-income development",
       "Community Development",
       "Policy",
       "Executive Session",
-      "Meeting Minutes",
-      "Forecast",
-      "Projects",
-      "Update"
+      "Real Property",
+      "Financial Information",
+      "Security",
+      "Economic Development"
     ],
     "financial_items": []
   },

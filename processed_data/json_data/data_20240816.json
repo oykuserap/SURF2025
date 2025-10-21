@@ -6,7 +6,7 @@
     "meeting_info": {
       "date": "August 16, 2024",
       "time": "10 a.m.",
-      "type": null,
+      "type": "Regular Meeting",
       "organization": "Trinity River Corridor Local Government Corporation",
       "location": "Dallas City Hall, Room 6ES and Videoconference"
     },
@@ -26,8 +26,7 @@
       "Real Property",
       "Public Officer",
       "Security Personnel",
-      "Economic Development",
-      "Financial Information"
+      "Economic Development"
     ],
     "financial_items": []
   },

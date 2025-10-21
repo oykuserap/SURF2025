@@ -47,15 +47,15 @@
       {
         "item_number": "V",
         "title": "Miscellaneous Items",
-        "description": "",
+        "description": "Approval of Panel B Minutes – December 18, 2024",
         "presenter": null,
-        "action_required": null
+        "action_required": "approve"
       },
       {
         "item_number": "VI",
         "title": "Case Docket",
         "description": "Uncontested Items, Holdover Items, Individual Items",
-        "presenter": "Board of Adjustment",
+        "presenter": null,
         "action_required": null
       },
       {
@@ -74,14 +74,14 @@
       "Variance",
       "Special Exception",
       "Setback Regulations",
+      "Minutes Approval",
       "Public Testimony",
       "Miscellaneous Items",
-      "Meeting",
-      "January 2025",
-      "City Hall",
-      "Videoconference",
-      "Panel B",
-      "Accommodations"
+      "Uncontested Items",
+      "Holdover Items",
+      "Executive Session",
+      "Accessibility",
+      "Videoconference"
     ],
     "financial_items": []
   },

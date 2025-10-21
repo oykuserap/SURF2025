@@ -38,7 +38,7 @@
       {
         "item_number": "3",
         "title": "Approval of Minutes",
-        "description": "Approval of the minutes from the October 28, 2024 South Dallas/Fair Park Opportunity Fund (SDFPOF) Regular Meeting",
+        "description": "Approval of minutes from the October 28, 2024 South Dallas/Fair Park Opportunity Fund (SDFPOF) Regular Meeting",
         "presenter": null,
         "action_required": "approve"
       },
@@ -60,7 +60,7 @@
         "item_number": "5a",
         "title": "Review and approval of updated Program Statement",
         "description": "",
-        "presenter": "Heather Lepeska",
+        "presenter": null,
         "action_required": "approve"
       },
       {
@@ -118,9 +118,9 @@
       "Board Members",
       "Approval of Minutes",
       "Staff Update",
-      "NOFA Application",
       "Business Development",
       "Marketing",
+      "NOFA Application",
       "Dallas"
     ],
     "financial_items": []

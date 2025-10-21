@@ -7,62 +7,60 @@
       "date": "April 17, 2024",
       "time": "9:00 AM",
       "type": "Council Briefing Meeting",
-      "organization": "City Council of Dallas",
+      "organization": "Dallas City Council",
       "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
     },
     "attendees": {
       "chair": null,
-      "presenters": [
-        "City Manager"
-      ],
+      "presenters": [],
       "participants": []
     },
     "agenda_items": [
       {
         "item_number": "1",
-        "title": "Approval of Minutes",
-        "description": "Approval of Minutes of the April 3, 2024 City Council Briefing Meeting",
+        "title": "Approval of Minutes of the April 3, 2024 City Council Briefing Meeting",
+        "description": "",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "2",
-        "title": "Consideration of Appointments",
-        "description": "Consideration of appointments to boards and commissions and the evaluation and duties of board and commission members (List of nominees is available in the City Secretary's Office)",
+        "title": "Consideration of appointments to boards and commissions",
+        "description": "Evaluation and duties of board and commission members (List of nominees is available in the City Secretary's Office)",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "A",
         "title": "Dallas Public Library: Library Strategic & Facilities Plan",
-        "description": "Briefing on the Library Strategic & Facilities Plan",
+        "description": "Presentation on the Library Strategic & Facilities Plan",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "City Manager’s Proposed FY 2024-25 HUD Consolidated Plan Budget Briefing",
-        "description": "Briefing on the City Manager’s Proposed FY 2024-25 HUD Consolidated Plan Budget",
+        "description": "Presentation on the proposed HUD Consolidated Plan Budget",
         "presenter": null,
         "action_required": "discuss"
       }
     ],
     "keywords": [
       "Dallas City Council",
-      "Briefing Meeting",
+      "Council Briefing",
+      "April 17, 2024",
       "HUD Consolidated Plan",
       "Library Strategic Plan",
-      "Appointments",
-      "Boards and Commissions",
-      "Minutes Approval",
-      "Public Participation",
-      "Executive Session",
+      "appointments",
+      "boards and commissions",
+      "public participation",
+      "videoconference",
       "City Hall",
-      "Videoconference",
-      "Public Access",
-      "City Secretary",
-      "Community Engagement",
-      "Rules of Courtesy"
+      "open meeting",
+      "executive session",
+      "financial information",
+      "public officer",
+      "citizen engagement"
     ],
     "financial_items": []
   },

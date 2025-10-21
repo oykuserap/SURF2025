@@ -25,14 +25,14 @@
       },
       {
         "item_number": "V",
-        "title": "Hearing Item(s)",
+        "title": "Hearing Item",
         "description": "Hear the rehire eligibility appeal hearing of Mr. David Okorafor, a former employee in the Dallas Water Department Utilities.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "VI",
-        "title": "Briefing and Discussion Item(s)",
+        "title": "Briefing and Discussion Items",
         "description": "Civil Services Rules Revision Update, Sworn Service Promotional Forecast, Department Updates and Announcements.",
         "presenter": null,
         "action_required": "discuss"
@@ -48,7 +48,12 @@
       "Promotional Forecast",
       "Department Updates",
       "Public Speakers",
-      "Approval of Minutes"
+      "Approval of Minutes",
+      "Executive Session",
+      "Accommodations",
+      "Video Conference",
+      "Meeting Access",
+      "Auxiliary Aid"
     ],
     "financial_items": []
   },

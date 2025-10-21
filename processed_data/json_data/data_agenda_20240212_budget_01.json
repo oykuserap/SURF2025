@@ -7,7 +7,7 @@
       "date": "February 12, 2024",
       "time": "1:00 PM",
       "type": "Public Safety Committee Meeting",
-      "organization": "City Council Public Safety Committee",
+      "organization": "Dallas City Council",
       "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
     },
     "attendees": {
@@ -41,127 +41,127 @@
         "item_number": "A",
         "title": "Public Safety Recruiting and Retention Update",
         "description": "Update on the recruiting and retention efforts for public safety personnel.",
-        "presenter": "William H. Griffith, Delridge Williams",
+        "presenter": "William H. Griffith, Deputy Chief, Personnel & Training Division, Dallas Police Department, Delridge Williams, Assistant Chief, Dallas Fire Rescue Department",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "Violent Crime Reduction Plan Update",
         "description": "Update on the strategies and progress of the violent crime reduction plan.",
-        "presenter": "Jason Scoggins, Kevin Oden",
+        "presenter": "Jason Scoggins, Major of Police, Dallas Police Department, Kevin Oden, Director, Integrated Public Safety Solutions",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "Overview of the Enhancements to the Sexual Assault Investigation Process",
-        "description": "Presentation on improvements made to the sexual assault investigation process.",
-        "presenter": "Catrina Shead",
+        "description": "Presentation on the improvements made to the sexual assault investigation process.",
+        "presenter": "Catrina Shead, Assistant Chief, Investigation Bureau, Dallas Police Department",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "Overview of Dallas Fire- Rescue Blood Transfusion Pilot Program",
         "description": "Presentation on the pilot program for blood transfusions in Dallas Fire-Rescue.",
-        "presenter": "Scott Clumpner, Dr. Marshal Isaacs, Courtney Edwards",
+        "presenter": "Scott Clumpner, Deputy Chief, Dallas Fire Rescue Department, Dr. Marshal Isaacs, Chief Medical Director, Courtney Edwards, Director of Parkland Hospital",
         "action_required": "discuss"
       },
       {
         "item_number": "E",
         "title": "Overview of Public Safety Technology Projects",
         "description": "Update on various technology projects related to public safety.",
-        "presenter": "Bill Zielinski, Dr. Brian Gardner",
+        "presenter": "Bill Zielinski, Chief Information Officer, Dr. Brian Gardner, Chief Technology and Information Officer, Information and Technology Services Department",
         "action_required": "discuss"
       },
       {
         "item_number": "F",
         "title": "Public Safety Dashboards",
         "description": "Presentation on the public safety dashboards.",
-        "presenter": "Jon Fortune",
+        "presenter": "Jon Fortune, Deputy City Manager, City Manager’s Office",
         "action_required": "discuss"
       },
       {
         "item_number": "G",
         "title": "Dallas Fire Rescue Facility Construction Update",
         "description": "Update on the construction of Dallas Fire Rescue facilities.",
-        "presenter": "Dominique Artis",
+        "presenter": "Dominique Artis, Fire Chief, Dallas Fire Rescue Department",
         "action_required": "discuss"
       },
       {
         "item_number": "H",
         "title": "Dallas Fire- Rescue Fleet Maintenance Update",
         "description": "Update on the maintenance of the Dallas Fire-Rescue fleet.",
-        "presenter": "Dominique Artis",
+        "presenter": "Dominique Artis, Fire Chief, Dallas Fire Rescue Department",
         "action_required": "discuss"
       },
       {
         "item_number": "I",
         "title": "Dallas Fire-Rescue Emergency Response Review Project Update",
         "description": "Update on the emergency response review project.",
-        "presenter": "Dominique Artis",
+        "presenter": "Dominique Artis, Fire Chief, Dallas Fire Rescue Department",
         "action_required": "discuss"
       },
       {
         "item_number": "J",
         "title": "Police Academy Update",
         "description": "Update on the police academy operations.",
-        "presenter": "Eddie Garcia, Jennifer Nicewander",
+        "presenter": "Eddie Garcia, Chief of Police, Dallas Police Department, Jennifer Nicewander, Director, Office of Bond, and Construction Management",
         "action_required": "discuss"
       },
       {
         "item_number": "K",
         "title": "Warrant Roundup Scheduled for February 2024",
         "description": "Information on the upcoming warrant roundup.",
-        "presenter": "Gregory Nelson",
+        "presenter": "Gregory Nelson, Director, Dallas Municipal Court",
         "action_required": "discuss"
       },
       {
         "item_number": "L",
         "title": "Sexually Orientated Business (SOB) Hours of Operation Update",
         "description": "Update on the hours of operation for sexually oriented businesses.",
-        "presenter": "Eddie Garcia",
+        "presenter": "Eddie Garcia, Chief of Police, Dallas Police Department",
         "action_required": "discuss"
       },
       {
         "item_number": "M",
-        "title": "Ordinance Amending Chapter 7A, Anti-Litter Regulations",
-        "description": "An ordinance amending anti-litter regulations with a penalty clause.",
+        "title": "February 14, 2024 City Council Agenda Item #6; 24-79",
+        "description": "An ordinance amending Chapter 7A, 'Anti-Litter Regulations,' of the Dallas City Code.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "N",
-        "title": "Cooperative Purchasing Agreement for Mobile Forensic Software",
-        "description": "Authorize a cooperative purchasing agreement for mobile forensic software.",
+        "title": "February 14, 2024 City Council Agenda Item #30; 24-456",
+        "description": "Authorize a three-year cooperative purchasing agreement for a mobile forensic software subscription for the Police Department.",
         "presenter": null,
         "action_required": "approve"
       }
     ],
     "keywords": [
       "Public Safety",
-      "Dallas Police Department",
-      "Dallas Fire Rescue",
-      "Violent Crime",
-      "Sexual Assault",
-      "Public Safety Technology",
-      "Emergency Response",
-      "Police Academy",
-      "Warrant Roundup",
-      "Anti-Litter Regulations",
-      "Cooperative Purchasing",
+      "Dallas City Council",
       "Recruiting",
       "Retention",
+      "Violent Crime",
+      "Sexual Assault",
+      "Fire Rescue",
+      "Public Safety Technology",
+      "Dashboards",
       "Fleet Maintenance",
-      "Facility Construction"
+      "Warrant Roundup",
+      "Ordinance",
+      "Cooperative Purchasing",
+      "Emergency Response",
+      "Police Academy"
     ],
     "financial_items": [
       {
-        "description": "Cooperative purchasing agreement for mobile forensic software subscription for the Police Department.",
-        "amount": "715141.64",
+        "description": "Authorize a three-year cooperative purchasing agreement for a mobile forensic software subscription for the Police Department.",
+        "amount": "$715,141.64",
         "type": "expenditure"
       },
       {
-        "description": "Penalty for littering not to exceed.",
-        "amount": "2000.00",
+        "description": "Providing a penalty not to exceed for anti-litter regulations.",
+        "amount": "$2,000.00",
         "type": "penalty"
       }
     ]

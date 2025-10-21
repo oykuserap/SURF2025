@@ -22,21 +22,21 @@
       {
         "item_number": "1",
         "title": "Call to order and introduction of meeting participants",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "2",
         "title": "Public comments pertaining to agenda items 3 through 4",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "3",
         "title": "Review and consideration of the Meeting Record of the December 4, 2023 Design District TIF District Board Meeting",
-        "description": null,
+        "description": "",
         "presenter": "Sue Hounsel, District Manager, Office of Economic Development",
         "action_required": "Approval"
       },
@@ -50,7 +50,7 @@
       {
         "item_number": "5",
         "title": "Adjournment",
-        "description": null,
+        "description": "",
         "presenter": null,
         "action_required": null
       }

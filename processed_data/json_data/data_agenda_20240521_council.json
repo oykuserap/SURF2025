@@ -15,18 +15,27 @@
       "presenters": [],
       "participants": []
     },
-    "agenda_items": [],
+    "agenda_items": [
+      {
+        "item_number": null,
+        "title": "Executive Session Notice",
+        "description": "A closed executive session may be held if the discussion of any of the above agenda items concerns one of the following: seeking the advice of its attorney about pending or contemplated litigation, deliberating the purchase, exchange, lease, or value of real property, deliberating a negotiated contract for a prospective gift or donation, deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal of a public officer or employee, deliberating the deployment of security personnel or devices, discussing commercial or financial information from a business prospect, or deliberating security assessments or deployments.",
+        "presenter": null,
+        "action_required": null
+      }
+    ],
     "keywords": [
-      "executive session",
-      "litigation",
-      "real property",
-      "contract",
-      "employment",
-      "security",
-      "financial information",
-      "economic development",
-      "business prospect",
-      "incentive"
+      "Executive Session",
+      "City Council",
+      "Housing",
+      "Homelessness",
+      "Litigation",
+      "Real Property",
+      "Employment",
+      "Security",
+      "Economic Development",
+      "Financial Information",
+      "Negotiations"
     ],
     "financial_items": []
   },

@@ -8,7 +8,7 @@
       "time": "1:00 PM",
       "type": "Regular Meeting",
       "organization": "Transportation and Infrastructure Committee",
-      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+      "location": "Council Chambers, 6th Floor, City Hall and via video conference"
     },
     "attendees": {
       "chair": "Council Member Narvaez",
@@ -51,14 +51,14 @@
       {
         "item_number": "E",
         "title": "Monthly Update of Public Works Program Performance - February 2024",
-        "description": "Monthly performance update from Public Works.",
+        "description": "Monthly performance update for public works.",
         "presenter": "Ali Hatefi",
         "action_required": "discuss"
       },
       {
         "item_number": "F",
         "title": "Downtown Transportation Initiatives Study",
-        "description": "Discussion on transportation initiatives in downtown.",
+        "description": "Study on transportation initiatives in downtown.",
         "presenter": "Ghassan Khankarli, Ph.D., P.E.",
         "action_required": "discuss"
       },
@@ -80,14 +80,19 @@
     "keywords": [
       "Transportation",
       "Infrastructure",
-      "Dallas",
       "DART",
       "Public Works",
-      "Utility Poles",
       "Digital Kiosk",
       "Drought Contingency",
       "Boundary Adjustment",
-      "City Council"
+      "Streetlight",
+      "Utility Pole",
+      "Downtown",
+      "Performance Update",
+      "Engineering Services",
+      "Construction",
+      "Funding",
+      "Community Engagement"
     ],
     "financial_items": [
       {
@@ -111,34 +116,9 @@
         "type": "revenue"
       },
       {
-        "description": "Ordinance abandoning a portion of a utility easement",
-        "amount": "$7,800.00",
-        "type": "revenue"
-      },
-      {
-        "description": "Acquisition for condemnation proceedings for Dolphin Road Project",
-        "amount": "$67,692.00",
-        "type": "expenditure"
-      },
-      {
-        "description": "Professional services contract for construction material testing services",
+        "description": "Professional services contract with TSIT Engineering and Consulting, LLC",
         "amount": "$173,450.00",
         "type": "contract"
-      },
-      {
-        "description": "Acquisition of land for Dallas Executive Airport",
-        "amount": "$244,000.00",
-        "type": "expenditure"
-      },
-      {
-        "description": "Lease agreement extension for Women, Infants and Children Clinic",
-        "amount": "$881,267.60",
-        "type": "expenditure"
-      },
-      {
-        "description": "Increase in purchase amount of a wastewater easement",
-        "amount": "$31,341.78",
-        "type": "expenditure"
       }
     ]
   },

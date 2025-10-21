@@ -2,8 +2,8 @@
   "agenda_identifier": "agenda_20250325_budget",
   "agenda_number": 20250325,
   "source_file": "agenda_20250325_budget.txt",
-  "summary": "**Meeting Overview**:  \nThe Transportation and Infrastructure Committee of the Dallas City Council will convene on March 25, 2025, at 1:00 PM in the Council Chambers, City Hall. The meeting aims to discuss various transportation projects, infrastructure updates, and budgetary approvals.\n\n**Key Agenda Items**:  \n1. Approval of minutes from previous meetings.\n2. Updates on the Harold Simmons Park Project.\n3. Introduction of \"Serve Robotics\" delivery robots.\n4. Follow-up on DART projects aligned with City goals.\n\n**Important Details**:  \n- A ten-year lease agreement with the U.S. General Services Administration for office space at Dallas Love Field Airport is proposed, generating approximately $5.49 million in revenue.\n- A Standard Utility Agreement with the Texas Department of Transportation for water pipeline extensions is on the agenda, with an estimated revenue of $123,165.67.\n- The acquisition of a drainage easement for the Kings Branch Culvert project is proposed, with a budget not exceeding $8,800.\n- A grant from the U.S. Department of Transportation for roadway improvements on Harry Hines Boulevard is being sought, totaling $2 million.\n\n**Action Items**:  \nThe committee will seek approval for the above agreements, funding requests, and project updates, including a resolution to support DART funding at the current sales tax level. The meeting will also include an executive session to discuss confidential matters related to litigation and property negotiations.",
+  "summary": "Error generating summary: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-d8v1FzUXCcTCoM04EVDqEBc2 on tokens per min (TPM): Limit 200000, Used 200000, Requested 4532. Please try again in 1.359s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}",
   "original_length": 27082,
-  "summary_length": 1488,
-  "processed_at": "271013.213847833"
+  "summary_length": 378,
+  "processed_at": "290469.509268375"
 }

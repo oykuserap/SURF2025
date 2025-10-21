@@ -30,19 +30,19 @@
         "title": "Call Meeting to Order and Roll Call",
         "description": "Declare A Quorum Present, Declare Legal Notice Posted and Meeting Duly Called",
         "presenter": "Linda Garner",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "II",
         "title": "Public Comments",
         "description": "Limit 2 minutes per speaker",
         "presenter": "Linda Garner",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "III",
         "title": "Approval of Minutes",
-        "description": "August 15, 2024",
+        "description": "Approval of minutes from August 15, 2024",
         "presenter": "Linda Garner",
         "action_required": "approve"
       },
@@ -63,7 +63,7 @@
       {
         "item_number": "VI",
         "title": "Update: Office of Homeless Solutions",
-        "description": "Contract Forecast for September 2024 Council Agenda Items",
+        "description": "Contract forecast for September 2024 Council Agenda Items",
         "presenter": "Christine Crossley",
         "action_required": "discuss"
       },
@@ -86,7 +86,7 @@
         "title": "Proposed Items for Next/Future Meetings",
         "description": "No discussion, debate, and/or vote",
         "presenter": "Linda Garner",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "X",
@@ -100,31 +100,32 @@
         "title": "Announcement of Upcoming Meetings",
         "description": "Details of upcoming meetings",
         "presenter": "Linda Garner",
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "XII",
         "title": "Adjournment",
-        "description": null,
+        "description": "End of meeting",
         "presenter": "Linda Garner",
-        "action_required": null
+        "action_required": "adjourn"
       }
     ],
     "keywords": [
-      "Homelessness",
+      "homelessness",
       "Dallas",
-      "Public Comments",
-      "Economic Cost",
-      "Family Homelessness",
+      "public comments",
+      "economic cost",
+      "family homelessness",
       "Office of Homeless Solutions",
-      "Task Force",
-      "Annual Report",
-      "Upcoming Meetings",
-      "Community Engagement",
+      "task force",
+      "presentation",
+      "administrative matters",
+      "upcoming meetings",
+      "Citizen Homelessness Commission",
+      "contract forecast",
+      "community engagement",
       "Racial Equity",
-      "Data Initiatives",
-      "Housing Solutions",
-      "Contract Forecast"
+      "data initiatives"
     ],
     "financial_items": []
   },

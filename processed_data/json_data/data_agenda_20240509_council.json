@@ -16,10 +16,7 @@
         "Linda Garner",
         "Christine Crossley"
       ],
-      "participants": [
-        "Barry Dyson",
-        "Lisa Rand"
-      ]
+      "participants": []
     },
     "agenda_items": [
       {
@@ -74,21 +71,21 @@
       {
         "item_number": "8",
         "title": "Proposed Items for Next/Future Meetings",
-        "description": "No discussion, debate, and/or vote",
+        "description": "Discussion on proposed items for future meetings",
         "presenter": "Linda Garner",
         "action_required": null
       },
       {
         "item_number": "9",
         "title": "Announcement of Upcoming Meetings",
-        "description": "Details of upcoming meetings including OHS Listening Sessions and other committee meetings",
+        "description": "Announcement of upcoming meetings including OHS Listening Sessions and others",
         "presenter": "Linda Garner",
         "action_required": null
       },
       {
         "item_number": "10",
         "title": "Adjournment",
-        "description": null,
+        "description": "End of the meeting",
         "presenter": "Linda Garner",
         "action_required": null
       }
@@ -99,11 +96,11 @@
       "Approval of Minutes",
       "Point in Time Count",
       "Office of Homeless Solutions",
-      "Citizen Homelessness Retreat",
       "Subcommittee",
       "Future Meetings",
       "Dallas City Hall",
-      "Homeless Solutions"
+      "Homeless Solutions",
+      "Community Engagement"
     ],
     "financial_items": []
   },

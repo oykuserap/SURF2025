@@ -6,9 +6,9 @@
     "meeting_info": {
       "date": "April 19, 2024",
       "time": "10:00",
-      "type": "Executive Session",
+      "type": "Regular Meeting",
       "organization": "Trinity River Corridor Local Government Corporation",
-      "location": "Council Chambers, 6th Floor, 1500 Marilla Street, Dallas, Texas 75201"
+      "location": "City of Dallas, 1500 Marilla Street, Council Chambers, 6th Floor, Dallas, Texas 75201"
     },
     "attendees": {
       "chair": null,
@@ -17,16 +17,16 @@
     },
     "agenda_items": [],
     "keywords": [
+      "Trinity River Corridor",
+      "Local Government Corporation",
       "executive session",
       "litigation",
       "real property",
       "contract",
       "employment",
       "security",
-      "financial information",
       "economic development",
-      "negotiations",
-      "public officer"
+      "financial information"
     ],
     "financial_items": []
   },

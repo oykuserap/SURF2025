@@ -29,7 +29,7 @@
       {
         "item_number": "II",
         "title": "Approval of Minutes",
-        "description": "March 25, 2024, SDFPOF Advisory Board Meeting",
+        "description": "Approval of Minutes – March 25, 2024, SDFPOF Advisory Board Meeting",
         "presenter": null,
         "action_required": "approve"
       },
@@ -42,43 +42,43 @@
       },
       {
         "item_number": "IV",
-        "title": "How Sub-Committees Can Function in SDFPOF Advisory Board",
-        "description": "",
+        "title": "CAO Staff Presentation",
+        "description": "To present How Sub-Committees Can Function in SDFPOF Advisory Board",
         "presenter": "Stephen McFayden",
         "action_required": "discuss"
       },
       {
         "item_number": "V",
-        "title": "Staff Update – Small Business Center Loans Outreach Efforts",
-        "description": "",
+        "title": "Staff Update on Loans Outreach",
+        "description": "Small Business Center Loans Outreach Efforts",
         "presenter": "Mario King",
         "action_required": "discuss"
       },
       {
         "item_number": "VI",
-        "title": "Staff Update - Marketing Collateral for SDFPOF Economic Development Loans/Grants",
-        "description": "",
+        "title": "Staff Update on Marketing Collateral",
+        "description": "Marketing Collateral for SDFPOF Economic Development Loans/Grants",
         "presenter": "Mario King",
         "action_required": "discuss"
       },
       {
         "item_number": "VII",
-        "title": "Discuss Date for SDFPOF Advisory Board Retreat",
-        "description": "",
+        "title": "Discuss Date for Retreat",
+        "description": "Discuss Date for SDFPOF Advisory Board Retreat",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "VIII",
-        "title": "Discuss Date for SDFPOF Advisory Board Tour",
-        "description": "",
+        "title": "Discuss Date for Tour",
+        "description": "Discuss Date for SDFPOF Advisory Board Tour",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "IX",
-        "title": "Discuss standardizing the SDFPOF NOFA Release Dates",
-        "description": "",
+        "title": "Discuss NOFA Release Dates",
+        "description": "Discuss standardizing the SDFPOF NOFA Release Dates",
         "presenter": null,
         "action_required": "discuss"
       },
@@ -97,10 +97,8 @@
       "Dallas City Hall",
       "Advisory Board",
       "Public Speakers",
-      "Small Business Center",
-      "Economic Development",
-      "Loans",
-      "Grants",
+      "Loans Outreach",
+      "Marketing Collateral",
       "Retreat",
       "Tour",
       "NOFA Release Dates"

@@ -6,7 +6,7 @@
     "meeting_info": {
       "date": "November 7, 2024",
       "time": "2:10 PM",
-      "type": "Committee Meeting",
+      "type": "Regular Meeting",
       "organization": "Government Performance and Financial Management Committee",
       "location": "Council Briefing Room, 6th Floor, City Hall, Dallas, Texas"
     },
@@ -19,18 +19,19 @@
         "Jeannie Chen"
       ],
       "participants": [
-        "Narvaez",
-        "Arnold",
-        "Bazaldua",
-        "Ridley",
         "Stewart",
-        "West",
-        "Blackmon",
-        "Mendelsohn",
         "Moreno",
+        "Mendelsohn",
+        "Ridley",
+        "West",
+        "Bazaldua",
+        "Blackmon",
+        "Narvaez",
         "Resendez",
+        "Willis",
         "Gracey",
-        "Willis"
+        "Schultz",
+        "Johnson"
       ]
     },
     "agenda_items": [
@@ -44,7 +45,7 @@
       {
         "item_number": "A",
         "title": "2024 External Audit Planning Meeting",
-        "description": "Discussion on the planning for the 2024 external audit.",
+        "description": "Discussion on the planning for the external audit for 2024.",
         "presenter": "Sara Dempsey",
         "action_required": "discuss"
       },
@@ -72,7 +73,7 @@
       {
         "item_number": "F",
         "title": "Monthly Budget Accountability Report",
-        "description": "Report on the budget accountability.",
+        "description": "Report on the budget accountability for the month.",
         "presenter": null,
         "action_required": "discuss"
       },
@@ -86,21 +87,21 @@
       {
         "item_number": "H",
         "title": "Proposing Appropriations for Memberships in Organizations",
-        "description": "Proposing appropriations for various organizations.",
+        "description": "Proposing appropriations for various memberships.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "I",
         "title": "Proposing Amendment of Chapter 2-11.2 of the Dallas City Code",
-        "description": "Amendment to increase the threshold of administrative real property acquisitions.",
+        "description": "Increase the threshold of administrative real property acquisitions.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "J",
         "title": "Overview of the FY 2024-25 Community Survey",
-        "description": "Discussion on the methodology and purpose of the upcoming survey.",
+        "description": "Discussion on the community survey methodology and timeline.",
         "presenter": null,
         "action_required": "discuss"
       },
@@ -108,13 +109,6 @@
         "item_number": "K",
         "title": "Upcoming Authorizing Insurance",
         "description": "Discussion on upcoming agenda items related to bonds.",
-        "presenter": null,
-        "action_required": "discuss"
-      },
-      {
-        "item_number": "L",
-        "title": "Closed Session",
-        "description": "Deliberation on property purchases and legal advice.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -125,14 +119,16 @@
       "Audit Planning",
       "Short-Term Rentals",
       "Budget Accountability",
-      "Family Gateway",
       "City Council",
       "Appropriations",
-      "Real Property Acquisitions",
       "Community Survey",
+      "Pension System",
+      "Property Repairs",
+      "Digital Content Resources",
+      "Memberships",
+      "Real Property Acquisitions",
       "Insurance",
-      "Closed Session",
-      "Dallas"
+      "Bonds"
     ],
     "financial_items": []
   },

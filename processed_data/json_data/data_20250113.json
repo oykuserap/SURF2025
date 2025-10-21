@@ -33,14 +33,14 @@
       {
         "item_number": "II",
         "title": "Approval of Minutes",
-        "description": "Review and approval of the minutes from December 2024.",
+        "description": "Approval of the minutes from December 2024.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "III",
         "title": "Staff Reports/Briefings/Special Committees",
-        "description": "Updates on various events and activities.",
+        "description": "Updates on various events and committees.",
         "presenter": null,
         "action_required": null
       },
@@ -54,7 +54,7 @@
       {
         "item_number": "V",
         "title": "Unfinished Business/General Orders",
-        "description": "Discussion of ongoing tasks and deadlines.",
+        "description": "Discussion of deadlines, tasks, and committee updates.",
         "presenter": "Commissioner Okon",
         "action_required": null
       },
@@ -64,24 +64,31 @@
         "description": "General announcements.",
         "presenter": "Jacob Rayner",
         "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": "Closing of the meeting.",
+        "presenter": null,
+        "action_required": null
       }
     ],
     "keywords": [
       "Dallas Youth Commission",
       "Regular Meeting",
-      "Minutes Approval",
+      "Call to Order",
+      "Approval of Minutes",
       "Staff Reports",
       "Voting Items",
+      "Unfinished Business",
+      "Announcements",
       "Annual Report",
       "Chair Recommendation",
-      "Unfinished Business",
-      "General Orders",
-      "Announcements",
-      "Commissioner Tamfu",
-      "Commissioner Martinez",
-      "Commissioner Moreno",
-      "Commissioner Nelson",
-      "Commissioner Okon"
+      "Committee Updates",
+      "Equitable Meeting",
+      "Video Conference",
+      "Accessibility",
+      "Executive Session"
     ],
     "financial_items": []
   },

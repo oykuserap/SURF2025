@@ -35,7 +35,7 @@
       {
         "item_number": "III",
         "title": "Approval of Minutes",
-        "description": "Approval of minutes from the meeting on November 19, 2024.",
+        "description": "Approval of minutes from the meeting held on November 19, 2024.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -56,7 +56,7 @@
       {
         "item_number": "VI",
         "title": "Adjournment",
-        "description": "Formal closing of the meeting.",
+        "description": "Formal adjournment of the meeting.",
         "presenter": null,
         "action_required": null
       }
@@ -68,10 +68,10 @@
       "Approval of Minutes",
       "Chair’s Report",
       "Annual Report",
-      "Staff Reports",
+      "Director’s Report",
       "Inclement Weather",
-      "Adjournment",
-      "Meeting"
+      "Meeting Adjournment",
+      "Executive Session"
     ],
     "financial_items": []
   },

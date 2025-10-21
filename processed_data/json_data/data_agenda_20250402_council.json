@@ -19,7 +19,7 @@
       {
         "item_number": "1",
         "title": "Approval of Minutes of the March 5, 2025 City Council Meeting",
-        "description": "",
+        "description": null,
         "presenter": null,
         "action_required": "approve"
       },
@@ -71,7 +71,7 @@
       "Attorney Briefing",
       "Boards and Commissions",
       "Public Participation",
-      "Videoconference",
+      "Virtual Meeting",
       "City Hall",
       "Closed Session",
       "Executive Session"

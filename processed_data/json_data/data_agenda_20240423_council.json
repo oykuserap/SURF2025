@@ -7,7 +7,7 @@
       "date": "April 23, 2024",
       "time": "2:00 P.M.",
       "type": "Regular Meeting",
-      "organization": "Dallas Commission on Disabilities",
+      "organization": "Commission on Disabilities",
       "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
     },
     "attendees": {
@@ -29,29 +29,41 @@
       {
         "item_number": "IV",
         "title": "Officer Reports",
-        "description": "Chairman John Kalkanli will review the Autism Acceptance Month event on April 17, 2024, and discuss his fact-finding meeting at Mozee on April 10, 2024, regarding ADA compliant vehicles.",
+        "description": "Chairman John Kalkanli will review the Autism Acceptance Month event on April 17, 2024 and discuss his fact-finding meeting at Mozee on April 10, 2024, regarding ADA compliant vehicles.",
         "presenter": "John Kalkanli",
         "action_required": null
       },
       {
         "item_number": "VI",
         "title": "Briefings",
-        "description": "Chief Integrity Officer, Baron Eliason, will present on ethics, specifically code of conduct, civility, and decorum in meetings. Cozea Stephens will present on DAERG and possible opportunities for future collaborations.",
-        "presenter": "Baron Eliason, Cozea Stephens",
+        "description": "Chief Integrity Officer, Baron Eliason, will present on ethics, specifically code of conduct, civility, and decorum in meetings.",
+        "presenter": "Baron Eliason",
+        "action_required": null
+      },
+      {
+        "item_number": "VI",
+        "title": "Briefings",
+        "description": "Cozea Stephens, Vice President of Disabilities Accessibility Employee Resource Group (DAERG), will present on DAERG and possible opportunities for future collaborations.",
+        "presenter": "Cozea Stephens",
         "action_required": null
       }
     ],
     "keywords": [
-      "Dallas",
       "Commission on Disabilities",
       "Regular Meeting",
+      "Dallas City Hall",
       "Autism Acceptance Month",
-      "ADA compliance",
+      "ADA compliant vehicles",
       "ethics",
       "code of conduct",
       "civility",
+      "decorum",
       "collaboration",
-      "inclusion"
+      "disabilities",
+      "inclusion",
+      "accessibility",
+      "community",
+      "public service"
     ],
     "financial_items": []
   },

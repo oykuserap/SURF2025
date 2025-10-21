@@ -33,7 +33,21 @@
       {
         "item_number": "V",
         "title": "Briefing and Discussion Item",
-        "description": "Department FY 24-25 Priorities and Updates, Annual Report Development and Schedule, Department Updates and Announcements.",
+        "description": "Department FY 24-25 Priorities and Updates.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Annual Report Development and Schedule",
+        "description": "",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "V",
+        "title": "Department Updates and Announcements",
+        "description": "",
         "presenter": null,
         "action_required": "discuss"
       },
@@ -51,15 +65,16 @@
       "Regular Meeting",
       "rehire eligibility",
       "Mr. Noel Balderas",
-      "Housing Department",
-      "FY 24-25 Priorities",
+      "Department FY 24-25",
       "Annual Report",
-      "Department Updates",
+      "Updates",
       "Public Speakers",
       "Approval of Minutes",
-      "Action Item",
-      "Briefing",
-      "Discussion"
+      "Action Items",
+      "Executive Session",
+      "Accommodations",
+      "Videoconference",
+      "City Hall"
     ],
     "financial_items": []
   },

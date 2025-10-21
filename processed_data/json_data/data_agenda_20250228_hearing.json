@@ -4,11 +4,11 @@
   "source_file": "agenda_20250228_hearing.txt",
   "extracted_data": {
     "meeting_info": {
-      "date": "2/28/2025",
+      "date": "February 28, 2025",
       "time": null,
-      "type": "Meeting",
-      "organization": "City of Dallas",
-      "location": "Dallas City Hall"
+      "type": "Executive Session",
+      "organization": "City Council",
+      "location": null
     },
     "attendees": {
       "chair": null,
@@ -18,58 +18,65 @@
     "agenda_items": [
       {
         "item_number": "1",
-        "title": "seeking     the    advice      of   its   attorney     about      pending      or   contemplated    ...",
-        "description": "seeking     the    advice      of   its   attorney     about      pending      or   contemplated        litigation,  \n\n            settlement  offers,  or  any  matter  in  which  the  duty  of  the  attorney  to  the  City  Council  \n\n            under  the  Texas  Disciplinary  Rules  of  Professional  Conduct  of  the  State  Bar  of  Texas  \n\n            clearly conflicts with the Texas Open Meetings Act.  [Tex. Govt. Code §",
+        "title": "Legal Consultation",
+        "description": "Seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or any matter in which the duty of the attorney to the City Council under the Texas Disciplinary Rules of Professional Conduct of the State Bar of Texas clearly conflicts with the Texas Open Meetings Act.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "discuss"
       },
       {
         "item_number": "2",
-        "title": "deliberating  the  purchase,  exchange,  lease,  or  value  of  real  property  if  deliberation  in...",
-        "description": "deliberating  the  purchase,  exchange,  lease,  or  value  of  real  property  if  deliberation  in  \n\n            an   open    meeting     would     have    a   detrimental     effect   on   the    position   of   the   city   in  \n\n            negotiations with a third person.  [Tex. Govt. Code §",
+        "title": "Real Property Negotiation",
+        "description": "Deliberating the purchase, exchange, lease, or value of real property if deliberation in an open meeting would have a detrimental effect on the position of the city in negotiations with a third person.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "discuss"
       },
       {
         "item_number": "3",
-        "title": "deliberating    a   negotiated     contract    for  a   prospective      gift  or  donation     to  ...",
-        "description": "deliberating    a   negotiated     contract    for  a   prospective      gift  or  donation     to   the   city  if  \n\n            deliberation  in  an  open  meeting  would  have  a  detrimental  effect  on  the  position  of  the  \n\n            city in negotiations with a third person. [Tex. Govt. Code §",
+        "title": "Prospective Gift Negotiation",
+        "description": "Deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in an open meeting would have a detrimental effect on the position of the city in negotiations with a third person.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "discuss"
       },
       {
         "item_number": "4",
-        "title": "deliberating      the     appointment,         employment,         evaluation,       reassignment,  ...",
-        "description": "deliberating      the     appointment,         employment,         evaluation,       reassignment,         duties,  \n\n            discipline,   or   dismissal   of   a   public   officer   or   employee;   or   to   hear   a   complaint   or  \n\n            charge   against   an   officer   or   employee   unless   the   officer   or   employee   who   is   the  \n\n            subject   of   the   deliberation   or   hearing   requests   a   public   hearing.      [ Tex.   Govt.   Code  \n\n            §",
+        "title": "Public Officer Evaluation",
+        "description": "Deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal of a public officer or employee; or to hear a complaint or charge against an officer or employee unless the officer or employee who is the subject of the deliberation or hearing requests a public hearing.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "discuss"
       },
       {
         "item_number": "5",
-        "title": "deliberating    the    deployment,       or   specific    occasions     for   implementation,       ...",
-        "description": "deliberating    the    deployment,       or   specific    occasions     for   implementation,       of   security  \n\n            personnel or devices.  [Tex. Govt. Code §",
+        "title": "Security Personnel Deployment",
+        "description": "Deliberating the deployment, or specific occasions for implementation, of security personnel or devices.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "discuss"
       },
       {
         "item_number": "6",
-        "title": "discussing     or   deliberating      commercial      or    financial    information     that    the...",
-        "description": "discussing     or   deliberating      commercial      or    financial    information     that    the   city   has  \n\n            received  from  a  business  prospect  that  the  city  seeks  to  have  locate,  stay  or  expand  \n\n            in  or   near    the   city  and    with   which     the   city  is   conducting     economic      development  \n\n            negotiations;   or   deliberating   the   offer   of   a   financial   or   other   incentive   to   a   business  \n\n            prospect.  [Tex Govt. Code §",
+        "title": "Economic Development Negotiations",
+        "description": "Discussing or deliberating commercial or financial information that the city has received from a business prospect that the city seeks to have locate, stay or expand in or near the city and with which the city is conducting economic development negotiations; or deliberating the offer of a financial or other incentive to a business prospect.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "discuss"
       },
       {
         "item_number": "7",
-        "title": "deliberating    security    assessments        or   deployments       relating    to   information  ...",
-        "description": "deliberating    security    assessments        or   deployments       relating    to   information     resources  \n\n            technology,   network   security   information,   or   the   deployment   or   specific   occasions   for  \n\n            implementations       of    security    personnel,      critical   infrastructure,     or   security     devices .   \n\n            [Tex Govt. Code §",
+        "title": "Security Assessments",
+        "description": "Deliberating security assessments or deployments relating to information resources technology, network security information, or the deployment or specific occasions for implementations of security personnel, critical infrastructure, or security devices.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "discuss"
       }
     ],
     "keywords": [
-      "public",
-      "development",
-      "contract"
+      "executive session",
+      "legal consultation",
+      "real property",
+      "gift negotiation",
+      "public officer evaluation",
+      "security personnel",
+      "economic development",
+      "financial information",
+      "security assessments",
+      "Texas Open Meetings Act"
     ],
     "financial_items": []
   },

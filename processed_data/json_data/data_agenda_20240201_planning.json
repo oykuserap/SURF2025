@@ -41,28 +41,28 @@
       {
         "item_number": "IV",
         "title": "Approval of Monthly Minutes",
-        "description": "Approval of minutes from January 4, 2024 meeting.",
+        "description": "Approval of minutes from January 4, 2024",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "V",
         "title": "Community Development Division Report",
-        "description": "This report may include updates to commission members and members of the public, regarding proposed committee meetings, agenda items, presentations, and updates for the Consolidated Plan.",
+        "description": "Updates regarding proposed committee meetings, agenda items, presentations, and updates for the Consolidated Plan.",
         "presenter": "Chan Williams",
         "action_required": null
       },
       {
         "item_number": "VI",
         "title": "Chair’s Report",
-        "description": "This report may include general greetings and acknowledgements to staff, commission members and other members of the public; introduction of new commission members; additions/changes to committee assignments, scheduling of committee meetings and consideration of future agenda item.",
+        "description": "General greetings and acknowledgements, introduction of new commission members, and review of FY 2022-23 Community Development Annual Report.",
         "presenter": "Melanie Rubin",
         "action_required": null
       },
       {
         "item_number": "VII",
         "title": "Vice Chair’s Report",
-        "description": "This report may include general acknowledgements to staff, commission members and members of the public.",
+        "description": "General acknowledgements to staff and commission members.",
         "presenter": "Colbey Walker",
         "action_required": null
       },
@@ -76,7 +76,7 @@
       {
         "item_number": "IX",
         "title": "Items for Full Community Development Commissions’ Consideration",
-        "description": "Consider and vote on removing the matter concerning Substantial Amendment No. 3 to the FY 2023-24 Annual Action Plan (Community Development Block Grant {CDBG} Reallocation) from the Economic Development, Housing, and Home Programs Committee and move the matter to the full CDC for further discussion and potential action.",
+        "description": "Consideration of Substantial Amendment No. 3 to the FY 2023-24 Annual Action Plan.",
         "presenter": null,
         "action_required": "discuss and vote"
       },
@@ -90,7 +90,7 @@
       {
         "item_number": "XI",
         "title": "Announcement",
-        "description": "Announcements may include: Expressions of thanks, congratulations, or condolence; Information about holiday schedules; honorary or salutary recognition of public officials, employees, or citizens.",
+        "description": "Expressions of thanks, information about upcoming events.",
         "presenter": null,
         "action_required": null
       },
@@ -107,19 +107,25 @@
       "Dallas",
       "Monthly Meeting",
       "HUD Budget",
-      "CDBG",
       "Public Speakers",
-      "Chair's Report",
-      "Vice Chair's Report",
+      "Annual Report",
+      "CDBG",
       "Economic Development",
       "Housing Programs",
-      "Annual Action Plan",
-      "Budget Management Services",
-      "Commission Members",
-      "Neighborhood Public Meetings",
-      "Community Development Commission"
+      "Committee Reports",
+      "Substantial Amendment",
+      "Neighborhood Meetings",
+      "Public Participation",
+      "Equitable Access",
+      "Inclusivity"
     ],
-    "financial_items": []
+    "financial_items": [
+      {
+        "description": "FY 2024-25 HUD Budget Development Process",
+        "amount": null,
+        "type": "budget"
+      }
+    ]
   },
   "extraction_method": "openai_gpt",
   "original_length": 13985

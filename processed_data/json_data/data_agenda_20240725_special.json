@@ -19,21 +19,21 @@
       {
         "item_number": "I",
         "title": "Call to Order",
-        "description": "Opening of the meeting by the chair.",
+        "description": "",
         "presenter": "Arun Agarwal",
         "action_required": null
       },
       {
         "item_number": "II",
         "title": "Budget Development Workshop",
-        "description": "Discussion on the development of the budget.",
+        "description": "",
         "presenter": null,
-        "action_required": "discuss"
+        "action_required": null
       },
       {
         "item_number": "III",
         "title": "Adjournment",
-        "description": "Closing of the meeting.",
+        "description": "",
         "presenter": null,
         "action_required": null
       }
@@ -45,15 +45,10 @@
       "Budget Development",
       "City Hall",
       "Videoconference",
-      "Arun Agarwal",
-      "Meeting Access",
-      "Executive Session",
-      "Public Participation",
       "Accommodations",
-      "Texas Open Meetings Act",
-      "Financial Information",
-      "Security Personnel",
-      "Economic Development"
+      "Executive Session",
+      "Public Meeting",
+      "Texas Open Meetings Act"
     ],
     "financial_items": []
   },

@@ -24,56 +24,49 @@
       {
         "item_number": "I",
         "title": "Call to Order",
-        "description": "",
+        "description": "Opening of the meeting by the Vice Chair.",
         "presenter": "Anne Harding",
         "action_required": null
       },
       {
         "item_number": "II",
         "title": "Public Speakers",
-        "description": "",
+        "description": "Opportunity for public speakers to address the board.",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "III",
         "title": "Approval of Minutes",
-        "description": "(May 21, 2024)",
+        "description": "Approval of the minutes from the previous meeting on May 21, 2024.",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "IV",
         "title": "Reports of Officers, Boards, Standing Committees",
-        "description": "Chair’s Report",
+        "description": "Chair’s Report presented by the Vice Chair.",
         "presenter": "Anne Harding",
         "action_required": null
       },
       {
         "item_number": "V",
         "title": "Staff Reports/Briefings",
-        "description": "Director’s Report",
-        "presenter": "Jo Giudice",
-        "action_required": null
-      },
-      {
-        "item_number": "V",
-        "title": "Automated Material Handling (AMH) Tour",
-        "description": "",
-        "presenter": "Sallie Lockhart/Alex Zuniga",
+        "description": "Director’s Report and Automated Material Handling (AMH) Tour.",
+        "presenter": "Jo Giudice, Sallie Lockhart/Alex Zuniga",
         "action_required": null
       },
       {
         "item_number": "VI",
         "title": "New Business",
-        "description": "",
+        "description": "Discussion of new business items.",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "VII",
         "title": "Adjournment",
-        "description": "",
+        "description": "Closing of the meeting.",
         "presenter": null,
         "action_required": null
       }
@@ -81,7 +74,6 @@
     "keywords": [
       "Municipal Library Board",
       "Regular Meeting",
-      "Dallas",
       "Public Speakers",
       "Approval of Minutes",
       "Chair’s Report",
@@ -89,11 +81,7 @@
       "Automated Material Handling",
       "New Business",
       "Adjournment",
-      "Video Conference",
-      "Accessibility",
-      "Public Participation",
-      "Executive Session",
-      "Financial Information"
+      "Dallas"
     ],
     "financial_items": []
   },

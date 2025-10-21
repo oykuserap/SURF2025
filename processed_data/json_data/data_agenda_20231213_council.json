@@ -8,7 +8,7 @@
       "time": "5:30 p.m.",
       "type": "Regular Meeting",
       "organization": "Dallas Environmental Commission",
-      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference (Webex)"
     },
     "attendees": {
       "chair": "Kathryn Bazan",
@@ -79,7 +79,6 @@
     ],
     "keywords": [
       "Environmental Commission",
-      "Dallas",
       "Equity Indicators",
       "Environmental Justice",
       "Air Quality Improvement",
@@ -92,7 +91,7 @@
     ],
     "financial_items": [
       {
-        "description": "EPA Brownfield Grant Award",
+        "description": "EPA awarded the City of Dallas for Brownfields Program.",
         "amount": "$1,500,000",
         "type": "grant"
       }

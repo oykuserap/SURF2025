@@ -62,21 +62,21 @@
       {
         "item_number": "IX",
         "title": "Resolutions for 2929 Wycliff",
-        "description": "Consider and adopt resolutions for the financing, acquisition, and development of 2929 Wycliff, a multifamily residential development.",
+        "description": "Resolutions for a multifamily residential development to be located at 2929 Wycliff Avenue.",
         "presenter": "Aaron Eaquinto",
         "action_required": "approve"
       },
       {
         "item_number": "X",
         "title": "Resolution Regarding The Ridge at Loop 12",
-        "description": "Consider and adopt a resolution approving the participation in the financing, development, and ownership of The Ridge at Loop 12.",
+        "description": "Resolution regarding participation in the financing of The Ridge at Loop 12.",
         "presenter": "Aaron Eaquinto",
         "action_required": "approve"
       },
       {
         "item_number": "XI",
-        "title": "Resolution regarding the establishment of a credit card account",
-        "description": "Consider and adopt a resolution authorizing the Corporation to establish a credit card account with Origin Bank.",
+        "title": "Establishment of a Credit Card Account",
+        "description": "Resolution regarding the establishment of a credit card account for the Corporation with Origin Bank.",
         "presenter": "Aaron Eaquinto",
         "action_required": "approve"
       },
@@ -89,21 +89,21 @@
       },
       {
         "item_number": "XIII",
-        "title": "Review of DHFC Treasurer’s report",
+        "title": "DHFC Treasurer’s Report",
         "description": "Review and discussion of DHFC Treasurer’s report for the six-month period ending on June 30, 2024.",
         "presenter": "Aaron Eaquinto",
         "action_required": "discuss"
       },
       {
         "item_number": "XIV",
-        "title": "Review of the Corporation’s pipeline report",
+        "title": "Corporation’s Pipeline Report",
         "description": "Review and discussion of the Corporation’s pipeline report as of August 5, 2024.",
         "presenter": "Aaron Eaquinto",
         "action_required": "discuss"
       },
       {
         "item_number": "XV",
-        "title": "Presentation regarding Housing Connector",
+        "title": "Presentation by Housing Connector",
         "description": "Presentation regarding the services provided by Housing Connector.",
         "presenter": "Anthony Page",
         "action_required": "present"
@@ -124,28 +124,28 @@
       "pipeline report",
       "Housing Connector",
       "public comments",
-      "action items"
+      "resolution"
     ],
     "financial_items": [
       {
         "description": "Loan to AMTEX CF Hawn Fund, LP for CF Hawn Apartments",
         "amount": "$40,000,000",
-        "type": "funding"
+        "type": "loan"
       },
       {
         "description": "Loan to Westmoreland Townhomes Limited Partnership",
         "amount": "$40,000,000",
-        "type": "funding"
+        "type": "loan"
       },
       {
         "description": "Loan to JPI Affordable Acquisition, LLC for Torrington Davis",
         "amount": "$40,000,000",
-        "type": "funding"
+        "type": "loan"
       },
       {
         "description": "Loan to JPI Affordable Acquisition, LLC for Torrington Forest",
         "amount": "$40,000,000",
-        "type": "funding"
+        "type": "loan"
       }
     ]
   },

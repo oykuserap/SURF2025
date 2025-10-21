@@ -17,7 +17,26 @@
         "Lawrence Agu, III, AICP, Assoc AIA, Planning and Development",
         "Patrick Blaydes, Planning and Development"
       ],
-      "participants": []
+      "participants": [
+        "Monick Gandhi, Dazzling Homes Corporation",
+        "Kanti Suresh Shetty",
+        "Kent Carter",
+        "Mike Arreguin",
+        "Generation Housing Partners, LLC",
+        "Anish Thakrar",
+        "The Javelin Group, LLC",
+        "Barranco Properties, LLC",
+        "NB Concepts, LLC",
+        "Jamp Westfork, LLC",
+        "QT South LLC",
+        "NFL Logistics, LLC",
+        "Rob Myers",
+        "Greenleaf Ventures LLC",
+        "Quineka Ragsdale, Ujima Socials",
+        "New Horizon Homes, LLC",
+        "Palladium USA International, Inc.",
+        "David Giron"
+      ]
     },
     "agenda_items": [
       {
@@ -37,65 +56,65 @@
       {
         "item_number": "3",
         "title": "Zoning Case - Consent",
-        "description": "Application for a GR General Retail Subdistrict on property zoned a P Parking Subdistrict.",
+        "description": "Application for a GR General Retail Subdistrict.",
         "presenter": "Monick Gandhi, Dazzling Homes Corporation",
         "action_required": "approve"
       },
       {
         "item_number": "4",
         "title": "Zoning Case - Consent",
-        "description": "Application for a CR Community Retail District on property zoned an R-10(A) Single Family District.",
+        "description": "Application for a CR Community Retail District.",
         "presenter": "Kanti Suresh Shetty",
         "action_required": "approve"
       },
       {
         "item_number": "5",
         "title": "Zoning Case - Consent",
-        "description": "Application for an MU-1 Mixed Use District on property zoned an R-7.5(A) Single Family District.",
+        "description": "Application for an MU-1 Mixed Use District.",
         "presenter": "Kent Carter",
         "action_required": "approve"
       },
       {
         "item_number": "6",
         "title": "Zoning Case - Consent",
-        "description": "Application for a NS(A) Neighborhood Service District on property zoned Planned Development No. 532.",
+        "description": "Application for a NS(A) Neighborhood Service District.",
         "presenter": "Mike Arreguin",
         "action_required": "approve"
       },
       {
         "item_number": "7",
         "title": "Zoning Case - Consent",
-        "description": "Application for an MF-2(A) Multifamily District on property zoned an RR Regional Retail District.",
+        "description": "Application for an MF-2(A) Multifamily District.",
         "presenter": "Generation Housing Partners, LLC",
         "action_required": "approve"
       },
       {
         "item_number": "8",
         "title": "Zoning Case - Consent",
-        "description": "Application for a TH-3(A) Townhouse Subdistrict on property zoned an R-5(A) Single Family Subdistrict.",
+        "description": "Application for a TH-3(A) Townhouse Subdistrict.",
         "presenter": "Anish Thakrar",
         "action_required": "approve"
       },
       {
         "item_number": "9",
         "title": "Zoning Case - Consent",
-        "description": "Application for a TH-3(A) Townhouse District on property zoned an LO-1 Limited Office District.",
+        "description": "Application for a TH-3(A) Townhouse District.",
         "presenter": "The Javelin Group, LLC",
         "action_required": "approve"
       },
       {
         "item_number": "10",
         "title": "Zoning Case - Consent",
-        "description": "Application for a CS Commercial Service District on property zoned an A(A) Agricultural District.",
+        "description": "Application for a CS Commercial Service District.",
         "presenter": "Barranco Properties, LLC",
         "action_required": "approve"
       },
       {
         "item_number": "31",
         "title": "Authorization of a Hearing",
-        "description": "Consideration of a public hearing to determine the proper zoning on property zoned Planned Development District No. 842.",
+        "description": "Consideration of a public hearing to determine the proper zoning.",
         "presenter": null,
-        "action_required": "authorize hearing"
+        "action_required": "authorize"
       },
       {
         "item_number": "32",
@@ -107,20 +126,20 @@
     ],
     "keywords": [
       "City Plan Commission",
-      "Zoning",
-      "Public Hearing",
+      "Zoning Cases",
       "ForwardDallas",
+      "Public Hearing",
       "Planning and Development",
-      "General Retail",
-      "Community Retail",
-      "Mixed Use",
-      "Neighborhood Service",
+      "Comprehensive Land Use Plan",
+      "Consent Items",
+      "Community Retail District",
+      "Neighborhood Service District",
       "Multifamily District",
-      "Townhouse District",
-      "Commercial Service",
+      "Townhouse Subdistrict",
+      "Commercial Service District",
       "Public Testimony",
       "Minutes Approval",
-      "Consent Items"
+      "Zoning Ordinance"
     ],
     "financial_items": []
   },

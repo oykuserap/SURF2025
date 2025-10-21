@@ -5,10 +5,10 @@
   "extracted_data": {
     "meeting_info": {
       "date": "February 13, 2025",
-      "time": "9:00 AM",
+      "time": "9:00 AM - 12:00 PM",
       "type": "Special Called Meeting",
       "organization": "City Plan Commission",
-      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas"
     },
     "attendees": {
       "chair": "Tony Shidid",
@@ -22,36 +22,37 @@
       {
         "item_number": "1",
         "title": "Briefing Item",
-        "description": "Public Hearing: Development Code Amendments - Under Advisement.",
-        "presenter": "Michael Wade",
-        "action_required": "Discuss"
+        "description": "Public Hearing: Items 2-3",
+        "presenter": null,
+        "action_required": null
       },
       {
         "item_number": "2",
-        "title": "Consideration of amending Chapters 51 and 51A",
-        "description": "Amending Chapters 51 and 51A of the Dallas City Code regarding off-street parking and loading requirements.",
+        "title": "Development Code Amendments",
+        "description": "Consideration of amending Chapters 51 and 51A of the Dallas City Code regarding off-street parking and loading requirements, including establishing a Transportation Demand Management Plan and off-street parking design standards.",
         "presenter": "Michael Wade",
         "action_required": "Approve"
       },
       {
         "item_number": "3",
-        "title": "Consideration of amending Chapters 51 and 51A",
-        "description": "Amending Chapters 51 and 51A of the Dallas City Code regarding park land dedication.",
+        "title": "Development Code Amendments",
+        "description": "Consideration of amending Chapters 51 and 51A of the Dallas City Code regarding park land dedication to update development standards and bring park land dedication requirements into conformity with Texas House Bill 1526.",
         "presenter": "La’Kisha Girder",
         "action_required": "Approve"
       }
     ],
     "keywords": [
       "City Plan Commission",
+      "Special Called Meeting",
       "Public Hearing",
       "Development Code Amendments",
-      "Dallas City Code",
-      "Off-street parking",
-      "Loading requirements",
-      "Park land dedication",
+      "Off-Street Parking",
+      "Loading Requirements",
+      "Park Land Dedication",
+      "Transportation Demand Management",
       "Zoning Ordinance",
-      "Committee appointments",
-      "Executive session"
+      "Dallas City Code",
+      "Committee Appointments"
     ],
     "financial_items": []
   },

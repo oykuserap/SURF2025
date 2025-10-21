@@ -16,16 +16,17 @@
         "Aaron Eaquinto",
         "George Rodriguez",
         "Ryan Bowen",
-        "Tim Nelson",
-        "Jaclyn Schroeder"
+        "Tim Nelson"
       ],
-      "participants": []
+      "participants": [
+        "Jaclyn Schroeder"
+      ]
     },
     "agenda_items": [
       {
         "item_number": "IV",
-        "title": "Approval of the minutes for the November 12, 2024 City of Dallas Housing Finance Corporation Meeting",
-        "description": "Approval of the minutes from the previous meeting.",
+        "title": "Approval of the minutes for the November 12, 2024 Meeting",
+        "description": "Approval of the minutes for the previous meeting.",
         "presenter": "Marcy Helfand",
         "action_required": "approve"
       },
@@ -34,39 +35,40 @@
         "title": "Consider and Adopt an Inducement Resolution",
         "description": "Declaring intent to issue bonds, in an aggregate principal amount not to exceed $42,000,000, for a loan to LDG The Heights at UNT Station, LP to provide financing for a multifamily residential development for persons of low and moderate income.",
         "presenter": "Aaron Eaquinto",
-        "action_required": "discuss"
+        "action_required": "discuss and adopt"
       },
       {
         "item_number": "VI",
         "title": "Review and discussion of the Corporation’s 2024 Annual Report",
-        "description": "Discussion regarding the annual report of the Corporation.",
+        "description": "Review and discussion of the annual report.",
         "presenter": "Aaron Eaquinto",
         "action_required": "discuss"
       },
       {
         "item_number": "VII",
         "title": "Review and discussion of Notice of Funding Availability application",
-        "description": "Discussion regarding applications from Greenleaf Ventures LLC and Builders of Hope Community Development Corporation.",
+        "description": "Review and discussion of application from Greenleaf Ventures LLC and Builders of Hope Community Development Corporation.",
         "presenter": "Aaron Eaquinto",
         "action_required": "discuss"
       },
       {
         "item_number": "VIII",
         "title": "Review and discussion of DHFC Treasurer’s report",
-        "description": "Discussion of the Treasurer’s report for the eleven-month period ending on November 30, 2024.",
+        "description": "Review and discussion of the Treasurer’s report for the eleven-month period ending on November 30, 2024.",
         "presenter": "Aaron Eaquinto",
         "action_required": "discuss"
       },
       {
         "item_number": "IX",
         "title": "Review and discussion of the Corporation’s pipeline report",
-        "description": "Discussion of the Corporation’s pipeline report as of December 5, 2024.",
+        "description": "Review and discussion of the pipeline report as of December 5, 2024.",
         "presenter": "Aaron Eaquinto",
         "action_required": "discuss"
       }
     ],
     "keywords": [
-      "Dallas Housing Finance Corporation",
+      "Dallas",
+      "Housing Finance Corporation",
       "Inducement Resolution",
       "bonds",
       "multifamily residential development",
@@ -75,7 +77,11 @@
       "funding availability",
       "Treasurer’s report",
       "pipeline report",
-      "public comments"
+      "meeting minutes",
+      "public comments",
+      "executive session",
+      "Dallas City Hall",
+      "videoconference"
     ],
     "financial_items": [
       {

@@ -16,7 +16,18 @@
       "participants": []
     },
     "agenda_items": [],
-    "keywords": [],
+    "keywords": [
+      "Dallas",
+      "City Council",
+      "Briefing",
+      "Cancelled",
+      "Public Notice",
+      "City Hall",
+      "January 17, 2024",
+      "9:00 AM",
+      "Meeting",
+      "Agenda"
+    ],
     "financial_items": []
   },
   "extraction_method": "openai_gpt",

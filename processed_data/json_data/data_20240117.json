@@ -11,7 +11,7 @@
       "location": "Dallas City Hall, 6ES, and Videoconference"
     },
     "attendees": {
-      "chair": "Cherri Gambow, Vice-Chair",
+      "chair": "Cherri Gambow",
       "presenters": [],
       "participants": []
     },
@@ -33,14 +33,14 @@
       {
         "item_number": "III",
         "title": "Public Hearing",
-        "description": "Hearing for public input on agenda items.",
-        "presenter": "Board of Adjustment",
+        "description": "Public hearing for the Board of Adjustment.",
+        "presenter": null,
         "action_required": null
       },
       {
         "item_number": "IV",
         "title": "Public Testimony",
-        "description": "Opportunity for the public to provide testimony.",
+        "description": "Opportunity for public testimony on agenda items.",
         "presenter": null,
         "action_required": null
       },
@@ -55,7 +55,7 @@
         "item_number": "VI",
         "title": "Case Docket",
         "description": "Discussion of uncontested items, holdover items, and individual items.",
-        "presenter": "Board of Adjustment",
+        "presenter": null,
         "action_required": null
       },
       {
@@ -74,10 +74,14 @@
       "Case Docket",
       "Uncontested Items",
       "Holdover Items",
-      "Individual Items",
-      "Dallas City Hall",
-      "Videoconference",
-      "January 17th, 2024"
+      "Variance",
+      "Special Exception",
+      "Setback Regulations",
+      "Landscaping Regulations",
+      "Parking Regulations",
+      "Non-conforming Use",
+      "Fence Height Regulations",
+      "Fence Opacity Standards"
     ],
     "financial_items": []
   },

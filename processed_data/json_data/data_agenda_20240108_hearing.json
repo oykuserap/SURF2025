@@ -17,7 +17,8 @@
         "HR&A Advisors"
       ],
       "participants": [
-        "Troy Sims"
+        "Troy Sims",
+        "Phyllis Hill"
       ]
     },
     "agenda_items": [
@@ -38,7 +39,7 @@
       {
         "item_number": "III",
         "title": "Approval of Minutes",
-        "description": "Approval of the minutes from the December 4, 2023, regular meeting.",
+        "description": "Approval of the minutes from the December 4, 2023 meeting.",
         "presenter": null,
         "action_required": "approve"
       },
@@ -52,14 +53,14 @@
       {
         "item_number": "V",
         "title": "Briefing Items",
-        "description": "Discussion of consent and discussion items.",
+        "description": "Discussion of consent and other items.",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "VI",
         "title": "Other Business",
-        "description": "Appointment of Troy Sims to the Winnetka Heights-Lake Cliff Task Force and discussion on amendments to the composition of the Fair Park Task Force.",
+        "description": "Appointment of Troy Sims to the Winnetka Heights-Lake Cliff Task Force and discussion on amendments to the Fair Park Task Force.",
         "presenter": null,
         "action_required": "discuss and vote"
       },
@@ -81,9 +82,8 @@
       "Task Force",
       "Winnetka Heights",
       "Fair Park",
-      "Community Engagement",
-      "Public Speakers",
       "Minutes Approval",
+      "Public Speakers",
       "Staff Report",
       "Discussion Items",
       "Adjournment"

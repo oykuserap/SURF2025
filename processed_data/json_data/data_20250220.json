@@ -5,84 +5,117 @@
   "extracted_data": {
     "meeting_info": {
       "date": "February 20, 2025",
-      "time": null,
+      "time": "10:00 A.M.",
       "type": "Regular Meeting",
-      "organization": "Recreation Board",
-      "location": "Dallas City Hall"
+      "organization": "Dallas Park & Recreation Board",
+      "location": "Dallas City Hall, 6FN Conference Room and Videoconference"
     },
     "attendees": {
-      "chair": null,
-      "presenters": [],
+      "chair": "Arun Agarwal",
+      "presenters": [
+        "Ryan O’Connor"
+      ],
       "participants": []
     },
     "agenda_items": [
       {
-        "item_number": "113",
-        "title": "hábiles antes de la  reunión programada. Una transmisión  \n\n                                        ...",
-        "description": "hábiles antes de la  reunión programada. Una transmisión  \n\n                                                                         en video de la reunión estará disponible dos días hábiles  \n\n                                                                         luego    de    la   finalización   de    la   reunión    en  \n\n                                                                         https://dallastx.new.swagit.com/views/",
-        "presenter": null,
-        "action_required": "Action"
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": "",
+        "presenter": "Arun Agarwal",
+        "action_required": null
       },
       {
-        "item_number": "15",
-        "title": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or a...",
-        "description": "seeking the advice of its attorney about pending or contemplated litigation, settlement offers, or any matter in which  \n\n      the duty of the attorney to the City Council under the Texas Disciplinary Rules of Professional Conduct of the State  \n\n      Bar of Texas clearly conflicts with the Texas Open Meetings Act. [Tex. Govt. Code §",
+        "item_number": "III",
+        "title": "Approval of Minutes",
+        "description": "Approval of minutes from February 6, 2025",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
-        "item_number": "16",
-        "title": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open mee...",
-        "description": "deliberating the purchase, exchange, lease, or value of real property if deliberation in an open meeting would have  \n\n      a detrimental effect on the position of the city in negotiations with a third person. [Tex. Govt. Code §",
+        "item_number": "IV.1",
+        "title": "Reverchon Park - Dedication Plaque",
+        "description": "Authorize the placement of a dedication plaque at the Reverchon Park Ballfield, located at 3505 Maple Avenue.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
-        "item_number": "17",
-        "title": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in...",
-        "description": "deliberating a negotiated contract for a prospective gift or donation to the city if deliberation in an open meeting  \n\n      would have a detrimental effect on the position of the city in negotiations with a third person. [Tex. Govt. Code  \n\n      §",
+        "item_number": "IV.2",
+        "title": "Reverchon Park - Interpretive Signage",
+        "description": "Authorize the placement of interpretive signage at the Reverchon Ballpark, located at 3505 Maple Avenue.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
-        "item_number": "18",
-        "title": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal...",
-        "description": "deliberating the appointment, employment, evaluation, reassignment, duties, discipline, or dismissal of a public  \n\n      officer or employee; or to hear a complaint or charge against an officer or employee unless the officer or employee  \n\n      who is the subject of the deliberation or hearing requests a public hearing. [Tex. Govt. Code §",
+        "item_number": "IV.3",
+        "title": "Trinity Strand Hi Line Bridge - Engineering Services Contract",
+        "description": "Authorize an engineering services contract with Raba Kistner, Inc. to provide material testing and construction observation services for the Trinity Strand Hi-Line Span Bridge and Trail Project located at 1998 Hi-Line Drive.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
-        "item_number": "19",
-        "title": "deliberating the deployment, or specific occasions for implementation, of security personnel or devi...",
-        "description": "deliberating the deployment, or specific occasions for implementation, of security personnel or devices. [Tex. Govt.  \n\n      Code §",
+        "item_number": "IV.4",
+        "title": "Lake Highlands - Construction Services Contract Increase",
+        "description": "Authorize an increase in the construction services contract with RoeschCo Construction, LLC for the construction of the Lake Highlands Trail Phase 2A/2B, Northern Extension.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
-        "item_number": "20",
-        "title": "discussing or deliberating commercial or financial information that the city has received from a bus...",
-        "description": "discussing or deliberating commercial or financial information that the city has received from a business prospect  \n\n      that the city seeks to have locate, stay or expand in or near the city and with which the city is conducting economic  \n\n      development negotiations; or deliberating the offer of a financial or other incentive to a business prospect. [Tex  \n\n      Govt . Code §",
+        "item_number": "V.5",
+        "title": "College Park Renaming",
+        "description": "Authorize the official name change of College Park to 'Fahim J. Minkah Community Park' at Bonnie View Road and Highland Woods Drive.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
       },
       {
-        "item_number": "21",
-        "title": "deliberating security assessments or deployments relating to information resources technology, netwo...",
-        "description": "deliberating security assessments or deployments relating to information resources technology, network security  \n\n      information,  or   the   deployment   or   specific   occasions   for   implementations   of   security  personnel,  critical  \n\n      infrastructure, or security devices. [Tex Govt. Code §",
+        "item_number": "V.6",
+        "title": "Montfort Drive - Land Acquisition",
+        "description": "Authorize the land acquisition and assumption of existing leases from Montfort Valley View Shopping Center, LLC, of approximately 79,933 square feet of improved land for the future International Commons.",
         "presenter": null,
-        "action_required": "Action"
+        "action_required": "approve"
+      },
+      {
+        "item_number": "VI.7",
+        "title": "Park Land Dedication Update",
+        "description": "Briefing on Park Land Dedication.",
+        "presenter": "Ryan O’Connor",
+        "action_required": null
       }
     ],
     "keywords": [
-      "tif",
-      "district",
-      "funding",
-      "approval",
-      "public",
-      "development",
-      "contract"
+      "Dallas",
+      "Park & Recreation",
+      "Regular Meeting",
+      "Reverchon Park",
+      "Trinity Strand Hi Line Bridge",
+      "Lake Highlands",
+      "College Park",
+      "Montfort Drive",
+      "land acquisition",
+      "engineering services",
+      "dedication plaque",
+      "interpretive signage",
+      "construction services",
+      "budget",
+      "community park"
     ],
-    "financial_items": []
+    "financial_items": [
+      {
+        "description": "Engineering services contract for Trinity Strand Hi-Line Span Bridge and Trail Project",
+        "amount": "$130,859.50",
+        "type": "budget"
+      },
+      {
+        "description": "Increase in construction services contract for Lake Highlands Trail Phase 2A/2B",
+        "amount": "$187,035.94",
+        "type": "budget"
+      },
+      {
+        "description": "Land acquisition for Montfort Drive",
+        "amount": "$11,310,000",
+        "type": "expenditure"
+      }
+    ]
   },
   "extraction_method": "openai_gpt",
   "original_length": 12387

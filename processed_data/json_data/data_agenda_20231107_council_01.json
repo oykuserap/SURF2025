@@ -13,11 +13,11 @@
     "attendees": {
       "chair": null,
       "presenters": [
-        "Bilierae Johnson, City Secretary",
-        "Jake Anderson, Manager, Office of Government Affairs",
-        "Carrie Rogers, Director, Office of Government Affairs",
-        "Anna Holmes, First City Attorney, City Attorney’s Office",
-        "Laura Morrison, First City Attorney, City Attorney’s Office"
+        "Bilierae Johnson",
+        "Jake Anderson",
+        "Carrie Rogers",
+        "Anna Holmes",
+        "Laura Morrison"
       ],
       "participants": []
     },
@@ -33,34 +33,34 @@
         "item_number": "A",
         "title": "City of Dallas Elections (Joint Agreement, Election Contract & Costs)",
         "description": null,
-        "presenter": "Bilierae Johnson, City Secretary",
-        "action_required": null
+        "presenter": "Bilierae Johnson",
+        "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "City Council Term Lengths and Limits",
         "description": null,
-        "presenter": "Jake Anderson, Manager, Office of Government Affairs",
-        "action_required": null
+        "presenter": "Jake Anderson",
+        "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "Charter Review Commission Discussion - Upcoming NCL and ICMA Presentations",
         "description": null,
-        "presenter": "Carrie Rogers, Director, Office of Government Affairs",
-        "action_required": null
+        "presenter": "Carrie Rogers",
+        "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "Changing to the November Odd-Year Uniform Election Date",
         "description": null,
-        "presenter": "Anna Holmes, First City Attorney, City Attorney’s Office; Laura Morrison, First City Attorney, City Attorney’s Office",
-        "action_required": null
+        "presenter": "Anna Holmes, Laura Morrison",
+        "action_required": "discuss"
       }
     ],
     "keywords": [
       "Charter Review Commission",
-      "City of Dallas",
+      "Dallas",
       "Elections",
       "City Council",
       "Term Lengths",
@@ -68,10 +68,9 @@
       "NCL",
       "ICMA",
       "Uniform Election Date",
-      "Public Affairs",
-      "Video Conference",
       "Minutes Approval",
-      "Government Affairs"
+      "Video Conference",
+      "Public Participation"
     ],
     "financial_items": []
   },

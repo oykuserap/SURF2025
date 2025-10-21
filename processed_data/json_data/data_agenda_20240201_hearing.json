@@ -5,10 +5,10 @@
   "extracted_data": {
     "meeting_info": {
       "date": "February 1, 2024",
-      "time": "9:00 AM",
+      "time": "9:00 AM - 12:30 PM",
       "type": "Regular Meeting",
       "organization": "City Plan Commission",
-      "location": "Videoconference/Council Chambers, 6th Floor at City Hall, Dallas, Texas"
+      "location": "Videoconference/Council Chambers, Dallas City Hall, 1500 Marilla, Dallas, Texas"
     },
     "attendees": {
       "chair": null,
@@ -37,7 +37,7 @@
       {
         "item_number": "3",
         "title": "Executive Session",
-        "description": "Closed Sessions Attorney Briefings regarding legal issues related to zoning cases and board of adjustment hearings.",
+        "description": "Closed session regarding legal issues related to zoning cases and board of adjustment hearings.",
         "presenter": "Sarah May",
         "action_required": "discuss"
       },
@@ -50,19 +50,18 @@
       },
       {
         "item_number": "30",
-        "title": "Approval of FY2022-23 CPC Annual Report",
-        "description": "Consideration of the approval of the FY2022-23 CPC Annual Report.",
+        "title": "Consideration of Appointments to CPC Committees",
+        "description": "Consideration of appointments to CPC committees.",
         "presenter": null,
-        "action_required": "approve"
+        "action_required": "discuss"
       }
     ],
     "keywords": [
       "City Plan Commission",
       "Dallas",
-      "videoconference",
-      "public hearing",
       "zoning",
       "land use",
+      "public hearing",
       "annual report",
       "executive session",
       "planning",
@@ -70,8 +69,9 @@
       "community",
       "development",
       "amendments",
+      "regulations",
       "public testimony",
-      "minutes approval"
+      "committee appointments"
     ],
     "financial_items": []
   },

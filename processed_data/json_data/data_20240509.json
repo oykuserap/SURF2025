@@ -6,7 +6,7 @@
     "meeting_info": {
       "date": "May 9, 2024",
       "time": "5:00 PM",
-      "type": "SPECIAL CALLED MEETING",
+      "type": "Special Called Meeting",
       "organization": "City Plan Commission",
       "location": "Council Chambers, 6th Floor, 1500 Marilla Street, Dallas, Texas 75201"
     },
@@ -21,43 +21,43 @@
       {
         "item_number": "24-1580",
         "title": "Welcome",
-        "description": null,
+        "description": "Welcome to the meeting.",
         "presenter": "Tony Shidid",
         "action_required": null
       },
       {
         "item_number": "24-1581",
         "title": "Briefing on Potential CPC Plan Updates and CPC Review Schedule",
-        "description": "Summary of Potential CPC ForwardDallas Draft Edits",
+        "description": "Discussion on potential updates to the CPC plan and the review schedule.",
         "presenter": "Lawrence Agu, III; AICP, Assoc AIA",
         "action_required": null
       },
       {
         "item_number": "24-1582",
         "title": "Public Hearing",
-        "description": "Public hearing will begin no earlier than 6:00 PM. To receive public comments (Virtual and In-Person) on the ForwardDallas 2.0 Draft Plan.",
+        "description": "Public hearing will begin no earlier than 6:00 PM to receive public comments (Virtual and In-Person) on the ForwardDallas 2.0 Draft Plan.",
         "presenter": null,
-        "action_required": null
+        "action_required": "discuss"
       },
       {
         "item_number": "24-1583",
         "title": "Adjournment",
-        "description": null,
+        "description": "Closing of the meeting.",
         "presenter": null,
         "action_required": null
       }
     ],
     "keywords": [
-      "City of Dallas",
       "City Plan Commission",
-      "special called meeting",
-      "public hearing",
+      "Special Called Meeting",
       "ForwardDallas 2.0",
+      "Public Hearing",
       "CPC Plan Updates",
-      "virtual comments",
-      "in-person comments",
-      "adjournment",
-      "meeting agenda"
+      "Dallas",
+      "City Council",
+      "Virtual Meeting",
+      "Public Comments",
+      "Adjournment"
     ],
     "financial_items": []
   },

@@ -20,32 +20,53 @@
     },
     "agenda_items": [
       {
+        "item_number": "I",
+        "title": "Call to Order",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
         "item_number": "II",
-        "title": "Vote to Approve Meeting Minutes",
-        "description": "Vote to approve the October 28th, 2024 and January 27th, 2025 College Advisory Commission (CAC) Meeting Minutes.",
+        "title": "Vote to Approve the October 28th, 2024 and January 27th, 2025 College Advisory Commission (CAC) Meeting Minutes",
+        "description": null,
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "III",
-        "title": "Presentation on Workforce Pipeline",
-        "description": "Presentation by City of Dallas on workforce pipeline for hospitality, nighttime economy, and women’s safety.",
+        "title": "Presentation by City of Dallas: Workforce Pipeline for Hospitality, Nighttime Economy, and women’s safety",
+        "description": "Presentation on workforce pipeline and nighttime economy programming, including efforts to improve women’s safety.",
         "presenter": "Sandra Bowie and Edward Grant",
         "action_required": "discuss"
       },
       {
         "item_number": "IV",
-        "title": "Civic Analysis Project Discussion",
-        "description": "Discussion on the intent regarding progress on civic analysis projects and how commission staff may support their work.",
+        "title": "Civic analysis project discussion",
+        "description": "Discussion on progress regarding civic analysis projects and support from commission staff.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "V",
-        "title": "Recruiting Discussion",
+        "title": "Recruiting discussion",
         "description": "Update by commission staff regarding progress towards improving the recruitment of Commissioners.",
         "presenter": null,
         "action_required": "discuss"
+      },
+      {
+        "item_number": "VI",
+        "title": "Announcements",
+        "description": null,
+        "presenter": null,
+        "action_required": null
+      },
+      {
+        "item_number": "VII",
+        "title": "Adjournment",
+        "description": null,
+        "presenter": null,
+        "action_required": null
       }
     ],
     "keywords": [
@@ -58,8 +79,9 @@
       "women's safety",
       "civic analysis",
       "recruitment",
-      "commission staff",
-      "presentation"
+      "commissioners",
+      "announcements",
+      "adjournment"
     ],
     "financial_items": []
   },

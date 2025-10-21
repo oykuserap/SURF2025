@@ -8,7 +8,7 @@
       "time": "3:00 PM",
       "type": "Ad Hoc Committee Meeting",
       "organization": "City Council Ad Hoc Committee on Pensions",
-      "location": "City Council Chambers, 6th Floor, City Hall, Dallas, Texas"
+      "location": "City Council Chambers, Floor 6 at City Hall, Dallas, Texas"
     },
     "attendees": {
       "chair": "Atkins",
@@ -32,7 +32,7 @@
       {
         "item_number": "B",
         "title": "Pension Plan Cost of Living Adjustment (COLA) Discussion",
-        "description": "Discussion on the cost of living adjustment for the pension plan.",
+        "description": "Discussion regarding the cost of living adjustment for the pension plan.",
         "presenter": "Jeannie Chen and Joe Kropiewnicki of Deloitte Consulting LLP",
         "action_required": "discuss"
       },
@@ -41,14 +41,14 @@
         "title": "Employee Retirement Fund (ERF): Funding Soundness Restoration Plan Update and Consideration of Recommendations",
         "description": "Update on the funding soundness restoration plan for the Employee Retirement Fund and consideration of recommendations.",
         "presenter": "Cheryl Alston, Executive Director, David Etheridge, Deputy Executive Director of the Dallas Employees’ Retirement Fund",
-        "action_required": "discuss"
+        "action_required": "consider"
       },
       {
         "item_number": "D",
         "title": "Dallas Police and Fire Pension System (DPFP): Funding Soundness Restoration Plan Update and Consideration of Recommendations",
         "description": "Update on the funding soundness restoration plan for the Dallas Police and Fire Pension System and consideration of recommendations.",
         "presenter": "Jack Ireland, Chief Financial Officer, City Manager’s Office",
-        "action_required": "discuss"
+        "action_required": "consider"
       }
     ],
     "keywords": [
@@ -56,12 +56,17 @@
       "Cost of Living Adjustment",
       "Employee Retirement Fund",
       "Funding Soundness",
-      "Dallas Police and Fire Pension",
+      "Dallas Police and Fire Pension System",
       "Recommendations",
       "City Council",
       "Ad Hoc Committee",
       "Meeting Minutes",
-      "Video Conference"
+      "Video Conference",
+      "Public Attendance",
+      "Dallas City Hall",
+      "Financial Planning",
+      "Consulting",
+      "Executive Session"
     ],
     "financial_items": []
   },

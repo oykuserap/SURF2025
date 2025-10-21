@@ -39,7 +39,7 @@
       {
         "item_number": "A",
         "title": "Development Services- Monthly Update & Process Map Improvements for October 2023",
-        "description": "Monthly update and improvements in the process map for Development Services.",
+        "description": "Monthly update and improvements in process mapping.",
         "presenter": "Andrew Espinoza",
         "action_required": "discuss"
       },
@@ -53,42 +53,42 @@
       {
         "item_number": "C",
         "title": "Recommended 2024 External Audit Work Plan",
-        "description": "Presentation of the recommended work plan for external audits in 2024.",
+        "description": "Presentation of the recommended work plan for external audits.",
         "presenter": "Sara Dempsey, Jeff Wada",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "City-wide Real Estate Issues and Opportunities",
-        "description": "Discussion on city-wide real estate issues and opportunities.",
+        "description": "Discussion on real estate issues and opportunities.",
         "presenter": "Robert Perez",
         "action_required": "discuss"
       },
       {
         "item_number": "E",
         "title": "GPFM Two-Month Forecast",
-        "description": "Forecast for the Government Performance and Financial Management Committee for the next two months.",
+        "description": "Forecast for the next two months.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "F",
         "title": "Budget Accountability Report Information as of September 30, 2023",
-        "description": "Report on budget accountability as of September 30, 2023.",
+        "description": "Report on budget accountability.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "G",
         "title": "Technology Accountability Report Information as of October 31, 2023",
-        "description": "Report on technology accountability as of October 31, 2023.",
+        "description": "Report on technology accountability.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "H",
         "title": "State Fair of Texas Financial Report for years ending December 31, 2022 and 2021",
-        "description": "Financial report for the State Fair of Texas for the specified years.",
+        "description": "Financial report for the State Fair of Texas.",
         "presenter": null,
         "action_required": "discuss"
       },
@@ -102,14 +102,14 @@
       {
         "item_number": "J",
         "title": "Recommended 2024 Annual Internal Audit Plan",
-        "description": "Presentation of the recommended annual internal audit plan for 2024.",
+        "description": "Presentation of the recommended annual internal audit plan.",
         "presenter": null,
         "action_required": "discuss"
       },
       {
         "item_number": "K",
         "title": "2025 Legislative Priorities",
-        "description": "Discussion on the legislative priorities for 2025.",
+        "description": "Discussion on legislative priorities for 2025.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -123,12 +123,12 @@
       "Personnel Rules",
       "Real Estate",
       "Technology",
-      "State Fair of Texas",
+      "State Fair",
       "Legislative Priorities",
-      "Development Services",
       "Monthly Update",
-      "Internal Audit",
-      "Forecast"
+      "Process Improvements",
+      "Accountability",
+      "Internal Audit"
     ],
     "financial_items": []
   },

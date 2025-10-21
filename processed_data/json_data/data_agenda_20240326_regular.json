@@ -38,7 +38,7 @@
       {
         "item_number": "3",
         "title": "Public Testimony",
-        "description": "public comment(s) on items 4 – 15",
+        "description": "Public comment(s) on items 4 – 15",
         "presenter": null,
         "action_required": null
       },
@@ -58,14 +58,14 @@
       },
       {
         "item_number": "6",
-        "title": "Resolution for Santa Fe Trail at Haskell",
+        "title": "Resolution for Santa Fe Trail",
         "description": "Discussion and approval of a resolution approving the transaction for Santa Fe Trail at Haskell located at 4000 Ash Street, Dallas, TX; including the execution of all documentation necessary to carry out the transactions; authorizing the purchase of the land for the projects and authorizing the Dallas Public Facility Corporation to serve as the general contractor; and other matters in connection therewith",
         "presenter": "Albert Gonzalez, Jim Plummer, Tim Nelson",
         "action_required": "approve"
       },
       {
         "item_number": "7",
-        "title": "Resolution for Bloc House Santa Fe Trail",
+        "title": "Term Sheet for Bloc House",
         "description": "Discussion and approval of a resolution authorizing the negotiation and execution of a Term Sheet for Bloc House Santa Fe Trail in partnership with Bloc House to be located at 4533 Willow Street, Dallas, TX",
         "presenter": "Albert Gonzalez, Jim Plummer, Tim Nelson",
         "action_required": "approve"
@@ -73,14 +73,14 @@
       {
         "item_number": "8",
         "title": "Appointments",
-        "description": "Discussion and approval of a resolution authorizing the appointments of Albert Gonzalez, Dallas PFC Administrator, as the Corporation’s General Manager and Sam McDaniel, Dallas PFC Project Manager, as the Corporation’s Assistant General Manager",
+        "description": "Discussion and approval of a resolution authorizing the appointments of Albert Gonzalez as the Corporation’s General Manager and Sam McDaniel as the Corporation’s Assistant General Manager",
         "presenter": "Keith Pomykal",
         "action_required": "approve"
       },
       {
         "item_number": "9",
         "title": "Governance Committee Appointments",
-        "description": "Discussion and approval of a resolution authorizing the appointment of One Dallas Public Facility Corporation Board member to the Dallas Public Facility Corporation Governance Committee and the appointment of Three Dallas Public Facility Corporation Board members to the Dallas Public Facility Corporation Community Outreach Committee",
+        "description": "Discussion and approval of a resolution authorizing the appointment of One Dallas Public Facility Corporation Board member to the Governance Committee and Three Board members to the Community Outreach Committee",
         "presenter": "Keith Pomykal",
         "action_required": "approve"
       },
@@ -107,21 +107,21 @@
       },
       {
         "item_number": "13",
-        "title": "Directors and Officers Insurance Review",
+        "title": "Directors and Officers Insurance",
         "description": "Discussion and review of Directors and Officers Insurance coverage for the Dallas Public Facility Corporation’s Board of Directors and Officers",
         "presenter": "Keith Pomykal",
         "action_required": null
       },
       {
         "item_number": "14",
-        "title": "Treasurer’s Report Review",
+        "title": "Treasurer’s Report",
         "description": "Discussion and review of Dallas PFC Treasurer’s Report",
         "presenter": "Albert Gonzalez",
         "action_required": null
       },
       {
         "item_number": "15",
-        "title": "Pipeline Report Review",
+        "title": "Pipeline Report",
         "description": "Discussion and review of Dallas PFC Pipeline Report",
         "presenter": "Albert Gonzalez",
         "action_required": null
@@ -137,19 +137,19 @@
     "keywords": [
       "Dallas",
       "Public Facility Corporation",
-      "Board Meeting",
+      "Board of Directors",
       "Resolution",
-      "Community Reinvestment",
+      "Santa Fe Trail",
+      "Bloc House",
+      "Appointments",
       "Website Design",
       "Annual Report",
-      "Insurance Coverage",
+      "Community Reinvestment",
+      "Insurance",
+      "Treasurer’s Report",
       "Pipeline Report",
-      "Governance Committee",
       "Public Testimony",
-      "Appointments",
-      "Santa Fe Trail",
-      "Haskell",
-      "Bloc House"
+      "Minutes Approval"
     ],
     "financial_items": []
   },

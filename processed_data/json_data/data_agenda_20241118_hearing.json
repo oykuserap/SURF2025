@@ -5,7 +5,7 @@
   "extracted_data": {
     "meeting_info": {
       "date": "November 18, 2024",
-      "time": "10:30 A.M. and 1:00 P.M.",
+      "time": "10:30 A.M. for briefing, 1:00 P.M. for public hearing",
       "type": "Board of Adjustment Meeting",
       "organization": "Board of Adjustment (Panel C)",
       "location": "Dallas City Hall, 6ES Council Briefing, and Videoconference"
@@ -72,16 +72,16 @@
       "Public Hearing",
       "Testimony",
       "Case Docket",
-      "Special Exception",
       "Fence Regulations",
       "Parking Regulations",
-      "Miscellaneous Items",
+      "Special Exception",
+      "Panel C",
       "Meeting Minutes",
-      "Uncontested Cases",
-      "Holdover Items",
-      "Individual Cases",
+      "Uncontested Items",
+      "Miscellaneous Items",
       "Executive Session",
-      "Accommodations"
+      "Public Participation",
+      "Accessibility"
     ],
     "financial_items": []
   },

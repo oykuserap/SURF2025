@@ -4,7 +4,7 @@
   "source_file": "agenda_20241015_youth.txt",
   "extracted_data": {
     "meeting_info": {
-      "date": "October 15th, 2024",
+      "date": "October 15, 2024",
       "time": "6:00 P.M.",
       "type": "Regular Meeting",
       "organization": "Dallas Youth Commission",
@@ -26,7 +26,7 @@
         "item_number": "I",
         "title": "Call to Order",
         "description": "",
-        "presenter": "Commissioner Hawkins, Interim Chair",
+        "presenter": "Commissioner Hawkins",
         "action_required": null
       },
       {
@@ -80,7 +80,7 @@
       "Videoconference",
       "Community Engagement",
       "Events Planning",
-      "Youth Programs"
+      "Scholarship Gala"
     ],
     "financial_items": []
   },

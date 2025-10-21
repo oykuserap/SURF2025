@@ -6,12 +6,12 @@
     "meeting_info": {
       "date": "November 7, 2023",
       "time": "9:00 AM",
-      "type": "Quality of Life, Arts, and Culture Committee Meeting",
-      "organization": "Dallas City Council",
-      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX and via video conference"
+      "type": "Regular Meeting",
+      "organization": "Quality of Life, Arts, and Culture Committee",
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, TX"
     },
     "attendees": {
-      "chair": "Bazaldua",
+      "chair": "Mendelsohn",
       "presenters": [
         "Jill Haning",
         "Daisy Fast",
@@ -48,14 +48,14 @@
       {
         "item_number": "C",
         "title": "311 Updates",
-        "description": "Updates regarding the 311 customer service operations.",
+        "description": "Updates regarding the 311 Customer Services.",
         "presenter": "Daisy Fast, Sheila Gray",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "Community Water Fluoridation in Dallas, Texas-Part 2",
-        "description": "Discussion on the community water fluoridation program.",
+        "description": "Continuation of the discussion on community water fluoridation.",
         "presenter": "Sarah Standifer, Sally U. Wright, Dr. Griffin Cole, Dr. John Staniland, Professor Bruce Lanphear",
         "action_required": "discuss"
       },
@@ -69,7 +69,7 @@
       {
         "item_number": "F",
         "title": "Dangerous & Aggressive Dogs Audit and Ordinance Amendments",
-        "description": "Discussion on the audit and proposed amendments regarding dangerous and aggressive dogs.",
+        "description": "Discussion on the audit and amendments related to dangerous and aggressive dogs.",
         "presenter": "Melissa Webber, Paul Ramon, Sandy Castillo",
         "action_required": "discuss"
       }
@@ -78,18 +78,18 @@
       "Quality of Life",
       "Arts",
       "Culture",
-      "Dallas City Council",
+      "Dallas",
+      "Committee",
+      "Meeting Minutes",
       "Non-Profit Housing",
-      "311 Customer Service",
+      "311 Updates",
       "Water Fluoridation",
       "Cultural Organizations",
       "Dangerous Dogs",
       "Ordinance Amendments",
-      "Committee Meeting",
-      "Public Participation",
       "Executive Session",
-      "Video Conference",
-      "City Hall"
+      "Public Participation",
+      "City Council"
     ],
     "financial_items": []
   },

@@ -78,15 +78,17 @@
       "Public Hearing",
       "Certificate of Appropriateness",
       "Certificate of Eligibility",
-      "Minutes Approval",
+      "Expenditures",
       "Training",
       "Rules and Procedures",
       "Public Speakers",
+      "Minutes Approval",
+      "Staff Reports",
       "Adjournment"
     ],
     "financial_items": [
       {
-        "description": "Approval of an estimated $252,845 in expenditures to be spent on rehabilitation prior to the issuance of the Certificate of Eligibility.",
+        "description": "Estimated expenditures for rehabilitation prior to the issuance of the Certificate of Eligibility.",
         "amount": "$252,845",
         "type": "expenditure"
       }

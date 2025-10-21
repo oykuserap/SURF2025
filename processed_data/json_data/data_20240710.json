@@ -8,7 +8,7 @@
       "time": "5:30 p.m.",
       "type": "Regular Meeting",
       "organization": "Dallas Environmental Commission",
-      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference"
+      "location": "Dallas City Hall, 6ES Council Briefing Room and Videoconference (Webex)"
     },
     "attendees": {
       "chair": "Kathryn Bazan",
@@ -46,21 +46,42 @@
         "item_number": "V.a",
         "title": "Urban Forest Master Plan Update",
         "description": "Update on the Urban Forest Master Plan.",
-        "presenter": "M. Renee Johnson, Assistant Director, Parks and Recreation Department",
+        "presenter": "M. Renee Johnson, David Lopez, Chris McMaster",
         "action_required": "discuss"
       },
       {
         "item_number": "V.b",
         "title": "Dallas Community Air Management Program (DCAMP) Update",
         "description": "Update on the Dallas Community Air Management Program.",
-        "presenter": "Alfredo Ortiz, Environmental Coordinator lll, Office of Environmental Quality & Sustainability",
+        "presenter": "Alfredo Ortiz",
         "action_required": "discuss"
       },
       {
         "item_number": "VI.a",
         "title": "Bond Performance Criteria Update",
         "description": "Update on Bond Performance Criteria.",
-        "presenter": "Natalie Requenez, Environmental Justice Coordinator, Office of Environmental Quality & Sustainability",
+        "presenter": "Natalie Requenez",
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII.a",
+        "title": "Monthly Subcommittee Updates",
+        "description": "Updates from various subcommittees.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII.b",
+        "title": "Monthly District Updates from Commissioners",
+        "description": "Updates from commissioners regarding their districts.",
+        "presenter": null,
+        "action_required": "discuss"
+      },
+      {
+        "item_number": "VII.c",
+        "title": "Upcoming Meetings",
+        "description": "Discussion of upcoming meetings including Parks, Trails, & the Environment Council Committee and Environmental Commission.",
+        "presenter": null,
         "action_required": "discuss"
       }
     ],
@@ -70,16 +91,16 @@
       "Urban Forest Master Plan",
       "Community Air Management",
       "Bond Performance",
-      "Public Speaker",
-      "Minutes Approval",
-      "Environmental Quality",
-      "Sustainability",
-      "Parks and Recreation",
       "Subcommittee Updates",
       "District Updates",
-      "Upcoming Meetings",
+      "Parks",
+      "Trails",
+      "Sustainability",
+      "Environmental Quality",
+      "Public Meeting",
+      "Accommodations",
       "Executive Session",
-      "Accommodations"
+      "Public Participation"
     ],
     "financial_items": []
   },

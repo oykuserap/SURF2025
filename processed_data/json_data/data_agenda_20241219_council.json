@@ -21,7 +21,6 @@
         "Angela Klattenhoff"
       ],
       "participants": [
-        "LeTitia Owens",
         "Barry Dyson",
         "Lisa Rand"
       ]
@@ -32,14 +31,14 @@
         "title": "Call Meeting to Order and Roll Call",
         "description": "Declare A Quorum Present, Declare Legal Notice Posted and Meeting Duly Called",
         "presenter": "Linda Garner",
-        "action_required": "none"
+        "action_required": null
       },
       {
         "item_number": "II",
         "title": "Public Comments",
         "description": "Limit 2 minutes per speaker",
         "presenter": "Linda Garner",
-        "action_required": "discuss"
+        "action_required": null
       },
       {
         "item_number": "III",
@@ -65,9 +64,9 @@
       {
         "item_number": "VI",
         "title": "Review of Boards and Commissions: Chapter 8, Section 8-1.1",
-        "description": "Annual Report to the City Council and Discussion on Internal Deadline Submission for the Annual Report",
+        "description": "Annual Report to the City Council, Discussion and Vote on Internal Deadline Submission for the Annual Report",
         "presenter": "Linda Garner",
-        "action_required": "discuss and vote"
+        "action_required": "discuss"
       },
       {
         "item_number": "VII",
@@ -85,31 +84,31 @@
       },
       {
         "item_number": "IX",
-        "title": "Proposed Items for Next/Future Meetings",
+        "title": "Proposed Items for Next/Future Meetings by Commissioners",
         "description": "No discussion, debate, and/or vote",
         "presenter": "Linda Garner",
-        "action_required": "none"
+        "action_required": null
       },
       {
         "item_number": "X",
         "title": "Special Acknowledgment",
         "description": "Acknowledgment of contributions by Christine Crossley and LeTitia Owens",
         "presenter": "Christine Crossley",
-        "action_required": "none"
+        "action_required": null
       },
       {
         "item_number": "XI",
         "title": "Announcement of Upcoming Meetings",
-        "description": "Details of upcoming meetings",
+        "description": "Details of future meetings",
         "presenter": "Linda Garner",
-        "action_required": "none"
+        "action_required": null
       },
       {
         "item_number": "XII",
         "title": "Adjournment",
-        "description": "Closing of the meeting",
+        "description": "End of the meeting",
         "presenter": "Linda Garner",
-        "action_required": "none"
+        "action_required": null
       }
     ],
     "keywords": [
@@ -120,11 +119,14 @@
       "Property Development",
       "Interim Housing",
       "Annual Report",
-      "Task Force Update",
-      "District Specific Concerns",
+      "Task Force",
+      "Homelessness Concerns",
       "Future Meetings",
       "Special Acknowledgment",
-      "Adjournment"
+      "Commissioners",
+      "Community Engagement",
+      "Racial Equity",
+      "Data Initiatives"
     ],
     "financial_items": []
   },

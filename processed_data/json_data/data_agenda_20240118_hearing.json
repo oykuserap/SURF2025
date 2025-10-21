@@ -19,69 +19,69 @@
       "participants": [
         "James Kuhlmann",
         "Teaseia Blue",
-        "Joe LaCroix",
+        "Wilson Kerr",
         "Rob Baldwin",
         "Connor Roberts",
         "Liliana Garza",
-        "Giahanna Bridges",
         "Martin Bate",
-        "LeQuan Clinton",
-        "Sef Okoth"
+        "Giahanna Bridges",
+        "Sef Okoth",
+        "Sharmila Shrestha"
       ]
     },
     "agenda_items": [
       {
         "item_number": "1",
         "title": "Update on the ForwardDallas Comprehensive Land Use Plan",
-        "description": "Presentation on the updates to the ForwardDallas Comprehensive Land Use Plan.",
+        "description": "Briefing on the ForwardDallas Comprehensive Land Use Plan.",
         "presenter": "Andrea Gilles",
-        "action_required": "Discuss"
+        "action_required": "discuss"
       },
       {
         "item_number": "2",
         "title": "Review FY2022-23 CPC Annual Report",
-        "description": "Review of the annual report for the City Plan Commission for the fiscal year 2022-2023.",
+        "description": "Review of the annual report for the City Plan Commission.",
         "presenter": "Andreea Udrea",
-        "action_required": "Discuss"
+        "action_required": "discuss"
       },
       {
         "item_number": "3",
-        "title": "Approval of Minutes",
-        "description": "Approval of the minutes from the December 7, 2023 City Plan Commission Hearing.",
-        "presenter": null,
-        "action_required": "Approve"
+        "title": "Minor Amendment to Development Plan",
+        "description": "Application for a minor amendment to an existing development plan on property zoned Planned Development District No. 1053.",
+        "presenter": "Donna Moorman",
+        "action_required": "approve"
       },
       {
         "item_number": "4",
-        "title": "Executive Session",
-        "description": "The City Plan Commission may meet in closed session to seek the advice of its attorney about pending litigation.",
-        "presenter": null,
-        "action_required": "Discuss"
+        "title": "Relief from Street Frontage Requirements",
+        "description": "Application requesting relief from the street frontage requirements along Parker Street.",
+        "presenter": "Teaseia Blue",
+        "action_required": "approve"
       },
       {
         "item_number": "5",
-        "title": "Miscellaneous Items: Minor Amendments",
-        "description": "Consideration of minor amendments to existing development plans.",
-        "presenter": null,
-        "action_required": "Discuss"
+        "title": "Development Plan for General Merchandise Store",
+        "description": "Application for a development plan for a general merchandise or food store greater than 3,500 square feet.",
+        "presenter": "Wilson Kerr",
+        "action_required": "approve"
       }
     ],
     "keywords": [
       "City Plan Commission",
-      "ForwardDallas",
-      "Annual Report",
-      "Executive Session",
-      "Minor Amendments",
-      "Zoning Cases",
-      "Public Hearings",
-      "Development Plans",
-      "Subdivision Docket",
-      "Thoroughfare Plan Amendments",
-      "Public Testimony",
-      "Approval of Minutes",
-      "Planning and Urban Design",
-      "Community Engagement",
-      "City Hall"
+      "Dallas",
+      "development plan",
+      "zoning",
+      "public hearing",
+      "land use",
+      "minor amendment",
+      "annual report",
+      "urban design",
+      "community engagement",
+      "public testimony",
+      "zoning cases",
+      "thoroughfare plan",
+      "subdivision",
+      "street name change"
     ],
     "financial_items": []
   },

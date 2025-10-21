@@ -40,54 +40,50 @@
       {
         "item_number": "A",
         "title": "Public Safety Recruiting and Retention Update",
-        "description": "Update on the recruiting and retention efforts for public safety personnel.",
-        "presenter": "Israel Herrera, Delridge Williams",
+        "description": "Update on the recruiting and retention efforts in public safety.",
+        "presenter": "Israel Herrera, Deputy Chief, Personnel & Training Division, Dallas Police Department",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "Violent Crime Reduction Plan Update",
         "description": "Update on the strategies and progress of the violent crime reduction plan.",
-        "presenter": "Jason Scoggins, Kevin Oden",
+        "presenter": "Jason Scoggins, Major of Police, Dallas Police Department",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "Overview of the Public Safety Technology Projects",
         "description": "Presentation on current and upcoming technology projects in public safety.",
-        "presenter": "Bill Zielinski, Dr. Brian Gardner",
+        "presenter": "Bill Zielinski, Chief Information Officer",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
         "title": "Overview of the Dallas Online Reporting System (DORS) Expansion",
-        "description": "Discussion on the expansion of the DORS to address minor hit-and-run collisions.",
-        "presenter": "Robert Uribe",
+        "description": "Discussion on the expansion of the online reporting system to address minor hit-and-run collisions.",
+        "presenter": "Robert Uribe, 911 Communications Administrator, Dallas Police Department",
         "action_required": "discuss"
       },
       {
         "item_number": "E",
         "title": "Sobering Center Update",
         "description": "Update on the operations and status of the Sobering Center.",
-        "presenter": "David Pughes, Scott Whitworth, Kristen Kubat",
+        "presenter": "David Pughes, City Marshal",
         "action_required": "discuss"
       }
     ],
     "keywords": [
       "Public Safety",
-      "Dallas City Council",
-      "Recruiting",
-      "Retention",
-      "Violent Crime",
+      "Dallas Police Department",
+      "Crime Reduction",
       "Technology Projects",
       "Online Reporting System",
       "Sobering Center",
-      "Emergency Management",
-      "Fire-Rescue",
-      "Community Safety",
-      "Grant Funding",
-      "Public Affairs",
-      "Committee Meeting"
+      "Recruiting",
+      "Retention",
+      "City Council",
+      "Emergency Management"
     ],
     "financial_items": [
       {
@@ -101,17 +97,17 @@
         "type": "grant"
       },
       {
-        "description": "Authorize a three-year cooperative purchasing agreement for THC Quantification and controlled substance analysis.",
+        "description": "Authorize a three-year cooperative purchasing agreement for THC Quantification and controlled substance quantitation analysis for the Police Department.",
         "amount": "$750,750.00",
         "type": "budget"
       },
       {
-        "description": "Authorize a one-year Interlocal Agreement with the University of Texas at San Antonio for consulting services.",
+        "description": "Authorize a one-year Interlocal Agreement with the University of Texas at San Antonio for consulting services for the Dallas Police Department.",
         "amount": "$106,951.00",
         "type": "budget"
       },
       {
-        "description": "Authorize acceptance of a grant for the design and construction of a regional law enforcement training facility.",
+        "description": "Authorize the acceptance of a grant from Office of Governor for the design and construction of a Dallas Police Department regional law enforcement training facility.",
         "amount": "$10,000,000.00",
         "type": "grant"
       }

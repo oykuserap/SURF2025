@@ -8,7 +8,7 @@
       "time": "6:30 PM",
       "type": "Regular Meeting",
       "organization": "Charter Review Commission",
-      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; Virtual via video conference"
+      "location": "Council Chambers, 6th Floor, City Hall, Dallas, Texas; Virtual attendance available"
     },
     "attendees": {
       "chair": null,
@@ -36,7 +36,7 @@
       {
         "item_number": "B",
         "title": "International City/County Management Association Presentation and Discussion of Charter Review Processes, Best Practices, and Philosophies",
-        "description": "Presentation and discussion led by Jason Grant on best practices in charter review.",
+        "description": "Presentation and discussion led by Jason Grant regarding charter review processes.",
         "presenter": "Jason Grant, Director of Advocacy, ICMA",
         "action_required": "discuss"
       }
@@ -46,12 +46,17 @@
       "November 14, 2023",
       "Ranked-Choice Voting",
       "ICMA",
-      "Best Practices",
-      "Public Speakers",
-      "Minutes Approval",
-      "Video Conference",
+      "presentation",
+      "discussion",
+      "minutes approval",
+      "public meeting",
+      "video conference",
       "City Hall",
-      "Dallas"
+      "Dallas",
+      "government",
+      "best practices",
+      "charter amendment",
+      "public participation"
     ],
     "financial_items": []
   },

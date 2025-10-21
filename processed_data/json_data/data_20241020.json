@@ -6,7 +6,7 @@
     "meeting_info": {
       "date": "October 21, 2024",
       "time": "10:30 A.M. and 1:00 P.M.",
-      "type": "Briefing and Public Hearing",
+      "type": "Board of Adjustment Meeting",
       "organization": "Board of Adjustment (Panel C)",
       "location": "Dallas City Hall, 6ES Council Briefing, and Videoconference"
     },
@@ -33,14 +33,14 @@
       {
         "item_number": "III",
         "title": "Public Hearing",
-        "description": "Public hearing conducted by the Board of Adjustment.",
+        "description": "Hearing for public input on agenda items.",
         "presenter": "Board of Adjustment",
         "action_required": null
       },
       {
         "item_number": "IV",
         "title": "Public Testimony",
-        "description": "Opportunity for public testimony regarding agenda items.",
+        "description": "Opportunity for public testimony on agenda items.",
         "presenter": null,
         "action_required": null
       },
@@ -68,20 +68,20 @@
     ],
     "keywords": [
       "Board of Adjustment",
+      "Dallas",
       "Public Hearing",
-      "Dallas City Hall",
+      "Testimony",
       "Variance",
-      "Setback Regulations",
       "Landscaping Regulations",
-      "Public Testimony",
-      "Approval of Minutes",
-      "Case Docket",
+      "Setback Regulations",
+      "Parking Regulations",
+      "Special Exception",
+      "Administrative Appeal",
+      "Minutes Approval",
       "Uncontested Items",
       "Holdover Items",
-      "Individual Items",
-      "Executive Session",
-      "Auxiliary Aid",
-      "Meeting Accommodations"
+      "Individual Cases",
+      "Executive Session"
     ],
     "financial_items": []
   },

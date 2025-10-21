@@ -20,8 +20,8 @@
         "Rosa Fleming",
         "Jaqulin Justice",
         "Laura Flores",
-        "Martine Philippe",
-        "M. Elizabeth (Liz) Cedillo-Pereira"
+        "M. Elizabeth (Liz) Cedillo-Pereira",
+        "Martine Philippe"
       ],
       "participants": []
     },
@@ -45,35 +45,35 @@
         "title": "Opioid Strike Force & Interdepartmental Strategies Update",
         "description": "Update on the Opioid Strike Force and interdepartmental strategies.",
         "presenter": "Carrie Rogers, Kevin Oden, Devon Polk, Scott Clumpner",
-        "action_required": "briefing"
+        "action_required": "brief"
       },
       {
         "item_number": "D",
         "title": "Chapter 42A: High Impact Areas Survey Results and Recommendations",
         "description": "Presentation of survey results and recommendations regarding high impact areas.",
         "presenter": "Rosa Fleming, Jaqulin Justice, Laura Flores",
-        "action_required": "briefing"
+        "action_required": "brief"
       },
       {
         "item_number": "E",
         "title": "Dallas Arts Month",
         "description": "Discussion on Dallas Arts Month.",
         "presenter": "Martine Philippe",
-        "action_required": "briefing"
+        "action_required": "brief"
       },
       {
         "item_number": "F",
         "title": "FY 2024-25 Community Artist Program Guidelines",
         "description": "Presentation of the guidelines for the Community Artist Program.",
         "presenter": "M. Elizabeth (Liz) Cedillo-Pereira",
-        "action_required": "briefing"
+        "action_required": "brief"
       },
       {
         "item_number": "G",
         "title": "ArtsActivate 2025 Guidelines",
         "description": "Presentation of the guidelines for ArtsActivate 2025.",
         "presenter": "M. Elizabeth (Liz) Cedillo-Pereira",
-        "action_required": "briefing"
+        "action_required": "brief"
       },
       {
         "item_number": "H",
@@ -84,7 +84,7 @@
       },
       {
         "item_number": "I",
-        "title": "Service Price Agreement for Scrap Tires",
+        "title": "Service Price Agreement for Scrap Tires Removal",
         "description": "Authorize a three-year service price agreement for removal and disposal of scrap tires.",
         "presenter": null,
         "action_required": "approve"
@@ -109,12 +109,12 @@
     ],
     "financial_items": [
       {
-        "description": "Estimated amount for removal and disposal of scrap tires",
+        "description": "Estimated amount for removal and disposal of scrap tires.",
         "amount": "$1,217,020",
         "type": "expenditure"
       },
       {
-        "description": "Ordinance amending Chapter 17 with no cost consideration",
+        "description": "No cost consideration for ordinance amending Chapter 17.",
         "amount": null,
         "type": "budget"
       }

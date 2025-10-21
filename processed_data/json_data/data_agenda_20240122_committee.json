@@ -41,7 +41,7 @@
       {
         "item_number": "A",
         "title": "The Economics of Land Use in Dallas County Created for MetroTex Realtors",
-        "description": "A briefing on the economic implications of land use in Dallas County.",
+        "description": "Presentation on the economic implications of land use in Dallas County.",
         "presenter": "Joe Minicozzi",
         "action_required": "discuss"
       },
@@ -62,7 +62,7 @@
       {
         "item_number": "D",
         "title": "Texas Proposition 2, Property Exemption for Child-Care Facilities",
-        "description": "Discussion on property exemption for child-care facilities under Texas Proposition 2.",
+        "description": "Discussion on the implications of Texas Proposition 2.",
         "presenter": "Janette Weedon",
         "action_required": "discuss"
       },
@@ -90,7 +90,7 @@
       {
         "item_number": "H",
         "title": "Upcoming Agenda Items for January 24, 2024",
-        "description": "Discussion on upcoming agenda items related to general obligation refunding bonds.",
+        "description": "Discussion on upcoming agenda items related to general obligation bonds.",
         "presenter": "City Controller’s Office",
         "action_required": "discuss"
       },
@@ -104,7 +104,7 @@
       {
         "item_number": "J",
         "title": "Community Development Block Grant (CDBG) Timely Expenditure of Funds",
-        "description": "Discussion on timely expenditure of CDBG funds.",
+        "description": "Discussion on the timely expenditure of CDBG funds.",
         "presenter": "Budget and Management Services",
         "action_required": "discuss"
       },
@@ -118,14 +118,14 @@
       {
         "item_number": "L",
         "title": "Budget Accountability Report Information as of November 30, 2023",
-        "description": "Review of the budget accountability report.",
+        "description": "Presentation of the budget accountability report.",
         "presenter": "Budget and Management Services",
         "action_required": "discuss"
       },
       {
         "item_number": "M",
         "title": "Technology Accountability Report Information as of December 31, 2023",
-        "description": "Review of the technology accountability report.",
+        "description": "Presentation of the technology accountability report.",
         "presenter": "Information and Technology Services",
         "action_required": "discuss"
       },
@@ -140,19 +140,18 @@
     "keywords": [
       "Government Performance",
       "Financial Management",
-      "Dallas",
-      "Committee Meeting",
+      "Dallas City Council",
       "Legislative Priorities",
       "Procurement",
       "American Rescue Plan Act",
-      "CDBG",
+      "Community Development Block Grant",
       "Debt Management",
-      "Bond Financing",
-      "Child-Care Facilities",
-      "Land Use",
       "Construction Procurements",
+      "Texas Proposition 2",
+      "Economic Development",
+      "Budget Accountability",
       "Technology Accountability",
-      "Budget Accountability"
+      "Internal Audit"
     ],
     "financial_items": []
   },

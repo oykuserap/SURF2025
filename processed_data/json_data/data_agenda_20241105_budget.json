@@ -19,7 +19,17 @@
         "Marjorie Murat",
         "Kyle Francis Ph.D"
       ],
-      "participants": []
+      "participants": [
+        "Liz Cedillo-Pereira",
+        "Dr. Lindsey Wilson",
+        "Nina Arias",
+        "Sonya Batts",
+        "Heather Wood",
+        "Laura Dizien",
+        "Martine Elyse Philippe",
+        "John D. Jenkins",
+        "Carlos Evans"
+      ]
     },
     "agenda_items": [
       {
@@ -32,14 +42,14 @@
       {
         "item_number": "A",
         "title": "Overview of Out of School Time Landscape and Early Childhood Care Landscape and Update on Related Projects",
-        "description": "A briefing on the current landscape of out-of-school time and early childhood care, including updates on related projects.",
+        "description": "Briefing on the current landscape of out-of-school time and early childhood care, including updates on related projects.",
         "presenter": "Jessica Galleshaw",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "Workforce, Education, and Equity Committee Forecast",
-        "description": "Forecast of upcoming agenda items for the Workforce, Education, and Equity Committee.",
+        "description": "Discussion of the upcoming forecast for the committee.",
         "presenter": null,
         "action_required": "discuss"
       }
@@ -50,20 +60,20 @@
       "Equity",
       "Childcare",
       "Out-of-School Time",
-      "Dallas",
       "Community Care",
+      "Dallas Afterschool",
       "Early Childhood",
+      "Financial Assistance",
       "Public Safety",
-      "Economic Development",
-      "Human Rights",
-      "Social Services",
-      "Equity Indicators",
-      "Public Health",
-      "Youth Programs"
+      "Economic Mobility",
+      "Youth Development",
+      "Community Engagement",
+      "Program Updates",
+      "Forecast"
     ],
     "financial_items": [
       {
-        "description": "ARPA Grants distributed to Out-of-School-Time and Early Childhood providers.",
+        "description": "Microgrants distributed to Out-of-School-Time providers and Early Childhood providers.",
         "amount": "$410,000",
         "type": "funding"
       }

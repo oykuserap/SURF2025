@@ -71,7 +71,7 @@
       {
         "item_number": "7",
         "title": "Zoning Case - Consent",
-        "description": "An application for a Specific Use Permit for an alcoholic beverage establishment.",
+        "description": "An application for a Specific Use Permit for an alcoholic beverage establishment limited to a bar, lounge, or tavern.",
         "presenter": "Wilson Kerr",
         "action_required": "approve"
       },
@@ -127,14 +127,14 @@
       {
         "item_number": "15",
         "title": "Subdivision Case - Consent",
-        "description": "An application to create one 0.602-acre lot and one 1.747-acre lot.",
+        "description": "An application to create one 0.602-acre lot and one 1.747-acre lot from a 2.349-acre tract of land.",
         "presenter": "Hema Sharma",
         "action_required": "approve"
       },
       {
         "item_number": "16",
         "title": "Street Name Change",
-        "description": "An application to change S. Central Expressway to 'S.M. Wright Freeway'.",
+        "description": "An application to change S. Central Expressway to 'S.M. Wright Freeway (Fwy)'.",
         "presenter": "Hema Sharma",
         "action_required": "approve"
       }
@@ -149,12 +149,12 @@
       "Street Name Change",
       "Approval of Minutes",
       "Public Testimony",
-      "Land Use Plan",
+      "Consent Items",
+      "Action Items",
+      "Videoconference",
       "Dallas",
       "Urban Design",
-      "Community Retail",
-      "Residential Lots",
-      "Historic Sign District"
+      "Community Retail"
     ],
     "financial_items": []
   },

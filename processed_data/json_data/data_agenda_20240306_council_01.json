@@ -6,13 +6,15 @@
     "meeting_info": {
       "date": "March 6, 2024",
       "time": "9:00 AM",
-      "type": "Council Briefing",
+      "type": "Council Briefing Meeting",
       "organization": "City Council of Dallas",
-      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas 75201"
+      "location": "Council Chambers, 6th Floor, City Hall, 1500 Marilla Street, Dallas, Texas"
     },
     "attendees": {
       "chair": null,
-      "presenters": [],
+      "presenters": [
+        "Eddie Bernice Johnson"
+      ],
       "participants": []
     },
     "agenda_items": [
@@ -39,8 +41,8 @@
       },
       {
         "item_number": "B",
-        "title": "Kay Bailey Hutchison Convention Center Dallas Master Plan",
-        "description": "Convention Center Component Update",
+        "title": "Kay Bailey Hutchison Convention Center Dallas Master Plan: Convention Center Component Update",
+        "description": "Presentation",
         "presenter": null,
         "action_required": "discuss"
       },
@@ -60,20 +62,15 @@
       }
     ],
     "keywords": [
-      "Dallas",
-      "City Council",
-      "Briefing",
-      "Transportation",
-      "Convention Center",
+      "Dallas City Council",
+      "Council Briefing",
       "I-345",
+      "Kay Bailey Hutchison Convention Center",
+      "Transportation Initiatives",
       "Vision Zero",
       "Appointments",
-      "Boards",
-      "Commissions",
+      "Boards and Commissions",
       "Environmental Phase",
-      "Public Meeting",
-      "Executive Session",
-      "Community Engagement",
       "Public Participation"
     ],
     "financial_items": []

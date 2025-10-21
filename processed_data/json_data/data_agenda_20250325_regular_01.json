@@ -8,7 +8,7 @@
       "time": "12:00 PM",
       "type": "Regular Meeting",
       "organization": "Dallas Public Facility Corporation",
-      "location": "Dallas City Hall, Auditorium L1FN and Videoconference"
+      "location": "Dallas City Hall, Auditorium L1FN and Videoconference, 1500 Marilla Street, Dallas, TX 75201"
     },
     "attendees": {
       "chair": "Keith Pomykal",
@@ -39,7 +39,7 @@
       {
         "item_number": "3",
         "title": "Public Testimony",
-        "description": "Public comments on items 4-17.",
+        "description": "Public comments on agenda items 4-17.",
         "presenter": null,
         "action_required": null
       },
@@ -60,41 +60,41 @@
       {
         "item_number": "6",
         "title": "Ethics Disclosures",
-        "description": "Disclosure of any relationships by DPFC Board members with projects on the agenda.",
+        "description": "Disclosure of any relationships by DPFC Board members related to agenda items.",
         "presenter": "Keith Pomykal",
         "action_required": null
       },
       {
         "item_number": "7",
-        "title": "Discussion on Fencing and Security",
-        "description": "Discussion regarding the fencing and security for 9999 Technology Blvd, Dallas TX.",
+        "title": "Fencing and Security Discussion",
+        "description": "Discussion regarding fencing and security for 9999 Technology Blvd, Dallas TX.",
         "presenter": "Sam McDaniel",
         "action_required": null
       },
       {
         "item_number": "8",
         "title": "Executive Session",
-        "description": "Closed session to deliberate employment and duties of candidates selected by the DPFC Staff Hiring Committee.",
+        "description": "Closed session to deliberate personnel matters.",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "9",
         "title": "Staff Hiring Committee Discussion",
-        "description": "Deliberation and discussion of collected resumes.",
+        "description": "Deliberation and discussion of resumes collected by the DPFC Staff Hiring Committee.",
         "presenter": "Victor Toledo",
         "action_required": null
       },
       {
         "item_number": "10",
         "title": "Reconvene in Open Session",
-        "description": "Possible action on items from the Executive Session.",
+        "description": "Possible action on items discussed in Executive Session.",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "11",
-        "title": "Feedback on Policy Changes",
+        "title": "Policy Changes Feedback",
         "description": "Discussion and feedback on proposed changes to Policy, Operations, and Bylaws.",
         "presenter": "Keith Pomykal",
         "action_required": null
@@ -102,7 +102,7 @@
       {
         "item_number": "12",
         "title": "Appointments to Committees",
-        "description": "Appointments of new board members to Committees.",
+        "description": "Discussion on the appointment of new board members to Committees.",
         "presenter": "Keith Pomykal",
         "action_required": null
       },
@@ -115,7 +115,7 @@
       },
       {
         "item_number": "14",
-        "title": "Discussion of Excess Funds",
+        "title": "Use of Excess Funds",
         "description": "Discussion of the use of DPFC excess funds.",
         "presenter": "Sam McDaniel; Alan Tallis",
         "action_required": null
@@ -136,7 +136,7 @@
       },
       {
         "item_number": "17",
-        "title": "Pipeline Report",
+        "title": "Pipeline Report Discussion",
         "description": "Briefing and discussion on the DPFC pipeline report.",
         "presenter": "Sam McDaniel",
         "action_required": null

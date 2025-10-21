@@ -22,12 +22,20 @@
         "Lynn Rushton"
       ],
       "participants": [
-        "Councilmember Resendez",
-        "Councilmember Gracey",
-        "Councilmember Bazaldua",
-        "Councilmember Blackmon",
-        "Councilmember Schultz",
-        "Councilmember Willis"
+        "Atkins",
+        "Narvaez",
+        "Arnold",
+        "Bazaldua",
+        "Ridley",
+        "Stewart",
+        "West",
+        "Blackmon",
+        "Mendelsohn",
+        "Moreno",
+        "Resendez",
+        "Gracey",
+        "Willis",
+        "Schultz"
       ]
     },
     "agenda_items": [
@@ -35,48 +43,48 @@
         "item_number": "1",
         "title": "Approval of the September 16, 2024, Quality of Life, Arts, and Culture Committee Meeting Minutes",
         "description": "Approval of the minutes from the previous meeting.",
-        "presenter": "Paul E. Ridley",
+        "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "A",
-        "title": "Office of Arts and Culture City Council Agenda Item # 24-3064",
-        "description": "FY 2024-25 Recommended Cultural Organizations Program Contracts.",
+        "title": "Office of Arts and Culture City Council Agenda Item # 24-3064 on October 23, 2024: FY 2024-25 Recommended Cultural Organizations Program Contracts",
+        "description": "Discussion on the recommended contracts for cultural organizations.",
         "presenter": "Martine Elyse Philippe",
         "action_required": "discuss"
       },
       {
         "item_number": "B",
         "title": "Code Compliance - Keep Dallas Beautiful Dashboard",
-        "description": "Presentation on the Keep Dallas Beautiful program metrics.",
+        "description": "Presentation of the dashboard for the Keep Dallas Beautiful initiative.",
         "presenter": "Christopher Christian",
         "action_required": "discuss"
       },
       {
         "item_number": "C",
         "title": "Dallas Animal Services - Performance Dashboard",
-        "description": "Presentation on the performance metrics of Dallas Animal Services.",
+        "description": "Presentation of the performance metrics for Dallas Animal Services.",
         "presenter": "Paul Ramon",
         "action_required": "discuss"
       },
       {
         "item_number": "D",
-        "title": "Tipton Public Art Project",
-        "description": "Discussion on the selected artist for the Tipton Public Art Project.",
+        "title": "Tipton Public Art Project: Peyton Harshfield, selected artist",
+        "description": "Discussion on the public art project at Tipton Park.",
         "presenter": "Martine Elyse Philippe",
         "action_required": "discuss"
       },
       {
         "item_number": "E",
-        "title": "Public Art Project: Crockett Dog Park",
-        "description": "Discussion on the selected artist for the Crockett Dog Park project.",
+        "title": "Public Art Project: Crockett Dog Park project, Sujin Lim, selected artist",
+        "description": "Discussion on the public art project at Crockett Dog Park.",
         "presenter": "Martine Elyse Philippe",
         "action_required": "discuss"
       },
       {
         "item_number": "F",
         "title": "City Facilities Partners Update - AT&T Performing Arts Center",
-        "description": "Update on the partnership with AT&T Performing Arts Center.",
+        "description": "Update on the partnership with the AT&T Performing Arts Center.",
         "presenter": "Martine Elyse Philippe",
         "action_required": "discuss"
       },
@@ -84,7 +92,7 @@
         "item_number": "G",
         "title": "Quality of Life, Arts, and Culture Committee Forecast",
         "description": "Forecast of upcoming agenda items for the committee.",
-        "presenter": "Martine Elyse Philippe",
+        "presenter": null,
         "action_required": "discuss"
       }
     ],
@@ -92,18 +100,18 @@
       "Quality of Life",
       "Arts",
       "Culture",
-      "Dallas",
       "Committee",
+      "Dallas",
       "Public Art",
       "Cultural Organizations",
-      "Code Compliance",
       "Animal Services",
+      "Code Compliance",
       "Community Engagement",
-      "Performance Metrics",
+      "Dashboard",
       "Funding",
-      "City Facilities",
-      "Partnerships",
-      "Forecast"
+      "Performance Metrics",
+      "Public Meeting",
+      "City Council"
     ],
     "financial_items": [
       {
@@ -122,9 +130,9 @@
         "type": "budget"
       },
       {
-        "description": "Annual funding for AT&T Performing Arts Center",
+        "description": "Annual City funding allocation to AT&T Performing Arts Center",
         "amount": "$4,000,000",
-        "type": "budget"
+        "type": "operating expenses"
       }
     ]
   },

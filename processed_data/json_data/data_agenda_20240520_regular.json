@@ -45,7 +45,7 @@
         "title": "Partnership Opportunities",
         "description": "",
         "presenter": "Ahmad Gore",
-        "action_required": "discuss"
+        "action_required": null
       },
       {
         "item_number": "V",
@@ -59,14 +59,14 @@
         "title": "How Sub-Committees Can Function Inside SDFPOF Advisory Board",
         "description": "",
         "presenter": "Brady Flanery",
-        "action_required": "discuss"
+        "action_required": null
       },
       {
         "item_number": "VII",
         "title": "Discuss and Vote on Date for SDFPOF Advisory Board Tour",
         "description": "",
         "presenter": null,
-        "action_required": "vote"
+        "action_required": "discuss and vote"
       },
       {
         "item_number": "VIII",
@@ -87,11 +87,12 @@
       "South Dallas Fair Park",
       "Opportunity Fund",
       "Regular Meeting",
+      "Dallas City Hall",
+      "Public Speakers",
       "Partnership Opportunities",
       "Human Development",
       "Funding Availability",
       "Sub-Committees",
-      "Advisory Board",
       "Standardization",
       "Adjournment"
     ],

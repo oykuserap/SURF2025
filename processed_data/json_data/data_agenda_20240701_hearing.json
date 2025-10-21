@@ -15,7 +15,15 @@
       "presenters": [
         "Rhonda Dunn",
         "Marcus Watson",
-        "Christina Mankowski"
+        "Christina Mankowski",
+        "Caryn Montague",
+        "Sandro Pacifico",
+        "Tanya Ragan",
+        "Aaron Trecartin",
+        "Fred Pena",
+        "Joshua Blancett",
+        "Adam Lamont",
+        "Brandon Ward"
       ],
       "participants": []
     },
@@ -23,49 +31,49 @@
       {
         "item_number": "I",
         "title": "Call to Order",
-        "description": "Opening of the meeting by the chair.",
+        "description": "",
         "presenter": "Evelyn Montgomery",
         "action_required": null
       },
       {
         "item_number": "II",
         "title": "Public Speakers",
-        "description": "Opportunity for public comments.",
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "III",
         "title": "Approval of Minutes",
-        "description": "Approval of the minutes from the June 3, 2024, regular meeting.",
+        "description": "Approval of June 3, 2024, regular meeting minutes",
         "presenter": null,
         "action_required": "approve"
       },
       {
         "item_number": "IV",
         "title": "Staff Reports/Briefings",
-        "description": "Reports from the Office of Historic Preservation.",
-        "presenter": "Office of Historic Preservation",
+        "description": "Office of Historic Preservation",
+        "presenter": null,
         "action_required": null
       },
       {
         "item_number": "V",
         "title": "Briefing Items",
-        "description": "Updates and discussions on various topics including appeals and processes.",
+        "description": "Update on Appeal of CA234-246(MW), Discussion regarding Defensible Motions, Demo Delay Process, Certificate of Eligibility (CE) Items, Consent Items, Courtesy Review Items, Discussion Items",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "VI",
         "title": "Public Hearing",
-        "description": "Formal public hearing on agenda items.",
+        "description": "",
         "presenter": null,
         "action_required": null
       },
       {
         "item_number": "VII",
         "title": "Adjournment",
-        "description": "Closing of the meeting.",
+        "description": "",
         "presenter": null,
         "action_required": null
       }
@@ -80,11 +88,12 @@
       "Rhonda Dunn",
       "Marcus Watson",
       "Christina Mankowski",
+      "Consent Agenda",
+      "Demolition",
+      "Discussion Items",
       "Public Speakers",
-      "Minutes Approval",
       "Staff Reports",
-      "Briefing Items",
-      "Adjournment"
+      "Historic District"
     ],
     "financial_items": []
   },
